@@ -1,0 +1,599 @@
+{
+  "label": "裝備 Equipment",
+  "entries": {
+    "Acid": {
+      "name": "酸液 Acid"
+    },
+    "Alchemist's Fire": {
+      "name": "煉金術士之火 Alchemist's Fire"
+    },
+    "Alchemist's Supplies": {
+      "name": "煉金術工具 Alchemist's Supplies"
+    },
+    "Ammunition (Varies)": {
+      "name": "彈藥 Ammunition (Varies)"
+    },
+    "Amulet": {
+      "name": "護身符 Amulet"
+    },
+    "Antitoxin": {
+      "name": "解毒劑 Antitoxin"
+    },
+    "Arcane Focus (Varies)": {
+      "name": "奧術法器 Arcane Focus (Varies)"
+    },
+    "Arrows": {
+      "name": "箭矢 Arrows"
+    },
+    "Backpack": {
+      "name": "背包 Backpack"
+    },
+    "Bagpipes": {
+      "name": "風笛 Bagpipes"
+    },
+    "Ball Bearings": {
+      "name": "滾珠 Ball Bearings"
+    },
+    "Barrel": {
+      "name": "木桶 Barrel"
+    },
+    "Basket": {
+      "name": "籃子 Basket"
+    },
+    "Battleaxe": {
+      "name": "戰斧 Battleaxe"
+    },
+    "Bedroll": {
+      "name": "睡袋 Bedroll"
+    },
+    "Bell": {
+      "name": "鈴鐺 Bell"
+    },
+    "Blanket": {
+      "name": "毛毯 Blanket"
+    },
+    "Block and Tackle": {
+      "name": "滑輪組 Block and Tackle"
+    },
+    "Blowgun": {
+      "name": "吹箭 Blowgun"
+    },
+    "Bolts": {
+      "name": "弩矢 Bolts"
+    },
+    "Book": {
+      "name": "書籍 Book"
+    },
+    "Bottle, Glass": {
+      "name": "玻璃瓶 Bottle, Glass"
+    },
+    "Breastplate": {
+      "name": "胸甲 Breastplate"
+    },
+    "Brewer's Supplies": {
+      "name": "釀酒工具 Brewer's Supplies"
+    },
+    "Bucket": {
+      "name": "水桶 Bucket"
+    },
+    "Bullets, Firearm": {
+      "name": "槍彈 Bullets, Firearm"
+    },
+    "Bullets, Sling": {
+      "name": "投石索彈丸 Bullets, Sling"
+    },
+    "Bullseye Lantern": {
+      "name": "牛眼提燈 Bullseye Lantern"
+    },
+    "Burglar's Pack": {
+      "name": "盜賊工具包 Burglar's Pack"
+    },
+    "Calligrapher's Supplies": {
+      "name": "書法工具 Calligrapher's Supplies"
+    },
+    "Caltrops": {
+      "name": "鐵蒺藜 Caltrops"
+    },
+    "Candle": {
+      "name": "蠟燭 Candle"
+    },
+    "Carpenter's Tools": {
+      "name": "木匠工具 Carpenter's Tools"
+    },
+    "Cartographer's Tools": {
+      "name": "製圖工具 Cartographer's Tools"
+    },
+    "Case, Crossbow Bolt": {
+      "name": "弩矢匣 Case, Crossbow Bolt"
+    },
+    "Case, Map or Scroll": {
+      "name": "地圖或卷軸匣 Case, Map or Scroll"
+    },
+    "Chain": {
+      "name": "鎖鏈 Chain"
+    },
+    "Chain Mail": {
+      "name": "鎖子甲 Chain Mail"
+    },
+    "Chain Shirt": {
+      "name": "鏈衫 Chain Shirt"
+    },
+    "Chest": {
+      "name": "箱子 Chest"
+    },
+    "Climber's Kit": {
+      "name": "攀爬工具 Climber's Kit"
+    },
+    "Clothes, Fine": {
+      "name": "華服 Clothes, Fine"
+    },
+    "Clothes, Traveler's": {
+      "name": "旅行者服裝 Clothes, Traveler's"
+    },
+    "Club": {
+      "name": "木棒 Club"
+    },
+    "Cobbler's Tools": {
+      "name": "補鞋工具 Cobbler's Tools"
+    },
+    "Component Pouch": {
+      "name": "施法材料包 Component Pouch"
+    },
+    "Constellations Scroll": {
+      "name": "星座卷軸 Constellations Scroll"
+    },
+    "Cook's Utensils": {
+      "name": "廚具 Cook's Utensils"
+    },
+    "Costume": {
+      "name": "戲服 Costume"
+    },
+    "Crowbar": {
+      "name": "撬棍 Crowbar"
+    },
+    "Crystal": {
+      "name": "水晶 Crystal"
+    },
+    "Dagger": {
+      "name": "匕首 Dagger"
+    },
+    "Dart": {
+      "name": "飛鏢 Dart"
+    },
+    "Dice": {
+      "name": "骰子 Dice"
+    },
+    "Diplomat's Pack": {
+      "name": "外交官工具包 Diplomat's Pack"
+    },
+    "Disguise Kit": {
+      "name": "偽裝工具 Disguise Kit"
+    },
+    "Dragonchess": {
+      "name": "龍棋 Dragonchess"
+    },
+    "Druidic Focus (Varies)": {
+      "name": "德魯伊法器 Druidic Focus (Varies)"
+    },
+    "Drum": {
+      "name": "鼓 Drum"
+    },
+    "Dulcimer": {
+      "name": "揚琴 Dulcimer"
+    },
+    "Dungeoneer's Pack": {
+      "name": "地城探險者工具包 Dungeoneer's Pack"
+    },
+    "Ebony-bound Atlas": {
+      "name": "黑檀木地圖集 Ebony-bound Atlas"
+    },
+    "Emblem": {
+      "name": "徽章 Emblem"
+    },
+    "Engraved Crystal": {
+      "name": "刻紋水晶 Engraved Crystal"
+    },
+    "Entertainer's Pack": {
+      "name": "表演者工具包 Entertainer's Pack"
+    },
+    "Etched Glass Disk": {
+      "name": "蝕刻玻璃盤 Etched Glass Disk"
+    },
+    "Explorer's Pack": {
+      "name": "探險者工具包 Explorer's Pack"
+    },
+    "Fine Clothes": {
+      "name": "高級服裝 Fine Clothes"
+    },
+    "Flail": {
+      "name": "連枷 Flail"
+    },
+    "Flask": {
+      "name": "燒瓶 Flask"
+    },
+    "Flute": {
+      "name": "長笛 Flute"
+    },
+    "Forgery Kit": {
+      "name": "偽造工具 Forgery Kit"
+    },
+    "Glaive": {
+      "name": "長柄刀 Glaive"
+    },
+    "Glassblower's Tools": {
+      "name": "玻璃匠工具 Glassblower's Tools"
+    },
+    "Grappling Hook": {
+      "name": "鉤抓 Grappling Hook"
+    },
+    "Greataxe": {
+      "name": "巨斧 Greataxe"
+    },
+    "Greatclub": {
+      "name": "大棒 Greatclub"
+    },
+    "Greatsword": {
+      "name": "巨劍 Greatsword"
+    },
+    "Halberd": {
+      "name": "戟 Halberd"
+    },
+    "Half Plate Armor": {
+      "name": "半身板甲 Half Plate Armor"
+    },
+    "Hand Crossbow": {
+      "name": "手弩 Hand Crossbow"
+    },
+    "Handaxe": {
+      "name": "手斧 Handaxe"
+    },
+    "Healer's Kit": {
+      "name": "醫療包 Healer's Kit"
+    },
+    "Heavy Crossbow": {
+      "name": "重弩 Heavy Crossbow"
+    },
+    "Herbalism Kit": {
+      "name": "草藥工具 Herbalism Kit"
+    },
+    "Hide Armor": {
+      "name": "獸皮甲 Hide Armor"
+    },
+    "Holy Symbol (Varies)": {
+      "name": "聖徽 Holy Symbol (Varies)"
+    },
+    "Holy Water": {
+      "name": "聖水 Holy Water"
+    },
+    "Hooded Lantern": {
+      "name": "附蓋提燈 Hooded Lantern"
+    },
+    "Horn": {
+      "name": "號角 Horn"
+    },
+    "Hunting Trap": {
+      "name": "捕獵陷阱 Hunting Trap"
+    },
+    "Ink": {
+      "name": "墨水 Ink"
+    },
+    "Ink Pen": {
+      "name": "墨水筆 Ink Pen"
+    },
+    "Javelin": {
+      "name": "標槍 Javelin"
+    },
+    "Jeweler's Tools": {
+      "name": "珠寶匠工具 Jeweler's Tools"
+    },
+    "Jug": {
+      "name": "壺 Jug"
+    },
+    "Ladder": {
+      "name": "梯子 Ladder"
+    },
+    "Lamp": {
+      "name": "油燈 Lamp"
+    },
+    "Lance": {
+      "name": "騎槍 Lance"
+    },
+    "Lantern, Bullseye": {
+      "name": "牛眼提燈 Lantern, Bullseye"
+    },
+    "Lantern, Hooded": {
+      "name": "遮光提燈 Lantern, Hooded"
+    },
+    "Leather Armor": {
+      "name": "皮甲 Leather Armor"
+    },
+    "Leatherworker's Tools": {
+      "name": "皮革匠工具 Leatherworker's Tools"
+    },
+    "Light Crossbow": {
+      "name": "輕弩 Light Crossbow"
+    },
+    "Light Hammer": {
+      "name": "輕錘 Light Hammer"
+    },
+    "Lock": {
+      "name": "鎖 Lock"
+    },
+    "Longbow": {
+      "name": "長弓 Longbow"
+    },
+    "Longsword": {
+      "name": "長劍 Longsword"
+    },
+    "Lute": {
+      "name": "魯特琴 Lute"
+    },
+    "Lyre": {
+      "name": "里拉琴 Lyre"
+    },
+    "Mace": {
+      "name": "釘頭錘 Mace"
+    },
+    "Magnifying Glass": {
+      "name": "放大鏡 Magnifying Glass"
+    },
+    "Manacles": {
+      "name": "鐐銬 Manacles"
+    },
+    "Map": {
+      "name": "地圖 Map"
+    },
+    "Map or Scroll Case": {
+      "name": "地圖或卷軸匣 Map or Scroll Case"
+    },
+    "Mason's Tools": {
+      "name": "石匠工具 Mason's Tools"
+    },
+    "Maul": {
+      "name": "巨錘 Maul"
+    },
+    "Mirror": {
+      "name": "鏡子 Mirror"
+    },
+    "Morningstar": {
+      "name": "晨星 Morningstar"
+    },
+    "Musket": {
+      "name": "火槍 Musket"
+    },
+    "Navigator's Tools": {
+      "name": "導航工具 Navigator's Tools"
+    },
+    "Needles": {
+      "name": "針 Needles"
+    },
+    "Net": {
+      "name": "網 Net"
+    },
+    "Oil": {
+      "name": "油 Oil"
+    },
+    "Orb": {
+      "name": "寶珠 Orb"
+    },
+    "Padded Armor": {
+      "name": "軟墊甲 Padded Armor"
+    },
+    "Painter's Supplies": {
+      "name": "畫家工具 Painter's Supplies"
+    },
+    "Pan Flute": {
+      "name": "排笛 Pan Flute"
+    },
+    "Paper": {
+      "name": "紙張 Paper"
+    },
+    "Parchment": {
+      "name": "羊皮紙 Parchment"
+    },
+    "Perfume": {
+      "name": "香水 Perfume"
+    },
+    "Pike": {
+      "name": "長槍 Pike"
+    },
+    "Pistol": {
+      "name": "手槍 Pistol"
+    },
+    "Plate Armor": {
+      "name": "板甲 Plate Armor"
+    },
+    "Playing Cards": {
+      "name": "撲克牌 Playing Cards"
+    },
+    "Poison, Basic": {
+      "name": "基礎毒藥 Poison, Basic"
+    },
+    "Poisoner's Kit": {
+      "name": "製毒工具 Poisoner's Kit"
+    },
+    "Pole": {
+      "name": "杆子 Pole"
+    },
+    "Pot, Iron": {
+      "name": "鐵鍋 Pot, Iron"
+    },
+    "Potion of Healing": {
+      "name": "治療藥水 Potion of Healing"
+    },
+    "Potter's Tools": {
+      "name": "陶匠工具 Potter's Tools"
+    },
+    "Pouch": {
+      "name": "小袋 Pouch"
+    },
+    "Priest's Pack": {
+      "name": "牧師工具包 Priest's Pack"
+    },
+    "Quarterstaff": {
+      "name": "長棍 Quarterstaff"
+    },
+    "Quiver": {
+      "name": "箭袋 Quiver"
+    },
+    "Ram, Portable": {
+      "name": "便攜撞錘 Ram, Portable"
+    },
+    "Rapier": {
+      "name": "刺劍 Rapier"
+    },
+    "Rations": {
+      "name": "口糧 Rations"
+    },
+    "Reliquary": {
+      "name": "聖物匣 Reliquary"
+    },
+    "Ring Mail": {
+      "name": "環甲 Ring Mail"
+    },
+    "Robe": {
+      "name": "長袍 Robe"
+    },
+    "Rod": {
+      "name": "法杖 Rod"
+    },
+    "Rope": {
+      "name": "繩子 Rope"
+    },
+    "Sack": {
+      "name": "麻袋 Sack"
+    },
+    "Scale Mail": {
+      "name": "鱗甲 Scale Mail"
+    },
+    "Scholar's Pack": {
+      "name": "學者工具包 Scholar's Pack"
+    },
+    "Scimitar": {
+      "name": "彎刀 Scimitar"
+    },
+    "Shawm": {
+      "name": "蕭姆管 Shawm"
+    },
+    "Shield": {
+      "name": "盾牌 Shield"
+    },
+    "Shortbow": {
+      "name": "短弓 Shortbow"
+    },
+    "Shortsword": {
+      "name": "短劍 Shortsword"
+    },
+    "Shovel": {
+      "name": "鏟子 Shovel"
+    },
+    "Sickle": {
+      "name": "鐮刀 Sickle"
+    },
+    "Signal Whistle": {
+      "name": "信號哨 Signal Whistle"
+    },
+    "Sling": {
+      "name": "投石索 Sling"
+    },
+    "Smith's Tools": {
+      "name": "鐵匠工具 Smith's Tools"
+    },
+    "Spear": {
+      "name": "矛 Spear"
+    },
+    "Spell Scroll, Cantrip": {
+      "name": "戲法卷軸 Spell Scroll, Cantrip"
+    },
+    "Spell Scroll, Level 1": {
+      "name": "一級法術卷軸 Spell Scroll, Level 1"
+    },
+    "Spikes, Iron": {
+      "name": "鐵釘 Spikes, Iron"
+    },
+    "Splint Armor": {
+      "name": "條板甲 Splint Armor"
+    },
+    "Sprig of mistletoe": {
+      "name": "槲寄生枝 Sprig of mistletoe"
+    },
+    "Spyglass": {
+      "name": "望遠鏡 Spyglass"
+    },
+    "Staff": {
+      "name": "法杖 Staff"
+    },
+    "Stone Tablet": {
+      "name": "石板 Stone Tablet"
+    },
+    "String": {
+      "name": "細繩 String"
+    },
+    "Studded Leather Armor": {
+      "name": "鑲釘皮甲 Studded Leather Armor"
+    },
+    "Tent": {
+      "name": "帳篷 Tent"
+    },
+    "Thieves' Tools": {
+      "name": "盜賊工具 Thieves' Tools"
+    },
+    "Three-dragon ante": {
+      "name": "三龍牌 Three-dragon ante"
+    },
+    "Tinderbox": {
+      "name": "打火匣 Tinderbox"
+    },
+    "Tinker's Tools": {
+      "name": "修補工具 Tinker's Tools"
+    },
+    "Tooled Owlbear Hide": {
+      "name": "雕花梟熊皮 Tooled Owlbear Hide"
+    },
+    "Torch": {
+      "name": "火把 Torch"
+    },
+    "Trident": {
+      "name": "三叉戟 Trident"
+    },
+    "Unarmed Strike": {
+      "name": "徒手打擊 Unarmed Strike"
+    },
+    "Vial": {
+      "name": "小瓶 Vial"
+    },
+    "Viol": {
+      "name": "維奧爾琴 Viol"
+    },
+    "Wand": {
+      "name": "魔杖 Wand"
+    },
+    "War Pick": {
+      "name": "戰鎬 War Pick"
+    },
+    "Warhammer": {
+      "name": "戰錘 Warhammer"
+    },
+    "Water (Pint)": {
+      "name": "水（品脫） Water (Pint)"
+    },
+    "Waterskin": {
+      "name": "水袋 Waterskin"
+    },
+    "Weaver's Tools": {
+      "name": "織布工具 Weaver's Tools"
+    },
+    "Whip": {
+      "name": "鞭子 Whip"
+    },
+    "Woodcarver's Tools": {
+      "name": "木雕工具 Woodcarver's Tools"
+    },
+    "Wooden staff": {
+      "name": "木杖 Wooden staff"
+    },
+    "Yew wand": {
+      "name": "紫杉木魔杖 Yew wand"
+    }
+  }
+}

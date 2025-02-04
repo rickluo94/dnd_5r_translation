@@ -1,0 +1,227 @@
+{
+  "label": "角色起源 Character Origins",
+  "entries": {
+    "Aasimar": {
+      "name": "天使裔 Aasimar"
+    },
+    "Acolyte": {
+      "name": "侍僧 Acolyte"
+    },
+    "Adrenaline Rush": {
+      "name": "激昂衝鋒 Adrenaline Rush"
+    },
+    "Artisan": {
+      "name": "工匠 Artisan"
+    },
+    "Brave": {
+      "name": "勇敢 Brave"
+    },
+    "Breath Weapon": {
+      "name": "吐息武器 Breath Weapon"
+    },
+    "Celestial Resistance": {
+      "name": "天界抗性 Celestial Resistance"
+    },
+    "Celestial Revelation": {
+      "name": "天啟 Celestial Revelation"
+    },
+    "Charlatan": {
+      "name": "詐欺師 Charlatan"
+    },
+    "Cloud's Jaunt": {
+      "name": "雲巨人之躍 Cloud's Jaunt"
+    },
+    "Criminal": {
+      "name": "罪犯 Criminal"
+    },
+    "Draconic Flight": {
+      "name": "龍族飛行 Draconic Flight"
+    },
+    "Dragonborn": {
+      "name": "龍裔 Dragonborn"
+    },
+    "Dwarf": {
+      "name": "矮人 Dwarf"
+    },
+    "Dwarven Resilience": {
+      "name": "矮人韌性 Dwarven Resilience"
+    },
+    "Dwarven Toughness": {
+      "name": "矮人剛毅 Dwarven Toughness"
+    },
+    "Elf, Drow": {
+      "name": "卓爾精靈 Elf, Drow"
+    },
+    "Elf, High": {
+      "name": "高等精靈 Elf, High"
+    },
+    "Elf, Wood": {
+      "name": "木精靈 Elf, Wood"
+    },
+    "Elven Lineage": {
+      "name": "精靈血脈 Elven Lineage"
+    },
+    "Elven Lineage, Drow": {
+      "name": "卓爾精靈, 血脈 Elven Lineage, Drow"
+    },
+    "Elven Lineage, High Elf": {
+      "name": "高等精靈, 血脈 Elven Lineage, High Elf"
+    },
+    "Elven Lineage, Wood Elf": {
+      "name": "木精靈, 血脈 Elven Lineage, Wood Elf"
+    },
+    "Entertainer": {
+      "name": "表演者 Entertainer"
+    },
+    "Farmer": {
+      "name": "農夫 Farmer"
+    },
+    "Fey Ancestry": {
+      "name": "精怪血統 Fey Ancestry"
+    },
+    "Fiendish Legacy": {
+      "name": "邪魔遺贈 Fiendish Legacy"
+    },
+    "Fiendish Legacy, Abyssal": {
+      "name": "深淵, 邪魔遺贈 Fiendish Legacy, Abyssal"
+    },
+    "Fiendish Legacy, Chthonic": {
+      "name": "幽冥, 邪魔遺贈Fiendish Legacy, Chthonic"
+    },
+    "Fiendish Legacy, Infernal": {
+      "name": "煉獄, 邪魔遺贈 Fiendish Legacy, Infernal"
+    },
+    "Fire's Burn": {
+      "name": "火巨人之燃 Fire's Burn"
+    },
+    "Frost's Chill": {
+      "name": "霜巨人之寒 Frost's Chill"
+    },
+    "Giant Ancestry": {
+      "name": "巨人血統 Giant Ancestry"
+    },
+    "Gnome, Forest": {
+      "name": "森林, 侏儒 Gnome, Forest"
+    },
+    "Gnome, Rock": {
+      "name": "岩石, 侏儒 Gnome, Rock"
+    },
+    "Gnomish Cunning": {
+      "name": "侏儒狡黠 Gnomish Cunning"
+    },
+    "Gnomish Lineage": {
+      "name": "侏儒血脈 Gnomish Lineage"
+    },
+    "Gnomish Lineage, Forest": {
+      "name": "森林, 侏儒血脈 Gnomish Lineage, Forest"
+    },
+    "Gnomish Lineage, Rock": {
+      "name": "岩石, 侏儒血脈 Gnomish Lineage, Rock"
+    },
+    "Goliath": {
+      "name": "巨人裔 Goliath"
+    },
+    "Guard": {
+      "name": "守衛 Guard"
+    },
+    "Guide": {
+      "name": "嚮導 Guide"
+    },
+    "Halfling": {
+      "name": "半身人 Halfling"
+    },
+    "Halfling Nimbleness": {
+      "name": "半身人靈巧 Halfling Nimbleness"
+    },
+    "Healing Hands": {
+      "name": "治癒之手 Healing Hands"
+    },
+    "Hermit": {
+      "name": "隱士 Hermit"
+    },
+    "Hill's Tumble": {
+      "name": "山丘巨人之絆 Hill's Tumble"
+    },
+    "Human": {
+      "name": "人類 Human"
+    },
+    "Keen Senses": {
+      "name": "敏銳感官 Keen Senses"
+    },
+    "Large Form": {
+      "name": "巨大型態 Large Form"
+    },
+    "Light Bearer": {
+      "name": "擁光者 Light Bearer"
+    },
+    "Luck": {
+      "name": "幸運 Luck"
+    },
+    "Merchant": {
+      "name": "商人 Merchant"
+    },
+    "Naturally Stealthy": {
+      "name": "天生善匿 Naturally Stealthy"
+    },
+    "Noble": {
+      "name": "貴族 Noble"
+    },
+    "Orc": {
+      "name": "獸人 Orc"
+    },
+    "Otherworldly Presence": {
+      "name": "超然存在 Otherworldly Presence"
+    },
+    "Powerful Build": {
+      "name": "強健體魄 Powerful Build"
+    },
+    "Relentless Endurance": {
+      "name": "不屈耐力 Relentless Endurance"
+    },
+    "Resourceful": {
+      "name": "足智多謀 Resourceful"
+    },
+    "Sage": {
+      "name": "學者 Sage"
+    },
+    "Sailor": {
+      "name": "水手 Sailor"
+    },
+    "Scribe": {
+      "name": "抄書吏 Scribe"
+    },
+    "Skillful": {
+      "name": "技能熟練 Skillful"
+    },
+    "Soldier": {
+      "name": "士兵 Soldier"
+    },
+    "Stone's Endurance": {
+      "name": "石巨人之耐 Stone's Endurance"
+    },
+    "Stonecunning": {
+      "name": "岩石敏銳 Stonecunning"
+    },
+    "Storm's Thunder": {
+      "name": "風暴巨人之鳴 Storm's Thunder"
+    },
+    "Tiefling, Abyssal": {
+      "name": "深淵, 魔裔 Tiefling, Abyssal"
+    },
+    "Tiefling, Chthonic": {
+      "name": "幽冥, 魔裔 Tiefling, Chthonic"
+    },
+    "Tiefling, Infernal": {
+      "name": "煉獄, 魔裔 Tiefling, Infernal"
+    },
+    "Trance": {
+      "name": "冥想 Trance"
+    },
+    "Versatile": {
+      "name": "多元多樣 Versatile"
+    },
+    "Wayfarer": {
+      "name": "流浪者 Wayfarer"
+    }
+  }
+}

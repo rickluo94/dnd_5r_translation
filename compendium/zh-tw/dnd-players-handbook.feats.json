@@ -1,0 +1,236 @@
+{
+  "label": "專長 Feats",
+  "entries": {
+    "Ability Score Improvement": {
+      "name": "屬性值提升 Ability Score Improvement"
+    },
+    "Actor": {
+      "name": "演員 Actor"
+    },
+    "Alert": {
+      "name": "警覺 Alert"
+    },
+    "Archery": {
+      "name": "弓道 Archery"
+    },
+    "Athlete": {
+      "name": "運動健將 Athlete"
+    },
+    "Blessed Warrior": {
+      "name": "受祝戰士 Blessed Warrior"
+    },
+    "Blind Fighting": {
+      "name": "盲戰 Blind Fighting"
+    },
+    "Boon of Combat Prowess": {
+      "name": "傑出戰技恩賜 Boon of Combat Prowess"
+    },
+    "Boon of Dimensional Travel": {
+      "name": "次元旅行恩賜 Boon of Dimensional Travel"
+    },
+    "Boon of Energy Resistance": {
+      "name": "能量抗性恩賜 Boon of Energy Resistance"
+    },
+    "Boon of Fate": {
+      "name": "命運恩賜 Boon of Fate"
+    },
+    "Boon of Fortitude": {
+      "name": "堅毅恩賜 Boon of Fortitude"
+    },
+    "Boon of Irresistible Offense": {
+      "name": "勢不可擋恩賜 Boon of Irresistible Offense"
+    },
+    "Boon of Recovery": {
+      "name": "復原恩賜 Boon of Recovery"
+    },
+    "Boon of Skill": {
+      "name": "技能恩賜 Boon of Skill"
+    },
+    "Boon of Speed": {
+      "name": "速度恩賜 Boon of Speed"
+    },
+    "Boon of Spell Recall": {
+      "name": "法術回想恩賜 Boon of Spell Recall"
+    },
+    "Boon of the Night Spirit": {
+      "name": "夜靈恩賜 Boon of the Night Spirit"
+    },
+    "Boon of Truesight": {
+      "name": "真實視覺恩賜 Boon of Truesight"
+    },
+    "Charger": {
+      "name": "衝鋒手 Charger"
+    },
+    "Chef": {
+      "name": "廚師 Chef"
+    },
+    "Crafter": {
+      "name": "匠師 Crafter"
+    },
+    "Crossbow Expert": {
+      "name": "強弩專家 Crossbow Expert"
+    },
+    "Crusher": {
+      "name": "粉碎者 Crusher"
+    },
+    "Defense": {
+      "name": "防禦 Defense"
+    },
+    "Defensive Duelist": {
+      "name": "防禦式決鬥 Defensive Duelist"
+    },
+    "Druidic Warrior": {
+      "name": "德魯伊戰士 Druidic Warrior"
+    },
+    "Dual Wielder": {
+      "name": "雙持客 Dual Wielder"
+    },
+    "Dueling": {
+      "name": "決鬥 Dueling"
+    },
+    "Durable": {
+      "name": "堅韌不屈 Durable"
+    },
+    "Elemental Adept": {
+      "name": "元素行家 Elemental Adept"
+    },
+    "Fey-Touched": {
+      "name": "精怪之觸 Fey-Touched"
+    },
+    "Grappler": {
+      "name": "擒抱者 Grappler"
+    },
+    "Great Weapon Fighting": {
+      "name": "巨武戰鬥 Great Weapon Fighting"
+    },
+    "Great Weapon Master": {
+      "name": "巨武器大師 Great Weapon Master"
+    },
+    "Healer": {
+      "name": "治療師 Healer"
+    },
+    "Heavily Armored": {
+      "name": "重甲運用 Heavily Armored"
+    },
+    "Heavy Armor Master": {
+      "name": "重甲大師 Heavy Armor Master"
+    },
+    "Inspiring Leader": {
+      "name": "激勵領袖 Inspiring Leader"
+    },
+    "Interception": {
+      "name": "攔截 Interception"
+    },
+    "Keen Mind": {
+      "name": "敏銳心智 Keen Mind"
+    },
+    "Lightly Armored": {
+      "name": "輕甲運用 Lightly Armored"
+    },
+    "Lucky": {
+      "name": "幸運 Lucky"
+    },
+    "Mage Slayer": {
+      "name": "法師殺手 Mage Slayer"
+    },
+    "Magic Initiate": {
+      "name": "魔法學徒 Magic Initiate"
+    },
+    "Martial Weapon Training": {
+      "name": "軍武訓練 Martial Weapon Training"
+    },
+    "Medium Armor Master": {
+      "name": "中甲大師 Medium Armor Master"
+    },
+    "Moderately Armored": {
+      "name": "中甲運用 Moderately Armored"
+    },
+    "Mounted Combatant": {
+      "name": "騎乘戰鬥 Mounted Combatant"
+    },
+    "Musician": {
+      "name": "音樂家 Musician"
+    },
+    "Observant": {
+      "name": "敏銳觀察 Observant"
+    },
+    "Piercer": {
+      "name": "穿刺者 Piercer"
+    },
+    "Poisoner": {
+      "name": "毒師 Poisoner"
+    },
+    "Polearm Master": {
+      "name": "長柄大師 Polearm Master"
+    },
+    "Protection": {
+      "name": "守護 Protection"
+    },
+    "Resilient": {
+      "name": "適應力 Resilient"
+    },
+    "Ritual Caster": {
+      "name": "儀式施法者 Ritual Caster"
+    },
+    "Savage Attacker": {
+      "name": "野蠻攻擊者 Savage Attacker"
+    },
+    "Sentinel": {
+      "name": "哨兵 Sentinel"
+    },
+    "Shadow-Touched": {
+      "name": "陰影之觸 Shadow-Touched"
+    },
+    "Sharpshooter": {
+      "name": "神射手 Sharpshooter"
+    },
+    "Shield Master": {
+      "name": "盾牌大師 Shield Master"
+    },
+    "Skill Expert": {
+      "name": "技能專家 Skill Expert"
+    },
+    "Skilled": {
+      "name": "技巧嫻熟 Skilled"
+    },
+    "Skulker": {
+      "name": "潛行者 Skulker"
+    },
+    "Slasher": {
+      "name": "劈砍者 Slasher"
+    },
+    "Speedy": {
+      "name": "迅捷 Speedy"
+    },
+    "Spell Sniper": {
+      "name": "法術射手 Spell Sniper"
+    },
+    "Tavern Brawler": {
+      "name": "酒館拳王 Tavern Brawler"
+    },
+    "Telekinetic": {
+      "name": "心靈致動者 Telekinetic"
+    },
+    "Telepathic": {
+      "name": "心靈感應者 Telepathic"
+    },
+    "Thrown Weapon Fighting": {
+      "name": "投擲戰鬥 Thrown Weapon Fighting"
+    },
+    "Tough": {
+      "name": "健壯 Tough"
+    },
+    "Two-Weapon Fighting": {
+      "name": "雙武戰鬥 Two-Weapon Fighting"
+    },
+    "Unarmed Fighting": {
+      "name": "徒手戰鬥 Unarmed Fighting"
+    },
+    "War Caster": {
+      "name": "戰鬥施法者 War Caster"
+    },
+    "Weapon Master": {
+      "name": "武器大師 Weapon Master"
+    }
+  }
+}

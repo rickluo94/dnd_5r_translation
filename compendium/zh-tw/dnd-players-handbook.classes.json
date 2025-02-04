@@ -1,0 +1,1457 @@
+{
+  "label": "角色職業 Character Classes",
+  "entries": {
+    "Aberrant Sorcery": {
+      "name": "異變術法 Aberrant Sorcery"
+    },
+    "Abjuration Savant": {
+      "name": "Abjuration Savant"
+    },
+    "Abjure Foes": {
+      "name": "聖誓威懾 Abjure Foes"
+    },
+    "Abjurer": {
+      "name": "防護學家 Abjurer"
+    },
+    "Acrobatic Movement": {
+      "name": "特技移動 Acrobatic Movement"
+    },
+    "Action Surge": {
+      "name": "動作如潮 Action Surge"
+    },
+    "Additional Fighting Style": {
+      "name": "額外戰鬥風格 Additional Fighting Style"
+    },
+    "Agonizing Blast": {
+      "name": "苦痛魔爆 Agonizing Blast"
+    },
+    "Ambush": {
+      "name": "伏擊 Ambush"
+    },
+    "Animal Speaker": {
+      "name": "動物溝通者 Animal Speaker"
+    },
+    "Aquatic Affinity": {
+      "name": "水性親和 Aquatic Affinity"
+    },
+    "Arcane Apotheosis": {
+      "name": "奧術昇華 Arcane Apotheosis"
+    },
+    "Arcane Charge": {
+      "name": "奧術衝鋒 Arcane Charge"
+    },
+    "Arcane Recovery": {
+      "name": "奧術恢復 Arcane Recovery"
+    },
+    "Arcane Trickster": {
+      "name": "詭術師 Arcane Trickster"
+    },
+    "Arcane Ward": {
+      "name": "奧術結界 Arcane Ward"
+    },
+    "Archdruid": {
+      "name": "大德魯伊 Archdruid"
+    },
+    "Archfey Patron": {
+      "name": "至高妖精契主 Archfey Patron"
+    },
+    "Archfey Spells": {
+      "name": "Archfey Spells"
+    },
+    "Armor of Shadows": {
+      "name": "Armor of Shadows"
+    },
+    "Ascendant Step": {
+      "name": "Ascendant Step"
+    },
+    "Aspect of the Wilds": {
+      "name": "野性面貌 Aspect of the Wilds"
+    },
+    "Assasinate": {
+      "name": "Assasinate"
+    },
+    "Assassin": {
+      "name": "刺客 Assassin"
+    },
+    "Assassin's Tools": {
+      "name": "刺客工具 Assassin's Tools"
+    },
+    "Aura Expansion": {
+      "name": "Aura Expansion"
+    },
+    "Aura of Alacrity": {
+      "name": "Aura of Alacrity"
+    },
+    "Aura of Courage": {
+      "name": "勇氣靈光 Aura of Courage"
+    },
+    "Aura of Devotion": {
+      "name": "奉獻靈光 Aura of Devotion"
+    },
+    "Aura of Protection": {
+      "name": "守護靈光 Aura of Protection"
+    },
+    "Aura of Warding": {
+      "name": "防護靈光 Aura of Warding"
+    },
+    "Avatar of Battle": {
+      "name": "戰鬥化身 Avatar of Battle"
+    },
+    "Avenging Angel": {
+      "name": "復仇天使 Avenging Angel"
+    },
+    "Awakened Mind": {
+      "name": "Awakened Mind"
+    },
+    "Bait and Switch": {
+      "name": "誘餌戰術 Bait and Switch"
+    },
+    "Barbarian": {
+      "name": "野蠻人 Barbarian"
+    },
+    "Bard": {
+      "name": "吟遊詩人 Bard"
+    },
+    "Bardic Inspiration": {
+      "name": "吟遊激勵 Bardic Inspiration"
+    },
+    "Bastion of Law": {
+      "name": "律法堡壘 Bastion of Law"
+    },
+    "Battering Roots": {
+      "name": "衝擊根鬚 Battering Roots"
+    },
+    "Battle Magic": {
+      "name": "戰鬥魔法 Battle Magic"
+    },
+    "Battle Master": {
+      "name": "戰鬥大師 Battle Master"
+    },
+    "Beast Master": {
+      "name": "獸王 Beast Master"
+    },
+    "Beast Spells": {
+      "name": "野獸施法 Beast Spells"
+    },
+    "Beguiling Defenses": {
+      "name": "Beguiling Defenses"
+    },
+    "Beguiling Magic": {
+      "name": "迷人魔法 Beguiling Magic"
+    },
+    "Beguiling Twist": {
+      "name": "扭轉迷惑 Beguiling Twist"
+    },
+    "Bend Luck": {
+      "name": "竄改運氣 Bend Luck"
+    },
+    "Bestial Fury": {
+      "name": "野性狂怒 Bestial Fury"
+    },
+    "Bewitching Magic": {
+      "name": "Bewitching Magic"
+    },
+    "Blessed Healer": {
+      "name": "受祝醫者 Blessed Healer"
+    },
+    "Blessed Strikes": {
+      "name": "受祝打擊 Blessed Strikes"
+    },
+    "Blessed Strikes: Divine Strike": {
+      "name": "Blessed Strikes: Divine Strike"
+    },
+    "Blessed Strikes: Potent Spellcasting": {
+      "name": "Blessed Strikes: Potent Spellcasting"
+    },
+    "Blessing of the Trickster": {
+      "name": "Blessing of the Trickster"
+    },
+    "Body and Mind": {
+      "name": "Body and Mind"
+    },
+    "Bonus Proficiencies": {
+      "name": "額外熟練 Bonus Proficiencies"
+    },
+    "Book of Shadows": {
+      "name": "Book of Shadows"
+    },
+    "Branches of the Tree": {
+      "name": "世界樹枝幹 Branches of the Tree"
+    },
+    "Brutal Strike": {
+      "name": "Brutal Strike"
+    },
+    "Bulwark of Force": {
+      "name": "力場壁壘 Bulwark of Force"
+    },
+    "Careful Spell": {
+      "name": "Careful Spell"
+    },
+    "Celestial Patron": {
+      "name": "天界契主 Celestial Patron"
+    },
+    "Celestial Resilience": {
+      "name": "天族韌性 Celestial Resilience"
+    },
+    "Celestial Spells": {
+      "name": "天界法術 Celestial Spells"
+    },
+    "Champion": {
+      "name": "勇士 Champion"
+    },
+    "Channel Divinity": {
+      "name": "引導神力 Channel Divinity"
+    },
+    "Circle Forms": {
+      "name": "結社形態 Circle Forms"
+    },
+    "Circle of the Land": {
+      "name": "大地結社 Circle of the Land"
+    },
+    "Circle of the Land Spells": {
+      "name": "大地結社法術 Circle of the Land Spells"
+    },
+    "Circle of the Moon": {
+      "name": "月亮結社 Circle of the Moon"
+    },
+    "Circle of the Moon Spells": {
+      "name": "月亮結社法術 Circle of the Moon Spells"
+    },
+    "Circle of the Sea": {
+      "name": "海洋結社 Circle of the Sea"
+    },
+    "Circle of the Sea Spells": {
+      "name": "海洋結社法術 Circle of the Sea Spells"
+    },
+    "Circle of the Stars": {
+      "name": "星辰結社 Circle of the Stars"
+    },
+    "Clairvoyant Combatant": {
+      "name": "靈視戰士 Clairvoyant Combatant"
+    },
+    "Cleric": {
+      "name": "牧師 Cleric"
+    },
+    "Cloak of Shadows": {
+      "name": "暗影斗篷 Cloak of Shadows"
+    },
+    "Clockwork Cavalcade": {
+      "name": "時械兵團 Clockwork Cavalcade"
+    },
+    "Clockwork Sorcery": {
+      "name": "時械術法 Clockwork Sorcery"
+    },
+    "Clockwork Spells": {
+      "name": "時械法術 Clockwork Spells"
+    },
+    "College of Dance": {
+      "name": "舞蹈學院 College of Dance"
+    },
+    "College of Glamour": {
+      "name": "迷惑學院 College of Glamour"
+    },
+    "College of Lore": {
+      "name": "知識學院 College of Lore"
+    },
+    "College of Valor": {
+      "name": "勇氣學院 College of Valor"
+    },
+    "Combat Inspiration": {
+      "name": "戰鬥激勵 Combat Inspiration"
+    },
+    "Combat Superiority": {
+      "name": "戰鬥卓越 Combat Superiority"
+    },
+    "Commander's Strike": {
+      "name": "指揮攻擊 Commander's Strike"
+    },
+    "Commanding Presence": {
+      "name": "領導風範 Commanding Presence"
+    },
+    "Contact Patron": {
+      "name": "Contact Patron"
+    },
+    "Controlled Chaos": {
+      "name": "控制混沌 Controlled Chaos"
+    },
+    "Corona of Light": {
+      "name": "日冕光輝 Corona of Light"
+    },
+    "Cosmic Omen": {
+      "name": "宇宙預兆 Cosmic Omen"
+    },
+    "Countercharm": {
+      "name": "反制魅惑 Countercharm"
+    },
+    "Create Thrall": {
+      "name": "Create Thrall"
+    },
+    "Cunning Action": {
+      "name": "巧妙動作 Cunning Action"
+    },
+    "Cunning Strike": {
+      "name": "狡詐打擊 Cunning Strike"
+    },
+    "Cutting Words": {
+      "name": "尖刻言詞 Cutting Words"
+    },
+    "Danger Sense": {
+      "name": "Danger Sense"
+    },
+    "Dark One's Blessing": {
+      "name": "Dark One's Blessing"
+    },
+    "Dark One's Own Luck": {
+      "name": "Dark One's Own Luck"
+    },
+    "Dazzling Footwork": {
+      "name": "炫目步法 Dazzling Footwork"
+    },
+    "Death Strike": {
+      "name": "死亡一擊 Death Strike"
+    },
+    "Defensive Tactics": {
+      "name": "防禦性戰術 Defensive Tactics"
+    },
+    "Deflect Attacks": {
+      "name": "偏轉攻擊 Deflect Attacks"
+    },
+    "Deflect Energy": {
+      "name": "偏轉能量 Deflect Energy"
+    },
+    "Deft Explorer": {
+      "name": "靈巧探索者 Deft Explorer"
+    },
+    "Devil's Sight": {
+      "name": "魔鬼視界 Devil's Sight"
+    },
+    "Devious Strikes": {
+      "name": "陰險打擊 Devious Strikes"
+    },
+    "Devouring Blade": {
+      "name": "吞噬之刃 Devouring Blade"
+    },
+    "Disarming Attack": {
+      "name": "繳械攻擊 Disarming Attack"
+    },
+    "Disciple of Life": {
+      "name": "生命門徒 Disciple of Life"
+    },
+    "Disciplined Survivor": {
+      "name": "修練求生者 Disciplined Survivor"
+    },
+    "Distant Spell": {
+      "name": "遠程法術 Distant Spell"
+    },
+    "Distracting Strike": {
+      "name": "擾亂打擊 Distracting Strike"
+    },
+    "Divination Savant": {
+      "name": "預言學者 Divination Savant"
+    },
+    "Divine Fury": {
+      "name": "神性狂怒 Divine Fury"
+    },
+    "Divine Intervention": {
+      "name": "神力干預 Divine Intervention"
+    },
+    "Divine Order": {
+      "name": "神聖職責 Divine Order"
+    },
+    "Divine Order: Protector": {
+      "name": "神聖職責: 守護者 Divine Order: Protector"
+    },
+    "Divine Order: Thaumaturge": {
+      "name": "神聖職責: 奇術士 Divine Order: Thaumaturge"
+    },
+    "Diviner": {
+      "name": "預言學家 Diviner"
+    },
+    "Draconic Resilience": {
+      "name": "龍族韌性 Draconic Resilience"
+    },
+    "Draconic Sorcery": {
+      "name": "龍族術法 Draconic Sorcery"
+    },
+    "Draconic Spells": {
+      "name": "龍族法術 Draconic Spells"
+    },
+    "Dragon Companion": {
+      "name": "龍族夥伴 Dragon Companion"
+    },
+    "Dragon Wings": {
+      "name": "龍之翼 Dragon Wings"
+    },
+    "Dread Ambusher": {
+      "name": "Dread Ambusher"
+    },
+    "Dreadful Strikes": {
+      "name": "哀懼打擊 Dreadful Strikes"
+    },
+    "Druid": {
+      "name": "德魯伊 Druid"
+    },
+    "Druidic": {
+      "name": "德魯伊語 Druidic"
+    },
+    "Elder Champion": {
+      "name": "上古勇士 Elder Champion"
+    },
+    "Eldritch Hex": {
+      "name": "魔能詛咒 Eldritch Hex"
+    },
+    "Eldritch Invocations": {
+      "name": "魔能祈喚 Eldritch Invocations"
+    },
+    "Eldritch Knight": {
+      "name": "魔能騎士 Eldritch Knight"
+    },
+    "Eldritch Master": {
+      "name": "魔能大師 Eldritch Master"
+    },
+    "Eldritch Mind": {
+      "name": "魔能意志 Eldritch Mind"
+    },
+    "Eldritch Smite": {
+      "name": "魔能重斬 Eldritch Smite"
+    },
+    "Eldritch Spear": {
+      "name": "魔能之矛 Eldritch Spear"
+    },
+    "Eldritch Strike": {
+      "name": "魔能打擊 Eldritch Strike"
+    },
+    "Elemental Affinity": {
+      "name": "元素親和 Elemental Affinity"
+    },
+    "Elemental Attunement": {
+      "name": "元素調和 Elemental Attunement"
+    },
+    "Elemental Burst": {
+      "name": "元素爆發 Elemental Burst"
+    },
+    "Elemental Epitome": {
+      "name": "元素化身 Elemental Epitome"
+    },
+    "Elemental Fury": {
+      "name": "元素之怒 Elemental Fury"
+    },
+    "Elemental Fury: Potent Spellcasting": {
+      "name": "Elemental Fury: Potent Spellcasting"
+    },
+    "Elemental Fury: Primal Strike": {
+      "name": "Elemental Fury: Primal Strike"
+    },
+    "Elusive": {
+      "name": "捉摸不定 Elusive"
+    },
+    "Empowered Evocation": {
+      "name": "強效塑能 Empowered Evocation"
+    },
+    "Empowered Spell": {
+      "name": "強效法術 Empowered Spell"
+    },
+    "Empowered Strikes": {
+      "name": "真勁打擊 Empowered Strikes"
+    },
+    "Envenom Weapons": {
+      "name": "淬毒武器 Envenom Weapons"
+    },
+    "Epic Boon": {
+      "name": "史詩恩賜專長 Epic Boon"
+    },
+    "Evasion": {
+      "name": "反射閃避 Evasion"
+    },
+    "Evasive Footwork": {
+      "name": "靈巧步法 Evasive Footwork"
+    },
+    "Evocation Savant": {
+      "name": "塑能學者 Evocation Savant"
+    },
+    "Evoker": {
+      "name": "塑能學家 Evoker"
+    },
+    "Exceptional Training": {
+      "name": "卓越訓練 Exceptional Training"
+    },
+    "Expert Divination": {
+      "name": "預言專家 Expert Divination"
+    },
+    "Expertise": {
+      "name": "專精 Expertise"
+    },
+    "Extended Spell": {
+      "name": "延時法術 Extended Spell"
+    },
+    "Extra Attack": {
+      "name": "額外攻擊 Extra Attack"
+    },
+    "Faithful Steed": {
+      "name": "忠誠坐騎 Faithful Steed"
+    },
+    "Fanatical Focus": {
+      "name": "狂熱專注 Fanatical Focus"
+    },
+    "Fast Hands": {
+      "name": "快手 Fast Hands"
+    },
+    "Fast Movement": {
+      "name": "快速移動 Fast Movement"
+    },
+    "Favored Enemy": {
+      "name": "宿敵 Favored Enemy"
+    },
+    "Feinting Attack": {
+      "name": "虛招攻擊 Feinting Attack"
+    },
+    "Feral Instinct": {
+      "name": "野性直覺 Feral Instinct"
+    },
+    "Feral Senses": {
+      "name": "野性感官 Feral Senses"
+    },
+    "Fey Reinforcements": {
+      "name": "精怪增援 Fey Reinforcements"
+    },
+    "Fey Wanderer": {
+      "name": "妖精漫遊者 Fey Wanderer"
+    },
+    "Fey Wanderer Spells": {
+      "name": "妖精漫遊者法術 Fey Wanderer Spells"
+    },
+    "Fiend Patron": {
+      "name": "邪魔契主 Fiend Patron"
+    },
+    "Fiend Spells": {
+      "name": "邪魔法術 Fiend Spells"
+    },
+    "Fiendish Resilience": {
+      "name": "邪魔韌性 Fiendish Resilience"
+    },
+    "Fiendish Vigor": {
+      "name": "邪魔活力 Fiendish Vigor"
+    },
+    "Fighter": {
+      "name": "戰士 Fighter"
+    },
+    "Fighting Style": {
+      "name": "戰鬥風格 Fighting Style"
+    },
+    "Fleet Step": {
+      "name": "迅捷步伐 Fleet Step"
+    },
+    "Flurry of Healing and Harm": {
+      "name": "活殺自在 Flurry of Healing and Harm"
+    },
+    "Foe Slayer": {
+      "name": "眾敵屠戮 Foe Slayer"
+    },
+    "Font of Inspiration": {
+      "name": "激勵湧泉 Font of Inspiration"
+    },
+    "Font of Magic": {
+      "name": "魔力泉湧 Font of Magic"
+    },
+    "Frenzy": {
+      "name": "狂怒 Frenzy"
+    },
+    "Full of Stars": {
+      "name": "繁星滿溢 Full of Stars"
+    },
+    "Gaze of Two Minds": {
+      "name": "Gaze of Two Minds"
+    },
+    "Gift of the Depths": {
+      "name": "Gift of the Depths"
+    },
+    "Gift of the Protectors": {
+      "name": "Gift of the Protectors"
+    },
+    "Gloom Stalker": {
+      "name": "幽域追蹤者 Gloom Stalker"
+    },
+    "Gloom Stalker Spells": {
+      "name": "幽域追蹤者法術 Gloom Stalker Spells"
+    },
+    "Glorious Defense": {
+      "name": "Glorious Defense"
+    },
+    "Goading Attack": {
+      "name": "挑釁攻擊 Goading Attack"
+    },
+    "Great Old One Patron": {
+      "name": "Great Old One Patron"
+    },
+    "Great Old One Spells": {
+      "name": "Great Old One Spells"
+    },
+    "Greater Divine Intervention": {
+      "name": "高等神力干預 Greater Divine Intervention"
+    },
+    "Greater Portent": {
+      "name": "Greater Portent"
+    },
+    "Guarded Mind": {
+      "name": "防護心智 Guarded Mind"
+    },
+    "Guided Strike": {
+      "name": "神導打擊 Guided Strike"
+    },
+    "Hand of Harm": {
+      "name": "Hand of Harm"
+    },
+    "Hand of Healing": {
+      "name": "Hand of Healing"
+    },
+    "Hand of Ultimate Mercy": {
+      "name": "Hand of Ultimate Mercy"
+    },
+    "Healing Light": {
+      "name": "Healing Light"
+    },
+    "Heightened Focus": {
+      "name": "Heightened Focus"
+    },
+    "Heightened Spell": {
+      "name": "Heightened Spell"
+    },
+    "Heroic Warrior": {
+      "name": "英勇戰士 Heroic Warrior"
+    },
+    "Holy Nimbus": {
+      "name": "Holy Nimbus"
+    },
+    "Hunter": {
+      "name": "獵人 Hunter"
+    },
+    "Hunter's Lore": {
+      "name": "獵人知識 Hunter's Lore"
+    },
+    "Hunter's Prey": {
+      "name": "狩者獵物 Hunter's Prey"
+    },
+    "Hurl Through Hell": {
+      "name": "Hurl Through Hell"
+    },
+    "Illusion Savant": {
+      "name": "Illusion Savant"
+    },
+    "Illusionist": {
+      "name": "Illusionist"
+    },
+    "Illusory Reality": {
+      "name": "Illusory Reality"
+    },
+    "Illusory Self": {
+      "name": "Illusory Self"
+    },
+    "Implements of Mercy": {
+      "name": "Implements of Mercy"
+    },
+    "Improved Blessed Strikes": {
+      "name": "強化受祝打擊 Improved Blessed Strikes"
+    },
+    "Improved Brutal Strike": {
+      "name": "Improved Brutal Strike"
+    },
+    "Improved Brutal Strike (2)": {
+      "name": "Improved Brutal Strike (2)"
+    },
+    "Improved Circle Forms": {
+      "name": "強化結社形態 Improved Circle Forms"
+    },
+    "Improved Combat Superiority": {
+      "name": "強化戰鬥卓越 Improved Combat Superiority"
+    },
+    "Improved Critical": {
+      "name": "強化重擊 Improved Critical"
+    },
+    "Improved Cunning Strike": {
+      "name": "強化狡詐打擊 Improved Cunning Strike"
+    },
+    "Improved Duplicity": {
+      "name": "強化假體 Improved Duplicity"
+    },
+    "Improved Elemental Fury": {
+      "name": "強化元素之怒 Improved Elemental Fury"
+    },
+    "Improved Illusions": {
+      "name": "Improved Illusions"
+    },
+    "Improved Shadow Step": {
+      "name": "Improved Shadow Step"
+    },
+    "Improved War Magic": {
+      "name": "強化戰爭魔法 Improved War Magic"
+    },
+    "Improved Warding Flare": {
+      "name": "強化閃耀防護 Improved Warding Flare"
+    },
+    "Indomitable": {
+      "name": "不屈 Indomitable"
+    },
+    "Indomitable Might": {
+      "name": "Indomitable Might"
+    },
+    "Infiltration Expertise": {
+      "name": "專業滲透 Infiltration Expertise"
+    },
+    "Innate Sorcery": {
+      "name": "天賦魔法 Innate Sorcery"
+    },
+    "Inspiring Movement": {
+      "name": "激勵舞步 Inspiring Movement"
+    },
+    "Inspiring Smite": {
+      "name": "Inspiring Smite"
+    },
+    "Instinctive Pounce": {
+      "name": "Instinctive Pounce"
+    },
+    "Intimidating Presence": {
+      "name": "威懾之姿 Intimidating Presence"
+    },
+    "Investment of the Chain Master": {
+      "name": "Investment of the Chain Master"
+    },
+    "Invoke Duplicity": {
+      "name": "召喚假體 Invoke Duplicity"
+    },
+    "Iron Mind": {
+      "name": "鋼鐵心智 Iron Mind"
+    },
+    "Jack of All Trades": {
+      "name": "全能高手 Jack of All Trades"
+    },
+    "Know Your Enemy": {
+      "name": "知己知彼 Know Your Enemy"
+    },
+    "Land's Aid": {
+      "name": "大地援助 Land's Aid"
+    },
+    "Lay on Hands": {
+      "name": "聖療 Lay on Hands"
+    },
+    "Leading Evasion": {
+      "name": "引領迴避 Leading Evasion"
+    },
+    "Lessons of the First Ones": {
+      "name": "Lessons of the First Ones"
+    },
+    "Life Domain": {
+      "name": "生命領域 Life Domain"
+    },
+    "Life Domain Spells": {
+      "name": "生命領域法術 Life Domain Spells"
+    },
+    "Lifedrinker": {
+      "name": "Lifedrinker"
+    },
+    "Light Domain": {
+      "name": "光明領域 Light Domain"
+    },
+    "Light Domain Spells": {
+      "name": "光明領域法術 Light Domain Spells"
+    },
+    "Living Legend": {
+      "name": "Living Legend"
+    },
+    "Lunar Form": {
+      "name": "月相形態 Lunar Form"
+    },
+    "Lunging Attack": {
+      "name": "突進攻擊 Lunging Attack"
+    },
+    "Mage Hand Legerdemain": {
+      "name": "法師之手把戲 Mage Hand Legerdemain"
+    },
+    "Magical Ambush": {
+      "name": "魔法伏擊 Magical Ambush"
+    },
+    "Magical Cunning": {
+      "name": "Magical Cunning"
+    },
+    "Magical Discoveries": {
+      "name": "魔法探索 Magical Discoveries"
+    },
+    "Magical Secrets": {
+      "name": "魔法秘密 Magical Secrets"
+    },
+    "Maneuvering Attack": {
+      "name": "靈動攻擊 Maneuvering Attack"
+    },
+    "Manipulate Elements": {
+      "name": "Manipulate Elements"
+    },
+    "Mantle of Inspiration": {
+      "name": "激勵光環 Mantle of Inspiration"
+    },
+    "Mantle of Majesty": {
+      "name": "威嚴光環 Mantle of Majesty"
+    },
+    "Martial Arts": {
+      "name": "Martial Arts"
+    },
+    "Martial Training": {
+      "name": "戰技訓練 Martial Training"
+    },
+    "Mask of Many Faces": {
+      "name": "Mask of Many Faces"
+    },
+    "Master of Myriad Forms": {
+      "name": "Master of Myriad Forms"
+    },
+    "Memorize Spell": {
+      "name": "Memorize Spell"
+    },
+    "Menacing Attack": {
+      "name": "恐嚇攻擊 Menacing Attack"
+    },
+    "Metamagic": {
+      "name": "超魔法 Metamagic"
+    },
+    "Mindless Rage": {
+      "name": "無我狂暴 Mindless Rage"
+    },
+    "Misty Escape": {
+      "name": "Misty Escape"
+    },
+    "Misty Visions": {
+      "name": "Misty Visions"
+    },
+    "Misty Wanderer": {
+      "name": "迷霧漫遊者 Misty Wanderer"
+    },
+    "Monk": {
+      "name": "武僧 Monk"
+    },
+    "Monk's Focus": {
+      "name": "Monk's Focus"
+    },
+    "Moonlight Step": {
+      "name": "月光步 Moonlight Step"
+    },
+    "Mystic Arcanum": {
+      "name": "Mystic Arcanum"
+    },
+    "Natural Recovery": {
+      "name": "自然恢復 Natural Recovery"
+    },
+    "Nature Speaker": {
+      "name": "自然溝通者 Nature Speaker"
+    },
+    "Nature's Sanctuary": {
+      "name": "自然庇護 Nature's Sanctuary"
+    },
+    "Nature's Veil": {
+      "name": "Nature's Veil"
+    },
+    "Nature's Ward": {
+      "name": "自然之護 Nature's Ward"
+    },
+    "Nature's Wrath": {
+      "name": "Nature's Wrath"
+    },
+    "Oath of Devotion": {
+      "name": "奉獻之誓 Oath of Devotion"
+    },
+    "Oath of Devotion Spells": {
+      "name": "奉獻之誓法術 Oath of Devotion Spells"
+    },
+    "Oath of Glory": {
+      "name": "Oath of Glory"
+    },
+    "Oath of Glory Spells": {
+      "name": "Oath of Glory Spells"
+    },
+    "Oath of the Ancients": {
+      "name": "Oath of the Ancients"
+    },
+    "Oath of the Ancients Spells": {
+      "name": "Oath of the Ancients Spells"
+    },
+    "Oath of Vengeance": {
+      "name": "復仇之誓 Oath of Vengeance"
+    },
+    "Oath of Vengeance Spells": {
+      "name": "復仇之誓法術 Oath of Vengeance Spells"
+    },
+    "Oceanic Gift": {
+      "name": "海洋賜福 Oceanic Gift"
+    },
+    "One with Shadows": {
+      "name": "One with Shadows"
+    },
+    "Open Hand Technique": {
+      "name": "Open Hand Technique"
+    },
+    "Otherworldly Glamour": {
+      "name": "異界魅力 Otherworldly Glamour"
+    },
+    "Otherworldly Leap": {
+      "name": "Otherworldly Leap"
+    },
+    "Overchannel": {
+      "name": "Overchannel"
+    },
+    "Pact Magic": {
+      "name": "Pact Magic"
+    },
+    "Pact of the Blade": {
+      "name": "Pact of the Blade"
+    },
+    "Pact of the Chain": {
+      "name": "Pact of the Chain"
+    },
+    "Pact of the Tome": {
+      "name": "Pact of the Tome"
+    },
+    "Paladin": {
+      "name": "聖騎士 Paladin"
+    },
+    "Paladin's Smite": {
+      "name": "Paladin's Smite"
+    },
+    "Parry": {
+      "name": "招架 Parry"
+    },
+    "Path of the Berserker": {
+      "name": "狂戰士道途 Path of the Berserker"
+    },
+    "Path of the Wild Heart": {
+      "name": "荒野之心道途 Path of the Wild Heart"
+    },
+    "Path of the World Tree": {
+      "name": "世界樹道途 Path of the World Tree"
+    },
+    "Path of the Zealot": {
+      "name": "狂熱者道途 Path of the Zealot"
+    },
+    "Peerless Athlete": {
+      "name": "Peerless Athlete"
+    },
+    "Peerless Skill": {
+      "name": "絕世技能 Peerless Skill"
+    },
+    "Perfect Focus": {
+      "name": "Perfect Focus"
+    },
+    "Persistent Rage": {
+      "name": "Persistent Rage"
+    },
+    "Phantasmal Creatures": {
+      "name": "Phantasmal Creatures"
+    },
+    "Physician's Touch": {
+      "name": "Physician's Touch"
+    },
+    "Portent": {
+      "name": "Portent"
+    },
+    "Potent Cantrip": {
+      "name": "Potent Cantrip"
+    },
+    "Power of the Wilds": {
+      "name": "野性之力 Power of the Wilds"
+    },
+    "Precise Hunter": {
+      "name": "精準獵手 Precise Hunter"
+    },
+    "Precision Attack": {
+      "name": "精準攻擊 Precision Attack"
+    },
+    "Preserve Life": {
+      "name": "維繫生命 Preserve Life"
+    },
+    "Primal Champion": {
+      "name": "Primal Champion"
+    },
+    "Primal Companion": {
+      "name": "原始夥伴 Primal Companion"
+    },
+    "Primal Knowledge": {
+      "name": "Primal Knowledge"
+    },
+    "Primal Order": {
+      "name": "原始職責 Primal Order"
+    },
+    "Primal Order: Magician": {
+      "name": "Primal Order: Magician"
+    },
+    "Primal Order: Warden": {
+      "name": "Primal Order: Warden"
+    },
+    "Projected Ward": {
+      "name": "Projected Ward"
+    },
+    "Psi Warrior": {
+      "name": "靈能武士 Psi Warrior"
+    },
+    "Psionic Power": {
+      "name": "靈能之力 Psionic Power"
+    },
+    "Psionic Sorcery": {
+      "name": "靈能術法 Psionic Sorcery"
+    },
+    "Psionic Spells": {
+      "name": "靈能法術 Psionic Spells"
+    },
+    "Psychic Blade": {
+      "name": "Psychic Blade"
+    },
+    "Psychic Blades": {
+      "name": "靈能之刃 Psychic Blades"
+    },
+    "Psychic Defenses": {
+      "name": "心靈防禦 Psychic Defenses"
+    },
+    "Psychic Spells": {
+      "name": "Psychic Spells"
+    },
+    "Psychic Veil": {
+      "name": "靈能帷幕 Psychic Veil"
+    },
+    "Pushing Attack": {
+      "name": "推撞攻擊 Pushing Attack"
+    },
+    "Quickened Spell": {
+      "name": "Quickened Spell"
+    },
+    "Quivering Palm": {
+      "name": "Quivering Palm"
+    },
+    "Radiance of the Dawn": {
+      "name": "黎明光輝 Radiance of the Dawn"
+    },
+    "Radiant Soul": {
+      "name": "Radiant Soul"
+    },
+    "Radiant Strikes": {
+      "name": "光耀打擊 Radiant Strikes"
+    },
+    "Rage": {
+      "name": "狂暴 Rage"
+    },
+    "Rage of the Gods": {
+      "name": "諸神之怒 Rage of the Gods"
+    },
+    "Rage of the Wilds": {
+      "name": "野性狂暴 Rage of the Wilds"
+    },
+    "Rally": {
+      "name": "鼓舞 Rally"
+    },
+    "Ranger": {
+      "name": "遊俠 Ranger"
+    },
+    "Reckless Attack": {
+      "name": "魯莽攻擊 Reckless Attack"
+    },
+    "Relentless": {
+      "name": "頑強 Relentless"
+    },
+    "Relentless Avenger": {
+      "name": "無盡復仇者 Relentless Avenger"
+    },
+    "Relentless Hunter": {
+      "name": "無情獵手 Relentless Hunter"
+    },
+    "Relentless Rage": {
+      "name": "頑強狂暴 Relentless Rage"
+    },
+    "Reliable Talent": {
+      "name": "可靠才能 Reliable Talent"
+    },
+    "Remarkable Athlete": {
+      "name": "運動健將 Remarkable Athlete"
+    },
+    "Rend Mind": {
+      "name": "撕裂心智 Rend Mind"
+    },
+    "Repelling Blast": {
+      "name": "斥力魔爆 Repelling Blast"
+    },
+    "Restore Balance": {
+      "name": "平衡恢復 Restore Balance"
+    },
+    "Restoring Touch": {
+      "name": "復原之觸 Restoring Touch"
+    },
+    "Retaliation": {
+      "name": "復仇 Retaliation"
+    },
+    "Revelation in Flesh": {
+      "name": "血肉啟示 Revelation in Flesh"
+    },
+    "Riposte": {
+      "name": "反擊 Riposte"
+    },
+    "Ritual Adept": {
+      "name": "Ritual Adept"
+    },
+    "Rogue": {
+      "name": "盜賊 Rogue"
+    },
+    "Roving": {
+      "name": "Roving"
+    },
+    "Sacred Weapon": {
+      "name": "至聖武器 Sacred Weapon"
+    },
+    "Scholar": {
+      "name": "Scholar"
+    },
+    "Sculpt Spells": {
+      "name": "Sculpt Spells"
+    },
+    "Sear Undead": {
+      "name": "聖灼不死 Sear Undead"
+    },
+    "Searing Vengeance": {
+      "name": "Searing Vengeance"
+    },
+    "Second Wind": {
+      "name": "回氣 Second Wind"
+    },
+    "Second-Story Work": {
+      "name": "梁上君子 Second-Story Work"
+    },
+    "Seeking Spell": {
+      "name": "Seeking Spell"
+    },
+    "Self-Restoration": {
+      "name": "Self-Restoration"
+    },
+    "Shadow Arts": {
+      "name": "Shadow Arts"
+    },
+    "Shadow Step": {
+      "name": "Shadow Step"
+    },
+    "Shadowy Dodge": {
+      "name": "暗影閃避 Shadowy Dodge"
+    },
+    "Share Spells": {
+      "name": "法術共享 Share Spells"
+    },
+    "Signature Spells": {
+      "name": "Signature Spells"
+    },
+    "Slippery Mind": {
+      "name": "靈活心智 Slippery Mind"
+    },
+    "Slow Fall": {
+      "name": "Slow Fall"
+    },
+    "Smite of Protection": {
+      "name": "Smite of Protection"
+    },
+    "Sneak Attack": {
+      "name": "偷襲 Sneak Attack"
+    },
+    "Sorcerer": {
+      "name": "術士 Sorcerer"
+    },
+    "Sorcerous Restoration": {
+      "name": "術法復原 Sorcerous Restoration"
+    },
+    "Sorcery Incarnate": {
+      "name": "術法化身 Sorcery Incarnate"
+    },
+    "Soul Blades": {
+      "name": "靈魂之刃 Soul Blades"
+    },
+    "Soul of Vengeance": {
+      "name": "復仇之魂 Soul of Vengeance"
+    },
+    "Soulknife": {
+      "name": "魂刃 Soulknife"
+    },
+    "Spell Breaker": {
+      "name": "Spell Breaker"
+    },
+    "Spell Mastery": {
+      "name": "Spell Mastery"
+    },
+    "Spell Resistance": {
+      "name": "Spell Resistance"
+    },
+    "Spell Thief": {
+      "name": "法術竊賊 Spell Thief"
+    },
+    "Spellcasting": {
+      "name": "施法 Spellcasting"
+    },
+    "Stalker's Flurry": {
+      "name": "追獵如風 Stalker's Flurry"
+    },
+    "Star Map": {
+      "name": "星圖 Star Map"
+    },
+    "Starry Form": {
+      "name": "星耀形態 Starry Form"
+    },
+    "Steady Aim": {
+      "name": "穩定瞄準 Steady Aim"
+    },
+    "Steps of the Fey": {
+      "name": "Steps of the Fey"
+    },
+    "Stormborn": {
+      "name": "風暴之子 Stormborn"
+    },
+    "Stride of the Elements": {
+      "name": "Stride of the Elements"
+    },
+    "Stroke of Luck": {
+      "name": "幸運一擊 Stroke of Luck"
+    },
+    "Student of War": {
+      "name": "戰鬥學徒 Student of War"
+    },
+    "Studied Attacks": {
+      "name": "分析攻擊 Studied Attacks"
+    },
+    "Stunning Strike": {
+      "name": "Stunning Strike"
+    },
+    "Subtle Spell": {
+      "name": "Subtle Spell"
+    },
+    "Superior Critical": {
+      "name": "卓越重擊 Superior Critical"
+    },
+    "Superior Defense": {
+      "name": "Superior Defense"
+    },
+    "Superior Hunter's Defense": {
+      "name": "卓越獵人防禦 Superior Hunter's Defense"
+    },
+    "Superior Hunter's Prey": {
+      "name": "卓越狩者獵物 Superior Hunter's Prey"
+    },
+    "Superior Inspiration": {
+      "name": "卓越激勵 Superior Inspiration"
+    },
+    "Supreme Healing": {
+      "name": "極效治療 Supreme Healing"
+    },
+    "Supreme Sneak": {
+      "name": "卓越潛行 Supreme Sneak"
+    },
+    "Survivor": {
+      "name": "生存者 Survivor"
+    },
+    "Sweeping Attack": {
+      "name": "橫掃攻擊 Sweeping Attack"
+    },
+    "Tactical Assessment": {
+      "name": "戰術評估 Tactical Assessment"
+    },
+    "Tactical Master": {
+      "name": "戰術大師 Tactical Master"
+    },
+    "Tactical Mind": {
+      "name": "戰術思維 Tactical Mind"
+    },
+    "Tactical Shift": {
+      "name": "戰術位移 Tactical Shift"
+    },
+    "Tamed Surge": {
+      "name": "馴服浪湧 Tamed Surge"
+    },
+    "Tandem Footwork": {
+      "name": "齊跳步法 Tandem Footwork"
+    },
+    "Telekinetic Adept": {
+      "name": "心靈致動好手 Telekinetic Adept"
+    },
+    "Telekinetic Master": {
+      "name": "心靈致動大師 Telekinetic Master"
+    },
+    "Telepathic Speech": {
+      "name": "心靈談話 Telepathic Speech"
+    },
+    "The Third Eye": {
+      "name": "The Third Eye"
+    },
+    "Thief": {
+      "name": "竊賊 Thief"
+    },
+    "Thief's Reflexes": {
+      "name": "竊賊反射 Thief's Reflexes"
+    },
+    "Thieves' Cant": {
+      "name": "盜賊黑話 Thieves' Cant"
+    },
+    "Thirsting Blade": {
+      "name": "Thirsting Blade"
+    },
+    "Thought Shield": {
+      "name": "Thought Shield"
+    },
+    "Three Extra Attacks": {
+      "name": "三次額外攻擊 Three Extra Attacks"
+    },
+    "Tides of Chaos": {
+      "name": "混亂之潮 Tides of Chaos"
+    },
+    "Tireless": {
+      "name": "Tireless"
+    },
+    "Trance of Order": {
+      "name": "秩序意識 Trance of Order"
+    },
+    "Transmuted Spell": {
+      "name": "Transmuted Spell"
+    },
+    "Travel Along the Tree": {
+      "name": "世界樹旅行 Travel Along the Tree"
+    },
+    "Trickery Domain": {
+      "name": "詭術領域 Trickery Domain"
+    },
+    "Trickery Domain Spells": {
+      "name": "詭術領域法術 Trickery Domain Spells"
+    },
+    "Trickster's Transposition": {
+      "name": "詭術換位 Trickster's Transposition"
+    },
+    "Trip Attack": {
+      "name": "絆摔攻擊 Trip Attack"
+    },
+    "Twinkling Constellations": {
+      "name": "閃爍星座 Twinkling Constellations"
+    },
+    "Twinned Spell": {
+      "name": "Twinned Spell"
+    },
+    "Two Extra Attacks": {
+      "name": "兩次額外攻擊 Two Extra Attacks"
+    },
+    "Ultimate Combat Superiority": {
+      "name": "終極戰鬥卓越 Ultimate Combat Superiority"
+    },
+    "Umbral Sight": {
+      "name": "幽影視覺 Umbral Sight"
+    },
+    "Unarmed Strike": {
+      "name": "徒手打擊 Unarmed Strike"
+    },
+    "Unarmored Defense": {
+      "name": "無甲防禦 Unarmored Defense"
+    },
+    "Unarmored Movement": {
+      "name": "無甲移動 Unarmored Movement"
+    },
+    "Unbreakable Majesty": {
+      "name": "無敵威嚴 Unbreakable Majesty"
+    },
+    "Uncanny Dodge": {
+      "name": "直覺閃避 Uncanny Dodge"
+    },
+    "Uncanny Metabolism": {
+      "name": "非凡體質 Uncanny Metabolism"
+    },
+    "Undying Sentinel": {
+      "name": "不朽衛士 Undying Sentinel"
+    },
+    "Use Magic Device": {
+      "name": "魔法裝置使用 Use Magic Device"
+    },
+    "Versatile Trickster": {
+      "name": "萬能詭術 Versatile Trickster"
+    },
+    "Visions of Distant Realms": {
+      "name": "遙界之視 Visions of Distant Realms"
+    },
+    "Vitality of the Tree": {
+      "name": "世界樹活力 Vitality of the Tree"
+    },
+    "Vow of Enmity": {
+      "name": "仇恨誓言 Vow of Enmity"
+    },
+    "War Bond": {
+      "name": "戰爭連結 War Bond"
+    },
+    "War Domain": {
+      "name": "戰爭領域 War Domain"
+    },
+    "War Domain Spells": {
+      "name": "戰爭領域法術 War Domain Spells"
+    },
+    "War God's Blessing": {
+      "name": "戰神祝福 War God's Blessing"
+    },
+    "War Magic": {
+      "name": "戰爭魔法 War Magic"
+    },
+    "War Priest": {
+      "name": "戰爭祭司 War Priest"
+    },
+    "Warding Flare": {
+      "name": "閃耀防護 Warding Flare"
+    },
+    "Warlock": {
+      "name": "契術師 Warlock"
+    },
+    "Warping Implosion": {
+      "name": "扭曲爆裂 Warping Implosion"
+    },
+    "Warrior of Mercy": {
+      "name": "命流武者 Warrior of Mercy"
+    },
+    "Warrior of Shadow": {
+      "name": "暗影武者 Warrior of Shadow"
+    },
+    "Warrior of the Elements": {
+      "name": "元素武者 Warrior of the Elements"
+    },
+    "Warrior of the Gods": {
+      "name": "諸神勇士 Warrior of the Gods"
+    },
+    "Warrior of the Open Hand": {
+      "name": "散打武者 Warrior of the Open Hand"
+    },
+    "Weapon Mastery": {
+      "name": "武器精通 Weapon Mastery"
+    },
+    "Whispers of the Grave": {
+      "name": "墳墓低語 Whispers of the Grave"
+    },
+    "Wholeness of Body": {
+      "name": "Wholeness of Body"
+    },
+    "Wild Companion": {
+      "name": "荒野夥伴 Wild Companion"
+    },
+    "Wild Magic Sorcery": {
+      "name": "狂野術法 Wild Magic Sorcery"
+    },
+    "Wild Magic Surge": {
+      "name": "狂野魔法浪湧 Wild Magic Surge"
+    },
+    "Wild Resurgence": {
+      "name": "荒野復甦 Wild Resurgence"
+    },
+    "Wild Shape": {
+      "name": "荒野形態 Wild Shape"
+    },
+    "Witch Sight": {
+      "name": "Witch Sight"
+    },
+    "Wizard": {
+      "name": "Wizard"
+    },
+    "Words of Creation": {
+      "name": "創生之言 Words of Creation"
+    },
+    "Wrath of the Sea": {
+      "name": "海洋之怒 Wrath of the Sea"
+    },
+    "Zealous Presence": {
+      "name": "狂熱之姿 Zealous Presence"
+    }
+  }
+}

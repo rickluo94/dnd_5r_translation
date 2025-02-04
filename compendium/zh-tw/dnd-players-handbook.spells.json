@@ -1,0 +1,1181 @@
+{
+  "label": "法術 Spells",
+  "entries": {
+    "Acid Splash": {
+      "name": "酸液噴濺 Acid Splash"
+    },
+    "Aid": {
+      "name": "援助術 Aid"
+    },
+    "Alarm": {
+      "name": "警報術 Alarm"
+    },
+    "Alter Self": {
+      "name": "變造自身 Alter Self"
+    },
+    "Animal Friendship": {
+      "name": "化獸為友 Animal Friendship"
+    },
+    "Animal Messenger": {
+      "name": "動物信使 Animal Messenger"
+    },
+    "Animal Shapes": {
+      "name": "動物化形 Animal Shapes"
+    },
+    "Animate Dead": {
+      "name": "活化死屍 Animate Dead"
+    },
+    "Animate Objects": {
+      "name": "活化物體 Animate Objects"
+    },
+    "Antilife Shell": {
+      "name": "反活物護罩 Antilife Shell"
+    },
+    "Antimagic Field": {
+      "name": "反魔法結界 Antimagic Field"
+    },
+    "Antipathy/Sympathy": {
+      "name": "嫌惡/共感術 Antipathy/Sympathy"
+    },
+    "Arcane Eye": {
+      "name": "祕法眼 Arcane Eye"
+    },
+    "Arcane Gate": {
+      "name": "祕法之門 Arcane Gate"
+    },
+    "Arcane Lock": {
+      "name": "祕法鎖 Arcane Lock"
+    },
+    "Arcane Vigor": {
+      "name": "祕法活力 Arcane Vigor"
+    },
+    "Armor of Agathys": {
+      "name": "艾嘉西斯之鎧 Armor of Agathys"
+    },
+    "Arms of Hadar": {
+      "name": "哈達之臂 Arms of Hadar"
+    },
+    "Astral Projection": {
+      "name": "星界投影 Astral Projection"
+    },
+    "Augury": {
+      "name": "卜筮術 Augury"
+    },
+    "Aura of Life": {
+      "name": "生命靈光 Aura of Life"
+    },
+    "Aura of Purity": {
+      "name": "淨化靈光 Aura of Purity"
+    },
+    "Aura of Vitality": {
+      "name": "活力靈光 Aura of Vitality"
+    },
+    "Awaken": {
+      "name": "啟蒙術 Awaken"
+    },
+    "Bane": {
+      "name": "災禍術 Bane"
+    },
+    "Banishing Smite": {
+      "name": "放逐斬 Banishing Smite"
+    },
+    "Banishment": {
+      "name": "放逐術 Banishment"
+    },
+    "Barkskin": {
+      "name": "樹膚術 Barkskin"
+    },
+    "Beacon of Hope": {
+      "name": "希望信標 Beacon of Hope"
+    },
+    "Beast Sense": {
+      "name": "野獸知覺 Beast Sense"
+    },
+    "Befuddlement": {
+      "name": "摧心術 Befuddlement"
+    },
+    "Bestow Curse": {
+      "name": "降咒 Bestow Curse"
+    },
+    "Bigby's Hand": {
+      "name": "畢格比之手 Bigby's Hand"
+    },
+    "Blade Barrier": {
+      "name": "劍刃護壁 Blade Barrier"
+    },
+    "Blade Ward": {
+      "name": "劍刃防護 Blade Ward"
+    },
+    "Bless": {
+      "name": "祝福術 Bless"
+    },
+    "Blight": {
+      "name": "枯萎術 Blight"
+    },
+    "Blinding Smite": {
+      "name": "致盲斬 Blinding Smite"
+    },
+    "Blindness/Deafness": {
+      "name": "目盲/耳聾術 Blindness/Deafness"
+    },
+    "Blink": {
+      "name": "閃現術 Blink"
+    },
+    "Blur": {
+      "name": "朦朧術 Blur"
+    },
+    "Burning Hands": {
+      "name": "燃燒之手 Burning Hands"
+    },
+    "Call Lightning": {
+      "name": "召雷術 Call Lightning"
+    },
+    "Calm Emotions": {
+      "name": "安定心神 Calm Emotions"
+    },
+    "Chain Lightning": {
+      "name": "連環閃電 Chain Lightning"
+    },
+    "Charm Monster": {
+      "name": "魅惑怪物 Charm Monster"
+    },
+    "Charm Person": {
+      "name": "魅惑人類 Charm Person"
+    },
+    "Chill Touch": {
+      "name": "寒顫之觸 Chill Touch"
+    },
+    "Chromatic Orb": {
+      "name": "幻色法球 Chromatic Orb"
+    },
+    "Circle of Death": {
+      "name": "死亡之環 Circle of Death"
+    },
+    "Circle of Power": {
+      "name": "威能法環 Circle of Power"
+    },
+    "Clairvoyance": {
+      "name": "銳眼術 Clairvoyance"
+    },
+    "Clone": {
+      "name": "克隆術 Clone"
+    },
+    "Cloud of Daggers": {
+      "name": "匕首之雲 Cloud of Daggers"
+    },
+    "Cloudkill": {
+      "name": "死雲術 Cloudkill"
+    },
+    "Color Spray": {
+      "name": "七彩噴射 Color Spray"
+    },
+    "Command": {
+      "name": "命令術 Command"
+    },
+    "Commune": {
+      "name": "通神術 Commune"
+    },
+    "Commune with Nature": {
+      "name": "問道自然 Commune with Nature"
+    },
+    "Compelled Duel": {
+      "name": "強迫決鬥 Compelled Duel"
+    },
+    "Comprehend Languages": {
+      "name": "通曉語言 Comprehend Languages"
+    },
+    "Compulsion": {
+      "name": "強迫術 Compulsion"
+    },
+    "Cone of Cold": {
+      "name": "寒冰錐 Cone of Cold"
+    },
+    "Confusion": {
+      "name": "困惑術 Confusion"
+    },
+    "Conjure Animals": {
+      "name": "召喚動物 Conjure Animals"
+    },
+    "Conjure Barrage": {
+      "name": "召喚箭幕 Conjure Barrage"
+    },
+    "Conjure Celestial": {
+      "name": "召喚天界生物 Conjure Celestial"
+    },
+    "Conjure Elemental": {
+      "name": "召喚元素生物 Conjure Elemental"
+    },
+    "Conjure Fey": {
+      "name": "召喚精怪生物 Conjure Fey"
+    },
+    "Conjure Minor Elementals": {
+      "name": "召喚次級元素生物 Conjure Minor Elementals"
+    },
+    "Conjure Volley": {
+      "name": "召喚箭雨 Conjure Volley"
+    },
+    "Conjure Woodland Beings": {
+      "name": "召喚林地之精 Conjure Woodland Beings"
+    },
+    "Contact Other Plane": {
+      "name": "異界探知 Contact Other Plane"
+    },
+    "Contagion": {
+      "name": "疫病術 Contagion"
+    },
+    "Contingency": {
+      "name": "觸發術 Contingency"
+    },
+    "Continual Flame": {
+      "name": "不滅明焰 Continual Flame"
+    },
+    "Control Water": {
+      "name": "操控水體 Control Water"
+    },
+    "Control Weather": {
+      "name": "操控天氣 Control Weather"
+    },
+    "Cordon of Arrows": {
+      "name": "警戒箭陣 Cordon of Arrows"
+    },
+    "Counterspell": {
+      "name": "反制法術 Counterspell"
+    },
+    "Create Food and Water": {
+      "name": "創造飲食 Create Food and Water"
+    },
+    "Create or Destroy Water": {
+      "name": "造水/枯水術 Create or Destroy Water"
+    },
+    "Create Undead": {
+      "name": "創造不死生物 Create Undead"
+    },
+    "Creation": {
+      "name": "造物術 Creation"
+    },
+    "Crown of Madness": {
+      "name": "瘋狂冠冕 Crown of Madness"
+    },
+    "Crusader's Mantle": {
+      "name": "十字軍斗篷 Crusader's Mantle"
+    },
+    "Cure Wounds": {
+      "name": "治療傷勢 Cure Wounds"
+    },
+    "Dancing Lights": {
+      "name": "舞光術 Dancing Lights"
+    },
+    "Darkness": {
+      "name": "黑暗術 Darkness"
+    },
+    "Darkvision": {
+      "name": "黑暗視覺 Darkvision"
+    },
+    "Daylight": {
+      "name": "晝明術 Daylight"
+    },
+    "Death Ward": {
+      "name": "防死護咒 Death Ward"
+    },
+    "Delayed Blast Fireball": {
+      "name": "延遲爆裂火球 Delayed Blast Fireball"
+    },
+    "Demiplane": {
+      "name": "創造半位面 Demiplane"
+    },
+    "Destructive Wave": {
+      "name": "湮滅波 Destructive Wave"
+    },
+    "Detect Evil and Good": {
+      "name": "偵測善惡 Detect Evil and Good"
+    },
+    "Detect Magic": {
+      "name": "偵測魔法 Detect Magic"
+    },
+    "Detect Poison and Disease": {
+      "name": "偵測毒素或疾病 Detect Poison and Disease"
+    },
+    "Detect Thoughts": {
+      "name": "偵測思想 Detect Thoughts"
+    },
+    "Dimension Door": {
+      "name": "次元門 Dimension Door"
+    },
+    "Disguise Self": {
+      "name": "易容術 Disguise Self"
+    },
+    "Disintegrate": {
+      "name": "解離術 Disintegrate"
+    },
+    "Dispel Evil and Good": {
+      "name": "反制善惡 Dispel Evil and Good"
+    },
+    "Dispel Magic": {
+      "name": "解除魔法 Dispel Magic"
+    },
+    "Dissonant Whispers": {
+      "name": "噪音暗語 Dissonant Whispers"
+    },
+    "Divination": {
+      "name": "預言術 Divination"
+    },
+    "Divine Favor": {
+      "name": "神恩術 Divine Favor"
+    },
+    "Divine Smite": {
+      "name": "至聖斬 Divine Smite"
+    },
+    "Divine Word": {
+      "name": "聖言術 Divine Word"
+    },
+    "Dominate Beast": {
+      "name": "支配野獸 Dominate Beast"
+    },
+    "Dominate Monster": {
+      "name": "支配怪物 Dominate Monster"
+    },
+    "Dominate Person": {
+      "name": "支配人類 Dominate Person"
+    },
+    "Dragon's Breath": {
+      "name": "龍息術 Dragon's Breath"
+    },
+    "Drawmij's Instant Summons": {
+      "name": "卓姆吉瞬間召喚 Drawmij's Instant Summons"
+    },
+    "Dream": {
+      "name": "託夢術 Dream"
+    },
+    "Druidcraft": {
+      "name": "德魯伊伎倆 Druidcraft"
+    },
+    "Earthquake": {
+      "name": "地震術 Earthquake"
+    },
+    "Eldritch Blast": {
+      "name": "魔能爆 Eldritch Blast"
+    },
+    "Elemental Weapon": {
+      "name": "元素武器 Elemental Weapon"
+    },
+    "Elementalism": {
+      "name": "Elementalism"
+    },
+    "Enhance Ability": {
+      "name": "強化屬性 Enhance Ability"
+    },
+    "Enlarge/Reduce": {
+      "name": "變巨/縮小術 Enlarge/Reduce"
+    },
+    "Ensnaring Strike": {
+      "name": "誘捕打擊 Ensnaring Strike"
+    },
+    "Entangle": {
+      "name": "糾纏術 Entangle"
+    },
+    "Enthrall": {
+      "name": "注目術 Enthrall"
+    },
+    "Etherealness": {
+      "name": "跨入乙太界 Etherealness"
+    },
+    "Evard's Black Tentacles": {
+      "name": "艾伐黑觸手 Evard's Black Tentacles"
+    },
+    "Expeditious Retreat": {
+      "name": "腳底抹油 Expeditious Retreat"
+    },
+    "Eyebite": {
+      "name": "攝心目光 Eyebite"
+    },
+    "Fabricate": {
+      "name": "鬼斧神工 Fabricate"
+    },
+    "Faerie Fire": {
+      "name": "妖火術 Faerie Fire"
+    },
+    "False Life": {
+      "name": "摹造生命 False Life"
+    },
+    "Fear": {
+      "name": "恐懼術 Fear"
+    },
+    "Feather Fall": {
+      "name": "羽落術 Feather Fall"
+    },
+    "Feign Death": {
+      "name": "假死術 Feign Death"
+    },
+    "Find Familiar": {
+      "name": "尋獲魔寵 Find Familiar"
+    },
+    "Find Steed": {
+      "name": "尋獲坐騎 Find Steed"
+    },
+    "Find the Path": {
+      "name": "尋找捷徑 Find the Path"
+    },
+    "Find Traps": {
+      "name": "尋找陷阱 Find Traps"
+    },
+    "Finger of Death": {
+      "name": "死亡一指 Finger of Death"
+    },
+    "Fire Bolt": {
+      "name": "火焰箭 Fire Bolt"
+    },
+    "Fire Shield": {
+      "name": "火焰護盾 Fire Shield"
+    },
+    "Fire Storm": {
+      "name": "火焰風暴 Fire Storm"
+    },
+    "Fireball": {
+      "name": "火球術 Fireball"
+    },
+    "Flame Blade": {
+      "name": "火焰刀 Flame Blade"
+    },
+    "Flame Strike": {
+      "name": "焰擊術 Flame Strike"
+    },
+    "Flaming Sphere": {
+      "name": "熾焰法球 Flaming Sphere"
+    },
+    "Flesh to Stone": {
+      "name": "石化術 Flesh to Stone"
+    },
+    "Fly": {
+      "name": "飛行術 Fly"
+    },
+    "Fog Cloud": {
+      "name": "雲霧術 Fog Cloud"
+    },
+    "Forbiddance": {
+      "name": "禁制術 Forbiddance"
+    },
+    "Forcecage": {
+      "name": "力場監牢 Forcecage"
+    },
+    "Foresight": {
+      "name": "預視術 Foresight"
+    },
+    "Fount of Moonlight": {
+      "name": "Fount of Moonlight"
+    },
+    "Freedom of Movement": {
+      "name": "行動自如術 Freedom of Movement"
+    },
+    "Friends": {
+      "name": "交友術 Friends"
+    },
+    "Gaseous Form": {
+      "name": "氣化形體 Gaseous Form"
+    },
+    "Gate": {
+      "name": "異界之門 Gate"
+    },
+    "Geas": {
+      "name": "指使術 Geas"
+    },
+    "Gentle Repose": {
+      "name": "遺體防腐 Gentle Repose"
+    },
+    "Giant Insect": {
+      "name": "巨蟲術 Giant Insect"
+    },
+    "Glibness": {
+      "name": "花言巧語 Glibness"
+    },
+    "Globe of Invulnerability": {
+      "name": "法術無效結界 Globe of Invulnerability"
+    },
+    "Glyph of Warding": {
+      "name": "守衛銘文 Glyph of Warding"
+    },
+    "Goodberry": {
+      "name": "神莓術 Goodberry"
+    },
+    "Grasping Vine": {
+      "name": "抓攫藤蔓 Grasping Vine"
+    },
+    "Grease": {
+      "name": "油膩術 Grease"
+    },
+    "Greater Invisibility": {
+      "name": "高等隱形術 Greater Invisibility"
+    },
+    "Greater Restoration": {
+      "name": "高等復原術 Greater Restoration"
+    },
+    "Guardian of Faith": {
+      "name": "虔誠守衛 Guardian of Faith"
+    },
+    "Guards and Wards": {
+      "name": "銅牆鐵壁 Guards and Wards"
+    },
+    "Guidance": {
+      "name": "指導術 Guidance"
+    },
+    "Guiding Bolt": {
+      "name": "光導箭 Guiding Bolt"
+    },
+    "Gust of Wind": {
+      "name": "造風術 Gust of Wind"
+    },
+    "Hail of Thorns": {
+      "name": "棘刺雹 Hail of Thorns"
+    },
+    "Hallow": {
+      "name": "聖居 Hallow"
+    },
+    "Hallucinatory Terrain": {
+      "name": "幻景 Hallucinatory Terrain"
+    },
+    "Harm": {
+      "name": "傷害術 Harm"
+    },
+    "Haste": {
+      "name": "加速術 Haste"
+    },
+    "Heal": {
+      "name": "治癒術 Heal"
+    },
+    "Healing Word": {
+      "name": "治癒真言 Healing Word"
+    },
+    "Heat Metal": {
+      "name": "灼熱金屬 Heat Metal"
+    },
+    "Hellish Rebuke": {
+      "name": "煉獄叱喝 Hellish Rebuke"
+    },
+    "Heroes' Feast": {
+      "name": "英雄宴 Heroes' Feast"
+    },
+    "Heroism": {
+      "name": "英雄氣概 Heroism"
+    },
+    "Hex": {
+      "name": "脆弱詛咒 Hex"
+    },
+    "Hold Monster": {
+      "name": "怪物定身術 Hold Monster"
+    },
+    "Hold Person": {
+      "name": "人類定身術 Hold Person"
+    },
+    "Holy Aura": {
+      "name": "神聖靈光 Holy Aura"
+    },
+    "Hunger of Hadar": {
+      "name": "哈達之欲 Hunger of Hadar"
+    },
+    "Hunter's Mark": {
+      "name": "獵人印記 Hunter's Mark"
+    },
+    "Hypnotic Pattern": {
+      "name": "催眠圖紋 Hypnotic Pattern"
+    },
+    "Ice Knife": {
+      "name": "冰刃 Ice Knife"
+    },
+    "Ice Storm": {
+      "name": "冰風暴 Ice Storm"
+    },
+    "Identify": {
+      "name": "鑑定術 Identify"
+    },
+    "Illusory Script": {
+      "name": "迷幻手稿 Illusory Script"
+    },
+    "Imprisonment": {
+      "name": "禁錮術 Imprisonment"
+    },
+    "Incendiary Cloud": {
+      "name": "焚雲術 Incendiary Cloud"
+    },
+    "Inflict Wounds": {
+      "name": "造成傷勢 Inflict Wounds"
+    },
+    "Insect Plague": {
+      "name": "疫病蟲群 Insect Plague"
+    },
+    "Invisibility": {
+      "name": "隱形術 Invisibility"
+    },
+    "Jallarzi's Storm of Radiance": {
+      "name": "Jallarzi's Storm of Radiance"
+    },
+    "Jump": {
+      "name": "跳躍術 Jump"
+    },
+    "Knock": {
+      "name": "敲擊術 Knock"
+    },
+    "Legend Lore": {
+      "name": "通曉傳奇 Legend Lore"
+    },
+    "Leomund's Secret Chest": {
+      "name": "李歐蒙秘藏箱 Leomund's Secret Chest"
+    },
+    "Leomund's Tiny Hut": {
+      "name": "李歐蒙小屋 Leomund's Tiny Hut"
+    },
+    "Lesser Restoration": {
+      "name": "次級復原術 Lesser Restoration"
+    },
+    "Levitate": {
+      "name": "浮空術 Levitate"
+    },
+    "Light": {
+      "name": "光亮術 Light"
+    },
+    "Lightning Arrow": {
+      "name": "閃電箭矢 Lightning Arrow"
+    },
+    "Lightning Bolt": {
+      "name": "閃電束 Lightning Bolt"
+    },
+    "Locate Animals or Plants": {
+      "name": "動植物定位術 Locate Animals or Plants"
+    },
+    "Locate Creature": {
+      "name": "生物定位術 Locate Creature"
+    },
+    "Locate Object": {
+      "name": "物品定位術 Locate Object"
+    },
+    "Longstrider": {
+      "name": "大步奔行 Longstrider"
+    },
+    "Mage Armor": {
+      "name": "法師護甲 Mage Armor"
+    },
+    "Mage Hand": {
+      "name": "法師之手 Mage Hand"
+    },
+    "Magic Circle": {
+      "name": "防護法陣 Magic Circle"
+    },
+    "Magic Jar": {
+      "name": "魔魂壺 Magic Jar"
+    },
+    "Magic Missile": {
+      "name": "魔法飛彈 Magic Missile"
+    },
+    "Magic Mouth": {
+      "name": "魔嘴術 Magic Mouth"
+    },
+    "Magic Weapon": {
+      "name": "魔化武器 Magic Weapon"
+    },
+    "Magical Berries": {
+      "name": "魔法莓果 Magical Berries"
+    },
+    "Major Image": {
+      "name": "強效幻影 Major Image"
+    },
+    "Mass Cure Wounds": {
+      "name": "群體治療傷勢 Mass Cure Wounds"
+    },
+    "Mass Heal": {
+      "name": "群體治癒術 Mass Heal"
+    },
+    "Mass Healing Word": {
+      "name": "群體治癒真言 Mass Healing Word"
+    },
+    "Mass Suggestion": {
+      "name": "群體暗示術 Mass Suggestion"
+    },
+    "Maze": {
+      "name": "迷宮術 Maze"
+    },
+    "Meld into Stone": {
+      "name": "融身入石 Meld into Stone"
+    },
+    "Melf's Acid Arrow": {
+      "name": "馬友夫強酸箭 Melf's Acid Arrow"
+    },
+    "Mending": {
+      "name": "修復術 Mending"
+    },
+    "Message": {
+      "name": "傳訊術 Message"
+    },
+    "Meteor Swarm": {
+      "name": "流星爆 Meteor Swarm"
+    },
+    "Mind Blank": {
+      "name": "心靈屏障 Mind Blank"
+    },
+    "Mind Sliver": {
+      "name": "心靈撕裂 Mind Sliver"
+    },
+    "Mind Spike": {
+      "name": "心靈探針 Mind Spike"
+    },
+    "Minor Illusion": {
+      "name": "次級幻象 Minor Illusion"
+    },
+    "Mirage Arcane": {
+      "name": "海市蜃樓 Mirage Arcane"
+    },
+    "Mirror Image": {
+      "name": "鏡影術 Mirror Image"
+    },
+    "Mislead": {
+      "name": "假象術 Mislead"
+    },
+    "Misty Step": {
+      "name": "迷蹤步 Misty Step"
+    },
+    "Modify Memory": {
+      "name": "修改記憶 Modify Memory"
+    },
+    "Moonbeam": {
+      "name": "月華之光 Moonbeam"
+    },
+    "Mordenkainen's Faithful Hound": {
+      "name": "魔鄧肯忠犬 Mordenkainen's Faithful Hound"
+    },
+    "Mordenkainen's Magnificent Mansion": {
+      "name": "魔鄧肯豪宅術 Mordenkainen's Magnificent Mansion"
+    },
+    "Mordenkainen's Private Sanctum": {
+      "name": "魔鄧肯私人密室 Mordenkainen's Private Sanctum"
+    },
+    "Mordenkainen's Sword": {
+      "name": "魔鄧肯之劍 Mordenkainen's Sword"
+    },
+    "Move Earth": {
+      "name": "地動術 Move Earth"
+    },
+    "Nondetection": {
+      "name": "迴避偵測 Nondetection"
+    },
+    "Nystul's Magic Aura": {
+      "name": "涅斯圖魔法靈光 Nystul's Magic Aura"
+    },
+    "Otiluke's Freezing Sphere": {
+      "name": "歐提路克冰凍法球 Otiluke's Freezing Sphere"
+    },
+    "Otiluke's Resilient Sphere": {
+      "name": "歐提路克魔封法球 Otiluke's Resilient Sphere"
+    },
+    "Otto's Irresistible Dance": {
+      "name": "奧圖狂舞術 Otto's Irresistible Dance"
+    },
+    "Pass without Trace": {
+      "name": "行蹤無跡 Pass without Trace"
+    },
+    "Passwall": {
+      "name": "穿牆術 Passwall"
+    },
+    "Phantasmal Force": {
+      "name": "魅影之力 Phantasmal Force"
+    },
+    "Phantasmal Killer": {
+      "name": "魅影殺手 Phantasmal Killer"
+    },
+    "Phantom Steed": {
+      "name": "魅影駒 Phantom Steed"
+    },
+    "Planar Ally": {
+      "name": "異界盟友 Planar Ally"
+    },
+    "Planar Binding": {
+      "name": "異界誓縛 Planar Binding"
+    },
+    "Plane Shift": {
+      "name": "異界傳送 Plane Shift"
+    },
+    "Plant Growth": {
+      "name": "植物滋長 Plant Growth"
+    },
+    "Poison Spray": {
+      "name": "毒氣噴灑 Poison Spray"
+    },
+    "Polymorph": {
+      "name": "變形術 Polymorph"
+    },
+    "Power Word Fortify": {
+      "name": "律令強化 Power Word Fortify"
+    },
+    "Power Word Heal": {
+      "name": "律令治癒 Power Word Heal"
+    },
+    "Power Word Kill": {
+      "name": "律令死亡 Power Word Kill"
+    },
+    "Power Word Stun": {
+      "name": "律令震懾 Power Word Stun"
+    },
+    "Prayer of Healing": {
+      "name": "治癒祈禱 Prayer of Healing"
+    },
+    "Prestidigitation": {
+      "name": "魔法技倆  Prestidigitation"
+    },
+    "Prismatic Spray": {
+      "name": "虹光噴射 Prismatic Spray"
+    },
+    "Prismatic Wall": {
+      "name": "虹光法牆 Prismatic Wall"
+    },
+    "Produce Flame": {
+      "name": "燃火術 Produce Flame"
+    },
+    "Programmed Illusion": {
+      "name": "預置幻象 Programmed Illusion"
+    },
+    "Project Image": {
+      "name": "投射幻影 Project Image"
+    },
+    "Protection from Energy": {
+      "name": "防護能量 Protection from Energy"
+    },
+    "Protection from Evil and Good": {
+      "name": "防護善惡 Protection from Evil and Good"
+    },
+    "Protection from Poison": {
+      "name": "防護毒素 Protection from Poison"
+    },
+    "Purify Food and Drink": {
+      "name": "淨化飲食 Purify Food and Drink"
+    },
+    "Raise Dead": {
+      "name": "喚醒死者 Raise Dead"
+    },
+    "Rary's Telepathic Bond": {
+      "name": "拉瑞心靈聯結 Rary's Telepathic Bond"
+    },
+    "Ray of Enfeeblement": {
+      "name": "衰弱射線 Ray of Enfeeblement"
+    },
+    "Ray of Frost": {
+      "name": "冷凍射線 Ray of Frost"
+    },
+    "Ray of Sickness": {
+      "name": "致病射線 Ray of Sickness"
+    },
+    "Regenerate": {
+      "name": "再生術 Regenerate"
+    },
+    "Reincarnate": {
+      "name": "轉生術 Reincarnate"
+    },
+    "Remove Curse": {
+      "name": "移除詛咒 Remove Curse"
+    },
+    "Resistance": {
+      "name": "提升抗力 Resistance"
+    },
+    "Resurrection": {
+      "name": "復活術 Resurrection"
+    },
+    "Reverse Gravity": {
+      "name": "重力反轉 Reverse Gravity"
+    },
+    "Revivify": {
+      "name": "回生術 Revivify"
+    },
+    "Rope Trick": {
+      "name": "通天繩 Rope Trick"
+    },
+    "Sacred Flame": {
+      "name": "聖焰 Sacred Flame"
+    },
+    "Sanctuary": {
+      "name": "聖域術 Sanctuary"
+    },
+    "Scorching Ray": {
+      "name": "灼熱射線 Scorching Ray"
+    },
+    "Scrying": {
+      "name": "探知 Scrying"
+    },
+    "Searing Smite": {
+      "name": "熾炎斬 Searing Smite"
+    },
+    "See Invisibility": {
+      "name": "識破隱形 See Invisibility"
+    },
+    "Seeming": {
+      "name": "偽裝術 Seeming"
+    },
+    "Sending": {
+      "name": "短訊術 Sending"
+    },
+    "Sequester": {
+      "name": "隔離術 Sequester"
+    },
+    "Shapechange": {
+      "name": "形體變化 Shapechange"
+    },
+    "Shatter": {
+      "name": "粉碎音波 Shatter"
+    },
+    "Shield": {
+      "name": "護盾術 Shield"
+    },
+    "Shield of Faith": {
+      "name": "虔誠護盾 Shield of Faith"
+    },
+    "Shillelagh": {
+      "name": "橡棍術 Shillelagh"
+    },
+    "Shining Smite": {
+      "name": "閃耀斬 Shining Smite"
+    },
+    "Shocking Grasp": {
+      "name": "電爪 Shocking Grasp"
+    },
+    "Silence": {
+      "name": "沉默術 Silence"
+    },
+    "Silent Image": {
+      "name": "無聲幻影 Silent Image"
+    },
+    "Simulacrum": {
+      "name": "擬像術 Simulacrum"
+    },
+    "Sleep": {
+      "name": "睡眠術 Sleep"
+    },
+    "Sleet Storm": {
+      "name": "雪雨暴 Sleet Storm"
+    },
+    "Slow": {
+      "name": "緩速術 Slow"
+    },
+    "Sorcerous Burst": {
+      "name": "術法衝擊 Sorcerous Burst"
+    },
+    "Spare the Dying": {
+      "name": "維生術 Spare the Dying"
+    },
+    "Speak with Animals": {
+      "name": "動物交談 Speak with Animals"
+    },
+    "Speak with Dead": {
+      "name": "死者交談 Speak with Dead"
+    },
+    "Speak with Plants": {
+      "name": "植物交談 Speak with Plants"
+    },
+    "Spider Climb": {
+      "name": "蛛行術 Spider Climb"
+    },
+    "Spike Growth": {
+      "name": "荊棘叢生 Spike Growth"
+    },
+    "Spirit Guardians": {
+      "name": "靈體守衛 Spirit Guardians"
+    },
+    "Spiritual Weapon": {
+      "name": "靈體武器 Spiritual Weapon"
+    },
+    "Staggering Smite": {
+      "name": "驚震斬 Staggering Smite"
+    },
+    "Starry Wisp": {
+      "name": "流光閃靈 Starry Wisp"
+    },
+    "Steel Wind Strike": {
+      "name": "鋼風斬 Steel Wind Strike"
+    },
+    "Stinking Cloud": {
+      "name": "臭雲術 Stinking Cloud"
+    },
+    "Stone Shape": {
+      "name": "塑石術 Stone Shape"
+    },
+    "Stoneskin": {
+      "name": "石膚術 Stoneskin"
+    },
+    "Storm of Vengeance": {
+      "name": "復仇風暴 Storm of Vengeance"
+    },
+    "Suggestion": {
+      "name": "暗示術 Suggestion"
+    },
+    "Summon Aberration": {
+      "name": "異怪召喚術 Summon Aberration"
+    },
+    "Summon Beast": {
+      "name": "野獸召喚術 Summon Beast"
+    },
+    "Summon Celestial": {
+      "name": "天界召喚術 Summon Celestial"
+    },
+    "Summon Construct": {
+      "name": "構裝體召喚術 Summon Construct"
+    },
+    "Summon Dragon": {
+      "name": "龍類召喚術 Summon Dragon"
+    },
+    "Summon Elemental": {
+      "name": "元素召喚術 Summon Elemental"
+    },
+    "Summon Fey": {
+      "name": "精怪召喚術 Summon Fey"
+    },
+    "Summon Fiend": {
+      "name": "邪魔召喚術 Summon Fiend"
+    },
+    "Summon Undead": {
+      "name": "亡靈召喚術 Summon Undead"
+    },
+    "Sunbeam": {
+      "name": "烈日光束 Sunbeam"
+    },
+    "Sunburst": {
+      "name": "陽炎爆 Sunburst"
+    },
+    "Swift Quiver": {
+      "name": "迅捷箭袋 Swift Quiver"
+    },
+    "Symbol": {
+      "name": "徽記術 Symbol"
+    },
+    "Synaptic Static": {
+      "name": "突觸噪亂 Synaptic Static"
+    },
+    "Tasha's Bubbling Cauldron": {
+      "name": "塔莎的萬靈坩堝 Tasha's Bubbling Cauldron"
+    },
+    "Tasha's Hideous Laughter": {
+      "name": "塔莎的狂笑術 Tasha's Hideous Laughter"
+    },
+    "Telekinesis": {
+      "name": "心靈遙控 Telekinesis"
+    },
+    "Telepathy": {
+      "name": "心靈感應 Telepathy"
+    },
+    "Teleport": {
+      "name": "傳送術 Teleport"
+    },
+    "Teleportation Circle": {
+      "name": "傳送法陣 Teleportation Circle"
+    },
+    "Tenser's Floating Disk": {
+      "name": "譚森浮碟術 Tenser's Floating Disk"
+    },
+    "Thaumaturgy": {
+      "name": "奇術 Thaumaturgy"
+    },
+    "Thorn Whip": {
+      "name": "荊棘之鞭 Thorn Whip"
+    },
+    "Thunderclap": {
+      "name": "鳴雷破 Thunderclap"
+    },
+    "Thunderous Smite": {
+      "name": "雷霆斬 Thunderous Smite"
+    },
+    "Thunderwave": {
+      "name": "雷鳴波 Thunderwave"
+    },
+    "Time Stop": {
+      "name": "時間停止 Time Stop"
+    },
+    "Toll the Dead": {
+      "name": "亡者喪鐘 Toll the Dead"
+    },
+    "Tongues": {
+      "name": "巧舌術 Tongues"
+    },
+    "Transport via Plants": {
+      "name": "植物遁走術 Transport via Plants"
+    },
+    "Tree Stride": {
+      "name": "樹躍術 Tree Stride"
+    },
+    "True Polymorph": {
+      "name": "完全變形術 True Polymorph"
+    },
+    "True Resurrection": {
+      "name": "完全復活術 True Resurrection"
+    },
+    "True Seeing": {
+      "name": "真知術 True Seeing"
+    },
+    "True Strike": {
+      "name": "克敵機先 True Strike"
+    },
+    "Tsunami": {
+      "name": "海嘯術 Tsunami"
+    },
+    "Unseen Servant": {
+      "name": "隱形僕役 Unseen Servant"
+    },
+    "Vampiric Touch": {
+      "name": "吸血鬼之觸 Vampiric Touch"
+    },
+    "Vicious Mockery": {
+      "name": "惡言相加 Vicious Mockery"
+    },
+    "Vitriolic Sphere": {
+      "name": "硫酸法球 Vitriolic Sphere"
+    },
+    "Wall of Fire": {
+      "name": "火牆術 Wall of Fire"
+    },
+    "Wall of Force": {
+      "name": "力場牆術 Wall of Force"
+    },
+    "Wall of Ice": {
+      "name": "冰牆術 Wall of Ice"
+    },
+    "Wall of Stone": {
+      "name": "石牆術 Wall of Stone"
+    },
+    "Wall of Thorns": {
+      "name": "棘牆術 Wall of Thorns"
+    },
+    "Warding Bond": {
+      "name": "守護之鍊 Warding Bond"
+    },
+    "Water Breathing": {
+      "name": "水下呼吸 Water Breathing"
+    },
+    "Water Walk": {
+      "name": "水上行走 Water Walk"
+    },
+    "Web": {
+      "name": "蛛網術 Web"
+    },
+    "Weird": {
+      "name": "怪影殺手 Weird"
+    },
+    "Wind Walk": {
+      "name": "御風而行 Wind Walk"
+    },
+    "Wind Wall": {
+      "name": "風牆術 Wind Wall"
+    },
+    "Wish": {
+      "name": "祈願術 Wish"
+    },
+    "Witch Bolt": {
+      "name": "巫術箭 Witch Bolt"
+    },
+    "Word of Radiance": {
+      "name": "光耀禱詞 Word of Radiance"
+    },
+    "Word of Recall": {
+      "name": "回返真言 Word of Recall"
+    },
+    "Wrathful Smite": {
+      "name": "激憤斬 Wrathful Smite"
+    },
+    "Yolande's Regal Presence": {
+      "name": "悠蘭德皇室威儀 Yolande's Regal Presence"
+    },
+    "Zone of Truth": {
+      "name": "誠實之域 Zone of Truth"
+    }
+  }
+}

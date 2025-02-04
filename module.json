@@ -1,0 +1,29 @@
+{
+  "id": "rick_5r_mod",
+  "title": "5r 中文翻譯模組",
+  "description": "5r AI翻譯版本",
+  "authors": [
+    {
+      "name": "Rick Luo",
+      "url": "https://github.com/rickluo94",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
