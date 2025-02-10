@@ -5,7 +5,7 @@
       "name": "異變術法 Aberrant Sorcery"
     },
     "Abjuration Savant": {
-      "name": "Abjuration Savant"
+      "name": "防護學者 Abjuration Savant"
     },
     "Abjure Foes": {
       "name": "聖誓威懾 Abjure Foes"
@@ -56,13 +56,13 @@
       "name": "至高妖精契主 Archfey Patron"
     },
     "Archfey Spells": {
-      "name": "Archfey Spells"
+      "name": "至高妖精法術 Archfey Spells"
     },
     "Armor of Shadows": {
-      "name": "Armor of Shadows"
+      "name": "暗影護甲 Armor of Shadows"
     },
     "Ascendant Step": {
-      "name": "Ascendant Step"
+      "name": "躍升步伐 Ascendant Step"
     },
     "Aspect of the Wilds": {
       "name": "野性面貌 Aspect of the Wilds"
@@ -80,7 +80,7 @@
       "name": "Aura Expansion"
     },
     "Aura of Alacrity": {
-      "name": "Aura of Alacrity"
+      "name": "迅捷靈光 Aura of Alacrity"
     },
     "Aura of Courage": {
       "name": "勇氣靈光 Aura of Courage"
@@ -101,7 +101,7 @@
       "name": "復仇天使 Avenging Angel"
     },
     "Awakened Mind": {
-      "name": "Awakened Mind"
+      "name": "覺醒心智 Awakened Mind"
     },
     "Bait and Switch": {
       "name": "誘餌戰術 Bait and Switch"
@@ -134,7 +134,7 @@
       "name": "野獸施法 Beast Spells"
     },
     "Beguiling Defenses": {
-      "name": "Beguiling Defenses"
+      "name": "迷惑防護 Beguiling Defenses"
     },
     "Beguiling Magic": {
       "name": "迷人魔法 Beguiling Magic"
@@ -149,7 +149,7 @@
       "name": "野性狂怒 Bestial Fury"
     },
     "Bewitching Magic": {
-      "name": "Bewitching Magic"
+      "name": "銷魂魔法 Bewitching Magic"
     },
     "Blessed Healer": {
       "name": "受祝醫者 Blessed Healer"
@@ -164,10 +164,10 @@
       "name": "Blessed Strikes: Potent Spellcasting"
     },
     "Blessing of the Trickster": {
-      "name": "Blessing of the Trickster"
+      "name": "詭術祝福 Blessing of the Trickster"
     },
     "Body and Mind": {
-      "name": "Body and Mind"
+      "name": "身心極境 Body and Mind"
     },
     "Bonus Proficiencies": {
       "name": "額外熟練 Bonus Proficiencies"
@@ -179,13 +179,13 @@
       "name": "世界樹枝幹 Branches of the Tree"
     },
     "Brutal Strike": {
-      "name": "Brutal Strike"
+      "name": "凶蠻打擊 Brutal Strike"
     },
     "Bulwark of Force": {
       "name": "力場壁壘 Bulwark of Force"
     },
     "Careful Spell": {
-      "name": "Careful Spell"
+      "name": "謹慎法術 Careful Spell"
     },
     "Celestial Patron": {
       "name": "天界契主 Celestial Patron"
@@ -284,7 +284,7 @@
       "name": "反制魅惑 Countercharm"
     },
     "Create Thrall": {
-      "name": "Create Thrall"
+      "name": "創造奴僕 Create Thrall"
     },
     "Cunning Action": {
       "name": "巧妙動作 Cunning Action"
@@ -296,13 +296,13 @@
       "name": "尖刻言詞 Cutting Words"
     },
     "Danger Sense": {
-      "name": "Danger Sense"
+      "name": "險境感知 Danger Sense"
     },
     "Dark One's Blessing": {
-      "name": "Dark One's Blessing"
+      "name": "黑暗者賜福 Dark One's Blessing"
     },
     "Dark One's Own Luck": {
-      "name": "Dark One's Own Luck"
+      "name": "黑暗者強運 Dark One's Own Luck"
     },
     "Dazzling Footwork": {
       "name": "炫目步法 Dazzling Footwork"
@@ -560,13 +560,13 @@
       "name": "繁星滿溢 Full of Stars"
     },
     "Gaze of Two Minds": {
-      "name": "Gaze of Two Minds"
+      "name": "聯心之視 Gaze of Two Minds"
     },
     "Gift of the Depths": {
-      "name": "Gift of the Depths"
+      "name": "深海之賜 Gift of the Depths"
     },
     "Gift of the Protectors": {
-      "name": "Gift of the Protectors"
+      "name": "守護饋贈 Gift of the Protectors"
     },
     "Gloom Stalker": {
       "name": "幽域追蹤者 Gloom Stalker"
@@ -575,22 +575,22 @@
       "name": "幽域追蹤者法術 Gloom Stalker Spells"
     },
     "Glorious Defense": {
-      "name": "Glorious Defense"
+      "name": "光榮防禦 Glorious Defense"
     },
     "Goading Attack": {
       "name": "挑釁攻擊 Goading Attack"
     },
     "Great Old One Patron": {
-      "name": "Great Old One Patron"
+      "name": "舊日支配者契主 Great Old One Patron"
     },
     "Great Old One Spells": {
-      "name": "Great Old One Spells"
+      "name": "舊日支配者法術 Great Old One Spells"
     },
     "Greater Divine Intervention": {
       "name": "高等神力干預 Greater Divine Intervention"
     },
     "Greater Portent": {
-      "name": "Greater Portent"
+      "name": "高等預兆 Greater Portent"
     },
     "Guarded Mind": {
       "name": "防護心智 Guarded Mind"
@@ -599,28 +599,28 @@
       "name": "神導打擊 Guided Strike"
     },
     "Hand of Harm": {
-      "name": "Hand of Harm"
+      "name": "奪命之手 Hand of Harm"
     },
     "Hand of Healing": {
-      "name": "Hand of Healing"
+      "name": "予命之手 Hand of Healing"
     },
     "Hand of Ultimate Mercy": {
-      "name": "Hand of Ultimate Mercy"
+      "name": "命極之手 Hand of Ultimate Mercy"
     },
     "Healing Light": {
-      "name": "Healing Light"
+      "name": "治癒之光 Healing Light"
     },
     "Heightened Focus": {
-      "name": "Heightened Focus"
+      "name": "增強專注 Heightened Focus"
     },
     "Heightened Spell": {
-      "name": "Heightened Spell"
+      "name": "升階法術 Heightened Spell"
     },
     "Heroic Warrior": {
       "name": "英勇戰士 Heroic Warrior"
     },
     "Holy Nimbus": {
-      "name": "Holy Nimbus"
+      "name": "神聖光環 Holy Nimbus"
     },
     "Hunter": {
       "name": "獵人 Hunter"
@@ -632,28 +632,28 @@
       "name": "狩者獵物 Hunter's Prey"
     },
     "Hurl Through Hell": {
-      "name": "Hurl Through Hell"
+      "name": "直墮地獄 Hurl Through Hell"
     },
     "Illusion Savant": {
-      "name": "Illusion Savant"
+      "name": "幻術學者 Illusion Savant"
     },
     "Illusionist": {
-      "name": "Illusionist"
+      "name": "幻術學家 Illusionist"
     },
     "Illusory Reality": {
-      "name": "Illusory Reality"
+      "name": "亦真亦幻 Illusory Reality"
     },
     "Illusory Self": {
-      "name": "Illusory Self"
+      "name": "幻影分身 Illusory Self"
     },
     "Implements of Mercy": {
-      "name": "Implements of Mercy"
+      "name": "命流之器 Implements of Mercy"
     },
     "Improved Blessed Strikes": {
       "name": "強化受祝打擊 Improved Blessed Strikes"
     },
     "Improved Brutal Strike": {
-      "name": "Improved Brutal Strike"
+      "name": "強化凶蠻打擊 Improved Brutal Strike"
     },
     "Improved Brutal Strike (2)": {
       "name": "Improved Brutal Strike (2)"
@@ -677,10 +677,10 @@
       "name": "強化元素之怒 Improved Elemental Fury"
     },
     "Improved Illusions": {
-      "name": "Improved Illusions"
+      "name": "強化幻象 Improved Illusions"
     },
     "Improved Shadow Step": {
-      "name": "Improved Shadow Step"
+      "name": "強化暗影步 Improved Shadow Step"
     },
     "Improved War Magic": {
       "name": "強化戰爭魔法 Improved War Magic"
@@ -692,7 +692,7 @@
       "name": "不屈 Indomitable"
     },
     "Indomitable Might": {
-      "name": "Indomitable Might"
+      "name": "不屈勇武 Indomitable Might"
     },
     "Infiltration Expertise": {
       "name": "專業滲透 Infiltration Expertise"
@@ -755,7 +755,7 @@
       "name": "光明領域法術 Light Domain Spells"
     },
     "Living Legend": {
-      "name": "Living Legend"
+      "name": "在世傳奇 Living Legend"
     },
     "Lunar Form": {
       "name": "月相形態 Lunar Form"
@@ -983,7 +983,7 @@
       "name": "Primal Order: Warden"
     },
     "Projected Ward": {
-      "name": "Projected Ward"
+      "name": "結界投射 Projected Ward"
     },
     "Psi Warrior": {
       "name": "靈能武士 Psi Warrior"
@@ -1025,7 +1025,7 @@
       "name": "黎明光輝 Radiance of the Dawn"
     },
     "Radiant Soul": {
-      "name": "Radiant Soul"
+      "name": "光輝之魂 Radiant Soul"
     },
     "Radiant Strikes": {
       "name": "光耀打擊 Radiant Strikes"
@@ -1094,22 +1094,22 @@
       "name": "盜賊 Rogue"
     },
     "Roving": {
-      "name": "Roving"
+      "name": "漫遊者 Roving"
     },
     "Sacred Weapon": {
       "name": "至聖武器 Sacred Weapon"
     },
     "Scholar": {
-      "name": "Scholar"
+      "name": "學者 Scholar"
     },
     "Sculpt Spells": {
-      "name": "Sculpt Spells"
+      "name": "形塑法術 Sculpt Spells"
     },
     "Sear Undead": {
       "name": "聖灼不死 Sear Undead"
     },
     "Searing Vengeance": {
-      "name": "Searing Vengeance"
+      "name": "灼光復仇 Searing Vengeance"
     },
     "Second Wind": {
       "name": "回氣 Second Wind"
@@ -1118,16 +1118,16 @@
       "name": "梁上君子 Second-Story Work"
     },
     "Seeking Spell": {
-      "name": "Seeking Spell"
+      "name": "追蹤法術 Seeking Spell"
     },
     "Self-Restoration": {
       "name": "Self-Restoration"
     },
     "Shadow Arts": {
-      "name": "Shadow Arts"
+      "name": "影之技藝 Shadow Arts"
     },
     "Shadow Step": {
-      "name": "Shadow Step"
+      "name": "暗影步 Shadow Step"
     },
     "Shadowy Dodge": {
       "name": "暗影閃避 Shadowy Dodge"
@@ -1214,16 +1214,16 @@
       "name": "分析攻擊 Studied Attacks"
     },
     "Stunning Strike": {
-      "name": "Stunning Strike"
+      "name": "震懾打擊 Stunning Strike"
     },
     "Subtle Spell": {
-      "name": "Subtle Spell"
+      "name": "精妙法術 Subtle Spell"
     },
     "Superior Critical": {
       "name": "卓越重擊 Superior Critical"
     },
     "Superior Defense": {
-      "name": "Superior Defense"
+      "name": "卓越防禦 Superior Defense"
     },
     "Superior Hunter's Defense": {
       "name": "卓越獵人防禦 Superior Hunter's Defense"
@@ -1325,7 +1325,7 @@
       "name": "閃爍星座 Twinkling Constellations"
     },
     "Twinned Spell": {
-      "name": "Twinned Spell"
+      "name": "孿生法術 Twinned Spell"
     },
     "Two Extra Attacks": {
       "name": "兩次額外攻擊 Two Extra Attacks"
