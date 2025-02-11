@@ -68,7 +68,7 @@
       "name": "野性面貌 Aspect of the Wilds"
     },
     "Assasinate": {
-      "name": "Assasinate"
+      "name": "暗殺 Assasinate"
     },
     "Assassin": {
       "name": "刺客 Assassin"
@@ -77,7 +77,7 @@
       "name": "刺客工具 Assassin's Tools"
     },
     "Aura Expansion": {
-      "name": "Aura Expansion"
+      "name": "光環擴展 Aura Expansion"
     },
     "Aura of Alacrity": {
       "name": "迅捷靈光 Aura of Alacrity"
@@ -173,7 +173,7 @@
       "name": "額外熟練 Bonus Proficiencies"
     },
     "Book of Shadows": {
-      "name": "Book of Shadows"
+      "name": "暗影之書 Book of Shadows"
     },
     "Branches of the Tree": {
       "name": "世界樹枝幹 Branches of the Tree"
@@ -383,7 +383,7 @@
       "name": "龍之翼 Dragon Wings"
     },
     "Dread Ambusher": {
-      "name": "Dread Ambusher"
+      "name": "恐懼伏擊者 Dread Ambusher"
     },
     "Dreadful Strikes": {
       "name": "哀懼打擊 Dreadful Strikes"
@@ -1121,7 +1121,7 @@
       "name": "追蹤法術 Seeking Spell"
     },
     "Self-Restoration": {
-      "name": "Self-Restoration"
+      "name": "自我恢復 Self-Restoration"
     },
     "Shadow Arts": {
       "name": "影之技藝 Shadow Arts"
@@ -1136,16 +1136,16 @@
       "name": "法術共享 Share Spells"
     },
     "Signature Spells": {
-      "name": "Signature Spells"
+      "name": "招牌法術 Signature Spells"
     },
     "Slippery Mind": {
       "name": "靈活心智 Slippery Mind"
     },
     "Slow Fall": {
-      "name": "Slow Fall"
+      "name": "輕身墜 Slow Fall"
     },
     "Smite of Protection": {
-      "name": "Smite of Protection"
+      "name": "守護至聖斬 Smite of Protection"
     },
     "Sneak Attack": {
       "name": "偷襲 Sneak Attack"
@@ -1169,13 +1169,13 @@
       "name": "魂刃 Soulknife"
     },
     "Spell Breaker": {
-      "name": "Spell Breaker"
+      "name": "法術破除者 Spell Breaker"
     },
     "Spell Mastery": {
-      "name": "Spell Mastery"
+      "name": "法術精通 Spell Mastery"
     },
     "Spell Resistance": {
-      "name": "Spell Resistance"
+      "name": "法術抗性 Spell Resistance"
     },
     "Spell Thief": {
       "name": "法術竊賊 Spell Thief"
@@ -1196,13 +1196,13 @@
       "name": "穩定瞄準 Steady Aim"
     },
     "Steps of the Fey": {
-      "name": "Steps of the Fey"
+      "name": "精怪步伐Steps of the Fey"
     },
     "Stormborn": {
       "name": "風暴之子 Stormborn"
     },
     "Stride of the Elements": {
-      "name": "Stride of the Elements"
+      "name": "元素步伐 Stride of the Elements"
     },
     "Stroke of Luck": {
       "name": "幸運一擊 Stroke of Luck"
