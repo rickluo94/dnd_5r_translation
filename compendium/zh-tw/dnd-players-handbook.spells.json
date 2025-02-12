@@ -206,7 +206,7 @@
       "name": "召喚元素生物 Conjure Elemental"
     },
     "Conjure Fey": {
-      "name": "召喚精怪生物 Conjure Fey"
+      "name": "召喚妖精生物 Conjure Fey"
     },
     "Conjure Minor Elementals": {
       "name": "召喚次級元素生物 Conjure Minor Elementals"
@@ -884,7 +884,7 @@
       "name": "通天繩 Rope Trick"
     },
     "Sacred Flame": {
-      "name": "聖焰 Sacred Flame"
+      "name": "聖火術 Sacred Flame"
     },
     "Sanctuary": {
       "name": "聖域術 Sanctuary"
@@ -1019,13 +1019,13 @@
       "name": "元素召喚術 Summon Elemental"
     },
     "Summon Fey": {
-      "name": "精怪召喚術 Summon Fey"
+      "name": "妖精召喚術 Summon Fey"
     },
     "Summon Fiend": {
       "name": "邪魔召喚術 Summon Fiend"
     },
     "Summon Undead": {
-      "name": "亡靈召喚術 Summon Undead"
+      "name": "不死亡靈召喚術 Summon Undead"
     },
     "Sunbeam": {
       "name": "烈日光束 Sunbeam"

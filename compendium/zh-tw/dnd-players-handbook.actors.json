@@ -12,28 +12,28 @@
           "name": "再生 Regeneration"
         },
         "Whispering Aura": {
-          "name": "Whispering Aura"
+          "name": "低語靈光 Whispering Aura"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
         },
         "Claw": {
-          "name": "Claw"
+          "name": "爪子 Claw"
         },
         "Eye Ray": {
-          "name": "Eye Ray"
+          "name": "眼波射線 Eye Ray"
         },
         "Psychic Slam": {
-          "name": "Psychic Slam"
+          "name": "心靈衝擊 Psychic Slam"
         }
       }
     },
     "Air Elemental Spirit": {
-      "name": "大氣元素 Air Elemental Spirit",
-      "tokenName": "大氣元素 Elemental Spirit",
+      "name": "氣元素之靈 Air Elemental Spirit",
+      "tokenName": "元素之靈 Elemental Spirit",
       "items": {
         "Amorphous Form": {
-          "name": "Amorphous Form"
+          "name": "不定形形態(類軟泥) Amorphous Form"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -55,10 +55,10 @@
           "name": "多重攻擊 Multiattack"
         },
         "Fist": {
-          "name": "Fist"
+          "name": "拳頭 Fist"
         },
         "Rock": {
-          "name": "Rock"
+          "name": "岩石 Rock"
         }
       }
     },
@@ -67,7 +67,7 @@
       "tokenName": "祕法眼 Arcane Eye",
       "items": {
         "Move": {
-          "name": "Move"
+          "name": "移動 Move"
         }
       }
     },
@@ -256,7 +256,7 @@
           "name": "奇術 Thaumaturgy"
         },
         "Otherworldly Presence": {
-          "name": "超然存在 Otherworldly Presence"
+          "name": "異界存在 Otherworldly Presence"
         },
         "Fiendish Legacy, Chthonic": {
           "name": "邪魔遺贈, 幽冥 Fiendish Legacy, Chthonic"
@@ -291,8 +291,8 @@
       }
     },
     "Beast of the Land": {
-      "name": "Beast of the Land",
-      "tokenName": "Beast of the Land",
+      "name": "大地野獸 Beast of the Land",
+      "tokenName": "大地野獸 Beast of the Land",
       "items": {
         "Primal Bond": {
           "name": "Primal Bond"
@@ -303,11 +303,11 @@
       }
     },
     "Beast of the Sea": {
-      "name": "Beast of the Sea",
-      "tokenName": "Beast of the Sea",
+      "name": "海洋野獸 Beast of the Sea",
+      "tokenName": "海洋野獸 Beast of the Sea",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸兩用 Amphibious"
         },
         "Primal Bond": {
           "name": "Primal Bond"
@@ -318,8 +318,8 @@
       }
     },
     "Beast of the Sky": {
-      "name": "Beast of the Sky",
-      "tokenName": "Beast of the Sky",
+      "name": "天空野獸 Beast of the Sky",
+      "tokenName": "天空野獸 Beast of the Sky",
       "items": {
         "Flyby": {
           "name": "Flyby"
@@ -345,8 +345,8 @@
       }
     },
     "Bestial Air Spirit": {
-      "name": "Bestial Air Spirit",
-      "tokenName": "Bestial Spirit",
+      "name": "獸氣之靈 Bestial Air Spirit",
+      "tokenName": "獸靈 Bestial Spirit",
       "items": {
         "Flyby": {
           "name": "Flyby"
@@ -360,8 +360,8 @@
       }
     },
     "Bestial Land Spirit": {
-      "name": "Bestial Land Spirit",
-      "tokenName": "Bestial Spirit",
+      "name": "獸地之靈 Bestial Land Spirit",
+      "tokenName": "獸靈 Bestial Spirit",
       "items": {
         "Pack Tactics": {
           "name": "群體戰術 Pack Tactics"
@@ -375,8 +375,8 @@
       }
     },
     "Bestial Spirit": {
-      "name": "Bestial Spirit",
-      "tokenName": "Bestial Spirit",
+      "name": "獸靈 Bestial Spirit",
+      "tokenName": "獸靈 Bestial Spirit",
       "items": {
         "Flyby": {
           "name": "Flyby"
@@ -396,8 +396,8 @@
       }
     },
     "Bestial Water Spirit": {
-      "name": "Bestial Water Spirit",
-      "tokenName": "Bestial Spirit",
+      "name": "獸水之靈 Bestial Water Spirit",
+      "tokenName": "獸靈 Bestial Spirit",
       "items": {
         "Pack Tactics": {
           "name": "群體戰術 Pack Tactics"
@@ -414,8 +414,8 @@
       }
     },
     "Bigby's Hand": {
-      "name": "Bigby's Hand",
-      "tokenName": "Bigby's Hand",
+      "name": "畢格比之掌 Bigby's Hand",
+      "tokenName": "畢格比之掌 Bigby's Hand",
       "items": {
         "Clenched Fist": {
           "name": "Clenched Fist"
@@ -432,8 +432,8 @@
       }
     },
     "Black Bear": {
-      "name": "Black Bear",
-      "tokenName": "Black Bear",
+      "name": "黑熊 Black Bear",
+      "tokenName": "黑熊 Black Bear",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -444,8 +444,8 @@
       }
     },
     "Boar": {
-      "name": "Boar",
-      "tokenName": "Boar",
+      "name": "野豬 Boar",
+      "tokenName": "野豬 Boar",
       "items": {
         "Bloodied Fury": {
           "name": "Bloodied Fury"
@@ -456,8 +456,8 @@
       }
     },
     "Brown Bear": {
-      "name": "Brown Bear",
-      "tokenName": "Brown Bear",
+      "name": "棕熊 Brown Bear",
+      "tokenName": "棕熊 Brown Bear",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -466,13 +466,13 @@
           "name": "啃咬 Bite"
         },
         "Claw": {
-          "name": "Claw"
+          "name": "爪子 Claw"
         }
       }
     },
     "Camel": {
-      "name": "Camel",
-      "tokenName": "Camel",
+      "name": "駱駝 Camel",
+      "tokenName": "駱駝 Camel",
       "items": {
         "Bite": {
           "name": "啃咬 Bite"
@@ -480,8 +480,8 @@
       }
     },
     "Cat": {
-      "name": "Cat",
-      "tokenName": "Cat",
+      "name": "貓 Cat",
+      "tokenName": "貓 Cat",
       "items": {
         "Jumper": {
           "name": "Jumper"
@@ -492,8 +492,8 @@
       }
     },
     "Celestial Spirit": {
-      "name": "Celestial Spirit",
-      "tokenName": "Celestial Spirit",
+      "name": "天界之靈 Celestial Spirit",
+      "tokenName": "天界之靈 Celestial Spirit",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -510,8 +510,8 @@
       }
     },
     "Celestial Steed": {
-      "name": "Celestial Steed",
-      "tokenName": "Otherworldly Steed",
+      "name": "天界駿馬 Celestial Steed",
+      "tokenName": "異界駿馬 Otherworldly Steed",
       "items": {
         "Life Bond": {
           "name": "Life Bond"
@@ -525,8 +525,8 @@
       }
     },
     "Clay Construct Spirit": {
-      "name": "Clay Construct Spirit",
-      "tokenName": "Construct Spirit",
+      "name": "黏土構裝靈體 Clay Construct Spirit",
+      "tokenName": "構裝靈體 Construct Spirit",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -681,8 +681,8 @@
       }
     },
     "Conjured Fey": {
-      "name": "召喚精怪 Conjured Fey",
-      "tokenName": "召喚精怪 Conjured Fey",
+      "name": "召喚妖精 Conjured Fey",
+      "tokenName": "召喚妖精 Conjured Fey",
       "items": {
         "Command": {
           "name": "命令 Command"
@@ -741,23 +741,23 @@
       }
     },
     "Crab": {
-      "name": "Crab",
-      "tokenName": "Crab",
+      "name": "螃蟹 Crab",
+      "tokenName": "螃蟹 Crab",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸兩用 Amphibious"
         },
         "Claw": {
-          "name": "Claw"
+          "name": "爪子 Claw"
         }
       }
     },
     "Crocodile": {
-      "name": "Crocodile",
-      "tokenName": "Crocodile",
+      "name": "鱷魚 Crocodile",
+      "tokenName": "鱷魚 Crocodile",
       "items": {
         "Hold Breath": {
-          "name": "Hold Breath"
+          "name": "屏住呼吸 Hold Breath"
         },
         "Bite": {
           "name": "啃咬 Bite"
@@ -765,15 +765,15 @@
       }
     },
     "Dancing Light (Medium)": {
-      "name": "Dancing Light (Medium)",
-      "tokenName": "Dancing Light"
+      "name": "舞光術(中型) Dancing Light (Medium)",
+      "tokenName": "舞光術(中型) Dancing Light"
     },
     "Dancing Light (Tiny)": {
-      "name": "Dancing Light (Tiny)",
-      "tokenName": "Dancing Light"
+      "name": "舞光術(小型) Dancing Light (Tiny)",
+      "tokenName": "舞光術(小型) Dancing Light"
     },
     "Defender Spirit": {
-      "name": "Defender Spirit",
+      "name": "守護之靈 Defender Spirit",
       "tokenName": "Celestial Spirit",
       "items": {
         "Multiattack": {
@@ -788,8 +788,8 @@
       }
     },
     "Demon Spirit": {
-      "name": "Demon Spirit",
-      "tokenName": "Fiendish Spirit",
+      "name": "惡魔之靈 Demon Spirit",
+      "tokenName": "邪魔之靈 Fiendish Spirit",
       "items": {
         "Death Throes": {
           "name": "Death Throes"
@@ -806,8 +806,8 @@
       }
     },
     "Devil Spirit": {
-      "name": "Devil Spirit",
-      "tokenName": "Fiendish Spirit",
+      "name": "魔鬼之靈 Devil Spirit",
+      "tokenName": "邪魔之靈 Fiendish Spirit",
       "items": {
         "Devil’s Sight": {
           "name": "Devil’s Sight"
@@ -824,8 +824,8 @@
       }
     },
     "Dire Wolf": {
-      "name": "Dire Wolf",
-      "tokenName": "Dire Wolf",
+      "name": "恐狼 Dire Wolf",
+      "tokenName": "恐狼 Dire Wolf",
       "items": {
         "Pack Tactics": {
           "name": "群體戰術 Pack Tactics"
@@ -836,8 +836,8 @@
       }
     },
     "Draconic Spirit": {
-      "name": "Draconic Spirit",
-      "tokenName": "Draconic Spirit",
+      "name": "龍之靈 Draconic Spirit",
+      "tokenName": "龍之靈 Draconic Spirit",
       "items": {
         "Shared Resistances": {
           "name": "Shared Resistances"
@@ -854,8 +854,8 @@
       }
     },
     "Draft Horse": {
-      "name": "Draft Horse",
-      "tokenName": "Draft Horse",
+      "name": "輓馬 Draft Horse",
+      "tokenName": "輓馬 Draft Horse",
       "items": {
         "Hooves": {
           "name": "Hooves"
@@ -987,8 +987,8 @@
       "tokenName": "Duplicate"
     },
     "Earth Elemental Spirit": {
-      "name": "Earth Elemental Spirit",
-      "tokenName": "Elemental Spirit",
+      "name": "大地元素之靈 Earth Elemental Spirit",
+      "tokenName": "元素之靈 Elemental Spirit",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -999,11 +999,11 @@
       }
     },
     "Elemental Spirit": {
-      "name": "Elemental Spirit",
-      "tokenName": "Elemental Spirit",
+      "name": "元素之靈 Elemental Spirit",
+      "tokenName": "元素之靈 Elemental Spirit",
       "items": {
         "Amorphous Form": {
-          "name": "Amorphous Form"
+          "name": "不定形形態(類軟泥) Amorphous Form"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -1014,8 +1014,8 @@
       }
     },
     "Elephant": {
-      "name": "Elephant",
-      "tokenName": "Elephant",
+      "name": "象 Elephant",
+      "tokenName": "象 Elephant",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -1029,8 +1029,8 @@
       }
     },
     "Elk": {
-      "name": "Elk",
-      "tokenName": "Elk",
+      "name": "麋鹿 Elk",
+      "tokenName": "麋鹿 Elk",
       "items": {
         "Ram": {
           "name": "Ram"
@@ -1038,8 +1038,8 @@
       }
     },
     "Faithful Hound": {
-      "name": "Faithful Hound",
-      "tokenName": "Faithful Hound",
+      "name": "魔鄧肯忠犬 Faithful Hound",
+      "tokenName": "魔鄧肯忠犬 Faithful Hound",
       "items": {
         "Bite": {
           "name": "啃咬 Bite"
@@ -1047,17 +1047,17 @@
       }
     },
     "Fey Spirit": {
-      "name": "Fey Spirit",
-      "tokenName": "Fey Spirit",
+      "name": "妖精之靈 Fey Spirit",
+      "tokenName": "妖精之靈 Fey Spirit",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
         },
         "Fey Blade": {
-          "name": "Fey Blade"
+          "name": "妖精刀鋒 Fey Blade"
         },
         "Fey Step": {
-          "name": "Fey Step"
+          "name": "妖精步伐 Fey Step"
         },
         "Mirthful": {
           "name": "Mirthful"
@@ -1068,8 +1068,8 @@
       }
     },
     "Fey Steed": {
-      "name": "Fey Steed",
-      "tokenName": "Otherworldly Steed",
+      "name": "妖精駿馬 Fey Steed",
+      "tokenName": "異界駿馬 Otherworldly Steed",
       "items": {
         "Life Bond": {
           "name": "Life Bond"
@@ -1078,13 +1078,13 @@
           "name": "Otherworldly Slam"
         },
         "Fey Step": {
-          "name": "Fey Step"
+          "name": "妖精步伐 Fey Step"
         }
       }
     },
     "Fiend Steed": {
-      "name": "Fiend Steed",
-      "tokenName": "Otherworldly Steed",
+      "name": "惡魔駿馬 Fiend Steed",
+      "tokenName": "異界駿馬 Otherworldly Steed",
       "items": {
         "Life Bond": {
           "name": "Life Bond"
@@ -1098,8 +1098,8 @@
       }
     },
     "Fiendish Spirit": {
-      "name": "Fiendish Spirit",
-      "tokenName": "Fiendish Spirit",
+      "name": "邪魔之靈 Fiendish Spirit",
+      "tokenName": "邪魔之靈 Fiendish Spirit",
       "items": {
         "Death Throes": {
           "name": "Death Throes"
@@ -1227,11 +1227,11 @@
       }
     },
     "Fire Elemental Spirit": {
-      "name": "Fire Elemental Spirit",
-      "tokenName": "Elemental Spirit",
+      "name": "火元素之靈 Fire Elemental Spirit",
+      "tokenName": "元素之靈 Elemental Spirit",
       "items": {
         "Amorphous Form": {
-          "name": "Amorphous Form"
+          "name": "不定形形態(類軟泥) Amorphous Form"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -1242,8 +1242,8 @@
       }
     },
     "Flaming Sphere": {
-      "name": "Flaming Sphere",
-      "tokenName": "Flaming Sphere",
+      "name": "熾焰法球 Flaming Sphere",
+      "tokenName": "熾焰法球 Flaming Sphere",
       "items": {
         "Flames": {
           "name": "Flames"
@@ -1263,11 +1263,11 @@
       }
     },
     "Frog": {
-      "name": "Frog",
-      "tokenName": "Frog",
+      "name": "青蛙 Frog",
+      "tokenName": "青蛙 Frog",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸兩用 Amphibious"
         },
         "Standing Leap": {
           "name": "Standing Leap"
@@ -1278,27 +1278,27 @@
       }
     },
     "Fuming Fey Spirit": {
-      "name": "Fuming Fey Spirit",
-      "tokenName": "Fey Spirit",
+      "name": "憤怒妖精之靈 Fuming Fey Spirit",
+      "tokenName": "妖精之靈 Fey Spirit",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
         },
         "Fey Blade": {
-          "name": "Fey Blade"
+          "name": "妖精刀鋒 Fey Blade"
         },
         "Fey Step": {
-          "name": "Fey Step"
+          "name": "妖精步伐 Fey Step"
         }
       }
     },
     "Galley": {
-      "name": "Galley",
-      "tokenName": "Galley"
+      "name": "廚房 Galley",
+      "tokenName": "廚房 Galley"
     },
     "Ghostly Spirit": {
-      "name": "Ghostly Spirit",
-      "tokenName": "Undead Spirit",
+      "name": "鬼魂 Ghostly Spirit",
+      "tokenName": "不死亡靈 Undead Spirit",
       "items": {
         "Incorporeal Passage": {
           "name": "Incorporeal Passage"
@@ -1312,8 +1312,8 @@
       }
     },
     "Giant Badger": {
-      "name": "Giant Badger",
-      "tokenName": "Giant Badger",
+      "name": "巨型獾 Giant Badger",
+      "tokenName": "巨型獾 Giant Badger",
       "items": {
         "Bite": {
           "name": "啃咬 Bite"
@@ -1321,8 +1321,8 @@
       }
     },
     "Giant Centipede": {
-      "name": "Giant Centipede",
-      "tokenName": "Giant Insect",
+      "name": "巨型蜈蚣 Giant Centipede",
+      "tokenName": "巨型蜈蚣 Giant Insect",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb"
@@ -1339,19 +1339,19 @@
       }
     },
     "Giant Crab": {
-      "name": "Giant Crab",
-      "tokenName": "Giant Crab",
+      "name": "巨型蟹 Giant Crab",
+      "tokenName": "巨型蟹 Giant Crab",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸兩用 Amphibious"
         },
         "Claw": {
-          "name": "Claw"
+          "name": "爪子 Claw"
         }
       }
     },
     "Giant Goat": {
-      "name": "Giant Goat",
+      "name": "巨型山羊 Giant Goat",
       "tokenName": "Giant Goat",
       "items": {
         "Ram": {
@@ -1360,7 +1360,7 @@
       }
     },
     "Giant Insect": {
-      "name": "Giant Insect",
+      "name": "巨型昆蟲 Giant Insect",
       "tokenName": "Giant Insect",
       "items": {
         "Spider Climb": {
@@ -1381,8 +1381,8 @@
       }
     },
     "Giant Seahorse": {
-      "name": "Giant Seahorse",
-      "tokenName": "Giant Seahorse",
+      "name": "大海馬 Giant Seahorse",
+      "tokenName": "大海馬 Giant Seahorse",
       "items": {
         "Water Breathing": {
           "name": "Water Breathing"
@@ -1396,8 +1396,8 @@
       }
     },
     "Giant Spider": {
-      "name": "Giant Spider",
-      "tokenName": "Giant Spider",
+      "name": "巨型蜘蛛 Giant Spider",
+      "tokenName": "巨型蜘蛛 Giant Spider",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb"
@@ -1414,8 +1414,8 @@
       }
     },
     "Giant Wasp": {
-      "name": "Giant Wasp",
-      "tokenName": "Giant Insect",
+      "name": "巨型黃蜂 Giant Wasp",
+      "tokenName": "巨型黃蜂 Giant Insect",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb"
@@ -1429,8 +1429,8 @@
       }
     },
     "Giant Weasel": {
-      "name": "Giant Weasel",
-      "tokenName": "Giant Weasel",
+      "name": "巨型鼬 Giant Weasel",
+      "tokenName": "巨型鼬 Giant Weasel",
       "items": {
         "Bite": {
           "name": "啃咬 Bite"
@@ -1438,8 +1438,8 @@
       }
     },
     "Goat": {
-      "name": "Goat",
-      "tokenName": "Goat",
+      "name": "山羊 Goat",
+      "tokenName": "山羊 Goat",
       "items": {
         "Ram": {
           "name": "Ram"
@@ -1447,8 +1447,8 @@
       }
     },
     "Grasping Vine": {
-      "name": "Grasping Vine",
-      "tokenName": "Grasping Vine",
+      "name": "抓攫藤蔓 Grasping Vine",
+      "tokenName": "抓攫藤蔓 Grasping Vine",
       "items": {
         "Vine Attack": {
           "name": "Vine Attack"
@@ -1456,7 +1456,7 @@
       }
     },
     "Guardian of Faith": {
-      "name": "Guardian of Faith",
+      "name": "虔誠守衛 Guardian of Faith",
       "tokenName": "Guardian of Faith",
       "items": {
         "Guarded Area": {
@@ -1465,8 +1465,8 @@
       }
     },
     "Hawk": {
-      "name": "Hawk",
-      "tokenName": "Hawk",
+      "name": "鷹 Hawk",
+      "tokenName": "鷹 Hawk",
       "items": {
         "Talons": {
           "name": "Talons"
@@ -1495,8 +1495,8 @@
       "tokenName": "Illusory Phenomenon"
     },
     "Imp": {
-      "name": "Imp",
-      "tokenName": "Imp",
+      "name": "小魔鬼 Imp",
+      "tokenName": "小魔鬼 Imp",
       "items": {
         "Devil’s Sight": {
           "name": "Devil’s Sight"
@@ -1520,8 +1520,8 @@
       "tokenName": "Invisible Sensor"
     },
     "Keelboat": {
-      "name": "Keelboat",
-      "tokenName": "Keelboat"
+      "name": "帆船 Keelboat",
+      "tokenName": "帆船 Keelboat"
     },
     "Large Animated Object": {
       "name": "Large Animated Object",
@@ -1537,8 +1537,8 @@
       "tokenName": "Light"
     },
     "Lion": {
-      "name": "Lion",
-      "tokenName": "Lion",
+      "name": "獅子 Lion",
+      "tokenName": "獅子 Lion",
       "items": {
         "Pack Tactics": {
           "name": "群體戰術 Pack Tactics"
@@ -1558,8 +1558,8 @@
       }
     },
     "Lizard": {
-      "name": "Lizard",
-      "tokenName": "Lizard",
+      "name": "蜥蜴 Lizard",
+      "tokenName": "蜥蜴 Lizard",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb"
@@ -1570,16 +1570,16 @@
       }
     },
     "Longship": {
-      "name": "Longship",
+      "name": "長船 Longship",
       "tokenName": "Longship"
     },
     "Mage Hand": {
-      "name": "Mage Hand",
-      "tokenName": "Mage Hand"
+      "name": "法師之手 Mage Hand",
+      "tokenName": "法師之手 Mage Hand"
     },
     "Mastiff": {
-      "name": "Mastiff",
-      "tokenName": "Mastiff",
+      "name": "獒犬 Mastiff",
+      "tokenName": "獒犬 Mastiff",
       "items": {
         "Bite": {
           "name": "啃咬 Bite"
@@ -1621,22 +1621,22 @@
           "name": "多重攻擊 Multiattack"
         },
         "Psychic Slam": {
-          "name": "Psychic Slam"
+          "name": "心靈衝擊 Psychic Slam"
         }
       }
     },
     "Mirthful Fey Spirit": {
       "name": "Mirthful Fey Spirit",
-      "tokenName": "Fey Spirit",
+      "tokenName": "妖精之靈 Fey Spirit",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
         },
         "Fey Blade": {
-          "name": "Fey Blade"
+          "name": "妖精刀鋒 Fey Blade"
         },
         "Fey Step": {
-          "name": "Fey Step"
+          "name": "妖精步伐 Fey Step"
         }
       }
     },
@@ -1734,8 +1734,8 @@
       }
     },
     "Mordenkainen’s Sword": {
-      "name": "Mordenkainen’s Sword",
-      "tokenName": "Mordenkainen’s Sword",
+      "name": "魔鄧肯之劍 Mordenkainen’s Sword",
+      "tokenName": "魔鄧肯之劍 Mordenkainen’s Sword",
       "items": {
         "Move and Attack": {
           "name": "Move and Attack"
@@ -1743,8 +1743,8 @@
       }
     },
     "Mule": {
-      "name": "Mule",
-      "tokenName": "Mule",
+      "name": "騾 Mule",
+      "tokenName": "騾 Mule",
       "items": {
         "Beast of Burden": {
           "name": "Beast of Burden"
@@ -1755,8 +1755,8 @@
       }
     },
     "Octopus": {
-      "name": "Octopus",
-      "tokenName": "Octopus",
+      "name": "章魚 Octopus",
+      "tokenName": "章魚 Octopus",
       "items": {
         "Compression": {
           "name": "Compression"
@@ -1773,8 +1773,8 @@
       }
     },
     "Otherworldly Steed": {
-      "name": "Otherworldly Steed",
-      "tokenName": "Otherworldly Steed",
+      "name": "異界駿馬 Otherworldly Steed",
+      "tokenName": "異界駿馬 Otherworldly Steed",
       "items": {
         "Life Bond": {
           "name": "Life Bond"
@@ -1786,7 +1786,7 @@
           "name": "Fell Glare"
         },
         "Fey Step": {
-          "name": "Fey Step"
+          "name": "妖精步伐 Fey Step"
         },
         "Healing Touch": {
           "name": "Healing Touch"
@@ -1794,8 +1794,8 @@
       }
     },
     "Owl": {
-      "name": "Owl",
-      "tokenName": "Owl",
+      "name": "貓頭鷹 Owl",
+      "tokenName": "貓頭鷹 Owl",
       "items": {
         "Flyby": {
           "name": "Flyby"
@@ -1890,8 +1890,8 @@
       }
     },
     "Panther": {
-      "name": "Panther",
-      "tokenName": "Panther",
+      "name": "豹 Panther",
+      "tokenName": "豹 Panther",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -1905,7 +1905,7 @@
       }
     },
     "Phantom Steed": {
-      "name": "Phantom Steed",
+      "name": "魅影駒 Phantom Steed",
       "tokenName": "Riding Horse",
       "items": {
         "Hooves": {
@@ -1914,8 +1914,8 @@
       }
     },
     "Pony": {
-      "name": "Pony",
-      "tokenName": "Pony",
+      "name": "馬 Pony",
+      "tokenName": "馬 Pony",
       "items": {
         "Hooves": {
           "name": "Hooves"
@@ -1923,8 +1923,8 @@
       }
     },
     "Pseudodragon": {
-      "name": "Pseudodragon",
-      "tokenName": "Pseudodragon",
+      "name": "偽龍 Pseudodragon",
+      "tokenName": "偽龍 Pseudodragon",
       "items": {
         "Magic Resistance": {
           "name": "魔法抗性 Magic Resistance"
@@ -1941,8 +1941,8 @@
       }
     },
     "Putrid Spirit": {
-      "name": "Putrid Spirit",
-      "tokenName": "Undead Spirit",
+      "name": "腐爛之靈 Putrid Spirit",
+      "tokenName": "不死亡靈 Undead Spirit",
       "items": {
         "Festering Aura": {
           "name": "Festering Aura"
@@ -2091,8 +2091,8 @@
       }
     },
     "Rat": {
-      "name": "Rat",
-      "tokenName": "Rat",
+      "name": "老鼠 Rat",
+      "tokenName": "老鼠 Rat",
       "items": {
         "Agile": {
           "name": "Agile"
@@ -2103,8 +2103,8 @@
       }
     },
     "Raven": {
-      "name": "Raven",
-      "tokenName": "Raven",
+      "name": "烏鴉 Raven",
+      "tokenName": "烏鴉 Raven",
       "items": {
         "Mimicry": {
           "name": "Mimicry"
@@ -2115,8 +2115,8 @@
       }
     },
     "Reef Shark": {
-      "name": "Reef Shark",
-      "tokenName": "Reef Shark",
+      "name": "礁鯊 Reef Shark",
+      "tokenName": "礁鯊 Reef Shark",
       "items": {
         "Pack Tactics": {
           "name": "群體戰術 Pack Tactics"
@@ -2248,12 +2248,12 @@
       "tokenName": "划艇 Rowboat"
     },
     "Sailing Ship": {
-      "name": "帆船 Sailing Ship",
-      "tokenName": "帆船 Sailing Ship"
+      "name": "大型帆船 Sailing Ship",
+      "tokenName": "大型帆船 Sailing Ship"
     },
     "Scorpion": {
-      "name": "Scorpion",
-      "tokenName": "Scorpion",
+      "name": "蠍子 Scorpion",
+      "tokenName": "蠍子 Scorpion",
       "items": {
         "Sting": {
           "name": "Sting"
@@ -2266,7 +2266,7 @@
     },
     "Skeletal Spirit": {
       "name": "Skeletal Spirit",
-      "tokenName": "Undead Spirit",
+      "tokenName": "不死亡靈 Undead Spirit",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -2299,7 +2299,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Claw": {
-          "name": "Claw"
+          "name": "爪子 Claw"
         }
       }
     },
@@ -2445,8 +2445,8 @@
       }
     },
     "Spider": {
-      "name": "Spider",
-      "tokenName": "Spider",
+      "name": "蜘蛛 Spider",
+      "tokenName": "蜘蛛 Spider",
       "items": {
         "Spider Climb": {
           "name": "Spider Climb"
@@ -2469,8 +2469,8 @@
       }
     },
     "Sprite": {
-      "name": "Sprite",
-      "tokenName": "Sprite",
+      "name": "小妖精 Sprite",
+      "tokenName": "小妖精 Sprite",
       "items": {
         "Needle Sword": {
           "name": "Needle Sword"
@@ -2502,8 +2502,8 @@
       }
     },
     "Tiger": {
-      "name": "Tiger",
-      "tokenName": "Tiger",
+      "name": "老虎 Tiger",
+      "tokenName": "老虎 Tiger",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -2527,22 +2527,22 @@
     },
     "Tricksy Fey Spirit": {
       "name": "Tricksy Fey Spirit",
-      "tokenName": "Fey Spirit",
+      "tokenName": "妖精之靈 Fey Spirit",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
         },
         "Fey Blade": {
-          "name": "Fey Blade"
+          "name": "妖精刀鋒 Fey Blade"
         },
         "Fey Step": {
-          "name": "Fey Step"
+          "name": "妖精步伐 Fey Step"
         }
       }
     },
     "Undead Spirit": {
-      "name": "Undead Spirit",
-      "tokenName": "Undead Spirit",
+      "name": "不死亡靈 Undead Spirit",
+      "tokenName": "不死亡靈 Undead Spirit",
       "items": {
         "Festering Aura": {
           "name": "Festering Aura"
@@ -2565,12 +2565,12 @@
       }
     },
     "Unseen Servant": {
-      "name": "Unseen Servant",
-      "tokenName": "Unseen Servant"
+      "name": "隱形僕役 Unseen Servant",
+      "tokenName": "隱形僕役 Unseen Servant"
     },
     "Venomous Snake": {
-      "name": "Venomous Snake",
-      "tokenName": "Venomous Snake",
+      "name": "毒蛇 Venomous Snake",
+      "tokenName": "毒蛇 Venomous Snake",
       "items": {
         "Bite": {
           "name": "啃咬 Bite"
@@ -2578,8 +2578,8 @@
       }
     },
     "Warhorse": {
-      "name": "Warhorse",
-      "tokenName": "Warhorse",
+      "name": "戰馬 Warhorse",
+      "tokenName": "戰馬 Warhorse",
       "items": {
         "Hooves": {
           "name": "Hooves"
@@ -2642,10 +2642,10 @@
           "name": "Book of Occult Lore"
         },
         "Sacred Flame": {
-          "name": "Sacred Flame"
+          "name": "聖火術 Sacred Flame"
         },
         "Bane": {
-          "name": "Bane"
+          "name": "災禍術 Bane"
         },
         "Eldritch Blast": {
           "name": "Eldritch Blast"
@@ -2713,15 +2713,15 @@
       }
     },
     "Warship": {
-      "name": "Warship",
-      "tokenName": "Warship"
+      "name": "戰船 Warship",
+      "tokenName": "戰船 Warship"
     },
     "Water Elemental Spirit": {
-      "name": "Water Elemental Spirit",
-      "tokenName": "Elemental Spirit",
+      "name": "水元素之靈 Water Elemental Spirit",
+      "tokenName": "元素之靈 Elemental Spirit",
       "items": {
         "Amorphous Form": {
-          "name": "Amorphous Form"
+          "name": "不定形形態(類軟泥) Amorphous Form"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -2732,8 +2732,8 @@
       }
     },
     "Weasel": {
-      "name": "Weasel",
-      "tokenName": "Weasel",
+      "name": "鼬 Weasel",
+      "tokenName": "鼬 Weasel",
       "items": {
         "Bite": {
           "name": "啃咬 Bite"
@@ -2778,7 +2778,7 @@
           "name": "Light Bearer"
         },
         "Light": {
-          "name": "Light"
+          "name": "光 Light"
         },
         "Dagger": {
           "name": "匕首 Dagger"
@@ -2858,8 +2858,8 @@
       }
     },
     "Yugoloth Spirit": {
-      "name": "Yugoloth Spirit",
-      "tokenName": "Fiendish Spirit",
+      "name": "尤格羅斯之靈 Yugoloth Spirit",
+      "tokenName": "邪魔之靈 Fiendish Spirit",
       "items": {
         "Magic Resistance": {
           "name": "魔法抗性 Magic Resistance"
@@ -2868,7 +2868,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Claws": {
-          "name": "Claws"
+          "name": "爪子 Claws"
         }
       }
     },
