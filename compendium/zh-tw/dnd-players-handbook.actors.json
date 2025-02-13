@@ -867,7 +867,7 @@
       "tokenName": "德魯伊 Druid",
       "items": {
         "Farmer": {
-          "name": "Farmer"
+          "name": "農夫 Farmer"
         },
         "Tough": {
           "name": "Tough"
@@ -912,7 +912,7 @@
           "name": "盾牌 Shield"
         },
         "Herbalism Kit": {
-          "name": "Herbalism Kit"
+          "name": "草藥工具 Herbalism Kit"
         },
         "Druidcraft": {
           "name": "Druidcraft"
@@ -1129,7 +1129,7 @@
       "tokenName": "戰士 Fighter",
       "items": {
         "Soldier": {
-          "name": "Soldier"
+          "name": "士兵 Soldier"
         },
         "Savage Attacker": {
           "name": "Savage Attacker"
@@ -1645,7 +1645,7 @@
       "tokenName": "武僧 Monk",
       "items": {
         "Guide": {
-          "name": "Guide"
+          "name": "嚮導 Guide"
         },
         "Magic Initiate": {
           "name": "Magic Initiate"
@@ -1810,7 +1810,7 @@
       "tokenName": "聖騎士 Paladin",
       "items": {
         "Noble": {
-          "name": "Noble"
+          "name": "貴族 Noble"
         },
         "Skilled": {
           "name": "Skilled 技巧嫻熟"
@@ -1981,7 +1981,7 @@
       "tokenName": "遊俠 Ranger",
       "items": {
         "Wayfarer": {
-          "name": "Wayfarer"
+          "name": "流浪者 Wayfarer"
         },
         "Lucky": {
           "name": "Lucky"
@@ -2329,7 +2329,7 @@
       "tokenName": "術士 Sorcerer",
       "items": {
         "Charlatan": {
-          "name": "Charlatan"
+          "name": "詐欺師 Charlatan"
         },
         "Skilled": {
           "name": "Skilled 技巧嫻熟"
@@ -2591,7 +2591,7 @@
       "tokenName": "契術師 Warlock",
       "items": {
         "Acolyte": {
-          "name": "Acolyte"
+          "name": "侍僧 Acolyte"
         },
         "Magic Initiate": {
           "name": "Magic Initiate"

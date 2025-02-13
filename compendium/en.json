@@ -241,7 +241,7 @@
 
 "DND5E.ADVANCEMENT": {
   "AbilityScoreImprovement": {
-    "Title": "Ability Score Improvement",
+    "Title": "屬性值提升 Ability Score Improvement",
     "Hint": "Allow the player to increase one or more ability scores or take an optional feat.",
     "CapDisplay": {
       "one": "Max {points} point per score",
@@ -1848,9 +1848,9 @@
   "Label": "Enchantment",
   "Period": {
     "AtWill": "At Will",
-    "LongRest": "Long Rest",
+    "LongRest": "長休 Long Rest",
     "Never": "Never",
-    "ShortRest": "Short Rest"
+    "ShortRest": "短休 Short Rest"
   },
   "Warning": {
     "NotOnActor": "Enchantments can only be added to items, not directly to actors.",
@@ -3214,7 +3214,7 @@
     "source": {
       "label": "Source",
       "book": {
-        "label": "Book"
+        "label": "書 Book"
       },
       "custom": {
         "label": "Custom Label"
@@ -3245,9 +3245,9 @@
   }
 },
 
-"DND5E.Special": "Special",
+"DND5E.Special": "特殊 Special",
 "DND5E.SpecialHint": "Special values separated by semi-colons.",
-"DND5E.SpecialTraits": "Special Traits",
+"DND5E.SpecialTraits": "特殊特性 Special Traits",
 "DND5E.Species": {
   "Label": "Species",
   "Add": "Add Species",
@@ -3356,10 +3356,10 @@
     "RemoveEntry": "Remove Entry"
   },
   "Choice": {
-    "Armor": "Choose Armor",
-    "Focus": "Choose Spellcasting Focus",
-    "Tool": "Choose Tool",
-    "Weapon": "Choose Weapon"
+    "Armor": "選擇護甲 Choose Armor",
+    "Focus": "選擇專注施法 Choose Spellcasting Focus",
+    "Tool": "選擇工具 Choose Tool",
+    "Weapon": "選擇武器 Choose Weapon"
   },
   "DropHint": "Drop item here to link",
   "IfProficient": "If Proficient",
@@ -3839,8 +3839,8 @@
 "DND5E.ToolDisguiseKit": "Disguise Kit",
 "DND5E.ToolForgeryKit": "Forgery Kit",
 "DND5E.ToolGamingSet": "Gaming Set",
-"DND5E.ToolHerbalismKit": "Herbalism Kit",
-"DND5E.ToolMusicalInstrument": "Musical Instrument",
+"DND5E.ToolHerbalismKit": "草藥工具 Herbalism Kit",
+"DND5E.ToolMusicalInstrument": "樂器 Musical Instrument",
 "DND5E.ToolNavigators": "Navigator's Tools",
 "DND5E.ToolPoisonersKit": "Poisoner's Kit",
 "DND5E.ToolPromptTitle": "{tool} Check",
@@ -3874,17 +3874,17 @@
 "DND5E.TraitLanguagesPlural.one": "語言 Language",
 "DND5E.TraitLanguagesPlural.other": "語言 Languages",
 "DND5E.TraitSave": "Update",
-"DND5E.TraitSavesPlural.one": "Saving Throw Proficiency",
-"DND5E.TraitSavesPlural.other": "Saving Throw Proficiencies",
+"DND5E.TraitSavesPlural.one": "熟練豁免 Saving Throw Proficiency",
+"DND5E.TraitSavesPlural.other": "熟練豁免 Saving Throw Proficiencies",
 "DND5E.TraitSelectorSpecial": "Special (Split with Semi-Colon)",
-"DND5E.TraitSkillsPlural.one": "Skill Proficiency",
-"DND5E.TraitSkillsPlural.other": "Skill Proficiencies",
-"DND5E.TraitToolPlural.one": "Tool Proficiency",
-"DND5E.TraitToolPlural.other": "Tool Proficiencies",
-"DND5E.TraitToolProf": "Tool Proficiencies",
-"DND5E.TraitWeaponPlural.one": "Weapon Proficiency",
-"DND5E.TraitWeaponPlural.other": "Weapon Proficiencies",
-"DND5E.TraitWeaponProf": "Weapon Proficiencies",
+"DND5E.TraitSkillsPlural.one": "熟練技能 Skill Proficiency",
+"DND5E.TraitSkillsPlural.other": "熟練技能 Skill Proficiencies",
+"DND5E.TraitToolPlural.one": "熟練工具 Tool Proficiency",
+"DND5E.TraitToolPlural.other": "熟練工具 Tool Proficiencies",
+"DND5E.TraitToolProf": "熟練工具 Tool Proficiencies",
+"DND5E.TraitWeaponPlural.one": "熟練武器 Weapon Proficiency",
+"DND5E.TraitWeaponPlural.other": "熟練武器 Weapon Proficiencies",
+"DND5E.TraitWeaponProf": "熟練武器 Weapon Proficiencies",
 "DND5E.Traits": "Traits",
 "DND5E.TraitsChosen": "Chosen Traits",
 "DND5E.Treasure": {
@@ -3916,12 +3916,12 @@
   "DISTANCE": {
     "Label": "Distance Units",
     "Foot": {
-      "Label": "Feet",
-      "Abbreviation": "ft"
+      "Label": "尺 Feet",
+      "Abbreviation": "尺 ft"
     },
     "Kilometer": {
-      "Label": "Kilometers",
-      "Abbreviation": "km"
+      "Label": "公里 Kilometers",
+      "Abbreviation": "公里 km"
     },
     "Meter": {
       "Label": "Meters",
@@ -3934,42 +3934,42 @@
   },
   "TIME": {
     "Day": {
-      "Label": "Day"
+      "Label": "天 Day"
     },
     "Hour": {
-      "Label": "Hour"
+      "Label": "小時 Hour"
     },
     "Minute": {
-      "Label": "Minute"
+      "Label": "分 Minute"
     },
     "Month": {
-      "Label": "Month"
+      "Label": "月 Month"
     },
     "Round": {
-      "Label": "Round",
+      "Label": "輪 Round",
       "Counted": {
         "narrow": "{number}r",
-        "one": "{number} round",
-        "other": "{number} rounds"
+        "one": "{number} 輪 round",
+        "other": "{number} 輪 rounds"
       }
     },
     "Second": {
-      "Label": "Second"
+      "Label": "秒 Second"
     },
     "Turn": {
-      "Label": "Turn",
-      "Abbreviation": "t",
+      "Label": "回合 Turn",
+      "Abbreviation": "回 t",
       "Counted": {
-        "narrow": "{number}t",
-        "one": "{number} turn",
-        "other": "{number} turns"
+        "narrow": "{number}回 t",
+        "one": "{number} 回合 turn",
+        "other": "{number} 回合 turns"
       }
     },
     "Week": {
-      "Label": "Week"
+      "Label": "周 Week"
     },
     "Year": {
-      "Label": "Year"
+      "Label": "年 Year"
     }
   },
   "VOLUME": {
@@ -4266,28 +4266,28 @@
     },
     "armor": {
       "value": {
-        "label": "Armor Class"
+        "label": "護甲等級 Armor Class"
       }
     },
     "damage": {
       "hint": "Intrinsic damage dice from the weapon. Ability modifier and additional damage parts will be provided automatically when attacking."
     },
     "mastery": {
-      "label": "Mastery",
+      "label": "精通 Mastery",
       "hint": "Special weapon ability unlocked for characters who have Weapon Mastery or a related feature."
     }
   },
   "Mastery": {
-    "Label": "Weapon Mastery",
-    "Flavor": "Mastery",
-    "Cleave": "Cleave",
-    "Graze": "Graze",
-    "Nick": "Nick",
-    "Push": "Push",
-    "Sap": "Sap",
-    "Slow": "Slow",
-    "Topple": "Topple",
-    "Vex": "Vex"
+    "Label": "武器精通 Weapon Mastery",
+    "Flavor": "精通 Mastery",
+    "Cleave": "順劈 Cleave",
+    "Graze": "擦掠 Graze",
+    "Nick": "迅切 Nick",
+    "Push": "推擊 Push",
+    "Sap": "削弱 Sap",
+    "Slow": "緩速 Slow",
+    "Topple": "失衡 Topple",
+    "Vex": "侵擾 Vex"
   }
 },
 
@@ -4296,7 +4296,7 @@
 "DND5E.WeaponMartialM": "軍用武器 Martial Melee",
 "DND5E.WeaponMartialProficiency": "軍用 Martial",
 "DND5E.WeaponMartialR": "軍用遠程武器 Martial Ranged",
-"DND5E.WeaponNatural": "Natural",
+"DND5E.WeaponNatural": "自然 Natural",
 "DND5E.WeaponSiege": "Siege Weapon",
 "DND5E.WeaponSimpleM": "簡易武器 Simple Melee",
 "DND5E.WeaponSimpleProficiency": "簡易 Simple",
@@ -4331,7 +4331,7 @@
   "RequestRoll": "Request Roll",
   "RollRequest": "Roll Request",
   "SaveShort": "{save}",
-  "SaveLong": "{save} saving throw",
+  "SaveLong": "{save} 豁免檢定 saving throw",
   "SpecificCheck": "{ability} ({type})",
   "Warning": {
     "NoActivityOnItem": "{item} on {actor} does not have an Activity with name {activity}.",
