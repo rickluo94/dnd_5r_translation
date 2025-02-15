@@ -180,19 +180,19 @@
           "text": "<p>With the Hide action, you try to conceal yourself. To do so, you must succeed on a [[/check stealth dc=15]] check while you’re @UUID[.YkuKTIH2YaYW8lTS]{Heavily Obscured} or behind &amp;Reference[Three-Quarters Cover] or &amp;Reference[Total Cover], and you must be out of any enemy’s line of sight; if you can see a creature, you can discern whether it can see you.</p><p>On a successful check, you have the &amp;Reference[Invisible] condition. Make note of your check’s total, which is the DC for a creature to find you with a [[/check prc]] check.</p><p>The condition ends on you immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.</p>"
         },
         "Condition": {
-          "name": "Condition",
+          "name": "狀態 Condition",
           "text": "<p>A condition is a temporary game state. The definition of a condition says how it affects its recipient, and various rules define how to end a condition. This glossary defines these conditions:</p><ul><li>@UUID[.uDogReMO6QtH6NDw]{Blinded}</li><li>@UUID[.vLAsIUa0FhZNsyLk]{Charmed}</li><li>@UUID[.qlRw66tJhk0zLnwq]{Deafened}</li><li>@UUID[.jSQtPgNm0i4f3Qi3]{Exhaustion}</li><li>@UUID[.93uaingTESo8N1qL]{Frightened}</li><li>@UUID[.KbQ1k0OIowtZeQgp]{Grappled}</li><li>@UUID[.4i3G895hy99piand]{Incapacitated}</li><li>@UUID[.MQIZ1zRLWRcNOtPN]{Invisible}</li><li>@UUID[.RnxZoTglPnLc6UPb]{Paralyzed}</li><li>@UUID[.6vtLuQT9lwZ9N299]{Petrified}</li><li>@UUID[.HWs8kEojffqwTSJz]{Poisoned}</li><li>@UUID[.QxCrRcgMdUd3gfzz]{Prone}</li><li>@UUID[.dqLeGdpHtb8FfcxX]{Restrained}</li><li>@UUID[.EjbXjvyQAMlDyANI]{Stunned}</li><li>@UUID[.fZCRaKEJd4KoQCqH]{Unconscious}</li></ul><p>A condition doesn’t stack with itself; a recipient either has a condition or doesn’t. The &amp;Reference[Exhaustion] condition is an exception to that rule. <em>See also</em> chapter 1 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbConditions000.JournalEntryPage.BuIBCfux6QYAah3q]{Conditions}.</p>"
         },
         "Blinded": {
-          "name": "Blinded",
+          "name": "目盲 Blinded",
           "text": "<p><em><strong>Can’t See.</strong></em> You can’t see and automatically fail any ability check that requires sight.</p><p><em><strong>Attacks Affected.</strong></em> Attack rolls against you have Advantage, and your attack rolls have &amp;Reference[Disadvantage].</p>"
         },
         "Charmed": {
-          "name": "Charmed",
+          "name": "魅惑 Charmed",
           "text": "<p>While you have the Charmed condition, you experience the following effects.</p><p><em><strong>Can’t Harm the Charmer.</strong></em> You can’t attack the charmer or target the charmer with damaging abilities or magical effects.</p><p><em><strong>Social Advantage.</strong></em> The charmer has Advantage on any ability check to interact with you socially.</p>"
         },
         "Deafened": {
-          "name": "Deafened",
+          "name": "耳聾 Deafened",
           "text": "<p><strong>Can’t Hear.</strong> You can’t hear and automatically fail any ability check that requires hearing.</p>"
         },
         "Exhaustion": {
@@ -200,27 +200,27 @@
           "text": "<p>While you have the Exhaustion condition, you experience the following effects.</p><p><em><strong>Exhaustion Levels.</strong></em> This condition is cumulative. Each time you receive it, you gain 1 Exhaustion level. You die if your Exhaustion level is 6.</p><p><em><strong>D20 Tests Affected.</strong></em> When you make a &amp;Reference[D20 Test], the roll is reduced by 2 times your Exhaustion level.</p><p><em><strong>Speed Reduced.</strong></em> Your &amp;Reference[Speed] is reduced by a number of feet equal to 5 times your Exhaustion level.</p><p><em><strong>Removing Exhaustion Levels.</strong></em> Finishing a &amp;Reference[Long Rest] removes 1 of your Exhaustion levels. When your Exhaustion level reaches 0, the condition ends.</p>"
         },
         "Frightened": {
-          "name": "Frightened",
+          "name": "恐懼 Frightened",
           "text": "<p>While you have the Frightened condition, you experience the following effects.</p><p><em><strong>Ability Checks and Attacks Affected.</strong></em> You have &amp;Reference[Disadvantage] on ability checks and attack rolls while the source of fear is within line of sight.</p><p><em><strong>Can’t Approach.</strong></em> You can’t willingly move closer to the source of fear.</p>"
         },
         "Grappled": {
-          "name": "Grappled",
+          "name": "擒抱 Grappled",
           "text": "<p>While you have the Grappled condition, you experience the following effects.</p><p><em><strong>Speed 0.</strong></em> Your Speed is 0 and can’t increase.</p><p><em><strong>Attacks Affected.</strong></em> You have &amp;Reference[Disadvantage] on attack rolls against any target other than the grappler.</p><p><em><strong>Movable.</strong></em> The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.</p>"
         },
         "Incapacitated": {
-          "name": "Incapacitated",
+          "name": "失能 Incapacitated",
           "text": "<p>While you have the &amp;Reference[incapacitated] condition, you experience the following effects.</p><p><em><strong>Inactive.</strong></em> You can’t take any @UUID[.SsIXfzS2ZttwAaKj]{action}, @UUID[.EjR3KL7KLTwjWBS0]{Bonus Action}, or @UUID[.OhSIWaQ61dOp7S8M]{Reaction}.</p><p><em><strong>No Concentration.</strong></em> Your @UUID[.0a2umg2mJMAzM9Q3]{Concentration} is broken.</p><p><em><strong>Speechless.</strong></em> You can’t speak.</p><p><em><strong>Surprised.</strong></em> If you’re Incapacitated when you roll Initiative, you have &amp;Reference[Disadvantage] on the roll.</p>"
         },
         "Invisible": {
-          "name": "Invisible",
+          "name": "隱形 Invisible",
           "text": "<p>While you have the Invisible condition, you experience the following effects.</p><p><em><strong>Surprise.</strong></em> If you’re Invisible when you roll Initiative, you have &amp;Reference[Advantage] on the roll.</p><p><em><strong>Concealed.</strong></em> You aren’t affected by any effect that requires its target to be seen unless the effect’s creator can somehow see you. Any equipment you are wearing or carrying is also concealed.</p><p><em><strong>Attacks Affected.</strong></em> Attack rolls against you have &amp;Reference[Disadvantage], and your attack rolls have Advantage. If a creature can somehow see you, you don’t gain this benefit against that creature.</p>"
         },
         "Paralyzed": {
-          "name": "Paralyzed",
+          "name": "麻痺 Paralyzed",
           "text": "<p>While you have the Paralyzed condition, you experience the following effects.</p><p><em><strong>Incapacitated.</strong></em> You have the &amp;Reference[Incapacitated] condition.</p><p><em><strong>Speed 0.</strong></em> Your Speed is 0 and can’t increase.</p><p><em><strong>Saving Throws Affected.</strong></em> You automatically fail Strength and Dexterity saving throws.</p><p><em><strong>Attacks Affected.</strong></em> Attack rolls against you have &amp;Reference[Advantage].</p><p><em><strong>Automatic Critical Hits.</strong></em> Any attack roll that hits you is a Critical Hit if the attacker is within 5 feet of you.</p>"
         },
         "Petrified": {
-          "name": "Petrified",
+          "name": "石化 Petrified",
           "text": "<p>While you have the Petrified condition, you experience the following effects.</p><p><em><strong>Turned to Inanimate Substance.</strong></em> You are transformed, along with any nonmagical objects you are wearing and carrying, into a solid inanimate substance (usually stone). Your weight increases by a factor of ten, and you cease aging.</p><p><em><strong>Incapacitated.</strong></em> You have the &amp;Reference[Incapacitated] condition.</p><p><em><strong>Speed 0.</strong></em> Your Speed is 0 and can’t increase.</p><p><em><strong>Attacks Affected.</strong></em> Attack rolls against you have &amp;Reference[Advantage].</p><p><em><strong>Saving Throws Affected.</strong></em> You automatically fail Strength and Dexterity saving throws.</p><p><em><strong>Resist Damage.</strong></em> You have &amp;Reference[Resistance] to all damage.</p><p><em><strong>Poison Immunity.</strong></em> You have Immunity to the &amp;Reference[Poisoned] condition.</p>"
         },
         "Poisoned": {
@@ -228,15 +228,15 @@
           "text": "<p>While you have the Poisoned condition, you experience the following effect.</p><p><em><strong>Ability Checks and Attacks Affected.</strong></em> You have &amp;Reference[Disadvantage] on attack rolls and ability checks.</p>"
         },
         "Prone": {
-          "name": "Prone",
+          "name": "倒地 Prone",
           "text": "<p>While you have the Prone condition, you experience the following effects.</p><p><em><strong>Restricted Movement.</strong></em> Your only movement options are to crawl or to spend an amount of movement equal to half your &amp;Reference[Speed] (round down) to right yourself and thereby end the condition. If your Speed is 0, you can’t right yourself.</p><p><em><strong>Attacks Affected.</strong></em> You have &amp;Reference[Disadvantage] on attack rolls. An attack roll against you has &amp;Reference[Advantage] if the attacker is within 5 feet of you. Otherwise, that attack roll has Disadvantage.</p>"
         },
         "Restrained": {
-          "name": "Restrained",
+          "name": "束縛 Restrained",
           "text": "<p>While you have the Restrained condition, you experience the following effects.</p><p><em><strong>Speed 0.</strong></em> Your &amp;Reference[Speed] is 0 and can’t increase.</p><p><em><strong>Attacks Affected.</strong></em> Attack rolls against you have Advantage, and your attack rolls have &amp;Reference[Disadvantage].</p><p><em><strong>Saving Throws Affected.</strong></em> You have Disadvantage on Dexterity saving throws.</p>"
         },
         "Stunned": {
-          "name": "Stunned",
+          "name": "震懾 Stunned",
           "text": "<p>When you have the Stunned condition, you experience the following effects.</p><p><em><strong>Incapacitated.</strong></em> You have the @UUID[.4i3G895hy99piand]{Incapacitated} condition.</p><p><em><strong>Saving Throws Affected.</strong></em> You automatically fail Strength and Dexterity saving throws.</p><p><em><strong>Attacks Affected.</strong></em> Attack rolls against you have &amp;Reference[Advantage].</p>"
         },
         "Unconscious": {
@@ -476,15 +476,15 @@
           "text": "<p>@Embed[Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.PFbzoMBviI2DD9QP inline]</p><p><em>See also</em> @UUID[.RXTLVpAwcGm1qtKf]{Breaking Objects} and @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbDamageAndHeal]{Damage and Healing}.</p>"
         },
         "Hit Point Dice": {
-          "name": "Hit Point Dice",
+          "name": "生命骰 Hit Point Dice",
           "text": "<p>Hit Point Dice, or Hit Dice for short, help determine a player character’s Hit Point maximum, as explained in chapter 2. Most monsters also have Hit Dice. A creature can spend Hit Dice during a @UUID[.wVuNbEADtC16ejAi]{Short Rest} to regain Hit Points.</p>"
         },
         "Short Rest": {
-          "name": "Short Rest",
+          "name": "短休 Short Rest",
           "text": "<p>A Short Rest is a 1-hour period of downtime, during which a creature does nothing more strenuous than reading, talking, eating, or standing watch. To start a Short Rest, you must have at least 1 Hit Point.</p><p><em><strong>Benefits of the Rest.</strong></em> When you finish the rest, you gain the following benefits:</p><p><strong>Spend Hit Point Dice.</strong> You can spend one or more of your Hit Point Dice to regain Hit Points. For each Hit Point Die you spend in this way, roll the die and add your Constitution modifier to it. You regain Hit Points equal to the total (minimum of 1 Hit Point). You can decide to spend an additional Hit Point Die after each roll.</p><p><strong>Special Feature.</strong> Some features are recharged by a Short Rest. If you have such a feature, it recharges in the way specified in its description.</p><p><em><strong>Interrupting the Rest.</strong></em> A Short Rest is stopped by the following interruptions:</p><ul><li class=\"Core-Styles_Core-Bulleted\">Rolling Initiative</li><li class=\"Core-Styles_Core-Bulleted\">Casting a spell other than a cantrip</li><li class=\"Core-Styles_Core-Bulleted\">Taking any damage</li></ul><p>An interrupted Short Rest confers no benefits.</p>"
         },
         "Long Rest": {
-          "name": "Long Rest",
+          "name": "長休 Long Rest",
           "text": "<p>A Long Rest is a period of extended downtime—at least 8 hours—available to any creature. During a Long Rest, you sleep for at least 6 hours and perform no more than 2 hours of light activity, such as reading, talking, eating, or standing watch.</p><p>During sleep, you have the &amp;Reference[Unconscious] condition. After you finish a Long Rest, you must wait at least 16 hours before starting another one.</p><p><em><strong>Benefits of the Rest.</strong></em> To start a Long Rest, you must have at least 1 Hit Point. When you finish the rest, you gain the following benefits:</p><p><strong>Regain All HP.</strong> You regain all lost Hit Points and all spent Hit Point Dice. If your Hit Point maximum was reduced, it returns to normal.</p><p><strong>Ability Scores Restored.</strong> If any of your ability scores were reduced, they return to normal.</p><p><strong>Exhaustion Reduced.</strong> If you have the &amp;Reference[Exhaustion] condition, its level decreases by 1.</p><p><strong>Special Feature.</strong> Some features are recharged by a Long Rest. If you have such a feature, it recharges in the way specified in its description.</p><p><em><strong>Interrupting the Rest.</strong></em> A Long Rest is stopped by the following interruptions:</p><ul><li class=\"Core-Styles_Core-Bulleted\">Rolling Initiative</li><li class=\"Core-Styles_Core-Bulleted\">Casting a spell other than a cantrip</li><li class=\"Core-Styles_Core-Bulleted\">Taking any damage</li><li class=\"Core-Styles_Core-Bulleted\">1 hour of walking or other physical exertion</li></ul><p>If you rested at least 1 hour before the interruption, you gain the benefits of a @UUID[.wVuNbEADtC16ejAi]{Short Rest}.</p><p>You can resume a Long Rest immediately after an interruption. If you do so, the rest requires 1 additional hour per interruption to finish.</p>"
         },
         "Illusions": {
@@ -512,7 +512,7 @@
           "text": "<p>An effect is magical if it is created by a spell, a magic item, or a phenomenon that a rule labels as magical.</p>"
         },
         "Monster": {
-          "name": "Monster",
+          "name": "怪物 Monster",
           "text": "<p>A monster is a creature controlled by the DM, even if the creature is benevolent. <em>See also</em> @UUID[.qt6cd0mBRQhsElwd]{Creature} and @UUID[.VNSwzt3GIwcM3Iil]{NPC}.</p>"
         },
         "Nonplayer Character (NPC)": {
@@ -596,7 +596,7 @@
           "text": "<p>A spell attack is an attack roll made as part of a spell or another magical effect. <em>See also</em> @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.iBFe4NyaCUinDoz3]{Casting Spells}.</p>"
         },
         "Spellcasting Focus": {
-          "name": "Spellcasting Focus",
+          "name": "專注施法 Spellcasting Focus",
           "text": "<p>A Spellcasting Focus is an object that certain creatures can use in place of a spell’s Material components if those materials aren’t consumed by the spell and don’t have a cost specified. Some classes allow its members to use certain types of Spellcasting Focuses. <em>See also</em> @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.iBFe4NyaCUinDoz3]{Casting Spells}.</p>"
         },
         "Stable": {
@@ -660,7 +660,7 @@
           "text": "<p>When you make a High Jump, you leap into the air a number of feet equal to 3 plus your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing High Jump, you can jump only half that distance. Either way, each foot of the jump costs a foot of movement.</p><p>You can extend your arms half your height above yourself during the jump. Thus, you can reach a distance equal to the height of the jump plus 1½ times your height.</p>"
         },
         "Cantrip": {
-          "name": "Cantrip",
+          "name": "戲法 Cantrip",
           "text": "<p>@Embed[Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.jZD5mCTnMPJ9jW67 inline]</p><p><em>See also</em> @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000]{chapter 7}.</p>"
         },
         "Attack Roll": {
@@ -668,7 +668,7 @@
           "text": "<p>An attack roll is a &amp;Reference[D20 Test] that represents making an attack with a weapon, an Unarmed Strike, or a spell.</p>"
         },
         "Armor Training": {
-          "name": "Armor Training",
+          "name": "熟練護甲 Armor Training",
           "text": "<p>Armor training allows you to use armor of a certain category without the following drawbacks. If you wear Light, Medium, or Heavy armor and lack training with it, you have &amp;Reference[disadvantage] on any &amp;Reference[D20 Test] that involves Strength or Dexterity, and you can’t cast spells. If you use a Shield and lack training with it, you don’t gain its AC bonus. See also @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000.JournalEntryPage.flJnTPWIwTrAzqTi]{Armor}.</p>"
         },
         "Armor Class": {
@@ -1101,7 +1101,7 @@
           "text": "<p>When you make an attack roll against a target you can’t see, you have Disadvantage on the roll. This is true whether you’re guessing the target’s location or targeting a creature you can hear but not see. If the target isn’t in the location you targeted, you miss.</p><p>When a creature can’t see you, you have Advantage on attack rolls against it.</p><p>If you are hidden when you make an attack roll, you give away your location when the attack hits or misses.</p>"
         },
         "Ranged Attacks": {
-          "name": "Ranged Attacks",
+          "name": "遠程攻擊 Ranged Attacks",
           "text": "<p>When you make a ranged attack, you fire a bow, hurl an axe, or otherwise send projectiles to strike a foe at a distance. Many spells also involve making a ranged attack.</p><h3>Range</h3><p>@Embed[.HjKXuB8ndjcqOds7 inline]</p><h3>Ranged Attacks in Close Combat</h3><p>@Embed[.qEZvxW0NM7ixSQP5 inline]</p>"
         },
         "Range": {
@@ -1173,7 +1173,7 @@
           "text": "<p>If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target’s AC. A Critical Hit lets you roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers.</p>"
         },
         "Damage Types": {
-          "name": "Damage Types",
+          "name": "傷害類型 Damage Types",
           "text": "<p>Attacks and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as Resistance, rely on the types. The Damage Types table offers examples to help a DM assign a type to a new effect.</p><table><caption>Damage Types</caption><thead><tr><th><p>Type</p></th><th><p>Examples</p></th></tr></thead><tbody><tr><td><p>Acid</p></td><td><p>Corrosive liquids, digestive enzymes</p></td></tr><tr><td><p>Bludgeoning</p></td><td><p>Blunt objects, constriction, falling</p></td></tr><tr><td><p>Cold</p></td><td><p>Freezing water, icy blasts</p></td></tr><tr><td><p>Fire</p></td><td><p>Flames, unbearable heat</p></td></tr><tr><td><p>Force</p></td><td><p>Pure magical energy</p></td></tr><tr><td><p>Lightning</p></td><td><p>Electricity</p></td></tr><tr><td><p>Necrotic</p></td><td><p>Life-draining energy</p></td></tr><tr><td><p>Piercing</p></td><td><p>Fangs, puncturing objects</p></td></tr><tr><td><p>Poison</p></td><td><p>Toxic gas, venom</p></td></tr><tr><td><p>Psychic</p></td><td><p>Mind-rending energy</p></td></tr><tr><td><p>Radiant</p></td><td><p>Holy energy, searing radiation</p></td></tr><tr><td><p>Slashing</p></td><td><p>Claws, cutting objects</p></td></tr><tr><td><p>Thunder</p></td><td><p>Concussive sound</p></td></tr></tbody></table>"
         },
         "Acid": {
@@ -1185,7 +1185,7 @@
           "text": "<p><strong>Bludgeoning. </strong>Blunt objects, constriction, falling</p>"
         },
         "Cold": {
-          "name": "寒冷 Cold",
+          "name": "冷凍 Cold",
           "text": "<p><strong>Cold. </strong>Freezing water, icy blasts</p>"
         },
         "Fire": {
@@ -1217,7 +1217,7 @@
           "text": "<p><strong>Radiant. </strong>Holy energy, searing radiation</p>"
         },
         "Slashing": {
-          "name": "切割 Slashing",
+          "name": "揮砍 Slashing",
           "text": "<p><strong>Slashing. </strong>Claws, cutting objects</p>"
         },
         "Thunder": {
@@ -1293,7 +1293,7 @@
           "text": "<p><strong>Forced March. </strong>The Travel Pace table assumes that characters travel for 8 hours in day. They can push on beyond that limit, at the risk of exhaustion.</p><p>For each additional hour of travel beyond 8 hours, the characters cover the distance shown in the Hour column for their pace, and each character must make a Constitution saving throw at the end of the hour. The DC is 10 + 1 for each hour past 8 hours. On a failed saving throw, a character suffers one level of &amp;Reference[Exhaustion].</p>"
         },
         "Mounts and Vehicles": {
-          "name": "騎乘和車輛 Mounts and Vehicles",
+          "name": "騎乘和載具 Mounts and Vehicles",
           "text": "<p><strong>Mounts and Vehicles.</strong> Travelers in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don’t choose a travel pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day. Chapter 6 includes vehicles for sale.</p>"
         },
         "Spell Level": {
@@ -1317,7 +1317,7 @@
           "text": "<p>You must have training with any armor you are wearing to cast spells while wearing it. You are otherwise too hampered by the armor for spellcasting.</p>"
         },
         "Cantrips": {
-          "name": "Cantrips",
+          "name": "戲法 Cantrips",
           "text": "<p>A cantrip is a level 0 spell, which is cast without a spell slot.</p>"
         },
         "Rituals": {
@@ -1401,7 +1401,7 @@
           "text": "<p>A Sphere is an area of effect that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.</p><p>A Sphere’s point of origin is included in the Sphere’s area of effect.</p>"
         },
         "Saving Throws": {
-          "name": "Saving Throws",
+          "name": "豁免檢定 Saving Throws",
           "text": "<p>A saving throw—also called a save—represents an attempt to avoid or resist a threat. You normally make a saving throw only when a rule requires you to do so, but you can decide to fail the save without rolling. The result of a save is detailed in the effect that allowed it. If a target is forced to make a save and lacks the ability score used by it, the target automatically fails.</p>"
         },
         "Combining Spell Effects": {
@@ -2607,7 +2607,7 @@
           "text": "<aside class=\"notable\"><h3>Marching Order</h3><p>The adventurers should establish a marching order while they travel, whether indoors or outdoors. A marching order makes it easier to determine which characters are affected by traps, which ones can spot hidden enemies, and which ones are the closest to those enemies if a fight breaks out. You can change your marching order outside combat and record the order any way you like: write it down, for example, or arrange miniatures to show it.</p></aside><p>@Embed[Compendium.dnd-players-handbook.content.JournalEntry.phbAppendixDRule.JournalEntryPage.eFAISahBloR2X8MX inline]</p>"
         },
         "Vehicles": {
-          "name": "車輛 Vehicles",
+          "name": "載具 Vehicles",
           "text": "<p>Travelers in wagons, carriages, or other land vehicles choose a pace as normal. Characters in a waterborne vessel are limited to the speed of the vessel, and they don’t choose a travel pace. Depending on the vessel and the size of the crew, ships might be able to travel for up to 24 hours per day. @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbMountsAndVehi.JournalEntryPage.NVPIUDJEdFDaErTg]{Chapter 6} includes vehicles for sale.</p>"
         },
         "Exploration Example": {
@@ -2711,7 +2711,7 @@
       }
     },
     "Mounts and Vehicles": {
-      "name": "騎乘和車輛 Mounts and Vehicles",
+      "name": "騎乘和載具 Mounts and Vehicles",
       "pages": {
         "Overview": {
           "name": "總覽 Overview",
@@ -2722,7 +2722,7 @@
           "text": "<p>An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, add their carrying capacities together.</p><h2>Barding</h2><p>Barding is armor designed for a mount. Any type of armor on the Armor table in this chapter can be purchased as barding. The cost is four times the normal cost, and it weighs twice as much.</p><h2>Saddles</h2><p>A saddle comes with a bit, a bridle, reins, and any other equipment needed to use the saddle. A Military Saddle gives Advantage on any ability check you make to remain mounted. An Exotic Saddle is required for riding an aquatic or a flying mount.</p><table><caption>Mounts and Other Animals</caption><thead><tr><th><p>Item</p></th><th><p>Carrying Capacity</p></th><th><p>Cost</p></th></tr></thead><tbody><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobCamel00000]{Camel}</p></td><td><p>450 lb.</p></td><td><p>50 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobElephant00]{Elephant}</p></td><td><p>1,320 lb.</p></td><td><p>200 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobDraftHorse]{Horse, Draft}</p></td><td><p>540 lb.</p></td><td><p>50 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobRidingHors]{Horse, Riding}</p></td><td><p>480 lb.</p></td><td><p>75 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobMastiff000]{Mastiff}</p></td><td><p>195 lb.</p></td><td><p>25 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobMule000000]{Mule}</p></td><td><p>420 lb.</p></td><td><p>8 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobPony000000]{Pony}</p></td><td><p>225 lb.</p></td><td><p>30 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobWarhorse00]{Warhorse}</p></td><td><p>540 lb.</p></td><td><p>400 GP</p></td></tr></tbody></table><table><caption>Tack, Harness, and Drawn Vehicles</caption><thead><tr><th><p>Item</p></th><th><p>Weight</p></th><th><p>Cost</p></th></tr></thead><tbody><tr><td><p>Carriage</p></td><td><p>600 lb.</p></td><td><p>100 GP</p></td></tr><tr><td><p>Cart</p></td><td><p>200 lb.</p></td><td><p>15 GP</p></td></tr><tr><td><p>Chariot</p></td><td><p>100 lb.</p></td><td><p>250 GP</p></td></tr><tr><td><p>Feed per day</p></td><td><p>10 lb.</p></td><td><p>5 CP</p></td></tr><tr><td colspan=\"3\"><p><em><strong>Saddle</strong></em></p></td></tr><tr><td><p>Exotic</p></td><td><p>40 lb.</p></td><td><p>60 GP</p></td></tr><tr><td><p>Military</p></td><td><p>30 lb.</p></td><td><p>20 GP</p></td></tr><tr><td><p>Riding</p></td><td><p>25 lb.</p></td><td><p>10 GP</p></td></tr><tr><td><p>Sled</p></td><td><p>300 lb.</p></td><td><p>20 GP</p></td></tr><tr><td><p>Stabling per day</p></td><td><p>—</p></td><td><p>5 SP</p></td></tr><tr><td><p>Wagon</p></td><td><p>400 lb.</p></td><td><p>35 GP</p></td></tr></tbody></table>"
         },
         "Large Vehicles": {
-          "name": "大型車輛 Large Vehicles",
+          "name": "大型載具 Large Vehicles",
           "text": "<p>The Airborne and Waterborne Vehicles table provides statistics for various types of large vehicles. The following notes apply.</p><h2>Speed</h2><p>A ship sailing against a strong wind moves at half speed. In a dead calm (no wind), waterborne ships can’t move under sail and must be rowed. Keelboats and Rowboats are used on lakes and rivers. If going downstream, add the speed of the current (typically 3 miles per hour) to the speed of the vehicle. These vehicles can’t be rowed against any significant current, but they can be pulled upstream by draft animals on the shores. A Rowboat can be carried and weighs 100 pounds.</p><h2>Crew</h2><p>A ship larger than a Keelboat or Rowboat needs a crew of skilled @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbServices00000.JournalEntryPage.6JpV8RWOi2AG8BdK]{hirelings} to function. The minimum number of skilled hirelings needed to crew a ship depends on the type of ship, as shown in the table.</p><h2>Passengers</h2><p>The table lists the number of Small and Medium passengers the ship can accommodate using hammocks. A ship outfitted with private accommodations can carry one-fifth as many passengers. A passenger usually pays 5 SP per day for a hammock, but prices can vary from ship to ship. A small private cabin usually costs 2 GP per day.</p><h2>Damage Threshold</h2><p>If a vehicle has a &amp;Reference[damage threshold]{Damage Threshold}, it’s noted in the table.</p><h2>Ship Repair</h2><p>Repairs to a damaged ship can be made while the vessel is berthed. Repairing 1 Hit Point of damage requires 1 day and costs 20 GP for materials and labor. If the repairs are made in a location where supplies and skilled labor are abundant, such as a city shipyard, the repair time and cost are halved.</p><table><caption>Airborne and Waterborne Vehicles</caption><thead><tr><th><p>Ship</p></th><th><p>Speed</p></th><th><p>Crew</p></th><th><p>Passengers</p></th><th><p>Cargo (Tons)</p></th><th><p>AC</p></th><th><p>HP</p></th><th><p>Damage Threshold</p></th><th><p>Cost</p></th></tr></thead><tbody><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.VBTtG9kjHNQstG0a]{Airship}</p></td><td><p>8 mph</p></td><td><p>10</p></td><td><p>20</p></td><td><p>1</p></td><td><p>13</p></td><td><p>300</p></td><td><p>—</p></td><td><p>40,000 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobGalley0000]{Galley}</p></td><td><p>4 mph</p></td><td><p>80</p></td><td><p>—</p></td><td><p>150</p></td><td><p>15</p></td><td><p>500</p></td><td><p>20</p></td><td><p>30,000 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobKeelboat00]{Keelboat}</p></td><td><p>1 mph</p></td><td><p>1</p></td><td><p>6</p></td><td><p>1/2</p></td><td><p>15</p></td><td><p>100</p></td><td><p>10</p></td><td><p>3,000 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobLongship00]{Longship}</p></td><td><p>3 mph</p></td><td><p>40</p></td><td><p>150</p></td><td><p>10</p></td><td><p>15</p></td><td><p>300</p></td><td><p>15</p></td><td><p>10,000 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobRowboat000]{Rowboat}</p></td><td><p>1½ mph</p></td><td><p>1</p></td><td><p>3</p></td><td><p>—</p></td><td><p>11</p></td><td><p>50</p></td><td><p>—</p></td><td><p>50 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobSailingShi]{Sailing Ship}</p></td><td><p>2 mph</p></td><td><p>20</p></td><td><p>20</p></td><td><p>100</p></td><td><p>15</p></td><td><p>300</p></td><td><p>15</p></td><td><p>10,000 GP</p></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobWarship000]{Warship}</p></td><td><p>2½ mph</p></td><td><p>60</p></td><td><p>60</p></td><td><p>200</p></td><td><p>15</p></td><td><p>500</p></td><td><p>20</p></td><td><p>25,000 GP</p></td></tr></tbody></table>"
         }
       }
@@ -2824,7 +2824,7 @@
           "name": "盜賊 Rogue"
         },
         "Arcane Trickster": {
-          "name": "詭術師 Arcane Trickster"
+          "name": "祕法詭術師 Arcane Trickster"
         },
         "Assassin": {
           "name": "刺客 Assassin"

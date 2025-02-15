@@ -879,7 +879,7 @@
           "name": "Resourceful"
         },
         "Skillful": {
-          "name": "技能熟練 Skillful"
+          "name": "熟練技能 Skillful"
         },
         "Versatile": {
           "name": "多功能 Versatile"
@@ -1516,8 +1516,8 @@
       }
     },
     "Invisible Sensor": {
-      "name": "Invisible Sensor",
-      "tokenName": "Invisible Sensor"
+      "name": "感知隱形 Invisible Sensor",
+      "tokenName": "感知隱形 Invisible Sensor"
     },
     "Keelboat": {
       "name": "帆船 Keelboat",
@@ -2841,7 +2841,7 @@
           "name": "儀式專家 Ritual Adept"
         },
         "Arcane Recovery": {
-          "name": "奧術恢復 Arcane Recovery"
+          "name": "祕法恢復 Arcane Recovery"
         }
       }
     },
