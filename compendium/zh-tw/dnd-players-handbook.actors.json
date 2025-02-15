@@ -840,7 +840,7 @@
       "tokenName": "龍之靈 Draconic Spirit",
       "items": {
         "Shared Resistances": {
-          "name": "Shared Resistances"
+          "name": "共享抗性 Shared Resistances"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -906,7 +906,7 @@
           "name": "旅行者衣裝 Traveler's Clothes"
         },
         "Leather Armor": {
-          "name": "Leather Armor"
+          "name": "皮甲 Leather Armor"
         },
         "Shield": {
           "name": "盾牌 Shield"
@@ -1083,7 +1083,7 @@
       }
     },
     "Fiend Steed": {
-      "name": "惡魔駿馬 Fiend Steed",
+      "name": "邪魔駿馬 Fiend Steed",
       "tokenName": "異界駿馬 Otherworldly Steed",
       "items": {
         "Life Bond": {
@@ -1331,7 +1331,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Poison Jab": {
-          "name": "Poison Jab"
+          "name": "毒刺 Poison Jab"
         },
         "Venomous Spew": {
           "name": "Venomous Spew"
@@ -1370,7 +1370,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Poison Jab": {
-          "name": "Poison Jab"
+          "name": "毒刺 Poison Jab"
         },
         "Web Bolt": {
           "name": "Web Bolt"
@@ -1424,7 +1424,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Poison Jab": {
-          "name": "Poison Jab"
+          "name": "毒刺 Poison Jab"
         }
       }
     },
@@ -2179,7 +2179,7 @@
           "name": "Clothes, Traveler’s"
         },
         "Leather Armor": {
-          "name": "Leather Armor"
+          "name": "皮甲 Leather Armor"
         },
         "Shortsword": {
           "name": "Shortsword"
@@ -2627,7 +2627,7 @@
           "name": "Prestidigitation"
         },
         "Leather Armor": {
-          "name": "Leather Armor"
+          "name": "皮甲 Leather Armor"
         },
         "Sickle": {
           "name": "鐮刀 Sickle"
@@ -2705,7 +2705,7 @@
           "name": "Eldritch Invocations"
         },
         "Pact Magic": {
-          "name": "Pact Magic"
+          "name": "契約魔法 Pact Magic"
         },
         "Pact of the Tome": {
           "name": "Pact of the Tome"
