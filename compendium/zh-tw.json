@@ -326,10 +326,10 @@
     "Average": "Average",
     "Hint": "Track the player's hit points for each level in the class.",
     "MaxAtFirstLevel": "Max at 1st Level: <strong>{max}</strong>",
-    "Roll": "Roll {class} Hit Points",
+    "Roll": "Roll {class} 生命值 Hit Points",
     "Starting": "Hit Points at 1st Level",
     "TakeAverage": "Take Average",
-    "Title": "Hit Points",
+    "Title": "生命值 Hit Points",
     "Warning": {
       "Empty": "Hit points must be rolled or the average value must be taken.",
       "Invalid": "Hit points must be a valid whole number."
@@ -877,8 +877,8 @@
   }
 },
 
-"DND5E.Biography": "Biography",
-"DND5E.BiographyPublic": "Public Biography",
+"DND5E.Biography": "傳記 Biography",
+"DND5E.BiographyPublic": "公開傳記 Public Biography",
 "DND5E.BiopgrahyPublicEdit": "Edit Public Biography",
 "DND5E.Bonds": "Bonds",
 "DND5E.Bonus": "Bonus",
@@ -1109,7 +1109,7 @@
   },
   "FIELDS": {
     "hd": {
-      "label": "生命骰 Hit Point Dice",
+      "label": "生命骰 Hit Point Die",
       "additional": {
         "label": "Additional Hit Dice",
         "hint": "Formula for hit dice that are available for this class beyond the normal amount."
@@ -1290,7 +1290,7 @@
 "DND5E.ConsumeType": "Consumption Category",
 "DND5E.ConsumeAmmunition": "Ammunition",
 "DND5E.ConsumeAttribute": "Attribute",
-"DND5E.ConsumeHitDice": "Hit Dice",
+"DND5E.ConsumeHitDice": "生命骰 Hit Dice",
 "DND5E.ConsumeHitDiceLargest": "Largest Available",
 "DND5E.ConsumeHitDiceLargestLong": "Largest Hit Dice Available",
 "DND5E.ConsumeHitDiceSmallest": "Smallest Available",
@@ -1460,7 +1460,7 @@
       "Warning": "{attribute} amount"
     },
     "HitDice": {
-      "Label": "Hit Dice",
+      "Label": "生命骰 Hit Dice",
       "PromptDecrease": "Consume Hit Die?",
       "PromptIncrease": "Restore Hit Die?",
       "PromptHintDecrease": "Spend <strong>{cost}</strong> {denomination} {die} ({available} remaining).",
@@ -2266,10 +2266,10 @@
   }
 },
 
-"DND5E.Favorite": "Favorite",
-"DND5E.FavoriteDrop": "Drop Favorite",
+"DND5E.Favorite": "喜愛 Favorite",
+"DND5E.FavoriteDrop": "放置喜愛 Drop Favorite",
 "DND5E.FavoriteRemove": "Remove Favorite",
-"DND5E.Favorites": "Favorites",
+"DND5E.Favorites": "喜愛 Favorites",
 "DND5E.FeatureActionRecharge": "Action Recharge",
 
 "DND5E.FEATURE": {
@@ -2365,14 +2365,14 @@
 "DND5E.EffectEnable": "Enable Effect",
 "DND5E.EffectDelete": "Delete Effect",
 "DND5E.EffectDisable": "Disable Effect",
-"DND5E.EffectTemporary": "Temporary Effects",
+"DND5E.EffectTemporary": "臨時效果 Temporary Effects",
 "DND5E.EffectPassive": "被動效果 Passive Effects",
 "DND5E.EffectInactive": "Inactive Effects",
 "DND5E.EffectNew": "New Effect",
 "DND5E.EffectType": {
   "Inactive": "Inactive",
   "Passive": "被動 Passive",
-  "Temporary": "Temporary",
+  "Temporary": "臨時 Temporary",
   "Unavailable": "Unavailable"
 },
 "DND5E.EffectUnavailable": "Unavailable Effects",
@@ -2562,17 +2562,17 @@
 
 "DND5E.Healing": "Healing",
 "DND5E.HealingRoll": "Healing Roll",
-"DND5E.HealingTemp": "Temporary Hit Points",
+"DND5E.HealingTemp": "臨時生命值 Temporary Hit Points",
 "DND5E.Height": "Height",
 
 "DND5E.HITPOINTS": {
   "Counted": {
-    "one": "{number} hit point",
-    "other": "{number} hit points"
+    "one": "{number} 生命值 hit point",
+    "other": "{number} 生命值 hit points"
   }
 },
 
-"DND5E.HitPoints": "Hit Points",
+"DND5E.HitPoints": "生命值 Hit Points",
 "DND5E.HitPointsBonusLevel": "Per Level Bonus",
 "DND5E.HitPointsBonusOverall": "Overall Bonus",
 "DND5E.HitPointsConfig": "Configure Hit Points",
@@ -2581,8 +2581,8 @@
 "DND5E.HitPointsMin": "Minimum Hit Points",
 "DND5E.HitPointsOverride": "Maximum Override",
 "DND5E.HitPointsOverrideHint": "Override automatically calculated hit points, ignoring any HP from classes, bonuses, and ability modifier.",
-"DND5E.HitPointsTemp": "Temporary Hit Points",
-"DND5E.HitPointsTempShort": "Temporary HP",
+"DND5E.HitPointsTemp": "臨時生命值 Temporary Hit Points",
+"DND5E.HitPointsTempShort": "臨時生命值 Temporary HP",
 "DND5E.HitPointsTempMax": "Temporary Maximum",
 "DND5E.HitPointsTempMaxHint": "Temporary change to the maximum HP.",
 "DND5E.HitPointsTempMaxShort": "Temp Max HP",
@@ -2599,13 +2599,13 @@
   "Available": "{number} available",
   "Config": "Adjust Hit Dice",
   "Counted": {
-    "one": "{number} hit die",
-    "other": "{number} hit dice"
+    "one": "{number} 生命骰 hit die",
+    "other": "{number} 生命骰 hit dice"
   }
 },
 
-"DND5E.HitDie": "Hit Die",
-"DND5E.HitDice": "Hit Dice",
+"DND5E.HitDie": "生命骰 Hit Die",
+"DND5E.HitDice": "生命骰 Hit Dice",
 "DND5E.HitDiceConfig": "Adjust Hit Dice",
 "DND5E.HitDiceConfigHint": "Adjust remaining hit dice levels for each class.",
 "DND5E.HitDiceMax": "Maximum Hit Dice",
@@ -2625,7 +2625,7 @@
 "DND5E.InitiativeRoll": "Initiative Roll",
 "DND5E.InitiativeConfig": "Configure Initiative",
 "DND5E.InitiativeConfigHint": "Configure initiative modifiers and bonuses which apply to this Actor.",
-"DND5E.Inspiration": "Inspiration",
+"DND5E.Inspiration": "激勵 Inspiration",
 "DND5E.Inventory": "背包 Inventory",
 "DND5E.InventorySearch": "Search inventory",
 "DND5E.Issues": "Issues",
@@ -3065,15 +3065,15 @@
   },
   "Label": "Rest",
   "Long": {
-    "Abbreviation": "LR",
+    "Abbreviation": "長休 LR",
     "Hint": {
       "Group": "On a long rest group members will recover hit points, hit dice, class resources, limited use item charges, and spell slots.",
       "GroupLegacy": "On a long rest group members will recover hit points, half of their maximum hit dice, class resources, limited use item charges, and spell slots.",
       "Normal": "On a long rest you will recover hit points, hit dice, class resources, limited use item charges, and spell slots.",
       "NormalLegacy": "On a long rest you will recover hit points, half your maximum hit dice, class resources, limited use item charges, and spell slots."
     },
-    "Label": "Long Rest",
-    "LabelShort": "L. Rest",
+    "Label": "長休 Long Rest",
+    "LabelShort": "長休 L. Rest",
     "Recovery": "Recovers after Long Rest",
     "Result": {
       "Full": "{name} takes a long rest and recovers {health} and {dice}.",
@@ -3092,8 +3092,8 @@
       "Group": "On a short rest group members can spend Hit Dice and will recover item uses.",
       "Normal": "On a short rest you may spend remaining Hit Dice and recover item uses."
     },
-    "Label": "Short Rest",
-    "LabelShort": "S. Rest",
+    "Label": "短休 Short Rest",
+    "LabelShort": "短休 S. Rest",
     "Recovery": "Recovers after Short Rest",
     "Result": {
       "Full": "{name} takes a short rest spending {dice} to recover {health}.",
@@ -4237,11 +4237,11 @@
         "Label": "先攻 Initiative"
       },
       "LongRest": {
-        "Label": "Long Rest",
+        "Label": "長休 Long Rest",
         "Abbreviation": "LR"
       },
       "ShortRest": {
-        "Label": "Short Rest",
+        "Label": "短休 Short Rest",
         "Abbreviation": "SR"
       },
       "Turn": {
@@ -4308,7 +4308,7 @@
         "label": "Crewed"
       },
       "hp": {
-        "label": "Hit Points",
+        "label": "生命值 Hit Points",
         "conditions": {
           "label": "Health Conditions"
         },
@@ -4539,7 +4539,7 @@
       "Name": "Level {level}: {name}"
     },
     "HitPoints": {
-      "Header": "Hit Points",
+      "Header": "生命值 Hit Points",
       "HitDiceLegacy": "<strong>Hit Dice:</strong> {dice} per {class} level",
       "HitDiceModern": "{dice} per {class} level",
       "Level1": "<strong>Hit Points at 1st Level:</strong> {max} + your Constitution modifier",
@@ -4716,7 +4716,7 @@
       "Yes": "Recharge and display chat card"
     },
     "AutoRollNPCHP": {
-      "Name": "Hit Points",
+      "Name": "生命值 Hit Points",
       "Hint": "Configure whether to roll for NPC max HP whenever a new token is created.",
       "No": "Do not roll",
       "Silent": "Roll without creating chat card",
