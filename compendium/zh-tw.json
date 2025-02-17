@@ -99,9 +99,9 @@
 "DND5E.AbilitySan": "Sanity",
 "DND5E.AbilitySanAbbr": "san",
 "DND5E.AbilityScore": "屬性值 Ability Score",
-"DND5E.AbilityScoreShort": "Score",
+"DND5E.AbilityScoreShort": "值 Score",
 "DND5E.AbilityScorePl": "屬性值 Ability Scores",
-"DND5E.AbilityScoreL": "{ability} Score",
+"DND5E.AbilityScoreL": "{ability} 值 Score",
 "DND5E.AbilityScoreMax": "Maximum Ability Score",
 "DND5E.AbilityScoreMaxShort": "Maximum",
 "DND5E.AbilityModifier": "屬性調整值 Ability Modifier",
@@ -111,9 +111,9 @@
 "DND5E.AbilityUseChargesLabel": "{value} Charges",
 "DND5E.AbilityUseConsumableLabel": "{max} per {per}",
 "DND5E.AbilityUseCast": "Cast Spell",
-"DND5E.AbilityUseUse": "Use Ability",
+"DND5E.AbilityUseUse": "使用屬性 Use Ability",
 "DND5E.AbilityUseConfig": "Usage Configuration",
-"DND5E.AbilityBonuses": "Ability Bonuses",
+"DND5E.AbilityBonuses": "屬性加值 Ability Bonuses",
 "DND5E.AbilityConfigure": "Configure {ability}",
 "DND5E.AbilityConfigureTitle": "Configure {ability} Saving Throws and Checks",
 "DND5E.AbilitySaveConfigure": "{ability} 豁免檢定 Saving Throws",
@@ -784,7 +784,7 @@
     "Offhand": "Offhand",
     "OneHanded": "One-Handed",
     "Ranged": "遠程 Ranged",
-    "Thrown": "Thrown",
+    "Thrown": "投擲 Thrown",
     "ThrownOffhand": "Offhand Throw",
     "TwoHanded": "Two-Handed"
   },
@@ -1814,12 +1814,12 @@
 "DND5E.Effects": "效果 Effects",
 "DND5E.EFFECT": {
   "Action": {
-    "Create": "Create Effect",
-    "Delete": "Delete Effect",
+    "Create": "新增效果 Create Effect",
+    "Delete": "刪除效果 Delete Effect",
     "Dissociate": "Dissociate Effect"
   },
   "Empty": "No associated effects. Use the <i class=\"fas fa-plus\"></i> button above to create one, or select an existing effect from the drop-down.",
-  "Label": "Available Effects"
+  "Label": "提供效果 Available Effects"
 },
 "DND5E.EffectsApplyTokens": "Apply to selected tokens",
 "DND5E.EffectApplyWarningConcentration": "Applying an effect that is being concentrated on by another character requires GM permissions.",
@@ -2294,7 +2294,7 @@
   "Background": "背景特性 Background Feature",
   "Class": {
     "Label": "職業特性 Class Feature",
-    "ArcaneShot": "Arcane Shot",
+    "ArcaneShot": "奧術射擊 Arcane Shot",
     "ArtificerInfusion": "Artificer Infusion",
     "ChannelDivinity": "Channel Divinity",
     "DefensiveTactic": "Defensive Tactic",
@@ -2312,7 +2312,7 @@
     "SuperiorHuntersDefense": "Superior Hunter's Defense"
   },
   "Feat": {
-    "Label": "Feat",
+    "Label": "專長 Feat",
     "EpicBoon": "Epic Boon Feat",
     "FightingStyle": "Fighting Style Feat",
     "General": "General Feat",
@@ -2359,23 +2359,23 @@
   }
 },
 
-"DND5E.EffectCreate": "Create Effect",
-"DND5E.EffectToggle": "Toggle Effect",
-"DND5E.EffectEdit": "Edit Effect",
-"DND5E.EffectEnable": "Enable Effect",
-"DND5E.EffectDelete": "Delete Effect",
-"DND5E.EffectDisable": "Disable Effect",
+"DND5E.EffectCreate": "新增效果 Create Effect",
+"DND5E.EffectToggle": "目標效果 Toggle Effect",
+"DND5E.EffectEdit": "編輯效果 Edit Effect",
+"DND5E.EffectEnable": "啟用效果 Enable Effect",
+"DND5E.EffectDelete": "刪除效果 Delete Effect",
+"DND5E.EffectDisable": "關閉效果 Disable Effect",
 "DND5E.EffectTemporary": "臨時效果 Temporary Effects",
 "DND5E.EffectPassive": "被動效果 Passive Effects",
-"DND5E.EffectInactive": "Inactive Effects",
-"DND5E.EffectNew": "New Effect",
+"DND5E.EffectInactive": "不活躍的效果 Inactive Effects",
+"DND5E.EffectNew": "新效果 New Effect",
 "DND5E.EffectType": {
-  "Inactive": "Inactive",
+  "Inactive": "不活躍 Inactive",
   "Passive": "被動 Passive",
   "Temporary": "臨時 Temporary",
-  "Unavailable": "Unavailable"
+  "Unavailable": "未提供 Unavailable"
 },
-"DND5E.EffectUnavailable": "Unavailable Effects",
+"DND5E.EffectUnavailable": "未提供效果 Unavailable Effects",
 "DND5E.EffectUnavailableInfo": "Source item must be equipped or attuned to activate these",
 "DND5E.Encumbrance": "Encumbrance",
 "DND5E.ItemRarityCommon": "通用 common",
@@ -2973,7 +2973,7 @@
     }
   }
 },
-"DND5E.Price": "Price",
+"DND5E.Price": "價錢 Price",
 "DND5E.Proficiency": "熟練項 Proficiency",
 "DND5E.ProficiencyBonus": "熟練項加值 Proficiency Bonus",
 "DND5E.ProficiencyBonusAbbr": "PB",
@@ -3311,7 +3311,7 @@
 "DND5E.SkillConfigureTitle": "Configure {skill}",
 "DND5E.SkillConfigure": "Configure Skill",
 "DND5E.SkillsConfig": "Configure Skills",
-"DND5E.SkillBonuses": "Skill Bonuses",
+"DND5E.SkillBonuses": "技能加值 Skill Bonuses",
 "DND5E.SkillBonusCheck": "Check Bonus",
 "DND5E.SkillBonusPassive": "Passive Bonus",
 "DND5E.SkillConfigurationHint": "Configure skill proficiency and bonuses.",
@@ -3461,7 +3461,7 @@
 "DND5E.SpellTarget": "Spell Target",
 "DND5E.SpellUnprepared": "Unprepared",
 "DND5E.SpellUsage": "Spell Usage",
-"DND5E.Spellbook": "Spellbook",
+"DND5E.Spellbook": "法術書 Spellbook",
 "DND5E.Spent": "Spent",
 "DND5E.StartingEquipment": {
   "Title": "起始裝備 Starting Equipment",
@@ -3498,7 +3498,7 @@
 "DND5E.SubclassAssignmentError": "{class} already has a subclass. Remove the existing '{subclass}' subclass before adding a new one.",
 "DND5E.SubclassDuplicateError": "A subclass with the identifier {identifier} already exists on this actor.",
 "DND5E.SubclassMismatchWarn": "{name} subclass has no matching class with identifier '{class}'.",
-"DND5E.SubclassName": "Subclass Name",
+"DND5E.SubclassName": "子職業名稱 Subclass Name",
 "DND5E.Subtype": "Subtype",
 
 "DND5E.SUMMON": {
@@ -3514,7 +3514,7 @@
         "hint": "Additional damage done by the creature's attacks."
       },
       "hd": {
-        "label": "Bonus Hit Dice",
+        "label": "附贈生命骰 Bonus Hit Dice",
         "hint": "Additional hit dice added to the creature on top of what is derived from the HP formula in their statblock. Can only be used when summoning NPC actors."
       },
       "healing": {
@@ -3522,7 +3522,7 @@
         "hint": "Additional healing provided by healing abilities."
       },
       "hp": {
-        "label": "Bonus Hit Points",
+        "label": "附贈生命值 Bonus Hit Points",
         "hint": "Additional hit points added to the creature on top of what is specified in their statblock."
       },
       "saveDamage": {
@@ -3531,11 +3531,11 @@
       }
     },
     "creatureSizes": {
-      "label": "Creature Sizes",
+      "label": "生物大小 Creature Sizes",
       "hint": "Summoned creature and token will be changed to this size. If more than one size is selected, then the player will be able to choose from these sizes when summoning."
     },
     "creatureTypes": {
-      "label": "Creature Types",
+      "label": "生物類型 Creature Types",
       "hint": "Summoned creature will be changed to this type. If more than one type is selected, then the player will be able to choose from these types when summoning."
     },
     "match": {
@@ -3753,7 +3753,7 @@
       }
     },
     "Creature": {
-      "Label": "Creature",
+      "Label": "生物 Creature",
       "Counted": {
         "any": "any creatures",
         "every": "every creature",
@@ -4437,8 +4437,8 @@
   "DamageDouble": "{first} plus {second}",
   "DamageShort": "{formula} {type}",
   "DamageLong": "{average} ({formula}) {type}",
-  "DC": "DC {dc} {check}",
-  "DCPassiveShort": "DC {dc} passive {check}",
+  "DC": "難度 DC {dc} {check}",
+  "DCPassiveShort": "難度 DC {dc} passive {check}",
   "DCPassiveLong": "passive {check} score of {dc} or higher",
   "NoActorWarning": "No selected or assigned actor could be found to execute this roll.",
   "PassiveShort": "passive {check}",
@@ -4517,7 +4517,7 @@
         }
       },
       "item": {
-        "label": "Selected Class"
+        "label": "已選職業 Selected Class"
       },
       "style": {
         "label": "Style",
@@ -4535,7 +4535,7 @@
     "Features": {
       "DescriptionLegacy": "As a {lowercaseName}, you gain the following class features, which are summarized in the {name} table.",
       "DescriptionModern": "As a {name}, you gain the following class features when you reach the specified {name} levels. These features are listed in the {name} Features table.",
-      "Header": "Class Features",
+      "Header": "職業特性 Class Features",
       "Name": "Level {level}: {name}"
     },
     "HitPoints": {
@@ -4547,7 +4547,7 @@
     },
     "ItemHint": "Drop a class here",
     "NoValidClass": "No valid class selected, press the edit button to add a class.",
-    "OptionalFeaturesCaption": "Optional Class Features",
+    "OptionalFeaturesCaption": "選擇職業特性 Optional Class Features",
     "OptionalFeaturesDescription": "The following section contains options {class} features. These features are not granted automatically, and you can choose one, some, or all of them at your DM's discretion.",
     "SpellSlotLevel": "Slot Level",
     "SpellSlots": "Spell Slots",
@@ -4598,7 +4598,7 @@
         }
       },
       "item": {
-        "label": "Selected Subclass"
+        "label": "已選子職業 Selected Subclass"
       },
       "style": {
         "label": "Style",
@@ -4684,7 +4684,7 @@
     }
   },
   "DEFAULTSKILLS": {
-    "Name": "Default Skills",
+    "Name": "預設技能 Default Skills",
     "Hint": "The default skills that appear on NPC sheets regardless of level of proficiency."
   },
   "General": "General",
