@@ -1,0 +1,30 @@
+{
+  "id": "monster_manual_5r_zh-tw",
+  "title": "monster_manual_5r_zh-tw",
+  "description": "怪物翻譯",
+  "authors": [
+    {
+      "name": "Rick",
+      "email": "edcrfvlily5@gmail.com",
+      "url": "https://github.com/rickluo94",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [
+    "register.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}

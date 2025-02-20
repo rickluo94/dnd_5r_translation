@@ -1,0 +1,2033 @@
+{
+  "label": "特性 Features",
+  "entries": {
+    "Abduct": {
+      "name": "Abduct"
+    },
+    "Aberrant Ground": {
+      "name": "Aberrant Ground"
+    },
+    "Absorb Body": {
+      "name": "Absorb Body"
+    },
+    "Abyssal Glaive": {
+      "name": "Abyssal Glaive"
+    },
+    "Abyssal Strike": {
+      "name": "Abyssal Strike"
+    },
+    "Acid Absorption": {
+      "name": "Acid Absorption"
+    },
+    "Acid Breath": {
+      "name": "Acid Breath"
+    },
+    "Acid Spray": {
+      "name": "酸霧 Acid Spray"
+    },
+    "Adhesive (Object Form Only)": {
+      "name": "Adhesive (Object Form Only)"
+    },
+    "Advanced Telepathy": {
+      "name": "Advanced Telepathy"
+    },
+    "Agile": {
+      "name": "Agile"
+    },
+    "Aim": {
+      "name": "Aim"
+    },
+    "Air Form": {
+      "name": "Air Form"
+    },
+    "Amorphous": {
+      "name": "Amorphous"
+    },
+    "Amphibious": {
+      "name": "Amphibious"
+    },
+    "Animal Lordship": {
+      "name": "Animal Lordship"
+    },
+    "Animal Spirit": {
+      "name": "Animal Spirit"
+    },
+    "Animate Boulders": {
+      "name": "Animate Boulders"
+    },
+    "Antennae": {
+      "name": "觸角 Antennae"
+    },
+    "Antimagic Cone": {
+      "name": "Antimagic Cone"
+    },
+    "Aquatic Burst": {
+      "name": "Aquatic Burst"
+    },
+    "Aquatic Charge": {
+      "name": "Aquatic Charge"
+    },
+    "Aquatic Lash": {
+      "name": "Aquatic Lash"
+    },
+    "Arcane Burst": {
+      "name": "Arcane Burst"
+    },
+    "Arcane Prowl": {
+      "name": "Arcane Prowl"
+    },
+    "Arcane Sword": {
+      "name": "Arcane Sword"
+    },
+    "Arcane Tentacles": {
+      "name": "Arcane Tentacles"
+    },
+    "Astral Implosion": {
+      "name": "Astral Implosion"
+    },
+    "Attach": {
+      "name": "Attach"
+    },
+    "Aura of Authority": {
+      "name": "Aura of Authority"
+    },
+    "Aura of Bravery": {
+      "name": "Aura of Bravery"
+    },
+    "Avalanche Slam": {
+      "name": "Avalanche Slam"
+    },
+    "Aversion to Fire": {
+      "name": "Aversion to Fire"
+    },
+    "Avoidance": {
+      "name": "Avoidance"
+    },
+    "Awestruck": {
+      "name": "Awestruck"
+    },
+    "Baleful Command": {
+      "name": "Baleful Command"
+    },
+    "Banish": {
+      "name": "Banish"
+    },
+    "Banishing Claw": {
+      "name": "Banishing Claw"
+    },
+    "Barbed Hide": {
+      "name": "Barbed Hide"
+    },
+    "Beak": {
+      "name": "Beak"
+    },
+    "Beaks": {
+      "name": "Beaks"
+    },
+    "Beard": {
+      "name": "Beard"
+    },
+    "Beast of Burden": {
+      "name": "Beast of Burden"
+    },
+    "Beguile": {
+      "name": "Beguile"
+    },
+    "Beguiling Song": {
+      "name": "Beguiling Song"
+    },
+    "Beguiling Strike": {
+      "name": "Beguiling Strike"
+    },
+    "Bejeweled Baton": {
+      "name": "Bejeweled Baton"
+    },
+    "Berserk": {
+      "name": "Berserk"
+    },
+    "Bite": {
+      "name": "Bite"
+    },
+    "Bites": {
+      "name": "Bites"
+    },
+    "Bladed Arm": {
+      "name": "Bladed Arm"
+    },
+    "Blazing Light": {
+      "name": "Blazing Light"
+    },
+    "Blazing Movement": {
+      "name": "Blazing Movement"
+    },
+    "Blight Seeds": {
+      "name": "Blight Seeds"
+    },
+    "Blinding Breath": {
+      "name": "Blinding Breath"
+    },
+    "Blinding Flash": {
+      "name": "Blinding Flash"
+    },
+    "Blinding Gaze": {
+      "name": "Blinding Gaze"
+    },
+    "Blinding Spittle": {
+      "name": "Blinding Spittle"
+    },
+    "Blood Frenzy": {
+      "name": "Blood Frenzy"
+    },
+    "Bloodied Frenzy": {
+      "name": "Bloodied Frenzy"
+    },
+    "Bloodied Fury": {
+      "name": "Bloodied Fury"
+    },
+    "Blurred Form": {
+      "name": "Blurred Form"
+    },
+    "Bog Staff": {
+      "name": "Bog Staff"
+    },
+    "Bolster": {
+      "name": "Bolster"
+    },
+    "Bone Bow": {
+      "name": "Bone Bow"
+    },
+    "Bone Cudgel": {
+      "name": "Bone Cudgel"
+    },
+    "Bone Flail": {
+      "name": "Bone Flail"
+    },
+    "Bone Javelin": {
+      "name": "Bone Javelin"
+    },
+    "Bone Whip": {
+      "name": "Bone Whip"
+    },
+    "Boulder": {
+      "name": "巨石 Boulder"
+    },
+    "Boulder Toss": {
+      "name": "投擲巨石 Boulder Toss"
+    },
+    "Bound": {
+      "name": "Bound"
+    },
+    "Branch": {
+      "name": "Branch"
+    },
+    "Brutal Gore": {
+      "name": "Brutal Gore"
+    },
+    "Bubble Dash": {
+      "name": "Bubble Dash"
+    },
+    "Burn": {
+      "name": "Burn"
+    },
+    "Burning Hammer": {
+      "name": "Burning Hammer"
+    },
+    "Burst of Ingenuity": {
+      "name": "Burst of Ingenuity"
+    },
+    "Burst of Wonder": {
+      "name": "Burst of Wonder"
+    },
+    "Cacophony": {
+      "name": "Cacophony"
+    },
+    "Captain’s Charm": {
+      "name": "Captain’s Charm"
+    },
+    "Captivated": {
+      "name": "Captivated"
+    },
+    "Cataclysmic Event": {
+      "name": "Cataclysmic Event"
+    },
+    "Caustic Lash": {
+      "name": "Caustic Lash"
+    },
+    "Celestial Restoration": {
+      "name": "Celestial Restoration"
+    },
+    "Chain": {
+      "name": "Chain"
+    },
+    "Channel Negative Energy": {
+      "name": "Channel Negative Energy"
+    },
+    "Chaos Blade": {
+      "name": "Chaos Blade"
+    },
+    "Chaos Claw": {
+      "name": "Chaos Claw"
+    },
+    "Chaos Staff": {
+      "name": "Chaos Staff"
+    },
+    "Charge": {
+      "name": "Charge"
+    },
+    "Charged Tendril": {
+      "name": "Charged Tendril"
+    },
+    "Charging Horn": {
+      "name": "Charging Horn"
+    },
+    "Charm": {
+      "name": "Charm"
+    },
+    "Charming": {
+      "name": "Charming"
+    },
+    "Chatkcha": {
+      "name": "Chatkcha"
+    },
+    "Chill": {
+      "name": "Chill"
+    },
+    "Chilling Gaze": {
+      "name": "Chilling Gaze"
+    },
+    "Chomp": {
+      "name": "Chomp"
+    },
+    "Chromatic Spittle": {
+      "name": "Chromatic Spittle"
+    },
+    "Cinder Breath": {
+      "name": "Cinder Breath"
+    },
+    "Claw": {
+      "name": "Claw"
+    },
+    "Claws": {
+      "name": "Claws"
+    },
+    "Cloaked Flight": {
+      "name": "Cloaked Flight"
+    },
+    "Clockwork Blade": {
+      "name": "Clockwork Blade"
+    },
+    "Clockwork Spear": {
+      "name": "Clockwork Spear"
+    },
+    "Cloud of Insects": {
+      "name": "Cloud of Insects"
+    },
+    "Cold Breath": {
+      "name": "Cold Breath"
+    },
+    "Cold Gale": {
+      "name": "Cold Gale"
+    },
+    "Commanding Presence": {
+      "name": "Commanding Presence"
+    },
+    "Compression": {
+      "name": "Compression"
+    },
+    "Confer Fire Resistance": {
+      "name": "Confer Fire Resistance"
+    },
+    "Confusing Gaze": {
+      "name": "Confusing Gaze"
+    },
+    "Conjure Infernal Chain": {
+      "name": "Conjure Infernal Chain"
+    },
+    "Conjure Slimy Glob": {
+      "name": "Conjure Slimy Glob"
+    },
+    "Conjured Dragon’s Breath": {
+      "name": "Conjured Dragon’s Breath"
+    },
+    "Constrict": {
+      "name": "Constrict"
+    },
+    "Constricting Vine": {
+      "name": "Constricting Vine"
+    },
+    "Consume Life": {
+      "name": "Consume Life"
+    },
+    "Consume Memories": {
+      "name": "Consume Memories"
+    },
+    "Contortionist": {
+      "name": "Contortionist"
+    },
+    "Control Weather": {
+      "name": "Control Weather"
+    },
+    "Corrosive Form": {
+      "name": "Corrosive Form"
+    },
+    "Corrupting Touch": {
+      "name": "Corrupting Touch"
+    },
+    "Counterattack": {
+      "name": "Counterattack"
+    },
+    "Counterspell": {
+      "name": "Counterspell"
+    },
+    "Coven Magic": {
+      "name": "Coven Magic"
+    },
+    "Crackling Wave": {
+      "name": "Crackling Wave"
+    },
+    "Create Specter": {
+      "name": "Create Specter"
+    },
+    "Create Whirlwind": {
+      "name": "Create Whirlwind"
+    },
+    "Crush": {
+      "name": "Crush"
+    },
+    "Cunning Action": {
+      "name": "Cunning Action"
+    },
+    "Curse of the Riddle": {
+      "name": "Curse of the Riddle"
+    },
+    "Cursed Touch": {
+      "name": "Cursed Touch"
+    },
+    "Darkness Aura": {
+      "name": "Darkness Aura"
+    },
+    "Deadly Aim": {
+      "name": "Deadly Aim"
+    },
+    "Deadly Leap": {
+      "name": "Deadly Leap"
+    },
+    "Death Burst": {
+      "name": "Death Burst"
+    },
+    "Death Glare": {
+      "name": "Death Glare"
+    },
+    "Death Throes": {
+      "name": "Death Throes"
+    },
+    "Deathless Agility": {
+      "name": "Deathless Agility"
+    },
+    "Deathless Strike": {
+      "name": "Deathless Strike"
+    },
+    "Deathly Ray": {
+      "name": "Deathly Ray"
+    },
+    "Deathly Teleport": {
+      "name": "Deathly Teleport"
+    },
+    "Deathly Wail": {
+      "name": "Deathly Wail"
+    },
+    "Decay": {
+      "name": "Decay"
+    },
+    "Defensive Stance": {
+      "name": "Defensive Stance"
+    },
+    "Deflect Missile": {
+      "name": "偏轉導彈 Deflect Missile"
+    },
+    "Demonic Restoration": {
+      "name": "Demonic Restoration"
+    },
+    "Destroy Metal": {
+      "name": "摧毀金屬 Destroy Metal"
+    },
+    "Detect Intelligence": {
+      "name": "Detect Intelligence"
+    },
+    "Detect Life": {
+      "name": "Detect Life"
+    },
+    "Devilish Claw": {
+      "name": "Devilish Claw"
+    },
+    "Devour Intellect": {
+      "name": "Devour Intellect"
+    },
+    "Diabolical Restoration": {
+      "name": "Diabolical Restoration"
+    },
+    "Disintegration": {
+      "name": "Disintegration"
+    },
+    "Displacement": {
+      "name": "Displacement"
+    },
+    "Disrupt Life": {
+      "name": "Disrupt Life"
+    },
+    "Dissolving Pseudopod": {
+      "name": "Dissolving Pseudopod"
+    },
+    "Divine Aid": {
+      "name": "Divine Aid"
+    },
+    "Divine Awareness": {
+      "name": "Divine Awareness"
+    },
+    "Divine Beam": {
+      "name": "Divine Beam"
+    },
+    "Divine Ray": {
+      "name": "神聖射線 Divine Ray"
+    },
+    "Dominate Mind": {
+      "name": "Dominate Mind"
+    },
+    "Draconic Origin": {
+      "name": "Draconic Origin"
+    },
+    "Draconic Strike": {
+      "name": "Draconic Strike"
+    },
+    "Dragon-Tooth Blade": {
+      "name": "Dragon-Tooth Blade"
+    },
+    "Dragon’s Breath": {
+      "name": "龍息 Dragon’s Breath"
+    },
+    "Draining Kiss": {
+      "name": "Draining Kiss"
+    },
+    "Draining Swipe": {
+      "name": "Draining Swipe"
+    },
+    "Dread Authority": {
+      "name": "Dread Authority"
+    },
+    "Dread Blade": {
+      "name": "Dread Blade"
+    },
+    "Dread Command": {
+      "name": "恐懼指令 Dread Command"
+    },
+    "Dread Scythe": {
+      "name": "Dread Scythe"
+    },
+    "Dreadful Glare": {
+      "name": "Dreadful Glare"
+    },
+    "Dreadful Howl": {
+      "name": "Dreadful Howl"
+    },
+    "Drone": {
+      "name": "Drone"
+    },
+    "Drop": {
+      "name": "Drop"
+    },
+    "Earth Burst": {
+      "name": "Earth Burst"
+    },
+    "Earth Glide": {
+      "name": "Earth Glide"
+    },
+    "Earthen Maul": {
+      "name": "Earthen Maul"
+    },
+    "Eldritch Burst": {
+      "name": "Eldritch Burst"
+    },
+    "Eldritch Lantern": {
+      "name": "Eldritch Lantern"
+    },
+    "Eldritch Restoration": {
+      "name": "Eldritch Restoration"
+    },
+    "Electrical Discharge": {
+      "name": "Electrical Discharge"
+    },
+    "Elemental Absorption": {
+      "name": "Elemental Absorption"
+    },
+    "Elemental Burst": {
+      "name": "Elemental Burst"
+    },
+    "Elemental Claw": {
+      "name": "Elemental Claw"
+    },
+    "Elemental Flail": {
+      "name": "Elemental Flail"
+    },
+    "Elemental Restoration": {
+      "name": "Elemental Restoration"
+    },
+    "Enchanting Bow": {
+      "name": "Enchanting Bow"
+    },
+    "Energy Drain": {
+      "name": "能量汲取 Energy Drain"
+    },
+    "Engulf": {
+      "name": "Engulf"
+    },
+    "Entangling Plants": {
+      "name": "Entangling Plants"
+    },
+    "Entangling Rope": {
+      "name": "Entangling Rope"
+    },
+    "Entangling Trail": {
+      "name": "Entangling Trail"
+    },
+    "Enthralling Panache": {
+      "name": "Enthralling Panache"
+    },
+    "Ephemeral": {
+      "name": "Ephemeral"
+    },
+    "Eruption": {
+      "name": "Eruption"
+    },
+    "Ethereal Jaunt": {
+      "name": "Ethereal Jaunt"
+    },
+    "Ethereal Sight": {
+      "name": "Ethereal Sight"
+    },
+    "Ethereal Stride": {
+      "name": "Ethereal Stride"
+    },
+    "Etherealness": {
+      "name": "Etherealness"
+    },
+    "Euphoria Breath": {
+      "name": "Euphoria Breath"
+    },
+    "Evasion": {
+      "name": "Evasion"
+    },
+    "Exalted Restoration": {
+      "name": "Exalted Restoration"
+    },
+    "Extract Brain": {
+      "name": "Extract Brain"
+    },
+    "Eye Rays": {
+      "name": "Eye Rays"
+    },
+    "Faerie Dust": {
+      "name": "Faerie Dust"
+    },
+    "Fear Aura": {
+      "name": "Fear Aura"
+    },
+    "Fear of Fire": {
+      "name": "Fear of Fire"
+    },
+    "Fearful": {
+      "name": "Fearful"
+    },
+    "Fearsome Claw": {
+      "name": "Fearsome Claw"
+    },
+    "Fell Word": {
+      "name": "Fell Word"
+    },
+    "Feral Strike": {
+      "name": "Feral Strike"
+    },
+    "Fetid Aura": {
+      "name": "Fetid Aura"
+    },
+    "Fetid Cloud": {
+      "name": "Fetid Cloud"
+    },
+    "Fey Melody": {
+      "name": "Fey Melody"
+    },
+    "Fiendish Aid": {
+      "name": "Fiendish Aid"
+    },
+    "Fiendish Blood": {
+      "name": "Fiendish Blood"
+    },
+    "Fiendish Burst": {
+      "name": "Fiendish Burst"
+    },
+    "Fiendish Guile": {
+      "name": "Fiendish Guile"
+    },
+    "Fiendish Restoration": {
+      "name": "Fiendish Restoration"
+    },
+    "Fiendish Touch": {
+      "name": "Fiendish Touch"
+    },
+    "Fiery Bolt": {
+      "name": "Fiery Bolt"
+    },
+    "Fiery Mace": {
+      "name": "Fiery Mace"
+    },
+    "Fiery Rays": {
+      "name": "Fiery Rays"
+    },
+    "Fire Absorption": {
+      "name": "Fire Absorption"
+    },
+    "Fire Aura": {
+      "name": "Fire Aura"
+    },
+    "Fire Breath": {
+      "name": "火焰吐息 Fire Breath"
+    },
+    "Fire Form": {
+      "name": "Fire Form"
+    },
+    "Fire Ray": {
+      "name": "Fire Ray"
+    },
+    "First Roar": {
+      "name": "First Roar"
+    },
+    "Fist": {
+      "name": "Fist"
+    },
+    "Flame Aura": {
+      "name": "Flame Aura"
+    },
+    "Flame Burst": {
+      "name": "Flame Burst"
+    },
+    "Flame Scepter": {
+      "name": "Flame Scepter"
+    },
+    "Flame Spear": {
+      "name": "Flame Spear"
+    },
+    "Flame Sword": {
+      "name": "Flame Sword"
+    },
+    "Flame Trident": {
+      "name": "Flame Trident"
+    },
+    "Flame Whip": {
+      "name": "Flame Whip"
+    },
+    "Flash of Light": {
+      "name": "Flash of Light"
+    },
+    "Fling": {
+      "name": "Fling"
+    },
+    "Flyby": {
+      "name": "Flyby"
+    },
+    "Flying Sword": {
+      "name": "Flying Sword"
+    },
+    "Fog Cloud": {
+      "name": "Fog Cloud"
+    },
+    "Forbiddance": {
+      "name": "Forbiddance"
+    },
+    "Force Bolt": {
+      "name": "Force Bolt"
+    },
+    "Foreleg": {
+      "name": "Foreleg"
+    },
+    "Forest Staff": {
+      "name": "Forest Staff"
+    },
+    "Fortify": {
+      "name": "Fortify"
+    },
+    "Freeze": {
+      "name": "Freeze"
+    },
+    "Freezing Burst": {
+      "name": "Freezing Burst"
+    },
+    "Frenzied Rush": {
+      "name": "Frenzied Rush"
+    },
+    "Frightening": {
+      "name": "Frightening"
+    },
+    "Frightening Gaze": {
+      "name": "Frightening Gaze"
+    },
+    "Frightful Presence": {
+      "name": "Frightful Presence"
+    },
+    "Frost Axe": {
+      "name": "Frost Axe"
+    },
+    "Frost Breath": {
+      "name": "Frost Breath"
+    },
+    "Gear": {
+      "name": "Gear"
+    },
+    "Gear Flinger": {
+      "name": "Gear Flinger"
+    },
+    "Gears Launcher": {
+      "name": "Gears Launcher"
+    },
+    "Gibbering": {
+      "name": "Gibbering"
+    },
+    "Giggling Magic": {
+      "name": "Giggling Magic"
+    },
+    "Glare": {
+      "name": "Glare"
+    },
+    "Gnash": {
+      "name": "Gnash"
+    },
+    "Gore": {
+      "name": "Gore"
+    },
+    "Gouge": {
+      "name": "Gouge"
+    },
+    "Grab": {
+      "name": "Grab"
+    },
+    "Grasping Glob": {
+      "name": "Grasping Glob"
+    },
+    "Grasping Root": {
+      "name": "Grasping Root"
+    },
+    "Grave Strike": {
+      "name": "Grave Strike"
+    },
+    "Grave-Dust Flight": {
+      "name": "Grave-Dust Flight"
+    },
+    "Great Bow": {
+      "name": "Great Bow"
+    },
+    "Greater Magic Resistance": {
+      "name": "Greater Magic Resistance"
+    },
+    "Guiding Light": {
+      "name": "Guiding Light"
+    },
+    "Gythka": {
+      "name": "Gythka"
+    },
+    "Hag’s Swipe": {
+      "name": "Hag’s Swipe"
+    },
+    "Hail of Bark": {
+      "name": "Hail of Bark"
+    },
+    "Hail of Stone": {
+      "name": "Hail of Stone"
+    },
+    "Hammer Throw": {
+      "name": "Hammer Throw"
+    },
+    "Harpoon": {
+      "name": "Harpoon"
+    },
+    "Hasten": {
+      "name": "Hasten"
+    },
+    "Haunted Zone": {
+      "name": "Haunted Zone"
+    },
+    "Haunting Glare": {
+      "name": "Haunting Glare"
+    },
+    "Healing Word": {
+      "name": "Healing Word"
+    },
+    "Heart Sight": {
+      "name": "Heart Sight"
+    },
+    "Heat Aura": {
+      "name": "Heat Aura"
+    },
+    "Heated Blade": {
+      "name": "Heated Blade"
+    },
+    "Hellfire Orb": {
+      "name": "Hellfire Orb"
+    },
+    "Hellfire Spellcasting": {
+      "name": "Hellfire Spellcasting"
+    },
+    "Hellish Rebuke": {
+      "name": "Hellish Rebuke"
+    },
+    "Hellish Restoration": {
+      "name": "Hellish Restoration"
+    },
+    "Hex Stick": {
+      "name": "Hex Stick"
+    },
+    "Hold Breath": {
+      "name": "Hold Breath"
+    },
+    "Holy Burst": {
+      "name": "Holy Burst"
+    },
+    "Holy Mace": {
+      "name": "Holy Mace"
+    },
+    "Holy Word": {
+      "name": "Holy Word"
+    },
+    "Hook": {
+      "name": "Hook"
+    },
+    "Hooves": {
+      "name": "Hooves"
+    },
+    "Horrific Necrosis": {
+      "name": "Horrific Necrosis"
+    },
+    "Horrific Visage": {
+      "name": "恐怖面容 Horrific Visage"
+    },
+    "Horrify": {
+      "name": "Horrify"
+    },
+    "Horror Nimbus": {
+      "name": "Horror Nimbus"
+    },
+    "Howl": {
+      "name": "Howl"
+    },
+    "Hunger of Hadar": {
+      "name": "Hunger of Hadar"
+    },
+    "Hunger of Yeenoghu": {
+      "name": "Hunger of Yeenoghu"
+    },
+    "Hurl Flame": {
+      "name": "Hurl Flame"
+    },
+    "Hypnotic Gaze": {
+      "name": "Hypnotic Gaze"
+    },
+    "Ice Spear": {
+      "name": "Ice Spear"
+    },
+    "Ice Throw": {
+      "name": "Ice Throw"
+    },
+    "Ice Walk": {
+      "name": "Ice Walk"
+    },
+    "Ice Wall": {
+      "name": "Ice Wall"
+    },
+    "Icy Bite": {
+      "name": "Icy Bite"
+    },
+    "Ignited Illumination": {
+      "name": "Ignited Illumination"
+    },
+    "Illumination": {
+      "name": "Illumination"
+    },
+    "Illusory Appearance": {
+      "name": "Illusory Appearance"
+    },
+    "Immutable Form": {
+      "name": "Immutable Form"
+    },
+    "Incite Rampage": {
+      "name": "Incite Rampage"
+    },
+    "Incorporeal Movement": {
+      "name": "Incorporeal Movement"
+    },
+    "Incubus Form": {
+      "name": "Incubus Form"
+    },
+    "Infernal Fork": {
+      "name": "Infernal Fork"
+    },
+    "Infernal Glaive": {
+      "name": "Infernal Glaive"
+    },
+    "Infernal Sting": {
+      "name": "Infernal Sting"
+    },
+    "Infernal Tail": {
+      "name": "Infernal Tail"
+    },
+    "Inferno Blast": {
+      "name": "Inferno Blast"
+    },
+    "Injecting Claw": {
+      "name": "Injecting Claw"
+    },
+    "Ink Cloud": {
+      "name": "Ink Cloud"
+    },
+    "Inscrutable": {
+      "name": "Inscrutable"
+    },
+    "Insectile Rapier": {
+      "name": "Insectile Rapier"
+    },
+    "Invisibility": {
+      "name": "Invisibility"
+    },
+    "Invisible in Water": {
+      "name": "Invisible in Water"
+    },
+    "Invitation": {
+      "name": "Invitation"
+    },
+    "Iron Scent": {
+      "name": "Iron Scent"
+    },
+    "Jinx": {
+      "name": "Jinx"
+    },
+    "Jumper": {
+      "name": "Jumper"
+    },
+    "Lash": {
+      "name": "Lash"
+    },
+    "Lashing Goop": {
+      "name": "Lashing Goop"
+    },
+    "Leap": {
+      "name": "Leap"
+    },
+    "Legendary Resistance": {
+      "name": "Legendary Resistance"
+    },
+    "Life Drain": {
+      "name": "生命汲取 Life Drain"
+    },
+    "Life Suppression": {
+      "name": "Life Suppression"
+    },
+    "Life-Draining Root": {
+      "name": "Life-Draining Root"
+    },
+    "Light Sensitivity": {
+      "name": "Light Sensitivity"
+    },
+    "Lightning Absorption": {
+      "name": "Lightning Absorption"
+    },
+    "Lightning Blade": {
+      "name": "Lightning Blade"
+    },
+    "Lightning Breath": {
+      "name": "Lightning Breath"
+    },
+    "Lightning Storm": {
+      "name": "Lightning Storm"
+    },
+    "Lightning Strike": {
+      "name": "Lightning Strike"
+    },
+    "Limited Amphibiousness": {
+      "name": "Limited Amphibiousness"
+    },
+    "Limited Foresight": {
+      "name": "Limited Foresight"
+    },
+    "Living Shadow": {
+      "name": "Living Shadow"
+    },
+    "Loathsome Limbs": {
+      "name": "Loathsome Limbs"
+    },
+    "Lordly Presence": {
+      "name": "Lordly Presence"
+    },
+    "Lunge": {
+      "name": "Lunge"
+    },
+    "Luring Song": {
+      "name": "魅音 Luring Song"
+    },
+    "Magic of the Spider Queen": {
+      "name": "Magic of the Spider Queen"
+    },
+    "Magic Resistance": {
+      "name": "Magic Resistance"
+    },
+    "Magic Rope": {
+      "name": "Magic Rope"
+    },
+    "Magical Backlash": {
+      "name": "Magical Backlash"
+    },
+    "Majestic Song": {
+      "name": "Majestic Song"
+    },
+    "Malicious Magic": {
+      "name": "Malicious Magic"
+    },
+    "Maneuver": {
+      "name": "Maneuver"
+    },
+    "Marked as Prey": {
+      "name": "Marked as Prey"
+    },
+    "Marshal Undead": {
+      "name": "Marshal Undead"
+    },
+    "Mercurial Axe": {
+      "name": "Mercurial Axe"
+    },
+    "Mercurial Trident": {
+      "name": "Mercurial Trident"
+    },
+    "Mercurial Whip": {
+      "name": "Mercurial Whip"
+    },
+    "Mimicry": {
+      "name": "Mimicry"
+    },
+    "Mind Blast": {
+      "name": "Mind Blast"
+    },
+    "Mind Burst": {
+      "name": "Mind Burst"
+    },
+    "Mind Corrosion": {
+      "name": "Mind Corrosion"
+    },
+    "Mind Invasion": {
+      "name": "Mind Invasion"
+    },
+    "Mind Jolt": {
+      "name": "Mind Jolt"
+    },
+    "Mind Rot": {
+      "name": "Mind Rot"
+    },
+    "Mind-Rending Roar": {
+      "name": "Mind-Rending Roar"
+    },
+    "Mired": {
+      "name": "Mired"
+    },
+    "Misty Escape": {
+      "name": "Misty Escape"
+    },
+    "Misty Step": {
+      "name": "Misty Step"
+    },
+    "Misty Veil": {
+      "name": "Misty Veil"
+    },
+    "Moan": {
+      "name": "Moan"
+    },
+    "Mockery": {
+      "name": "Mockery"
+    },
+    "Mucus Cloud": {
+      "name": "Mucus Cloud"
+    },
+    "Mud Breath": {
+      "name": "Mud Breath"
+    },
+    "Multiattack": {
+      "name": "Multiattack"
+    },
+    "Multiple Heads": {
+      "name": "Multiple Heads"
+    },
+    "Mutating Claw": {
+      "name": "Mutating Claw"
+    },
+    "Necrosis": {
+      "name": "Necrosis"
+    },
+    "Necrotic Bow": {
+      "name": "Necrotic Bow"
+    },
+    "Necrotic Breath": {
+      "name": "Necrotic Breath"
+    },
+    "Necrotic Burst": {
+      "name": "Necrotic Burst"
+    },
+    "Necrotic Ray": {
+      "name": "Necrotic Ray"
+    },
+    "Necrotic Strike": {
+      "name": "Necrotic Strike"
+    },
+    "Necrotic Sword": {
+      "name": "Necrotic Sword"
+    },
+    "Needle Sword": {
+      "name": "Needle Sword"
+    },
+    "Negative Energy Cone": {
+      "name": "Negative Energy Cone"
+    },
+    "Nightmare": {
+      "name": "Nightmare"
+    },
+    "Nightmare Haunting": {
+      "name": "Nightmare Haunting"
+    },
+    "Nightmare Ray": {
+      "name": "Nightmare Ray"
+    },
+    "Nimble Escape": {
+      "name": "Nimble Escape"
+    },
+    "Noxious Miasma": {
+      "name": "Noxious Miasma"
+    },
+    "Object Slam": {
+      "name": "Object Slam"
+    },
+    "Ocean Spear": {
+      "name": "Ocean Spear"
+    },
+    "Onslaught": {
+      "name": "Onslaught"
+    },
+    "Ooze Cube": {
+      "name": "Ooze Cube"
+    },
+    "Otherworldly Strike": {
+      "name": "Otherworldly Strike"
+    },
+    "Pacifying Spores": {
+      "name": "Pacifying Spores"
+    },
+    "Pack Tactics": {
+      "name": "Pack Tactics"
+    },
+    "Pact Axe": {
+      "name": "Pact Axe"
+    },
+    "Pact Blade": {
+      "name": "Pact Blade"
+    },
+    "Paralysis Gas": {
+      "name": "Paralysis Gas"
+    },
+    "Paralyzing Breath": {
+      "name": "Paralyzing Breath"
+    },
+    "Paralyzing Tentacles": {
+      "name": "Paralyzing Tentacles"
+    },
+    "Paralyzing Touch": {
+      "name": "Paralyzing Touch"
+    },
+    "Parry": {
+      "name": "Parry"
+    },
+    "Pesky Swarm": {
+      "name": "Pesky Swarm"
+    },
+    "Petrifying Bite": {
+      "name": "Petrifying Bite"
+    },
+    "Petrifying Breath": {
+      "name": "Petrifying Breath"
+    },
+    "Petrifying Gaze": {
+      "name": "Petrifying Gaze"
+    },
+    "Phantasms": {
+      "name": "Phantasms"
+    },
+    "Pincer": {
+      "name": "Pincer"
+    },
+    "Pincer Staff": {
+      "name": "Pincer Staff"
+    },
+    "Poison": {
+      "name": "Poison"
+    },
+    "Poison Breath": {
+      "name": "Poison Breath"
+    },
+    "Poison Burst": {
+      "name": "Poison Burst"
+    },
+    "Poison Ray": {
+      "name": "Poison Ray"
+    },
+    "Poison Spray": {
+      "name": "Poison Spray"
+    },
+    "Poisonous Spittle": {
+      "name": "Poisonous Spittle"
+    },
+    "Portent": {
+      "name": "Portent"
+    },
+    "Possession": {
+      "name": "佔有 Possession"
+    },
+    "Pounce": {
+      "name": "猛撲 Pounce"
+    },
+    "Prance": {
+      "name": "躍起 Prance"
+    },
+    "Probing Telepathy": {
+      "name": "Probing Telepathy"
+    },
+    "Proboscis": {
+      "name": "Proboscis"
+    },
+    "Prone Deficiency": {
+      "name": "Prone Deficiency"
+    },
+    "Protection": {
+      "name": "Protection"
+    },
+    "Protective Magic": {
+      "name": "Protective Magic"
+    },
+    "Prowl (Tiger or Hybrid Form Only)": {
+      "name": "Prowl (Tiger or Hybrid Form Only)"
+    },
+    "Pseudopod": {
+      "name": "Pseudopod"
+    },
+    "Psi Blade": {
+      "name": "Psi Blade"
+    },
+    "Psi Strike": {
+      "name": "Psi Strike"
+    },
+    "Psi-Powered Leap": {
+      "name": "Psi-Powered Leap"
+    },
+    "Psionic Defense": {
+      "name": "Psionic Defense"
+    },
+    "Psionic Lance": {
+      "name": "Psionic Lance"
+    },
+    "Psychic Crush": {
+      "name": "Psychic Crush"
+    },
+    "Psychic Drain": {
+      "name": "心靈汲取 Psychic Drain"
+    },
+    "Psychic Warp": {
+      "name": "Psychic Warp"
+    },
+    "Pummel": {
+      "name": "Pummel"
+    },
+    "Pursuit": {
+      "name": "Pursuit"
+    },
+    "Quick Grapple": {
+      "name": "Quick Grapple"
+    },
+    "Radiant Burst": {
+      "name": "Radiant Burst"
+    },
+    "Radiant Flame": {
+      "name": "Radiant Flame"
+    },
+    "Radiant Horn": {
+      "name": "Radiant Horn"
+    },
+    "Radiant Ray": {
+      "name": "Radiant Ray"
+    },
+    "Radiant Strike": {
+      "name": "Radiant Strike"
+    },
+    "Radiant Sword": {
+      "name": "Radiant Sword"
+    },
+    "Radiant Teleport": {
+      "name": "Radiant Teleport"
+    },
+    "Rake": {
+      "name": "Rake"
+    },
+    "Ram": {
+      "name": "Ram"
+    },
+    "Rampage": {
+      "name": "Rampage"
+    },
+    "Rapport Spores": {
+      "name": "Rapport Spores"
+    },
+    "Ravage": {
+      "name": "Ravage"
+    },
+    "Reactive": {
+      "name": "Reactive"
+    },
+    "Reactive Heads": {
+      "name": "Reactive Heads"
+    },
+    "Read Thoughts": {
+      "name": "Read Thoughts"
+    },
+    "Redirect Attack": {
+      "name": "Redirect Attack"
+    },
+    "Reel": {
+      "name": "Reel"
+    },
+    "Reflective Carapace": {
+      "name": "反光甲殼 Reflective Carapace"
+    },
+    "Reflexive Antennae": {
+      "name": "觸角反射 Reflexive Antennae"
+    },
+    "Regeneration": {
+      "name": "再生 Regeneration"
+    },
+    "Rend": {
+      "name": "Rend"
+    },
+    "Repulsion Breath": {
+      "name": "Repulsion Breath"
+    },
+    "Restless Touch": {
+      "name": "Restless Touch"
+    },
+    "Restraining Glob": {
+      "name": "Restraining Glob"
+    },
+    "Riposte": {
+      "name": "Riposte"
+    },
+    "Ritual Sickle": {
+      "name": "Ritual Sickle"
+    },
+    "Roar": {
+      "name": "Roar"
+    },
+    "Rock": {
+      "name": "岩石 Rock"
+    },
+    "Rock Launch": {
+      "name": "Rock Launch"
+    },
+    "Rotting Fist": {
+      "name": "Rotting Fist"
+    },
+    "Rotting Gaze": {
+      "name": "Rotting Gaze"
+    },
+    "Rotting Slam": {
+      "name": "Rotting Slam"
+    },
+    "Rotting Touch": {
+      "name": "Rotting Touch"
+    },
+    "Rumbling Movement": {
+      "name": "Rumbling Movement"
+    },
+    "Running Leap": {
+      "name": "Running Leap"
+    },
+    "Running Water": {
+      "name": "Running Water"
+    },
+    "Sacred Weapon": {
+      "name": "Sacred Weapon"
+    },
+    "Sanguine Drain": {
+      "name": "血液汲取 Sanguine Drain"
+    },
+    "Sap": {
+      "name": "Sap"
+    },
+    "Scare": {
+      "name": "Scare"
+    },
+    "Scorching Sands": {
+      "name": "Scorching Sands"
+    },
+    "Scratch": {
+      "name": "Scratch"
+    },
+    "Screech": {
+      "name": "Screech"
+    },
+    "Searing Fork": {
+      "name": "Searing Fork"
+    },
+    "Second Roar": {
+      "name": "Second Roar"
+    },
+    "Sense Magic": {
+      "name": "Sense Magic"
+    },
+    "Serpentine Gaze": {
+      "name": "Serpentine Gaze"
+    },
+    "Shadow Blade": {
+      "name": "Shadow Blade"
+    },
+    "Shadow Breath": {
+      "name": "Shadow Breath"
+    },
+    "Shadow Escape": {
+      "name": "Shadow Escape"
+    },
+    "Shadow Stealth": {
+      "name": "Shadow Stealth"
+    },
+    "Shadow Strike": {
+      "name": "Shadow Strike"
+    },
+    "Shadowy Teleport": {
+      "name": "Shadowy Teleport"
+    },
+    "Shape-Shift": {
+      "name": "Shape-Shift"
+    },
+    "Shark Telepathy": {
+      "name": "Shark Telepathy"
+    },
+    "Sharpened Beak": {
+      "name": "Sharpened Beak"
+    },
+    "Shield": {
+      "name": "Shield"
+    },
+    "Shield Bash": {
+      "name": "Shield Bash"
+    },
+    "Shield of Faith": {
+      "name": "Shield of Faith"
+    },
+    "Shielded Mind": {
+      "name": "Shielded Mind"
+    },
+    "Shimmering Shield": {
+      "name": "Shimmering Shield"
+    },
+    "Shock": {
+      "name": "電擊 Shock"
+    },
+    "Shockwave of Glory": {
+      "name": "榮耀衝擊波 Shockwave of Glory"
+    },
+    "Shred": {
+      "name": "Shred"
+    },
+    "Shriek": {
+      "name": "Shriek"
+    },
+    "Sickening Ray": {
+      "name": "Sickening Ray"
+    },
+    "Sickening Vapors": {
+      "name": "Sickening Vapors"
+    },
+    "Siege Monster": {
+      "name": "Siege Monster"
+    },
+    "Silver Sword": {
+      "name": "Silver Sword"
+    },
+    "Slam": {
+      "name": "猛擊 Slam"
+    },
+    "Slash": {
+      "name": "揮砍 Slash"
+    },
+    "Slaying Bow": {
+      "name": "Slaying Bow"
+    },
+    "Sleep": {
+      "name": "Sleep"
+    },
+    "Sleep Breath": {
+      "name": "Sleep Breath"
+    },
+    "Sleep Gaze": {
+      "name": "Sleep Gaze"
+    },
+    "Slow": {
+      "name": "Slow"
+    },
+    "Slowing Breath": {
+      "name": "Slowing Breath"
+    },
+    "Smelting Charge": {
+      "name": "Smelting Charge"
+    },
+    "Smite": {
+      "name": "Smite"
+    },
+    "Smoke Bomb": {
+      "name": "Smoke Bomb"
+    },
+    "Smother": {
+      "name": "Smother"
+    },
+    "Snake Hair": {
+      "name": "Snake Hair"
+    },
+    "Sonic Boom": {
+      "name": "Sonic Boom"
+    },
+    "Soul Bag": {
+      "name": "Soul Bag"
+    },
+    "Soul Gem": {
+      "name": "Soul Gem"
+    },
+    "Soul Tome": {
+      "name": "Soul Tome"
+    },
+    "Speak with Beasts and Plants": {
+      "name": "Speak with Beasts and Plants"
+    },
+    "Speak with Frogs and Toads": {
+      "name": "Speak with Frogs and Toads"
+    },
+    "Spectral Claw": {
+      "name": "Spectral Claw"
+    },
+    "Spectral Jaws": {
+      "name": "Spectral Jaws"
+    },
+    "Spell Immunity": {
+      "name": "Spell Immunity"
+    },
+    "Spell Reflection": {
+      "name": "Spell Reflection"
+    },
+    "Spell Storing": {
+      "name": "Spell Storing"
+    },
+    "Spellcasting": {
+      "name": "Spellcasting"
+    },
+    "Spider Climb": {
+      "name": "Spider Climb"
+    },
+    "Spirit Jar": {
+      "name": "Spirit Jar"
+    },
+    "Spirit Wail": {
+      "name": "Spirit Wail"
+    },
+    "Spiritual Weapon": {
+      "name": "Spiritual Weapon"
+    },
+    "Spiteful Escape": {
+      "name": "Spiteful Escape"
+    },
+    "Split": {
+      "name": "Split"
+    },
+    "Spore Bomb": {
+      "name": "Spore Bomb"
+    },
+    "Spores": {
+      "name": "Spores"
+    },
+    "Stake to the Heart": {
+      "name": "Stake to the Heart"
+    },
+    "Standing Leap": {
+      "name": "Standing Leap"
+    },
+    "Steal Body": {
+      "name": "Steal Body"
+    },
+    "Steam Breath": {
+      "name": "Steam Breath"
+    },
+    "Stench": {
+      "name": "Stench"
+    },
+    "Stench Spray": {
+      "name": "Stench Spray"
+    },
+    "Sticky Net": {
+      "name": "Sticky Net"
+    },
+    "Sticky Shield": {
+      "name": "Sticky Shield"
+    },
+    "Sting": {
+      "name": "Sting"
+    },
+    "Stomp": {
+      "name": "重踩 Stomp"
+    },
+    "Stone Club": {
+      "name": "Stone Club"
+    },
+    "Storm Blade": {
+      "name": "Storm Blade"
+    },
+    "Storm Bolt": {
+      "name": "Storm Bolt"
+    },
+    "Storm Sword": {
+      "name": "Storm Sword"
+    },
+    "Strange Scepter": {
+      "name": "Strange Scepter"
+    },
+    "Stunning Screech": {
+      "name": "Stunning Screech"
+    },
+    "Succubus Form": {
+      "name": "Succubus Form"
+    },
+    "Suffocate": {
+      "name": "Suffocate"
+    },
+    "Sun Ray": {
+      "name": "Sun Ray"
+    },
+    "Sun Sickness": {
+      "name": "Sun Sickness"
+    },
+    "Sunlight": {
+      "name": "Sunlight"
+    },
+    "Sunlight Hypersensitivity": {
+      "name": "Sunlight Hypersensitivity"
+    },
+    "Sunlight Sensitivity": {
+      "name": "陽光敏感 Sunlight Sensitivity"
+    },
+    "Sunlight Weakness": {
+      "name": "陽光脆弱 Sunlight Weakness"
+    },
+    "Superior Invisibility": {
+      "name": "Superior Invisibility"
+    },
+    "Surge": {
+      "name": "Surge"
+    },
+    "Swallow": {
+      "name": "Swallow"
+    },
+    "Swarm": {
+      "name": "Swarm"
+    },
+    "Swarm of Grasping Hands": {
+      "name": "Swarm of Grasping Hands"
+    },
+    "Swarm of Proboscises": {
+      "name": "Swarm of Proboscises"
+    },
+    "Swoop": {
+      "name": "Swoop"
+    },
+    "Tactical Charge": {
+      "name": "Tactical Charge"
+    },
+    "Tail": {
+      "name": "Tail"
+    },
+    "Tail Spike": {
+      "name": "Tail Spike"
+    },
+    "Tail Spine": {
+      "name": "Tail Spine"
+    },
+    "Tail Stinger": {
+      "name": "Tail Stinger"
+    },
+    "Tail Swipe": {
+      "name": "Tail Swipe"
+    },
+    "Talons": {
+      "name": "Talons"
+    },
+    "Telekinetic Thrust": {
+      "name": "Telekinetic Thrust"
+    },
+    "Telepathic Bond": {
+      "name": "Telepathic Bond"
+    },
+    "Telepathic Shroud": {
+      "name": "Telepathic Shroud"
+    },
+    "Teleport": {
+      "name": "Teleport"
+    },
+    "Tendril": {
+      "name": "Tendril"
+    },
+    "Tentacle": {
+      "name": "Tentacle"
+    },
+    "Tentacle Lash": {
+      "name": "Tentacle Lash"
+    },
+    "Tentacle Slam": {
+      "name": "Tentacle Slam"
+    },
+    "Tentacles": {
+      "name": "Tentacles"
+    },
+    "Terrifying Glare": {
+      "name": "Terrifying Glare"
+    },
+    "Terrifying Presence": {
+      "name": "Terrifying Presence"
+    },
+    "Third Roar": {
+      "name": "Third Roar"
+    },
+    "Thorn Burst": {
+      "name": "Thorn Burst"
+    },
+    "Thorn Volley": {
+      "name": "Thorn Volley"
+    },
+    "Thrash": {
+      "name": "Thrash"
+    },
+    "Thunderbolt": {
+      "name": "Thunderbolt"
+    },
+    "Thunderclap": {
+      "name": "Thunderclap"
+    },
+    "Thundercloud": {
+      "name": "Thundercloud"
+    },
+    "Thunderous Bellow": {
+      "name": "Thunderous Bellow"
+    },
+    "Thunderous Mace": {
+      "name": "Thunderous Mace"
+    },
+    "Thunderous Slam": {
+      "name": "Thunderous Slam"
+    },
+    "Tongue Twister": {
+      "name": "Tongue Twister"
+    },
+    "Tormenting Bite": {
+      "name": "Tormenting Bite"
+    },
+    "Touch": {
+      "name": "Touch"
+    },
+    "Toxic Escape": {
+      "name": "Toxic Escape"
+    },
+    "Toxic Ink": {
+      "name": "Toxic Ink"
+    },
+    "Training": {
+      "name": "Training"
+    },
+    "Trample": {
+      "name": "Trample"
+    },
+    "Trampling Charge": {
+      "name": "Trampling Charge"
+    },
+    "Transparent": {
+      "name": "透明 Transparent"
+    },
+    "Trash Lob": {
+      "name": "Trash Lob"
+    },
+    "Treasure Sense": {
+      "name": "Treasure Sense"
+    },
+    "Tree Club": {
+      "name": "Tree Club"
+    },
+    "Tree Stride": {
+      "name": "Tree Stride"
+    },
+    "Troll Spawn": {
+      "name": "Troll Spawn"
+    },
+    "Tunneler": {
+      "name": "Tunneler"
+    },
+    "Tusk": {
+      "name": "Tusk"
+    },
+    "Umbral Claw": {
+      "name": "Umbral Claw"
+    },
+    "Umbral Dagger": {
+      "name": "Umbral Dagger"
+    },
+    "Umbral Strike": {
+      "name": "Umbral Strike"
+    },
+    "Uncanny Dodge": {
+      "name": "Uncanny Dodge"
+    },
+    "Undead Fortitude": {
+      "name": "Undead Fortitude"
+    },
+    "Undead Restoration": {
+      "name": "Undead Restoration"
+    },
+    "Unicorn's Blessing": {
+      "name": "Unicorn's Blessing"
+    },
+    "Unnerving Gaze": {
+      "name": "Unnerving Gaze"
+    },
+    "Unsettling Visage": {
+      "name": "Unsettling Visage"
+    },
+    "Vampire Weakness": {
+      "name": "Vampire Weakness"
+    },
+    "Vampiric Connection": {
+      "name": "Vampiric Connection"
+    },
+    "Vanish": {
+      "name": "Vanish"
+    },
+    "Veil of Shadow": {
+      "name": "Veil of Shadow"
+    },
+    "Vengeful Glare": {
+      "name": "Vengeful Glare"
+    },
+    "Verdant Wisp": {
+      "name": "Verdant Wisp"
+    },
+    "Vile Appearance": {
+      "name": "Vile Appearance"
+    },
+    "Vile Slime": {
+      "name": "Vile Slime"
+    },
+    "Vine Lash": {
+      "name": "Vine Lash"
+    },
+    "Vine Staff": {
+      "name": "Vine Staff"
+    },
+    "Vortex": {
+      "name": "Vortex"
+    },
+    "Vow of Revenge": {
+      "name": "Vow of Revenge"
+    },
+    "War Cry": {
+      "name": "War Cry"
+    },
+    "Warding Charm": {
+      "name": "Warding Charm"
+    },
+    "Warp Step": {
+      "name": "Warp Step"
+    },
+    "Warping Hex": {
+      "name": "Warping Hex"
+    },
+    "Water Bound": {
+      "name": "Water Bound"
+    },
+    "Water Breathing": {
+      "name": "Water Breathing"
+    },
+    "Water Form": {
+      "name": "Water Form"
+    },
+    "Water Jet": {
+      "name": "Water Jet"
+    },
+    "Water Susceptibility": {
+      "name": "Water Susceptibility"
+    },
+    "Watery Rebuke": {
+      "name": "Watery Rebuke"
+    },
+    "Watery Rush": {
+      "name": "Watery Rush"
+    },
+    "Weakening Breath": {
+      "name": "Weakening Breath"
+    },
+    "Web": {
+      "name": "Web"
+    },
+    "Web Strand": {
+      "name": "Web Strand"
+    },
+    "Web Walker": {
+      "name": "Web Walker"
+    },
+    "Weight of Years": {
+      "name": "Weight of Years"
+    },
+    "Weird Insight": {
+      "name": "Weird Insight"
+    },
+    "Whelm": {
+      "name": "Whelm"
+    },
+    "Whirlwind": {
+      "name": "Whirlwind"
+    },
+    "Whirlwind of Sand": {
+      "name": "Whirlwind of Sand"
+    },
+    "Wind Javelin": {
+      "name": "Wind Javelin"
+    },
+    "Wind Staff": {
+      "name": "Wind Staff"
+    },
+    "Wind Swipe": {
+      "name": "Wind Swipe"
+    },
+    "Wishes": {
+      "name": "Wishes"
+    },
+    "Witch Strike": {
+      "name": "Witch Strike"
+    },
+    "Withering Sword": {
+      "name": "Withering Sword"
+    },
+    "Withering Touch": {
+      "name": "Withering Touch"
+    },
+    "World-Shaking Movement": {
+      "name": "World-Shaking Movement"
+    }
+  }
+}
