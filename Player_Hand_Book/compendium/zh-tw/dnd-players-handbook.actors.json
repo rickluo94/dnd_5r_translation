@@ -1,5 +1,5 @@
 {
-  "label": "演員 Actors",
+  "label": "角色 Actors",
   "mapping": {
     "": ""
   },
@@ -307,7 +307,7 @@
       "tokenName": "海洋野獸 Beast of the Sea",
       "items": {
         "Amphibious": {
-          "name": "水陸兩用 Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Primal Bond": {
           "name": "Primal Bond"
@@ -355,7 +355,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rend": {
-          "name": "Rend"
+          "name": "撕裂 Rend"
         }
       }
     },
@@ -370,7 +370,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rend": {
-          "name": "Rend"
+          "name": "撕裂 Rend"
         }
       }
     },
@@ -391,7 +391,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rend": {
-          "name": "Rend"
+          "name": "撕裂 Rend"
         }
       }
     },
@@ -409,7 +409,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rend": {
-          "name": "Rend"
+          "name": "撕裂 Rend"
         }
       }
     },
@@ -439,7 +439,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rend": {
-          "name": "Rend"
+          "name": "撕裂 Rend"
         }
       }
     },
@@ -745,7 +745,7 @@
       "tokenName": "螃蟹 Crab",
       "items": {
         "Amphibious": {
-          "name": "水陸兩用 Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Claw": {
           "name": "爪子 Claw"
@@ -846,7 +846,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rend": {
-          "name": "Rend"
+          "name": "撕裂 Rend"
         },
         "Breath Weapon": {
           "name": "Breath Weapon"
@@ -1267,7 +1267,7 @@
       "tokenName": "青蛙 Frog",
       "items": {
         "Amphibious": {
-          "name": "水陸兩用 Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Standing Leap": {
           "name": "Standing Leap"
@@ -1343,7 +1343,7 @@
       "tokenName": "巨型蟹 Giant Crab",
       "items": {
         "Amphibious": {
-          "name": "水陸兩用 Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Claw": {
           "name": "爪子 Claw"
@@ -1508,7 +1508,7 @@
           "name": "Sting"
         },
         "Invisibility": {
-          "name": "Invisibility"
+          "name": "隱形術 Invisibility"
         },
         "Shape-Shift": {
           "name": "Shape-Shift"
@@ -1550,7 +1550,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rend": {
-          "name": "Rend"
+          "name": "撕裂 Rend"
         },
         "Roar": {
           "name": "Roar"
@@ -1963,10 +1963,10 @@
           "name": "魔法抗性 Magic Resistance"
         },
         "Rend": {
-          "name": "Rend"
+          "name": "撕裂 Rend"
         },
         "Invisibility": {
-          "name": "Invisibility"
+          "name": "隱形術 Invisibility"
         },
         "Scare": {
           "name": "Scare"
@@ -2374,13 +2374,13 @@
           "name": "Prestidigitation"
         },
         "Shocking Grasp": {
-          "name": "Shocking Grasp"
+          "name": "電爪 Shocking Grasp"
         },
         "Sorcerous Burst": {
           "name": "Sorcerous Burst"
         },
         "Detect Magic": {
-          "name": "Detect Magic"
+          "name": "偵測魔法 Detect Magic"
         },
         "Burning Hands": {
           "name": "Burning Hands"
@@ -2437,7 +2437,7 @@
           "name": "魔法抗性 Magic Resistance"
         },
         "Rend": {
-          "name": "Rend"
+          "name": "撕裂 Rend"
         },
         "Burst of Ingenuity": {
           "name": "Burst of Ingenuity"
@@ -2482,7 +2482,7 @@
           "name": "Heart Sight"
         },
         "Invisibility": {
-          "name": "Invisibility"
+          "name": "隱形術 Invisibility"
         }
       }
     },
@@ -2799,7 +2799,7 @@
           "name": "酸液噴濺 Acid Splash"
         },
         "Detect Magic": {
-          "name": "Detect Magic"
+          "name": "偵測魔法 Detect Magic"
         },
         "Feather Fall": {
           "name": "Feather Fall"

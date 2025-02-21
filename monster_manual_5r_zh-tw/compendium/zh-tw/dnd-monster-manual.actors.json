@@ -30,7 +30,7 @@
           "name": "Feather Fall"
         },
         "Multiattack": {
-          "name": "Multiattack"
+          "name": "多重攻擊 Multiattack"
         }
       }
     },
@@ -42,7 +42,7 @@
           "name": "Talons"
         },
         "Wind Javelin": {
-          "name": "Wind Javelin"
+          "name": "風標槍 Wind Javelin"
         }
       }
     },
@@ -78,7 +78,7 @@
       "tokenName": "Aboleth",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Eldritch Restoration": {
           "name": "Eldritch Restoration"
@@ -141,7 +141,7 @@
       "tokenName": "Adult Black Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Legendary Resistance": {
           "name": "Legendary Resistance"
@@ -249,7 +249,7 @@
           "name": "火焰吐息 Fire Breath"
         },
         "Sleep Breath": {
-          "name": "Sleep Breath"
+          "name": "睡眠吐息 Sleep Breath"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -288,7 +288,7 @@
       "tokenName": "Adult Bronze Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Legendary Resistance": {
           "name": "Legendary Resistance"
@@ -399,7 +399,7 @@
           "name": "Legendary Resistance"
         },
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -429,7 +429,7 @@
           "name": "Zone of Truth"
         },
         "Weakening Breath": {
-          "name": "Weakening Breath"
+          "name": "呼吸衰弱 Weakening Breath"
         },
         "Banish": {
           "name": "Banish"
@@ -447,7 +447,7 @@
       "tokenName": "Adult Green Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Legendary Resistance": {
           "name": "Legendary Resistance"
@@ -615,7 +615,7 @@
       "tokenName": "Air Elemental",
       "items": {
         "Air Form": {
-          "name": "Air Form"
+          "name": "空氣形態 Air Form"
         },
         "Thunderous Slam": {
           "name": "Thunderous Slam"
@@ -624,7 +624,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Whirlwind": {
-          "name": "Whirlwind"
+          "name": "旋風 Whirlwind"
         }
       }
     },
@@ -645,7 +645,7 @@
       "tokenName": "Ancient Black Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Legendary Resistance": {
           "name": "Legendary Resistance"
@@ -756,7 +756,7 @@
           "name": "火焰吐息 Fire Breath"
         },
         "Sleep Breath": {
-          "name": "Sleep Breath"
+          "name": "睡眠吐息 Sleep Breath"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -798,7 +798,7 @@
       "tokenName": "Ancient Bronze Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Legendary Resistance": {
           "name": "Legendary Resistance"
@@ -915,7 +915,7 @@
       "tokenName": "Ancient Gold Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Legendary Resistance": {
           "name": "Legendary Resistance"
@@ -933,7 +933,7 @@
           "name": "施法 Spellcasting"
         },
         "Weakening Breath": {
-          "name": "Weakening Breath"
+          "name": "呼吸衰弱 Weakening Breath"
         },
         "Banish": {
           "name": "Banish"
@@ -969,7 +969,7 @@
       "tokenName": "Ancient Green Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Legendary Resistance": {
           "name": "Legendary Resistance"
@@ -1215,7 +1215,7 @@
           "name": "猛擊 Slam"
         },
         "Multiattack": {
-          "name": "Multiattack"
+          "name": "多重攻擊 Multiattack"
         }
       }
     },
@@ -1293,7 +1293,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Fist": {
-          "name": "Fist"
+          "name": "拳頭 Fist"
         },
         "Rock": {
           "name": "岩石 Rock"
@@ -1401,7 +1401,7 @@
           "name": "施法 Spellcasting"
         },
         "Witch Strike": {
-          "name": "Witch Strike"
+          "name": "巫術打擊 Witch Strike"
         },
         "Tongue Twister": {
           "name": "Tongue Twister"
@@ -1449,7 +1449,7 @@
       "tokenName": "Archelon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -1890,7 +1890,7 @@
           "name": "施法 Spellcasting"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         },
         "Disguise Self": {
           "name": "Disguise Self"
@@ -1989,7 +1989,7 @@
           "name": "Glare"
         },
         "Eye Rays": {
-          "name": "Eye Rays"
+          "name": "眼波射線 Eye Rays"
         }
       }
     },
@@ -2007,7 +2007,7 @@
           "name": "啃咬 Bite"
         },
         "Eye Rays": {
-          "name": "Eye Rays"
+          "name": "眼波射線 Eye Rays"
         }
       }
     },
@@ -2064,7 +2064,7 @@
       "tokenName": "Black Dragon Wyrmling",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Rend": {
           "name": "撕裂 Rend"
@@ -2082,10 +2082,10 @@
       "tokenName": "Black Pudding",
       "items": {
         "Amorphous": {
-          "name": "Amorphous"
+          "name": "無固定形狀的 Amorphous"
         },
         "Corrosive Form": {
-          "name": "Corrosive Form"
+          "name": "腐蝕性 Corrosive Form"
         },
         "Spider Climb": {
           "name": "Spider Climb"
@@ -2187,7 +2187,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Mutating Claw": {
-          "name": "Mutating Claw"
+          "name": "變異之爪 Mutating Claw"
         }
       }
     },
@@ -2268,7 +2268,7 @@
           "name": "撕裂 Rend"
         },
         "Sleep Breath": {
-          "name": "Sleep Breath"
+          "name": "睡眠吐息 Sleep Breath"
         }
       }
     },
@@ -2301,7 +2301,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Rend": {
           "name": "撕裂 Rend"
@@ -2343,7 +2343,7 @@
           "name": "Chain Shirt"
         },
         "Abduct": {
-          "name": "Abduct"
+          "name": "綁架 Abduct"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -2364,7 +2364,7 @@
           "name": "Hide Armor"
         },
         "Abduct": {
-          "name": "Abduct"
+          "name": "綁架 Abduct"
         },
         "Grab": {
           "name": "Grab"
@@ -2385,7 +2385,7 @@
           "name": "Deadly Leap"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         }
       }
     },
@@ -2397,7 +2397,7 @@
           "name": "啃咬 Bite"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         }
       }
     },
@@ -2409,7 +2409,7 @@
           "name": "Component Pouch"
         },
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Speak with Frogs and Toads": {
           "name": "Speak with Frogs and Toads"
@@ -2424,7 +2424,7 @@
           "name": "施法 Spellcasting"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         },
         "Dancing Lights": {
           "name": "Dancing Lights"
@@ -2448,7 +2448,7 @@
       "tokenName": "Bullywug Warrior",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Speak with Frogs and Toads": {
           "name": "Speak with Frogs and Toads"
@@ -2457,7 +2457,7 @@
           "name": "Insectile Rapier"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         }
       }
     },
@@ -2472,7 +2472,7 @@
           "name": "爪子 Claw"
         },
         "Fire Ray": {
-          "name": "Fire Ray"
+          "name": "火焰射線 Fire Ray"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -2652,7 +2652,7 @@
       "tokenName": "Chuul",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Sense Magic": {
           "name": "Sense Magic"
@@ -2673,7 +2673,7 @@
       "tokenName": "Clay Golem",
       "items": {
         "Acid Absorption": {
-          "name": "Acid Absorption"
+          "name": "酸吸收 Acid Absorption"
         },
         "Berserk": {
           "name": "Berserk"
@@ -2691,7 +2691,7 @@
           "name": "猛擊 Slam"
         },
         "Hasten": {
-          "name": "Hasten"
+          "name": "疾走 Hasten"
         }
       }
     },
@@ -2907,7 +2907,7 @@
           "name": "占卜 Scrying"
         },
         "Sleep": {
-          "name": "睡 Sleep"
+          "name": "睡眠術 Sleep"
         }
       }
     },
@@ -2916,7 +2916,7 @@
       "tokenName": "Crab",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Claw": {
           "name": "爪子 Claw"
@@ -3078,7 +3078,7 @@
           "name": "魔法抗性 Magic Resistance"
         },
         "Wishes": {
-          "name": "Wishes"
+          "name": "星願 Wishes"
         },
         "Wish": {
           "name": "Wish"
@@ -3348,7 +3348,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Eye Rays": {
-          "name": "Eye Rays"
+          "name": "眼波射線 Eye Rays"
         }
       }
     },
@@ -3357,7 +3357,7 @@
       "tokenName": "Deer",
       "items": {
         "Agile": {
-          "name": "Agile"
+          "name": "腳步輕盈 Agile"
         },
         "Ram": {
           "name": "Ram"
@@ -3492,7 +3492,7 @@
           "name": "魔法抗性 Magic Resistance"
         },
         "Wishes": {
-          "name": "Wishes"
+          "name": "星願 Wishes"
         },
         "Wish": {
           "name": "Wish"
@@ -3534,7 +3534,7 @@
           "name": "異界傳送 Plane Shift"
         },
         "Create Whirlwind": {
-          "name": "Create Whirlwind"
+          "name": "製造旋風 Create Whirlwind"
         },
         "Storm Blade": {
           "name": "Storm Blade"
@@ -3633,7 +3633,7 @@
       "tokenName": "Dragon Turtle",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -3672,7 +3672,7 @@
           "name": "陽光敏感 Sunlight Sensitivity"
         },
         "Web Walker": {
-          "name": "Web Walker"
+          "name": "蜘蛛網漫步者 Web Walker"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -3795,7 +3795,7 @@
           "name": "Blinding Breath"
         },
         "Sleep": {
-          "name": "睡 Sleep"
+          "name": "睡眠術 Sleep"
         }
       }
     },
@@ -3840,7 +3840,7 @@
           "name": "魔法抗性 Magic Resistance"
         },
         "Wishes": {
-          "name": "Wishes"
+          "name": "星願 Wishes"
         },
         "Wish": {
           "name": "Wish"
@@ -4071,7 +4071,7 @@
           "name": "Parry"
         },
         "Withering Sword": {
-          "name": "Withering Sword"
+          "name": "凋零之劍 Withering Sword"
         },
         "Entangling Rope": {
           "name": "Entangling Rope"
@@ -4089,10 +4089,10 @@
           "name": "啃咬 Bite"
         },
         "Web Walker": {
-          "name": "Web Walker"
+          "name": "蜘蛛網漫步者 Web Walker"
         },
         "Web Strand": {
-          "name": "Web Strand"
+          "name": "蜘蛛絲 Web Strand"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -4116,7 +4116,7 @@
           "name": "Morningstar"
         },
         "Multiattack": {
-          "name": "Multiattack"
+          "name": "多重攻擊 Multiattack"
         }
       }
     },
@@ -4131,7 +4131,7 @@
           "name": "啃咬 Bite"
         },
         "Euphoria Breath": {
-          "name": "Euphoria Breath"
+          "name": "興奮喘息 Euphoria Breath"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -4170,7 +4170,7 @@
           "name": "啃咬 Bite"
         },
         "Euphoria Breath": {
-          "name": "Euphoria Breath"
+          "name": "興奮喘息 Euphoria Breath"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -4230,13 +4230,13 @@
           "name": "Fire Aura"
         },
         "Fire Form": {
-          "name": "Fire Form"
+          "name": "火焰形態 Fire Form"
         },
         "Illumination": {
           "name": "Illumination"
         },
         "Water Susceptibility": {
-          "name": "Water Susceptibility"
+          "name": "水性敏感 Water Susceptibility"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -4281,7 +4281,7 @@
           "name": "施法 Spellcasting"
         },
         "Fire Ray": {
-          "name": "Fire Ray"
+          "name": "火焰射線 Fire Ray"
         },
         "Mage Hand": {
           "name": "法師之手 Mage Hand"
@@ -4347,7 +4347,7 @@
       "tokenName": "Flumph",
       "items": {
         "Advanced Telepathy": {
-          "name": "Advanced Telepathy"
+          "name": "高級心靈感應 Advanced Telepathy"
         },
         "Prone Deficiency": {
           "name": "Prone Deficiency"
@@ -4395,7 +4395,7 @@
       "tokenName": "Frog",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Standing Leap": {
           "name": "Standing Leap"
@@ -4527,7 +4527,7 @@
       "tokenName": "Ghost",
       "items": {
         "Ethereal Sight": {
-          "name": "Ethereal Sight"
+          "name": "空靈景象 Ethereal Sight"
         },
         "Incorporeal Movement": {
           "name": "Incorporeal Movement"
@@ -4536,10 +4536,10 @@
           "name": "多重攻擊 Multiattack"
         },
         "Withering Touch": {
-          "name": "Withering Touch"
+          "name": "凋零之觸 Withering Touch"
         },
         "Etherealness": {
-          "name": "Etherealness"
+          "name": "空靈 Etherealness"
         },
         "Horrific Visage": {
           "name": "恐怖面容 Horrific Visage"
@@ -4572,13 +4572,13 @@
           "name": "多重攻擊 Multiattack"
         },
         "Fist": {
-          "name": "Fist"
+          "name": "拳頭 Fist"
         },
         "Boulder Toss": {
           "name": "投擲巨石 Boulder Toss"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         }
       }
     },
@@ -4656,7 +4656,7 @@
       "tokenName": "Giant Crab",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Claw": {
           "name": "爪子 Claw"
@@ -4719,7 +4719,7 @@
       "tokenName": "Giant Frog",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Standing Leap": {
           "name": "Standing Leap"
@@ -4869,7 +4869,7 @@
           "name": "Spider Climb"
         },
         "Web Walker": {
-          "name": "Web Walker"
+          "name": "蜘蛛網漫步者 Web Walker"
         },
         "Bite": {
           "name": "啃咬 Bite"
@@ -4905,7 +4905,7 @@
       "tokenName": "Giant Toad",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Standing Leap": {
           "name": "Standing Leap"
@@ -4977,7 +4977,7 @@
       "tokenName": "Gibbering Mouther",
       "items": {
         "Aberrant Ground": {
-          "name": "Aberrant Ground"
+          "name": "異常地面 Aberrant Ground"
         },
         "Gibbering": {
           "name": "Gibbering"
@@ -5271,7 +5271,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Abyssal Strike": {
-          "name": "Abyssal Strike"
+          "name": "深淵打擊 Abyssal Strike"
         },
         "Hunger of Yeenoghu": {
           "name": "Hunger of Yeenoghu"
@@ -5292,7 +5292,7 @@
           "name": "啃咬 Bite"
         },
         "Bone Flail": {
-          "name": "Bone Flail"
+          "name": "骨鏈鎚 Bone Flail"
         },
         "Rampage": {
           "name": "Rampage"
@@ -5328,7 +5328,7 @@
           "name": "撕裂 Rend"
         },
         "Bone Bow": {
-          "name": "Bone Bow"
+          "name": "骨弓 Bone Bow"
         }
       }
     },
@@ -5436,7 +5436,7 @@
       "tokenName": "Gold Dragon Wyrmling",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -5448,7 +5448,7 @@
           "name": "火焰吐息 Fire Breath"
         },
         "Weakening Breath": {
-          "name": "Weakening Breath"
+          "name": "呼吸衰弱 Weakening Breath"
         }
       }
     },
@@ -5517,10 +5517,10 @@
       "tokenName": "Gray Ooze",
       "items": {
         "Amorphous": {
-          "name": "Amorphous"
+          "name": "無固定形狀的 Amorphous"
         },
         "Corrosive Form": {
-          "name": "Corrosive Form"
+          "name": "腐蝕性 Corrosive Form"
         },
         "Pseudopod": {
           "name": "Pseudopod"
@@ -5583,7 +5583,7 @@
       "tokenName": "Green Dragon Wyrmling",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -5601,7 +5601,7 @@
       "tokenName": "Green Hag",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Coven Magic": {
           "name": "Coven Magic"
@@ -5697,7 +5697,7 @@
       "tokenName": "Grell",
       "items": {
         "Abduct": {
-          "name": "Abduct"
+          "name": "綁架 Abduct"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -5796,7 +5796,7 @@
           "name": "盾牌 Shield"
         },
         "Multiattack": {
-          "name": "Multiattack"
+          "name": "多重攻擊 Multiattack"
         }
       }
     },
@@ -5877,7 +5877,7 @@
           "name": "龍息 Dragon’s Breath"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         }
       }
     },
@@ -5982,7 +5982,7 @@
           "name": "撕裂 Rend"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         }
       }
     },
@@ -6048,7 +6048,7 @@
           "name": "Aura of Authority"
         },
         "Multiattack": {
-          "name": "Multiattack"
+          "name": "多重攻擊 Multiattack"
         }
       }
     },
@@ -6279,7 +6279,7 @@
           "name": "Disguise Self"
         },
         "Etherealness": {
-          "name": "Etherealness"
+          "name": "空靈 Etherealness"
         },
         "Dream": {
           "name": "Dream"
@@ -6315,7 +6315,7 @@
       "tokenName": "Invisible Stalker",
       "items": {
         "Air Form": {
-          "name": "Air Form"
+          "name": "空氣形態 Air Form"
         },
         "Invisibility": {
           "name": "隱形術 Invisibility"
@@ -6324,7 +6324,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Wind Swipe": {
-          "name": "Wind Swipe"
+          "name": "風之揮擊 Wind Swipe"
         },
         "Vortex": {
           "name": "Vortex"
@@ -6384,7 +6384,7 @@
           "name": "Slam (Human or Hybrid Form Only)"
         },
         "Sleep Gaze": {
-          "name": "Sleep Gaze"
+          "name": "睡眠凝視 Sleep Gaze"
         },
         "Shape-Shift": {
           "name": "Shape-Shift"
@@ -6486,7 +6486,7 @@
       "tokenName": "Kraken",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Legendary Resistance": {
           "name": "Legendary Resistance"
@@ -6525,7 +6525,7 @@
           "name": "Spear"
         },
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Sunlight Sensitivity": {
           "name": "陽光敏感 Sunlight Sensitivity"
@@ -6543,7 +6543,7 @@
       "tokenName": "Kuo-toa Archpriest",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Sunlight Sensitivity": {
           "name": "陽光敏感 Sunlight Sensitivity"
@@ -6588,7 +6588,7 @@
       "tokenName": "Kuo-toa Monitor",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Sunlight Sensitivity": {
           "name": "陽光敏感 Sunlight Sensitivity"
@@ -6606,7 +6606,7 @@
       "tokenName": "Kuo-toa Whip",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Sunlight Sensitivity": {
           "name": "陽光敏感 Sunlight Sensitivity"
@@ -6636,7 +6636,7 @@
           "name": "爪子 Claw"
         },
         "Watery Rush": {
-          "name": "Watery Rush"
+          "name": "水上奔跑 Watery Rush"
         }
       }
     },
@@ -6657,7 +6657,7 @@
           "name": "施法 Spellcasting"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         },
         "Disguise Self": {
           "name": "Disguise Self"
@@ -7053,13 +7053,13 @@
       "tokenName": "Marid",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Elemental Restoration": {
           "name": "Elemental Restoration"
         },
         "Wishes": {
-          "name": "Wishes"
+          "name": "星願 Wishes"
         },
         "Wish": {
           "name": "Wish"
@@ -7071,7 +7071,7 @@
           "name": "Aquatic Lash"
         },
         "Water Jet": {
-          "name": "Water Jet"
+          "name": "水刀 Water Jet"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -7176,7 +7176,7 @@
       "tokenName": "Merfolk Skirmisher",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Ocean Spear": {
           "name": "Ocean Spear"
@@ -7188,7 +7188,7 @@
       "tokenName": "Merfolk Wavebender",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -7212,7 +7212,7 @@
           "name": "Create or Destroy Water"
         },
         "Watery Rebuke": {
-          "name": "Watery Rebuke"
+          "name": "水的斥責 Watery Rebuke"
         }
       }
     },
@@ -7221,7 +7221,7 @@
       "tokenName": "Merrow",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -7233,7 +7233,7 @@
           "name": "爪子 Claw"
         },
         "Harpoon": {
-          "name": "Harpoon"
+          "name": "魚叉 Harpoon"
         }
       }
     },
@@ -7386,7 +7386,7 @@
       "tokenName": "Minotaur of Baphomet",
       "items": {
         "Abyssal Glaive": {
-          "name": "Abyssal Glaive"
+          "name": "深淵戰刃 Abyssal Glaive"
         },
         "Gore": {
           "name": "Gore"
@@ -7524,7 +7524,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rotting Fist": {
-          "name": "Rotting Fist"
+          "name": "腐化之拳 Rotting Fist"
         },
         "Dreadful Glare": {
           "name": "Dreadful Glare"
@@ -7545,7 +7545,7 @@
           "name": "魔法抗性 Magic Resistance"
         },
         "Rotting Fist": {
-          "name": "Rotting Fist"
+          "name": "腐化之拳 Rotting Fist"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -7575,7 +7575,7 @@
           "name": "Glare"
         },
         "Whirlwind of Sand": {
-          "name": "Whirlwind of Sand"
+          "name": "沙之旋風 Whirlwind of Sand"
         },
         "Dread Command": {
           "name": "恐懼指令 Dread Command"
@@ -7746,7 +7746,7 @@
           "name": "偵測魔法 Detect Magic"
         },
         "Etherealness": {
-          "name": "Etherealness"
+          "name": "空靈 Etherealness"
         },
         "Magic Missile": {
           "name": "Magic Missile"
@@ -7845,10 +7845,10 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rotting Gaze": {
-          "name": "Rotting Gaze"
+          "name": "腐化凝視 Rotting Gaze"
         },
         "Weird Insight": {
-          "name": "Weird Insight"
+          "name": "怪異慧眼 Weird Insight"
         }
       }
     },
@@ -7878,7 +7878,7 @@
       "tokenName": "Ochre Jelly",
       "items": {
         "Amorphous": {
-          "name": "Amorphous"
+          "name": "無固定形狀的 Amorphous"
         },
         "Spider Climb": {
           "name": "Spider Climb"
@@ -7977,7 +7977,7 @@
           "name": "Gaseous Form"
         },
         "Sleep": {
-          "name": "睡 Sleep"
+          "name": "睡眠術 Sleep"
         }
       }
     },
@@ -8133,7 +8133,7 @@
           "name": "Gore"
         },
         "Multiattack": {
-          "name": "Multiattack"
+          "name": "多重攻擊 Multiattack"
         }
       }
     },
@@ -8142,13 +8142,13 @@
       "tokenName": "Phase Spider",
       "items": {
         "Ethereal Sight": {
-          "name": "Ethereal Sight"
+          "name": "空靈景象 Ethereal Sight"
         },
         "Spider Climb": {
           "name": "Spider Climb"
         },
         "Web Walker": {
-          "name": "Web Walker"
+          "name": "蜘蛛網漫步者 Web Walker"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -8295,7 +8295,7 @@
           "name": "魔法抗性 Magic Resistance"
         },
         "Faerie Dust": {
-          "name": "Faerie Dust"
+          "name": "仙靈塵埃 Faerie Dust"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -8316,7 +8316,7 @@
           "name": "Fly"
         },
         "Sleep": {
-          "name": "睡 Sleep"
+          "name": "睡眠術 Sleep"
         }
       }
     },
@@ -8331,7 +8331,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Faerie Dust": {
-          "name": "Faerie Dust"
+          "name": "仙靈塵埃 Faerie Dust"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -8604,7 +8604,7 @@
       "tokenName": "Psychic Gray Ooze",
       "items": {
         "Amorphous": {
-          "name": "Amorphous"
+          "name": "無固定形狀的 Amorphous"
         },
         "Pseudopod": {
           "name": "偽足 Pseudopod"
@@ -8814,7 +8814,7 @@
       "tokenName": "Rat",
       "items": {
         "Agile": {
-          "name": "Agile"
+          "name": "腳步輕盈 Agile"
         },
         "Bite": {
           "name": "啃咬 Bite"
@@ -9234,7 +9234,7 @@
           "name": "Leather Armor"
         },
         "Multiattack": {
-          "name": "Multiattack"
+          "name": "多重攻擊 Multiattack"
         }
       }
     },
@@ -9255,7 +9255,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Aim": {
-          "name": "Aim"
+          "name": "瞄準 Aim"
         },
         "Uncanny Dodge": {
           "name": "Uncanny Dodge"
@@ -9267,7 +9267,7 @@
       "tokenName": "Sea Hag",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Coven Magic": {
           "name": "Coven Magic"
@@ -9324,7 +9324,7 @@
       "tokenName": "Shadow",
       "items": {
         "Amorphous": {
-          "name": "Amorphous"
+          "name": "無固定形狀的 Amorphous"
         },
         "Sunlight Weakness": {
           "name": "陽光脆弱 Sunlight Weakness"
@@ -9426,7 +9426,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Fist": {
-          "name": "Fist"
+          "name": "拳頭 Fist"
         },
         "Protection": {
           "name": "Protection"
@@ -9573,7 +9573,7 @@
           "name": "啃咬 Bite"
         },
         "Eye Rays": {
-          "name": "Eye Rays"
+          "name": "眼波射線 Eye Rays"
         },
         "Spell Reflection": {
           "name": "Spell Reflection"
@@ -9654,7 +9654,7 @@
           "name": "Arcane Prowl"
         },
         "Weight of Years": {
-          "name": "Weight of Years"
+          "name": "沉重歲月 Weight of Years"
         }
       }
     },
@@ -9744,7 +9744,7 @@
           "name": "Arcane Prowl"
         },
         "Weight of Years": {
-          "name": "Weight of Years"
+          "name": "沉重歲月 Weight of Years"
         }
       }
     },
@@ -9771,7 +9771,7 @@
           "name": "Spider Climb"
         },
         "Web Walker": {
-          "name": "Web Walker"
+          "name": "蜘蛛網漫步者 Web Walker"
         },
         "Bite": {
           "name": "啃咬 Bite"
@@ -9975,7 +9975,7 @@
       "tokenName": "Storm Giant",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -10068,7 +10068,7 @@
           "name": "撕裂 Rend"
         },
         "Multiattack": {
-          "name": "Multiattack"
+          "name": "多重攻擊 Multiattack"
         }
       }
     },
@@ -10218,7 +10218,7 @@
           "name": "Onslaught"
         },
         "World-Shaking Movement": {
-          "name": "World-Shaking Movement"
+          "name": "震撼世界的移動 World-Shaking Movement"
         },
         "Siege Monster": {
           "name": "Siege Monster"
@@ -10239,7 +10239,7 @@
           "name": "Chatkcha"
         },
         "Leap": {
-          "name": "Leap"
+          "name": "飛耀 Leap"
         }
       }
     },
@@ -10317,7 +10317,7 @@
           "name": "群體戰術 Pack Tactics"
         },
         "Multiattack": {
-          "name": "Multiattack"
+          "name": "多重攻擊 Multiattack"
         }
       }
     },
@@ -10761,7 +10761,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rotting Touch": {
-          "name": "Rotting Touch"
+          "name": "腐化之觸 Rotting Touch"
         }
       }
     },
@@ -10773,13 +10773,13 @@
           "name": "多重攻擊 Multiattack"
         },
         "Rotting Slam": {
-          "name": "Rotting Slam"
+          "name": "腐化猛擊 Rotting Slam"
         },
         "Spore Bomb": {
           "name": "Spore Bomb"
         },
         "Absorb Body": {
-          "name": "Absorb Body"
+          "name": "吸收軀體  Absorb Body"
         }
       }
     },
@@ -10911,7 +10911,7 @@
           "name": "猛擊 Slam"
         },
         "Whelm": {
-          "name": "Whelm"
+          "name": "淹沒 Whelm"
         }
       }
     },
@@ -11262,7 +11262,7 @@
           "name": "Spider Climb"
         },
         "Web Walker": {
-          "name": "Web Walker"
+          "name": "蜘蛛網漫步者 Web Walker"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -11298,7 +11298,7 @@
       "tokenName": "Young Black Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -11340,7 +11340,7 @@
           "name": "火焰吐息 Fire Breath"
         },
         "Sleep Breath": {
-          "name": "Sleep Breath"
+          "name": "睡眠吐息 Sleep Breath"
         }
       }
     },
@@ -11349,7 +11349,7 @@
       "tokenName": "Young Bronze Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -11391,7 +11391,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Rend": {
           "name": "撕裂 Rend"
@@ -11400,7 +11400,7 @@
           "name": "火焰吐息 Fire Breath"
         },
         "Weakening Breath": {
-          "name": "Weakening Breath"
+          "name": "呼吸衰弱 Weakening Breath"
         }
       }
     },
@@ -11409,7 +11409,7 @@
       "tokenName": "Young Green Dragon",
       "items": {
         "Amphibious": {
-          "name": "Amphibious"
+          "name": "水陸雙棲 Amphibious"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"

@@ -2,25 +2,25 @@
   "label": "特性 Features",
   "entries": {
     "Abduct": {
-      "name": "Abduct"
+      "name": "綁架 Abduct"
     },
     "Aberrant Ground": {
-      "name": "Aberrant Ground"
+      "name": "異常地面 Aberrant Ground"
     },
     "Absorb Body": {
-      "name": "Absorb Body"
+      "name": "吸收軀體 Absorb Body"
     },
     "Abyssal Glaive": {
-      "name": "Abyssal Glaive"
+      "name": "深淵戰刃 Abyssal Glaive"
     },
     "Abyssal Strike": {
-      "name": "Abyssal Strike"
+      "name": "深淵打擊 Abyssal Strike"
     },
     "Acid Absorption": {
-      "name": "Acid Absorption"
+      "name": "酸吸收 Acid Absorption"
     },
     "Acid Breath": {
-      "name": "Acid Breath"
+      "name": "酸液吐息 Acid Breath"
     },
     "Acid Spray": {
       "name": "酸霧 Acid Spray"
@@ -29,22 +29,22 @@
       "name": "Adhesive (Object Form Only)"
     },
     "Advanced Telepathy": {
-      "name": "Advanced Telepathy"
+      "name": "高級心靈感應 Advanced Telepathy"
     },
     "Agile": {
-      "name": "Agile"
+      "name": "腳步輕盈 Agile"
     },
     "Aim": {
-      "name": "Aim"
+      "name": "瞄準 Aim"
     },
     "Air Form": {
-      "name": "Air Form"
+      "name": "空氣形態 Air Form"
     },
     "Amorphous": {
-      "name": "Amorphous"
+      "name": "無固定形狀的 Amorphous"
     },
     "Amphibious": {
-      "name": "Amphibious"
+      "name": "水陸雙棲 Amphibious"
     },
     "Animal Lordship": {
       "name": "Animal Lordship"
@@ -194,13 +194,13 @@
       "name": "Bolster"
     },
     "Bone Bow": {
-      "name": "Bone Bow"
+      "name": "骨弓 Bone Bow"
     },
     "Bone Cudgel": {
       "name": "Bone Cudgel"
     },
     "Bone Flail": {
-      "name": "Bone Flail"
+      "name": "骨鏈鎚 Bone Flail"
     },
     "Bone Javelin": {
       "name": "Bone Javelin"
@@ -305,10 +305,10 @@
       "name": "Cinder Breath"
     },
     "Claw": {
-      "name": "Claw"
+      "name": "爪子 Claw"
     },
     "Claws": {
-      "name": "Claws"
+      "name": "爪子 Claws"
     },
     "Cloaked Flight": {
       "name": "Cloaked Flight"
@@ -368,7 +368,7 @@
       "name": "Control Weather"
     },
     "Corrosive Form": {
-      "name": "Corrosive Form"
+      "name": "腐蝕性 Corrosive Form"
     },
     "Corrupting Touch": {
       "name": "Corrupting Touch"
@@ -389,7 +389,7 @@
       "name": "Create Specter"
     },
     "Create Whirlwind": {
-      "name": "Create Whirlwind"
+      "name": "製造旋風 Create Whirlwind"
     },
     "Crush": {
       "name": "Crush"
@@ -602,16 +602,16 @@
       "name": "Ethereal Jaunt"
     },
     "Ethereal Sight": {
-      "name": "Ethereal Sight"
+      "name": "空靈景象 Ethereal Sight"
     },
     "Ethereal Stride": {
       "name": "Ethereal Stride"
     },
     "Etherealness": {
-      "name": "Etherealness"
+      "name": "空靈 Etherealness"
     },
     "Euphoria Breath": {
-      "name": "Euphoria Breath"
+      "name": "興奮喘息 Euphoria Breath"
     },
     "Evasion": {
       "name": "Evasion"
@@ -623,10 +623,10 @@
       "name": "Extract Brain"
     },
     "Eye Rays": {
-      "name": "Eye Rays"
+      "name": "眼波射線 Eye Rays"
     },
     "Faerie Dust": {
-      "name": "Faerie Dust"
+      "name": "仙靈塵埃 Faerie Dust"
     },
     "Fear Aura": {
       "name": "Fear Aura"
@@ -692,16 +692,16 @@
       "name": "火焰吐息 Fire Breath"
     },
     "Fire Form": {
-      "name": "Fire Form"
+      "name": "火焰形態 Fire Form"
     },
     "Fire Ray": {
-      "name": "Fire Ray"
+      "name": "火焰射線 Fire Ray"
     },
     "First Roar": {
-      "name": "First Roar"
+      "name": "第一聲咆哮 First Roar"
     },
     "Fist": {
-      "name": "Fist"
+      "name": "拳頭 Fist"
     },
     "Flame Aura": {
       "name": "Flame Aura"
@@ -845,10 +845,10 @@
       "name": "Hammer Throw"
     },
     "Harpoon": {
-      "name": "Harpoon"
+      "name": "魚叉 Harpoon"
     },
     "Hasten": {
-      "name": "Hasten"
+      "name": "疾走 Hasten"
     },
     "Haunted Zone": {
       "name": "Haunted Zone"
@@ -1016,7 +1016,7 @@
       "name": "Lashing Goop"
     },
     "Leap": {
-      "name": "Leap"
+      "name": "飛耀 Leap"
     },
     "Legendary Resistance": {
       "name": "Legendary Resistance"
@@ -1154,13 +1154,13 @@
       "name": "Mud Breath"
     },
     "Multiattack": {
-      "name": "Multiattack"
+      "name": "多重攻擊 Multiattack"
     },
     "Multiple Heads": {
       "name": "Multiple Heads"
     },
     "Mutating Claw": {
-      "name": "Mutating Claw"
+      "name": "變異之爪 Mutating Claw"
     },
     "Necrosis": {
       "name": "Necrosis"
@@ -1439,16 +1439,16 @@
       "name": "Rock Launch"
     },
     "Rotting Fist": {
-      "name": "Rotting Fist"
+      "name": "腐化之拳 Rotting Fist"
     },
     "Rotting Gaze": {
-      "name": "Rotting Gaze"
+      "name": "腐化凝視 Rotting Gaze"
     },
     "Rotting Slam": {
-      "name": "Rotting Slam"
+      "name": "腐化猛擊 Rotting Slam"
     },
     "Rotting Touch": {
-      "name": "Rotting Touch"
+      "name": "腐化之觸 Rotting Touch"
     },
     "Rumbling Movement": {
       "name": "Rumbling Movement"
@@ -1568,13 +1568,13 @@
       "name": "Slaying Bow"
     },
     "Sleep": {
-      "name": "Sleep"
+      "name": "睡眠術 Sleep"
     },
     "Sleep Breath": {
-      "name": "Sleep Breath"
+      "name": "睡眠吐息 Sleep Breath"
     },
     "Sleep Gaze": {
-      "name": "Sleep Gaze"
+      "name": "睡眠凝視 Sleep Gaze"
     },
     "Slow": {
       "name": "Slow"
@@ -1967,67 +1967,67 @@
       "name": "Water Form"
     },
     "Water Jet": {
-      "name": "Water Jet"
+      "name": "水刀 Water Jet"
     },
     "Water Susceptibility": {
-      "name": "Water Susceptibility"
+      "name": "水性敏感 Water Susceptibility"
     },
     "Watery Rebuke": {
-      "name": "Watery Rebuke"
+      "name": "水的斥責 Watery Rebuke"
     },
     "Watery Rush": {
-      "name": "Watery Rush"
+      "name": "水上奔跑 Watery Rush"
     },
     "Weakening Breath": {
-      "name": "Weakening Breath"
+      "name": "呼吸衰弱 Weakening Breath"
     },
     "Web": {
-      "name": "Web"
+      "name": "蜘蛛網 Web"
     },
     "Web Strand": {
-      "name": "Web Strand"
+      "name": "蜘蛛絲 Web Strand"
     },
     "Web Walker": {
-      "name": "Web Walker"
+      "name": "蜘蛛網漫步者 Web Walker"
     },
     "Weight of Years": {
-      "name": "Weight of Years"
+      "name": "沉重歲月 Weight of Years"
     },
     "Weird Insight": {
-      "name": "Weird Insight"
+      "name": "怪異慧眼 Weird Insight"
     },
     "Whelm": {
-      "name": "Whelm"
+      "name": "淹沒 Whelm"
     },
     "Whirlwind": {
-      "name": "Whirlwind"
+      "name": "旋風 Whirlwind"
     },
     "Whirlwind of Sand": {
-      "name": "Whirlwind of Sand"
+      "name": "沙之旋風 Whirlwind of Sand"
     },
     "Wind Javelin": {
-      "name": "Wind Javelin"
+      "name": "風標槍 Wind Javelin"
     },
     "Wind Staff": {
-      "name": "Wind Staff"
+      "name": "風之杖 Wind Staff"
     },
     "Wind Swipe": {
-      "name": "Wind Swipe"
+      "name": "風之揮擊 Wind Swipe"
     },
     "Wishes": {
-      "name": "Wishes"
+      "name": "星願 Wishes"
     },
     "Witch Strike": {
-      "name": "Witch Strike"
+      "name": "巫術打擊 Witch Strike"
     },
     "Withering Sword": {
-      "name": "Withering Sword"
+      "name": "凋零之劍 Withering Sword"
     },
     "Withering Touch": {
-      "name": "Withering Touch"
+      "name": "凋零之觸 Withering Touch"
     },
     "World-Shaking Movement": {
-      "name": "World-Shaking Movement"
+      "name": "震撼世界的移動 World-Shaking Movement"
     }
   }
 }

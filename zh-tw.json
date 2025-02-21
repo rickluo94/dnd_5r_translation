@@ -13,11 +13,11 @@
 "TYPES.Actor.npcPl": "Non-Player Characters",
 "TYPES.Actor.vehicle": "載具 Vehicle",
 "TYPES.Actor.vehiclePl": "載具 Vehicles",
-"TYPES.Actor.group": "Group",
-"TYPES.Actor.groupPl": "Groups",
+"TYPES.Actor.group": "組 Group",
+"TYPES.Actor.groupPl": "組 Groups",
 
-"TYPES.ActiveEffect.enchantment": "Enchantment",
-"TYPES.ActiveEffect.enchantmentPl": "Enchantments",
+"TYPES.ActiveEffect.enchantment": "附魔 Enchantment",
+"TYPES.ActiveEffect.enchantmentPl": "附魔 Enchantments",
 
 "TYPES.ChatMessage": {
   "rest": "Rest Message",
@@ -30,20 +30,20 @@
 "TYPES.Item.containerPl": "容器 Containers",
 "TYPES.Item.class": "職業 Class",
 "TYPES.Item.classPl": "職業 Classes",
-"TYPES.Item.consumable": "Consumable",
-"TYPES.Item.consumablePl": "Consumables",
+"TYPES.Item.consumable": "消耗品 Consumable",
+"TYPES.Item.consumablePl": "消耗品 Consumables",
 "TYPES.Item.equipment": "裝備 Equipment",
 "TYPES.Item.equipmentPl": "裝備 Equipment",
-"TYPES.Item.facility": "Facility",
-"TYPES.Item.facilityPl": "Facilities",
+"TYPES.Item.facility": "設施 Facility",
+"TYPES.Item.facilityPl": "設施 Facilities",
 "TYPES.Item.feat": "特性 Feature",
-"TYPES.Item.featurePl": "Features",
+"TYPES.Item.featurePl": "特性 Features",
 "TYPES.Item.loot": "搜刮 Loot",
 "TYPES.Item.lootPl": "搜刮 Loot",
 "TYPES.Item.race": "物種 Species",
 "TYPES.Item.racePl": "物種 Species",
-"TYPES.Item.raceLegacy": "Race",
-"TYPES.Item.raceLegacyPl": "Races",
+"TYPES.Item.raceLegacy": "種族 Race",
+"TYPES.Item.raceLegacyPl": "種族 Races",
 "TYPES.Item.spell": "法術 Spell",
 "TYPES.Item.spellPl": "法術 Spells",
 "TYPES.Item.subclass": "子職業 Subclass",
@@ -55,33 +55,33 @@
 
 "DND5E.title": "Dungeon & Dragons Fifth Edition",
 "DND5E.AbbreviationCR": "CR",
-"DND5E.AbbreviationConc": "Conc.",
-"DND5E.AbbreviationDC": "DC",
-"DND5E.AbbreviationKg": "kg",
-"DND5E.AbbreviationLR": "LR",
-"DND5E.AbbreviationLevel": "Lvl",
-"DND5E.AbbreviationLbs": "lbs.",
-"DND5E.AbbreviationSR": "SR",
+"DND5E.AbbreviationConc": "專注 Conc.",
+"DND5E.AbbreviationDC": "難度 DC",
+"DND5E.AbbreviationKg": "公斤 kg",
+"DND5E.AbbreviationLR": "長休 LR",
+"DND5E.AbbreviationLevel": "等級 Lvl",
+"DND5E.AbbreviationLbs": "磅 lbs.",
+"DND5E.AbbreviationSR": "短休 SR",
 
 "DND5E.ABILITY": {
   "Configure": {
-    "Title": "Configure {ability}"
+    "Title": "設定 Configure {ability}"
   },
   "SECTIONS": {
     "Bonuses": {
-      "Label": "{ability} Bonuses",
+      "Label": "{ability} 加值 Bonuses",
       "Hint": "These bonuses apply to checks & saves made with {ability}."
     },
     "Global": {
       "Label": "Global Bonuses",
       "Hint": "These bonuses apply to checks & saves made with any ability."
     },
-    "Score": "{ability} Score"
+    "Score": "{ability} 值 Score"
   }
 },
 
-"DND5E.Ability": "Ability",
-"DND5E.Abilities": "Abilities",
+"DND5E.Ability": "屬性 Ability",
+"DND5E.Abilities": "屬性 Abilities",
 "DND5E.AbilityStr": "力量 Strength",
 "DND5E.AbilityStrAbbr": "力量 str",
 "DND5E.AbilityCon": "體質 Constitution",
@@ -114,28 +114,28 @@
 "DND5E.AbilityUseUse": "使用屬性 Use Ability",
 "DND5E.AbilityUseConfig": "Usage Configuration",
 "DND5E.AbilityBonuses": "屬性加值 Ability Bonuses",
-"DND5E.AbilityConfigure": "Configure {ability}",
-"DND5E.AbilityConfigureTitle": "Configure {ability} Saving Throws and Checks",
+"DND5E.AbilityConfigure": "設定 Configure {ability}",
+"DND5E.AbilityConfigureTitle": "設定 Configure {ability} Saving Throws and Checks",
 "DND5E.AbilitySaveConfigure": "{ability} 豁免檢定 Saving Throws",
 "DND5E.AbilityCheckConfigure": "{ability} 屬性檢定 Ability Checks",
-"DND5E.AbilityCheckConfigurationHint": "Configure check bonuses.",
+"DND5E.AbilityCheckConfigurationHint": "設定檢定加值 Configure check bonuses.",
 "DND5E.AbilityConfigurationHint": "Configure ability saving throw proficiency, saving throw bonuses, and check bonuses.",
-"DND5E.AbilityCheckBonus": "Check Bonus",
+"DND5E.AbilityCheckBonus": "檢定加值 Check Bonus",
 "DND5E.AbilityCheckGlobalBonusHint": "This bonus applies to all ability checks made by this actor.",
-"DND5E.Action": "Action",
+"DND5E.Action": "動作 Action",
 "DND5E.ActionAbbr": "A",
-"DND5E.ActionPl": "Actions",
+"DND5E.ActionPl": "動作 Actions",
 "DND5E.ActionAbil": "屬性檢定 Ability Check",
-"DND5E.ActionEnch": "Enchant",
-"DND5E.ActionHeal": "Heal",
+"DND5E.ActionEnch": "附魔 Enchant",
+"DND5E.ActionHeal": "治療 Heal",
 "DND5E.ActionMSAK": "近戰法術攻擊 Melee Spell Attack",
 "DND5E.ActionMWAK": "近戰武器攻擊 Melee Weapon Attack",
-"DND5E.ActionOther": "Other",
+"DND5E.ActionOther": "其他 Other",
 "DND5E.ActionRSAK": "遠程法術攻擊 Ranged Spell Attack",
 "DND5E.ActionRWAK": "遠程武器攻擊 Ranged Weapon Attack",
 "DND5E.ActionSave": "豁免檢定 Saving Throw",
-"DND5E.ActionSumm": "Summon",
-"DND5E.ActionUtil": "Utility",
+"DND5E.ActionSumm": "召喚 Summon",
+"DND5E.ActionUtil": "效用 Utility",
 "DND5E.ActionWarningNoItem": "The requested item {item} no longer exists on Actor {name}",
 "DND5E.ActionWarningNoToken": "You must have one or more controlled Tokens in order to use this option.",
 
@@ -162,12 +162,12 @@
     }
   },
   "Category": {
-    "Combat": "Combat",
-    "Monster": "Monster",
-    "Rest": "Rest",
-    "Standard": "Standard",
-    "Time": "Time",
-    "Vehicle": "Vehicle"
+    "Combat": "戰鬥 Combat",
+    "Monster": "怪物 Monster",
+    "Rest": "休息 Rest",
+    "Standard": "標準 Standard",
+    "Time": "時間 Time",
+    "Vehicle": "載具 Vehicle"
   },
   "Type": {
     "Encounter": {
@@ -209,16 +209,16 @@
 
 "DND5E.ACTIVITY": {
   "Action": {
-    "Create": "Create Activity",
-    "Delete": "Delete Activity"
+    "Create": "新增行動 Create Activity",
+    "Delete": "刪除行動 Delete Activity"
   },
   "Title": {
-    "one": "Activity",
-    "other": "Activities"
+    "one": "行動 Activity",
+    "other": "行動 Activities"
   },
   "FIELDS": {
     "description": {
-      "label": "Description",
+      "label": "描述 Description",
       "chatFlavor": {
         "label": "Chat Flavor",
         "hint": "Additional text displayed in the activation chat message."
@@ -625,7 +625,7 @@
 "DND5E.AdvancementConfigurationActionEnable": "Enable Configuration",
 "DND5E.AdvancementConfigurationModeDisabled": "Configuration Disabled",
 "DND5E.AdvancementConfigurationModeEnabled": "Configuration Enabled",
-"DND5E.AdvancementConfigureTitle": "Configure {item} Advancement",
+"DND5E.AdvancementConfigureTitle": "設定 Configure {item} Advancement",
 "DND5E.AdvancementConfigureAllowDrops": "Allow Drops",
 "DND5E.AdvancementConfigureAllowDropsHint": "Should players be able to drop their own choices into this advancement?",
 "DND5E.AdvancementConfigureDropAreaHint": "Drop Items here to add them to the pool from which a player can choose.",
@@ -823,9 +823,9 @@
   "NotGMError": "The /award command is only available to GMs.",
   "UnrecognizedWarning": "Unable to parse {commands}. The /award command should be used with XP & currencies values such as '/award 10gp 50xp'."
 },
-"DND5E.Background": "Background",
-"DND5E.BackgroundAdd": "Add Background",
-"DND5E.BackgroundName": "Background Name",
+"DND5E.Background": "背景 Background",
+"DND5E.BackgroundAdd": "添加背景 Add Background",
+"DND5E.BackgroundName": "背景名稱 Background Name",
 
 "DND5E.Bastion": {
   "Action": {
@@ -1253,7 +1253,7 @@
 "DND5E.ConExhaustion": "疲勞 Exhaustion",
 "DND5E.ConFrightened": "恐懼 Frightened",
 "DND5E.ConGrappled": "擒抱 Grappled",
-"DND5E.ConImm": "Condition Immunities",
+"DND5E.ConImm": "豁免狀態 Condition Immunities",
 "DND5E.ConIncapacitated": "失能 Incapacitated",
 "DND5E.ConInvisible": "隱形 Invisible",
 "DND5E.ConParalyzed": "麻痺 Paralyzed",
@@ -1262,12 +1262,12 @@
 "DND5E.ConProne": "倒地 Prone",
 "DND5E.ConRestrained": "束縛 Restrained",
 "DND5E.ConStunned": "震懾 Stunned",
-"DND5E.ConUnconscious": "Unconscious",
-"DND5E.Concentration": "Concentration",
-"DND5E.ConcentrationAbbr": "C",
-"DND5E.ConcentrationBreak": "Break Concentration",
+"DND5E.ConUnconscious": "昏迷 Unconscious",
+"DND5E.Concentration": "專注 Concentration",
+"DND5E.ConcentrationAbbr": "專注 C",
+"DND5E.ConcentrationBreak": "打斷專注 Break Concentration",
 "DND5E.ConcentrationBreakWarning": "Breaking concentration on an effect that is active on other creatures requires an active GM to be present.",
-"DND5E.ConcentrationBonus": "Concentration Bonus",
+"DND5E.ConcentrationBonus": "專注加值 Concentration Bonus",
 "DND5E.ConcentrationDuration": "Concentration, up to {duration}",
 "DND5E.ConcentratingOn": "You are maintaining concentration on the effects of the '{name}' {type}.",
 "DND5E.ConcentratingEndChoice": "You are concentrating on effects from more than one source. Pick which effect to end.",
@@ -1280,14 +1280,14 @@
 "DND5E.ConcentratingWarnLimitOptional": "You may end concentration on one of your maintained effects to use this item.",
 "DND5E.ConcentratingWarnLimitZero": "You are not able to maintain concentration on any effects!",
 "DND5E.ConcentrationConfigurationHint": "Configure concentration modifiers and bonuses which apply to this creature.",
-"DND5E.ConsumeTitle": "Resource Consumption",
-"DND5E.ConsumeAmount": "Consumption Amount",
+"DND5E.ConsumeTitle": "消耗品 Resource Consumption",
+"DND5E.ConsumeAmount": "消耗品數量 Consumption Amount",
 "DND5E.ConsumeHint": {
   "Attribute": "Attribute to consume (e.g. currency.gp)",
   "Item": "UUID of target in compendium"
 },
-"DND5E.ConsumeTarget": "Consumption Target",
-"DND5E.ConsumeType": "Consumption Category",
+"DND5E.ConsumeTarget": "消耗品目標 Consumption Target",
+"DND5E.ConsumeType": "消耗品類別 Consumption Category",
 "DND5E.ConsumeAmmunition": "Ammunition",
 "DND5E.ConsumeAttribute": "Attribute",
 "DND5E.ConsumeHitDice": "生命骰 Hit Dice",
@@ -1559,8 +1559,8 @@
 "DND5E.CreatureTypeConfig": "Configure Creature Type",
 "DND5E.CreatureTypeSelectorCustom": "Custom Type",
 "DND5E.CreatureTypeSelectorSubtype": "Subtype",
-"DND5E.CreatureUndead": "Undead",
-"DND5E.CreatureUndeadPl": "Undead",
+"DND5E.CreatureUndead": "不死 Undead",
+"DND5E.CreatureUndeadPl": "不死 Undead",
 "DND5E.Crewed": "Crewed",
 "DND5E.Critical": "Critical",
 "DND5E.CriticalHit": "Critical Hit",
@@ -1679,7 +1679,7 @@
   }
 },
 
-"DND5E.DamImm": "Damage Immunities",
+"DND5E.DamImm": "豁免傷害 Damage Immunities",
 "DND5E.DamMod": "Damage Modification",
 "DND5E.DamRes": "Damage Resistances",
 "DND5E.DamVuln": "Damage Vulnerabilities",
@@ -1689,7 +1689,7 @@
 "DND5E.DamageApplication": {
   "Change": {
     "Modification": "{type} Modification",
-    "Immunity": "{type} Immunity",
+    "Immunity": "{type} 豁免 Immunity",
     "Resistance": "{type} Resistance",
     "Vulnerability": "{type} Vulnerability"
   },
@@ -2275,14 +2275,14 @@
 "DND5E.FEATURE": {
   "FIELDS": {
     "cover": {
-      "label": "Cover",
+      "label": "掩護 Cover",
       "hint": "Cover provided to crew by this vehicle feature."
     },
     "properties": {
       "label": "特性屬性 Feature Properties"
     },
     "requirements": {
-      "label": "Requirements"
+      "label": "要求 Requirements"
     },
     "type": {
       "label": "特性類別 Feature Type"
@@ -2295,47 +2295,47 @@
   "Class": {
     "Label": "職業特性 Class Feature",
     "ArcaneShot": "奧術射擊 Arcane Shot",
-    "ArtificerInfusion": "Artificer Infusion",
-    "ChannelDivinity": "Channel Divinity",
-    "DefensiveTactic": "Defensive Tactic",
-    "EldritchInvocation": "Eldritch Invocation",
-    "ElementalDiscipline": "Elemental Discipline",
-    "FightingStyle": "Fighting Style",
-    "HuntersPrey": "Hunter's Prey",
-    "Ki": "Ki Ability",
-    "Maneuver": "Maneuver",
-    "Metamagic": "Metamagic Option",
-    "Multiattack": "Multiattack",
-    "PactBoon": "Pact Boon",
-    "PsionicPower": "Psionic Power",
-    "Rune": "Rune",
-    "SuperiorHuntersDefense": "Superior Hunter's Defense"
+    "ArtificerInfusion": "奇械師注魔 Artificer Infusion",
+    "ChannelDivinity": "引導神力 Channel Divinity",
+    "DefensiveTactic": "防禦性戰術 Defensive Tactic",
+    "EldritchInvocation": "魔能召喚 Eldritch Invocation",
+    "ElementalDiscipline": "四象法門 Elemental Discipline",
+    "FightingStyle": "戰鬥風格 Fighting Style",
+    "HuntersPrey": "狩獵技藝 Hunter's Prey",
+    "Ki": "氣 Ki Ability",
+    "Maneuver": "戰技 Maneuver",
+    "Metamagic": "超魔法選項 Metamagic Option",
+    "Multiattack": "多重攻擊 Multiattack",
+    "PactBoon": "契約恩賜 Pact Boon",
+    "PsionicPower": "靈能之力 Psionic Power",
+    "Rune": "符文 Rune",
+    "SuperiorHuntersDefense": "卓越獵人防禦 Superior Hunter's Defense"
   },
   "Feat": {
     "Label": "專長 Feat",
-    "EpicBoon": "Epic Boon Feat",
-    "FightingStyle": "Fighting Style Feat",
-    "General": "General Feat",
-    "Origin": "Origin Feat"
+    "EpicBoon": "史詩恩賜專長 Epic Boon Feat",
+    "FightingStyle": "戰鬥風格專長 Fighting Style Feat",
+    "General": "一般專長 General Feat",
+    "Origin": "起源專長 Origin Feat"
   },
-  "Monster": "Monster Feature",
-  "Species": "Species Feature",
-  "SpeciesLegacy": "Race Feature",
+  "Monster": "怪物特性 Monster Feature",
+  "Species": "物種特性 Species Feature",
+  "SpeciesLegacy": "種族特性 Race Feature",
   "SupernaturalGift": {
-    "Label": "Supernatural Gift",
-    "Blessing": "Blessing",
-    "Charm": "Charm",
-    "EpicBoon": "Epic Boon"
+    "Label": "超凡恩賜 Supernatural Gift",
+    "Blessing": "祝福 Blessing",
+    "Charm": "魅惑 Charm",
+    "EpicBoon": "史詩恩賜 Epic Boon"
   },
   "Vehicle": {
-    "Label": "Vehicle Feature"
+    "Label": "載具特性 Vehicle Feature"
   }
 },
 "DND5E.Focus": {
-  "Label": "專注施法 Spellcasting Focus",
-  "Arcane": "專注祕法 Arcane Focus",
-  "Druidic": "Druidic Focus",
-  "Holy": "Holy Focus"
+  "Label": "施法專注 Spellcasting Focus",
+  "Arcane": "祕法專注 Arcane Focus",
+  "Druidic": "德魯伊專注 Druidic Focus",
+  "Holy": "神聖專注 Holy Focus"
 },
 "DND5E.Loot.Art": "Art Object",
 "DND5E.Loot.Gear": "Adventuring Gear",
@@ -2429,7 +2429,7 @@
 "DND5E.FlagsHalflingLuckyHint": "Reroll ones when rolling d20 checks.",
 "DND5E.FlagsInitiativeAdv": "Advantage on Initiative",
 "DND5E.FlagsInitiativeAdvHint": "Provided by feats or magical items.",
-"DND5E.FlagsAlert": "Alert Feat",
+"DND5E.FlagsAlert": "警覺專長 Alert Feat",
 "DND5E.FlagsAlertHint": "Proficient in Initiative rolls.",
 "DND5E.FlagsAlertHintLegacy": "Provides +5 to Initiative.",
 "DND5E.FlagsJOAT": "Jack of All Trades",
@@ -2618,7 +2618,7 @@
 "DND5E.Identifier": "Identifier",
 "DND5E.IdentifierError": "An identifier can only contain letters (a-z), numbers (0-9), dashes (-), and underscores (_).",
 "DND5E.Identify": "Identify",
-"DND5E.Immunities": "Immunities",
+"DND5E.Immunities": "豁免 Immunities",
 "DND5E.Initiative": "先攻 Initiative",
 "DND5E.InitiativeAbbr": "Init",
 "DND5E.InitiativeBonus": "Initiative Bonus",
@@ -2978,7 +2978,7 @@
 "DND5E.ProficiencyBonus": "熟練項加值 Proficiency Bonus",
 "DND5E.ProficiencyBonusAbbr": "PB",
 "DND5E.ProficiencyConfigurationHint": "Configure proficiency and bonuses.",
-"DND5E.ProficiencyConfigureTitle": "Configure {label}",
+"DND5E.ProficiencyConfigureTitle": "設定 Configure {label}",
 "DND5E.ProficiencyLevel": "熟練項等級 Proficiency Level",
 "DND5E.ProficiencyOther": "Other",
 "DND5E.Proficient": "Proficient",
@@ -2986,8 +2986,8 @@
 "DND5E.PropertyBase": "基礎 Base",
 "DND5E.PropertyTotal": "總 Total",
 "DND5E.Public": "Public",
-"DND5E.Quantity": "Quantity",
-"DND5E.QuantityAbbr": "Qty",
+"DND5E.Quantity": "數量 Quantity",
+"DND5E.QuantityAbbr": "數量 Qty",
 "DND5E.QuantityFormula": "Quantity Formula",
 "DND5E.QuantityRoll": "Roll Quantities",
 "DND5E.RacialTraits": "Species Traits",
@@ -2996,7 +2996,7 @@
 "DND5E.RANGE": {
   "FIELDS": {
     "range": {
-      "label": "Range",
+      "label": "範圍 Range",
       "long": {
         "label": "Long Range",
         "hint": "Far attack range of the weapon, if present on the weapon."
@@ -3023,12 +3023,12 @@
     }
   },
   "Formatted": {
-    "Range": "range {range}",
+    "Range": "範圍 range {range}",
     "Reach": "reach {reach}"
   }
 },
 
-"DND5E.Range": "Range",
+"DND5E.Range": "範圍 Range",
 "DND5E.RangeDistance": "Distance",
 "DND5E.RangeLong": "Long Range",
 "DND5E.RangeNormal": "Normal Range",
@@ -3308,7 +3308,7 @@
 "DND5E.SkillSte": "隱匿 Stealth",
 "DND5E.SkillSur": "求生 Survival",
 "DND5E.SkillPromptTitle": "{ability} ({skill}) Check",
-"DND5E.SkillConfigureTitle": "Configure {skill}",
+"DND5E.SkillConfigureTitle": "設定 Configure {skill}",
 "DND5E.SkillConfigure": "Configure Skill",
 "DND5E.SkillsConfig": "Configure Skills",
 "DND5E.SkillBonuses": "技能加值 Skill Bonuses",
@@ -3364,14 +3364,14 @@
 "DND5E.SpecialHint": "Special values separated by semi-colons.",
 "DND5E.SpecialTraits": "特殊特性 Special Traits",
 "DND5E.Species": {
-  "Label": "Species",
+  "Label": "物種 Species",
   "Add": "添加物種 Add Species",
-  "AddLegacy": "Add Race",
-  "Features": "Species Features",
-  "FeaturesLegacy": "Race Features",
-  "Name": "Species Name"
+  "AddLegacy": "添加種族 Add Race",
+  "Features": "物種特性 Species Features",
+  "FeaturesLegacy": "種族特性 Race Features",
+  "Name": "物種名稱 Species Name"
 },
-"DND5E.Speed": "Speed",
+"DND5E.Speed": "速度 Speed",
 "DND5E.SpeedSpecial": "Special Movement",
 "DND5E.SpellAbility": "Spellcasting Ability",
 "DND5E.SpellAbilitySet": "Set as Primary Spellcasting Ability",
@@ -3394,10 +3394,10 @@
 "DND5E.SpellEffects": "Spell Effects",
 "DND5E.SpellHeader": {
   "Formula": "Formula",
-  "Range": "Range",
-  "Roll": "Roll",
+  "Range": "範圍 Range",
+  "Roll": "骰 Roll",
   "School": "School",
-  "Target": "Target",
+  "Target": "目標 Target",
   "Time": "Time"
 },
 "DND5E.SpellLevel": "法術等級 Spell Level",
@@ -3915,23 +3915,23 @@
   "Targeted": "Targeted"
 },
 "DND5E.TokenRings": {
-  "BackgroundColor": "Background Color",
+  "BackgroundColor": "背景顏色 Background Color",
   "Effects": {
-    "Label": "Effects",
-    "BackgroundWave": "Background Wave",
-    "RingGradient": "Ring Gradient",
-    "RingPulse": "Ring Pulse"
+    "Label": "效果 Effects",
+    "BackgroundWave": "背景波動 Background Wave",
+    "RingGradient": "環形漸變 Ring Gradient",
+    "RingPulse": "環形脈衝 Ring Pulse"
   },
-  "Enabled": "Use Dynamic Ring",
-  "RingColor": "Ring Color",
-  "ScaleCorrection": "Scale Correction",
+  "Enabled": "使用動態環 Use Dynamic Ring",
+  "RingColor": "顏色環 Ring Color",
+  "ScaleCorrection": "比例校正 Scale Correction",
   "Subject": {
-    "Label": "Subject Path",
+    "Label": "主題路徑 Subject Path",
     "Hint": "Explicitly specify a path for the artwork placed over the dynamic token ring. If not provided, the subject image will be set to the normal token artwork."
   },
-  "Title": "Dynamic Ring"
+  "Title": "動態環 Dynamic Ring"
 },
-"DND5E.ToggleDescription": "Toggle Description",
+"DND5E.ToggleDescription": "切換描述 Toggle Description",
 
 "DND5E.TOOL": {
   "SECTIONS": {
@@ -3968,16 +3968,16 @@
 "DND5E.TraitArmorLegacyPlural.one": "熟練護甲 Armor Proficiency",
 "DND5E.TraitArmorLegacyPlural.other": "熟練護甲 Armor Proficiencies",
 "DND5E.TraitArmorLegacyProf": "熟練護甲 Armor Proficiencies",
-"DND5E.TraitCIPlural.one": "Condition Immunity",
-"DND5E.TraitCIPlural.other": "Condition Immunities",
-"DND5E.TraitConfig": "Configure {trait}",
+"DND5E.TraitCIPlural.one": "豁免狀態 Condition Immunity",
+"DND5E.TraitCIPlural.other": "豁免狀態 Condition Immunities",
+"DND5E.TraitConfig": "設定 Configure {trait}",
 "DND5E.TraitConfigChooseAnyCounted": "any {count} {type}",
 "DND5E.TraitConfigChooseAnyUncounted": "any {type}",
 "DND5E.TraitConfigChooseList": "{count} from {list}",
 "DND5E.TraitConfigChooseOther": "{count} other {type}",
 "DND5E.TraitConfigChooseWrapper": "Choose {choices}",
-"DND5E.TraitDIPlural.one": "Damage Immunity",
-"DND5E.TraitDIPlural.other": "Damage Immunities",
+"DND5E.TraitDIPlural.one": "豁免傷害 Damage Immunity",
+"DND5E.TraitDIPlural.other": "豁免傷害 Damage Immunities",
 "DND5E.TraitDMPlural.one": "Damage Modification",
 "DND5E.TraitDMPlural.other": "Damage Modifications",
 "DND5E.TraitDRPlural.one": "Damage Resistance",
@@ -4406,7 +4406,7 @@
   }
 },
 
-"DND5E.WeaponCategory": "{category} Weapon",
+"DND5E.WeaponCategory": "{category} 武器 Weapon",
 "DND5E.WeaponImprov": "Improvised",
 "DND5E.WeaponMartialM": "軍用武器 Martial Melee",
 "DND5E.WeaponMartialProficiency": "軍用 Martial",
@@ -4416,7 +4416,7 @@
 "DND5E.WeaponSimpleM": "簡易武器 Simple Melee",
 "DND5E.WeaponSimpleProficiency": "簡易 Simple",
 "DND5E.WeaponSimpleR": "簡易遠程武器 Simple Ranged",
-"DND5E.Weight": "Weight",
+"DND5E.Weight": "重量 Weight",
 "DND5E.WhisperedTo": "Whispered to",
 "DND5E.Wiki": "Wiki",
 "DND5E.available": "available",
