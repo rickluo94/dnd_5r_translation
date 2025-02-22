@@ -1033,7 +1033,7 @@
       "tokenName": "麋鹿 Elk",
       "items": {
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         }
       }
     },
@@ -1355,7 +1355,7 @@
       "tokenName": "Giant Goat",
       "items": {
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         }
       }
     },
@@ -1388,7 +1388,7 @@
           "name": "Water Breathing"
         },
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         },
         "Bubble Dash": {
           "name": "Bubble Dash"
@@ -1442,7 +1442,7 @@
       "tokenName": "山羊 Goat",
       "items": {
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         }
       }
     },

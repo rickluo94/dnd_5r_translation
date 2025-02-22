@@ -639,7 +639,7 @@
 "DND5E.AdvancementFlowDropAreaHint": "Drop an Item here to choose it.",
 "DND5E.AdvancementHint": "Hint",
 "DND5E.AdvancementItemTypeInvalidWarning": "{type} items cannot be added with this advancement type.",
-"DND5E.AdvancementLevelHeader": "Level {level}",
+"DND5E.AdvancementLevelHeader": "等級 Level {level}",
 "DND5E.AdvancementLevelAnyHeader": "Any Level",
 "DND5E.AdvancementLevelNoneHeader": "No Level",
 "DND5E.AdvancementLevelDownConfirmationMessage": "Leveling this class down will also undo all advancement choices made for it. These changes will be removed from your character as long as the checkbox below is checked.",
@@ -1824,7 +1824,7 @@
 "DND5E.EffectsApplyTokens": "Apply to selected tokens",
 "DND5E.EffectApplyWarningConcentration": "Applying an effect that is being concentrated on by another character requires GM permissions.",
 "DND5E.EffectApplyWarningOwnership": "Effects cannot be applied to tokens you are not the owner of.",
-"DND5E.EffectsSearch": "Search effects",
+"DND5E.EffectsSearch": "搜尋效果 Search effects",
 
 "DND5E.ENCHANT": {
   "Title": "Enchant",
@@ -2393,7 +2393,7 @@
 "DND5E.FeaturePassive": "Passive Abilities",
 "DND5E.FeatureRechargeOn": "Recharge On",
 "DND5E.FeatureRechargeResult": "1d6 Result",
-"DND5E.FeatureSearch": "Search features",
+"DND5E.FeatureSearch": "搜尋特性 Search features",
 "DND5E.FeatureUsage": "Feature Usage",
 "DND5E.Features": "特性 Features",
 "DND5E.FeaturesBackground": "背景特性 Background Features",
@@ -2627,7 +2627,7 @@
 "DND5E.InitiativeConfigHint": "Configure initiative modifiers and bonuses which apply to this Actor.",
 "DND5E.Inspiration": "激勵 Inspiration",
 "DND5E.Inventory": "背包 Inventory",
-"DND5E.InventorySearch": "Search inventory",
+"DND5E.InventorySearch": "搜尋背包 Search inventory",
 "DND5E.Issues": "Issues",
 "DND5E.ItemActionType": "Action Type",
 "DND5E.ItemActivation": "Activation",
@@ -2823,8 +2823,8 @@
   "Resisted": "Used Legendary Resistance"
 },
 
-"DND5E.Level": "Level",
-"DND5E.LevelPl": "Levels",
+"DND5E.Level": "等級 Level",
+"DND5E.LevelPl": "等級 Levels",
 "DND5E.LevelActionDecrease": "Level Down",
 "DND5E.LevelActionIncrease": "Level Up",
 "DND5E.LevelCount": "{ordinal} Level",
@@ -2833,7 +2833,7 @@
   "Max": "Maximum Level",
   "Min": "Minimum Level"
 },
-"DND5E.LevelNumber": "Level {level}",
+"DND5E.LevelNumber": "等級 Level {level}",
 "DND5E.LevelScaling": "Level Scaling",
 "DND5E.LimitedUses": "Limited Uses",
 "DND5E.LimitedUsesAvailable": "Remaining Uses",
@@ -2956,7 +2956,7 @@
 "DND5E.PolymorphWarn": "You are not allowed to polymorph this actor!",
 "DND5E.PolymorphWildShape": "Wild Shape",
 "DND5E.Portrait": "Portrait",
-"DND5E.Prepared": "Prepared",
+"DND5E.Prepared": "準備 Prepared",
 "DND5E.Prerequisites": {
   "Header": "Feature Prerequisites",
   "FIELDS": {
@@ -3389,9 +3389,9 @@
 "DND5E.SpellComponent": "Spell Component",
 "DND5E.SpellComponents": "Spell Components",
 "DND5E.SpellCreate": "Create Spell",
-"DND5E.SpellDC": "Spell DC",
+"DND5E.SpellDC": "法術難度 Spell DC",
 "DND5E.SpellDetails": "Spell Details",
-"DND5E.SpellEffects": "Spell Effects",
+"DND5E.SpellEffects": "法術效果 Spell Effects",
 "DND5E.SpellHeader": {
   "Formula": "Formula",
   "Range": "範圍 Range",
@@ -3424,15 +3424,15 @@
 "DND5E.SpellPrepAtWill": "At-Will",
 "DND5E.SpellPrepInnate": "Innate Spellcasting",
 "DND5E.SpellPrepRitual": "Ritual Only",
-"DND5E.SpellPrepPrepared": "Prepared",
-"DND5E.SpellPrepAlways": "Always Prepared",
+"DND5E.SpellPrepPrepared": "準備 Prepared",
+"DND5E.SpellPrepAlways": "隨時準備 Always Prepared",
 "DND5E.SpellPreparation": {
   "Label": "Spell Preparation",
   "Formula": "Preparation Formula",
   "Mode": "Spell Preparation Mode"
 },
 "DND5E.SpellSourceClass": "Source Class",
-"DND5E.SpellPrepared": "Prepared",
+"DND5E.SpellPrepared": "準備 Prepared",
 "DND5E.SpellProgArt": "Artificer",
 "DND5E.SpellProgAvailable": "Available slots",
 "DND5E.SpellProgFull": "Full Caster",
@@ -3442,9 +3442,9 @@
 "DND5E.SpellProgPact": "Pact Magic",
 "DND5E.SpellProgThird": "Third Caster",
 "DND5E.SpellProgression": "Spell Progression",
-"DND5E.SpellsSearch": "Search spells",
-"DND5E.SpellSchool": "Spell School",
-"DND5E.SpellScroll": "Spell Scroll",
+"DND5E.SpellsSearch": "搜尋法術 Search spells",
+"DND5E.SpellSchool": "法術學派 Spell School",
+"DND5E.SpellScroll": "法術卷軸 Spell Scroll",
 "DND5E.SpellSlotExpended": "Expended Spell Slot",
 "DND5E.SpellSlotN.one": "{n}st spell slot",
 "DND5E.SpellSlotN.two": "{n}nd spell slot",
@@ -4536,7 +4536,7 @@
       "DescriptionLegacy": "As a {lowercaseName}, you gain the following class features, which are summarized in the {name} table.",
       "DescriptionModern": "As a {name}, you gain the following class features when you reach the specified {name} levels. These features are listed in the {name} Features table.",
       "Header": "職業特性 Class Features",
-      "Name": "Level {level}: {name}"
+      "Name": "等級 Level {level}: {name}"
     },
     "HitPoints": {
       "Header": "生命值 Hit Points",

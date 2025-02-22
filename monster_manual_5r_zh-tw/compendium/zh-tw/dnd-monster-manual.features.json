@@ -26,7 +26,7 @@
       "name": "酸霧 Acid Spray"
     },
     "Adhesive (Object Form Only)": {
-      "name": "Adhesive (Object Form Only)"
+      "name": "黏合 Adhesive (Object Form Only)"
     },
     "Advanced Telepathy": {
       "name": "高級心靈感應 Advanced Telepathy"
@@ -47,10 +47,10 @@
       "name": "水陸雙棲 Amphibious"
     },
     "Animal Lordship": {
-      "name": "Animal Lordship"
+      "name": "動物之王 Animal Lordship"
     },
     "Animal Spirit": {
-      "name": "Animal Spirit"
+      "name": "動物精神 Animal Spirit"
     },
     "Animate Boulders": {
       "name": "Animate Boulders"
@@ -59,13 +59,13 @@
       "name": "觸角 Antennae"
     },
     "Antimagic Cone": {
-      "name": "Antimagic Cone"
+      "name": "錐狀反魔 Antimagic Cone"
     },
     "Aquatic Burst": {
-      "name": "Aquatic Burst"
+      "name": "水體爆發 Aquatic Burst"
     },
     "Aquatic Charge": {
-      "name": "Aquatic Charge"
+      "name": "水體衝擊 Aquatic Charge"
     },
     "Aquatic Lash": {
       "name": "Aquatic Lash"
@@ -119,10 +119,10 @@
       "name": "Barbed Hide"
     },
     "Beak": {
-      "name": "Beak"
+      "name": "鳥嘴 Beak"
     },
     "Beaks": {
-      "name": "Beaks"
+      "name": "鳥嘴 Beaks"
     },
     "Beard": {
       "name": "Beard"
@@ -143,13 +143,13 @@
       "name": "Bejeweled Baton"
     },
     "Berserk": {
-      "name": "Berserk"
+      "name": "狂暴狀態 Berserk"
     },
     "Bite": {
-      "name": "Bite"
+      "name": "咬 Bite"
     },
     "Bites": {
-      "name": "Bites"
+      "name": "咬 Bites"
     },
     "Bladed Arm": {
       "name": "Bladed Arm"
@@ -299,7 +299,7 @@
       "name": "Chomp"
     },
     "Chromatic Spittle": {
-      "name": "Chromatic Spittle"
+      "name": "五色龍涎 Chromatic Spittle"
     },
     "Cinder Breath": {
       "name": "Cinder Breath"
@@ -500,7 +500,7 @@
       "name": "Draconic Strike"
     },
     "Dragon-Tooth Blade": {
-      "name": "Dragon-Tooth Blade"
+      "name": "龍牙之刃 Dragon-Tooth Blade"
     },
     "Dragon’s Breath": {
       "name": "龍息 Dragon’s Breath"
@@ -755,25 +755,25 @@
       "name": "Fortify"
     },
     "Freeze": {
-      "name": "Freeze"
+      "name": "凍結 Freeze"
     },
     "Freezing Burst": {
-      "name": "Freezing Burst"
+      "name": "凍結爆發 Freezing Burst"
     },
     "Frenzied Rush": {
-      "name": "Frenzied Rush"
+      "name": "狂熱衝刺 Frenzied Rush"
     },
     "Frightening": {
-      "name": "Frightening"
+      "name": "恐懼 Frightening"
     },
     "Frightening Gaze": {
-      "name": "Frightening Gaze"
+      "name": "恐懼凝視 Frightening Gaze"
     },
     "Frightful Presence": {
-      "name": "Frightful Presence"
+      "name": "可怕的存在 Frightful Presence"
     },
     "Frost Axe": {
-      "name": "Frost Axe"
+      "name": "冰霜之斧 Frost Axe"
     },
     "Frost Breath": {
       "name": "Frost Breath"
@@ -821,7 +821,7 @@
       "name": "Grave-Dust Flight"
     },
     "Great Bow": {
-      "name": "Great Bow"
+      "name": "巨弓 Great Bow"
     },
     "Greater Magic Resistance": {
       "name": "Greater Magic Resistance"
@@ -956,7 +956,7 @@
       "name": "Immutable Form"
     },
     "Incite Rampage": {
-      "name": "Incite Rampage"
+      "name": "煽動狂暴 Incite Rampage"
     },
     "Incorporeal Movement": {
       "name": "Incorporeal Movement"
@@ -1361,25 +1361,25 @@
       "name": "Radiant Horn"
     },
     "Radiant Ray": {
-      "name": "Radiant Ray"
+      "name": "輻射射線 Radiant Ray"
     },
     "Radiant Strike": {
-      "name": "Radiant Strike"
+      "name": "光耀打擊 Radiant Strike"
     },
     "Radiant Sword": {
-      "name": "Radiant Sword"
+      "name": "光耀之劍 Radiant Sword"
     },
     "Radiant Teleport": {
-      "name": "Radiant Teleport"
+      "name": "光輝傳送 Radiant Teleport"
     },
     "Rake": {
-      "name": "Rake"
+      "name": "植物爪 Rake"
     },
     "Ram": {
-      "name": "Ram"
+      "name": "猛撞 Ram"
     },
     "Rampage": {
-      "name": "Rampage"
+      "name": "肆虐 Rampage"
     },
     "Rapport Spores": {
       "name": "Rapport Spores"
@@ -1517,10 +1517,10 @@
       "name": "Shark Telepathy"
     },
     "Sharpened Beak": {
-      "name": "Sharpened Beak"
+      "name": "鋒利鳥嘴 Sharpened Beak"
     },
     "Shield": {
-      "name": "Shield"
+      "name": "盾牌 Shield"
     },
     "Shield Bash": {
       "name": "Shield Bash"
@@ -1769,7 +1769,7 @@
       "name": "Tail Swipe"
     },
     "Talons": {
-      "name": "Talons"
+      "name": "爪 (鳥禽) Talons"
     },
     "Telekinetic Thrust": {
       "name": "Telekinetic Thrust"
@@ -1787,7 +1787,7 @@
       "name": "Tendril"
     },
     "Tentacle": {
-      "name": "Tentacle"
+      "name": "觸手 Tentacle"
     },
     "Tentacle Lash": {
       "name": "Tentacle Lash"
@@ -1796,7 +1796,7 @@
       "name": "Tentacle Slam"
     },
     "Tentacles": {
-      "name": "Tentacles"
+      "name": "觸手 Tentacles"
     },
     "Terrifying Glare": {
       "name": "Terrifying Glare"
@@ -1886,7 +1886,7 @@
       "name": "Umbral Claw"
     },
     "Umbral Dagger": {
-      "name": "Umbral Dagger"
+      "name": "幽影匕首 Umbral Dagger"
     },
     "Umbral Strike": {
       "name": "Umbral Strike"
@@ -1940,34 +1940,34 @@
       "name": "Vine Staff"
     },
     "Vortex": {
-      "name": "Vortex"
+      "name": "旋渦 Vortex"
     },
     "Vow of Revenge": {
       "name": "Vow of Revenge"
     },
     "War Cry": {
-      "name": "War Cry"
+      "name": "戰吼 War Cry"
     },
     "Warding Charm": {
       "name": "Warding Charm"
     },
     "Warp Step": {
-      "name": "Warp Step"
+      "name": "翹曲步伐 Warp Step"
     },
     "Warping Hex": {
       "name": "Warping Hex"
     },
     "Water Bound": {
-      "name": "Water Bound"
+      "name": "水束縛 Water Bound"
     },
     "Water Breathing": {
       "name": "Water Breathing"
     },
     "Water Form": {
-      "name": "Water Form"
+      "name": "水體 Water Form"
     },
     "Water Jet": {
-      "name": "水刀 Water Jet"
+      "name": "水柱噴射 Water Jet"
     },
     "Water Susceptibility": {
       "name": "水性敏感 Water Susceptibility"

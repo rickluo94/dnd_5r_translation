@@ -12,7 +12,7 @@
           "name": "施法 Spellcasting"
         },
         "Elementalism": {
-          "name": "Elementalism"
+          "name": "元素操控 Elementalism"
         },
         "Gust of Wind": {
           "name": "Gust of Wind"
@@ -39,7 +39,7 @@
       "tokenName": "Aarakocra Skirmisher",
       "items": {
         "Talons": {
-          "name": "Talons"
+          "name": "爪 (鳥禽) Talons"
         },
         "Wind Javelin": {
           "name": "風標槍 Wind Javelin"
@@ -93,7 +93,7 @@
           "name": "Probing Telepathy"
         },
         "Tentacle": {
-          "name": "Tentacle"
+          "name": "觸手 Tentacle"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -177,7 +177,7 @@
           "name": "Cloud of Insects"
         },
         "Frightful Presence": {
-          "name": "Frightful Presence"
+          "name": "可怕的存在 Frightful Presence"
         },
         "Pounce": {
           "name": "猛撲 Pounce"
@@ -597,10 +597,10 @@
           "name": "冰凍吐息 Cold Breath"
         },
         "Freezing Burst": {
-          "name": "Freezing Burst"
+          "name": "凍結爆發 Freezing Burst"
         },
         "Frightful Presence": {
-          "name": "Frightful Presence"
+          "name": "可怕的存在 Frightful Presence"
         },
         "Fear": {
           "name": "恐懼術 Fear"
@@ -684,7 +684,7 @@
           "name": "Cloud of Insects"
         },
         "Frightful Presence": {
-          "name": "Frightful Presence"
+          "name": "可怕的存在 Frightful Presence"
         },
         "Pounce": {
           "name": "猛撲 Pounce"
@@ -1131,10 +1131,10 @@
           "name": "冰凍吐息 Cold Breath"
         },
         "Freezing Burst": {
-          "name": "Freezing Burst"
+          "name": "凍結爆發 Freezing Burst"
         },
         "Frightful Presence": {
-          "name": "Frightful Presence"
+          "name": "可怕的存在 Frightful Presence"
         },
         "Fear": {
           "name": "恐懼術 Fear"
@@ -1149,7 +1149,7 @@
       "tokenName": "Animal Lord",
       "items": {
         "Animal Lordship": {
-          "name": "Animal Lordship"
+          "name": "動物之王 Animal Lordship"
         },
         "Legendary Resistance": {
           "name": "Legendary Resistance"
@@ -1167,10 +1167,10 @@
           "name": "撕裂 Rend"
         },
         "Animal Spirit": {
-          "name": "Animal Spirit"
+          "name": "動物精神Animal Spirit"
         },
         "Radiant Ray": {
-          "name": "Radiant Ray"
+          "name": "輻射射線 Radiant Ray"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -1599,7 +1599,7 @@
       "tokenName": "Awakened Shrub",
       "items": {
         "Rake": {
-          "name": "Rake"
+          "name": "植物爪 Rake"
         }
       }
     },
@@ -1613,11 +1613,11 @@
       }
     },
     "Axe Beak": {
-      "name": "Axe Beak",
-      "tokenName": "Axe Beak",
+      "name": "斧嘴鳥 Axe Beak",
+      "tokenName": "斧嘴鳥 Axe Beak",
       "items": {
         "Beak": {
-          "name": "Beak"
+          "name": "鳥嘴 Beak"
         }
       }
     },
@@ -1641,7 +1641,7 @@
           "name": "施法 Spellcasting"
         },
         "Elementalism": {
-          "name": "Elementalism"
+          "name": "元素操控 Elementalism"
         },
         "Mage Hand": {
           "name": "法師之手 Mage Hand"
@@ -1980,7 +1980,7 @@
           "name": "啃咬 Bite"
         },
         "Antimagic Cone": {
-          "name": "Antimagic Cone"
+          "name": "錐狀反魔 Antimagic Cone"
         },
         "Chomp": {
           "name": "Chomp"
@@ -2012,11 +2012,11 @@
       }
     },
     "Berserker": {
-      "name": "Berserker",
-      "tokenName": "Berserker",
+      "name": "狂暴者 Berserker",
+      "tokenName": "狂暴者 Berserker",
       "items": {
         "Greataxe": {
-          "name": "Greataxe"
+          "name": "巨斧 Greataxe"
         },
         "Hide Armor": {
           "name": "Hide Armor"
@@ -2027,11 +2027,11 @@
       }
     },
     "Berserker Commander": {
-      "name": "Berserker Commander",
-      "tokenName": "Berserker Commander",
+      "name": "狂暴者指揮官 Berserker Commander",
+      "tokenName": "狂暴者指揮官 Berserker Commander",
       "items": {
         "Greataxe": {
-          "name": "Greataxe"
+          "name": "巨斧 Greataxe"
         },
         "Javelin": {
           "name": "Javelin"
@@ -2043,7 +2043,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Frenzied Rush": {
-          "name": "Frenzied Rush"
+          "name": "狂熱衝刺 Frenzied Rush"
         }
       }
     },
@@ -2154,7 +2154,7 @@
           "name": "群體戰術 Pack Tactics"
         },
         "Beak": {
-          "name": "Beak"
+          "name": "鳥嘴 Beak"
         }
       }
     },
@@ -2640,7 +2640,7 @@
           "name": "爪子 Claw"
         },
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         },
         "Fire Breath": {
           "name": "火焰吐息 Fire Breath"
@@ -2676,7 +2676,7 @@
           "name": "酸吸收 Acid Absorption"
         },
         "Berserk": {
-          "name": "Berserk"
+          "name": "狂暴狀態 Berserk"
         },
         "Immutable Form": {
           "name": "Immutable Form"
@@ -2781,7 +2781,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Talons": {
-          "name": "Talons"
+          "name": "爪 (鳥禽) Talons"
         },
         "Magical Backlash": {
           "name": "Magical Backlash"
@@ -2814,7 +2814,7 @@
           "name": "猛擊 Slam"
         },
         "Radiant Ray": {
-          "name": "Radiant Ray"
+          "name": "輻射射線 Radiant Ray"
         },
         "Divine Beam": {
           "name": "Divine Beam"
@@ -2994,7 +2994,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Radiant Ray": {
-          "name": "Radiant Ray"
+          "name": "輻射射線 Radiant Ray"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -3360,7 +3360,7 @@
           "name": "腳步輕盈 Agile"
         },
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         }
       }
     },
@@ -3456,7 +3456,7 @@
           "name": "Dreadful Howl"
         },
         "Warp Step": {
-          "name": "Warp Step"
+          "name": "翹曲步伐 Warp Step"
         }
       }
     },
@@ -3477,7 +3477,7 @@
           "name": "撕裂 Rend"
         },
         "Tentacle": {
-          "name": "Tentacle"
+          "name": "觸手 Tentacle"
         }
       }
     },
@@ -3804,7 +3804,7 @@
       "tokenName": "Eagle",
       "items": {
         "Talons": {
-          "name": "Talons"
+          "name": "爪 (鳥禽) Talons"
         }
       }
     },
@@ -3861,7 +3861,7 @@
           "name": "偵測魔法 Detect Magic"
         },
         "Elementalism": {
-          "name": "Elementalism"
+          "name": "元素操控 Elementalism"
         },
         "Gaseous Form": {
           "name": "Gaseous Form"
@@ -3939,7 +3939,7 @@
           "name": "Elemental Absorption"
         },
         "Elementalism": {
-          "name": "Elementalism"
+          "name": "元素操控 Elementalism"
         },
         "Mage Hand": {
           "name": "Mage Hand"
@@ -3966,7 +3966,7 @@
       "tokenName": "Elk",
       "items": {
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         }
       }
     },
@@ -4323,7 +4323,7 @@
           "name": "Aversion to Fire"
         },
         "Berserk": {
-          "name": "Berserk"
+          "name": "狂暴狀態 Berserk"
         },
         "Immutable Form": {
           "name": "Immutable Form"
@@ -4356,7 +4356,7 @@
           "name": "Telepathic Shroud"
         },
         "Tentacle": {
-          "name": "Tentacle"
+          "name": "觸手 Tentacle"
         },
         "Stench Spray": {
           "name": "Stench Spray"
@@ -4413,13 +4413,13 @@
           "name": "多重攻擊 Multiattack"
         },
         "Frost Axe": {
-          "name": "Frost Axe"
+          "name": "冰霜之斧 Frost Axe"
         },
         "Great Bow": {
-          "name": "Great Bow"
+          "name": "巨弓 Great Bow"
         },
         "War Cry": {
-          "name": "War Cry"
+          "name": "戰吼 War Cry"
         }
       }
     },
@@ -4583,17 +4583,17 @@
       }
     },
     "Giant Axe Beak": {
-      "name": "Giant Axe Beak",
-      "tokenName": "Giant Axe Beak",
+      "name": "巨斧嘴鳥 Giant Axe Beak",
+      "tokenName": "巨斧嘴鳥 Giant Axe Beak",
       "items": {
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
         },
         "Sharpened Beak": {
-          "name": "Sharpened Beak"
+          "name": "鋒利鳥嘴 Sharpened Beak"
         },
         "Talons": {
-          "name": "Talons"
+          "name": "爪 (鳥禽) Talons"
         }
       }
     },
@@ -4698,7 +4698,7 @@
       "tokenName": "Giant Elk",
       "items": {
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         }
       }
     },
@@ -4737,7 +4737,7 @@
       "tokenName": "Giant Goat",
       "items": {
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         }
       }
     },
@@ -4749,7 +4749,7 @@
           "name": "啃咬 Bite"
         },
         "Rampage": {
-          "name": "Rampage"
+          "name": "肆虐 Rampage"
         }
       }
     },
@@ -4773,7 +4773,7 @@
           "name": "Water Breathing"
         },
         "Tentacles": {
-          "name": "Tentacles"
+          "name": "觸手 Tentacles"
         },
         "Ink Cloud": {
           "name": "Ink Cloud"
@@ -4788,7 +4788,7 @@
           "name": "Flyby"
         },
         "Talons": {
-          "name": "Talons"
+          "name": "爪 (鳥禽) Talons"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -4836,7 +4836,7 @@
       "tokenName": "Giant Seahorse",
       "items": {
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         },
         "Bubble Dash": {
           "name": "Bubble Dash"
@@ -4893,7 +4893,7 @@
           "name": "啃咬 Bite"
         },
         "Tentacle": {
-          "name": "Tentacle"
+          "name": "觸手 Tentacle"
         },
         "Ink Cloud": {
           "name": "Ink Cloud"
@@ -5277,7 +5277,7 @@
           "name": "Hunger of Yeenoghu"
         },
         "Rampage": {
-          "name": "Rampage"
+          "name": "肆虐 Rampage"
         }
       }
     },
@@ -5295,7 +5295,7 @@
           "name": "骨鏈鎚 Bone Flail"
         },
         "Rampage": {
-          "name": "Rampage"
+          "name": "肆虐 Rampage"
         }
       }
     },
@@ -5313,10 +5313,10 @@
           "name": "Bone Javelin"
         },
         "Rampage": {
-          "name": "Rampage"
+          "name": "肆虐 Rampage"
         },
         "Incite Rampage": {
-          "name": "Incite Rampage"
+          "name": "煽動肆虐 Incite Rampage"
         }
       }
     },
@@ -5337,7 +5337,7 @@
       "tokenName": "Goat",
       "items": {
         "Ram": {
-          "name": "Ram"
+          "name": "猛撞 Ram"
         }
       }
     },
@@ -5703,7 +5703,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Beak": {
-          "name": "Beak"
+          "name": "鳥嘴 Beak"
         },
         "Paralyzing Tentacles": {
           "name": "Paralyzing Tentacles"
@@ -5718,10 +5718,10 @@
           "name": "多重攻擊 Multiattack"
         },
         "Beak": {
-          "name": "Beak"
+          "name": "鳥嘴 Beak"
         },
         "Tentacles": {
-          "name": "Tentacles"
+          "name": "觸手 Tentacles"
         }
       }
     },
@@ -5733,13 +5733,13 @@
           "name": "多重攻擊 Multiattack"
         },
         "Beak": {
-          "name": "Beak"
+          "name": "鳥嘴 Beak"
         },
         "Slam": {
           "name": "猛擊 Slam"
         },
         "Tentacles": {
-          "name": "Tentacles"
+          "name": "觸手 Tentacles"
         }
       }
     },
@@ -5919,7 +5919,7 @@
       "tokenName": "Hawk",
       "items": {
         "Talons": {
-          "name": "Talons"
+          "name": "爪 (鳥禽) Talons"
         }
       }
     },
@@ -6327,7 +6327,7 @@
           "name": "風之揮擊 Wind Swipe"
         },
         "Vortex": {
-          "name": "Vortex"
+          "name": "旋渦 Vortex"
         }
       }
     },
@@ -6467,8 +6467,8 @@
       }
     },
     "Kobold Warrior": {
-      "name": "Kobold Warrior",
-      "tokenName": "Kobold Warrior",
+      "name": "狗頭人戰士 Kobold Warrior",
+      "tokenName": "狗頭人戰士 Kobold Warrior",
       "items": {
         "Dagger": {
           "name": "匕首 Dagger"
@@ -6498,7 +6498,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Tentacle": {
-          "name": "Tentacle"
+          "name": "觸手 Tentacle"
         },
         "Fling": {
           "name": "Fling"
@@ -6777,7 +6777,7 @@
           "name": "Disrupt Life"
         },
         "Frightening Gaze": {
-          "name": "Frightening Gaze"
+          "name": "恐懼凝視 Frightening Gaze"
         },
         "Fear": {
           "name": "恐懼術 Fear"
@@ -6840,7 +6840,7 @@
           "name": "施法 Spellcasting"
         },
         "Elementalism": {
-          "name": "Elementalism"
+          "name": "元素操控 Elementalism"
         },
         "Meld into Stone": {
           "name": "Meld into Stone"
@@ -7071,7 +7071,7 @@
           "name": "Aquatic Lash"
         },
         "Water Jet": {
-          "name": "水刀 Water Jet"
+          "name": "水柱噴射 Water Jet"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -7194,13 +7194,13 @@
           "name": "多重攻擊 Multiattack"
         },
         "Aquatic Burst": {
-          "name": "Aquatic Burst"
+          "name": "水體爆發 Aquatic Burst"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
         },
         "Elementalism": {
-          "name": "Elementalism"
+          "name": "元素操控 Elementalism"
         },
         "Light": {
           "name": "Light"
@@ -7305,7 +7305,7 @@
           "name": "Extract Brain"
         },
         "Tentacles": {
-          "name": "Tentacles"
+          "name": "觸手 Tentacles"
         },
         "Mind Blast": {
           "name": "Mind Blast"
@@ -7902,7 +7902,7 @@
           "name": "Water Breathing"
         },
         "Tentacles": {
-          "name": "Tentacles"
+          "name": "觸手 Tentacles"
         }
       }
     },
@@ -7992,7 +7992,7 @@
           "name": "啃咬 Bite"
         },
         "Tentacle": {
-          "name": "Tentacle"
+          "name": "觸手 Tentacle"
         },
         "Tentacle Slam": {
           "name": "Tentacle Slam"
@@ -8007,7 +8007,7 @@
           "name": "Flyby"
         },
         "Talons": {
-          "name": "Talons"
+          "name": "爪 (鳥禽) Talons"
         }
       }
     },
@@ -8127,7 +8127,7 @@
           "name": "Flyby"
         },
         "Talons": {
-          "name": "Talons"
+          "name": "爪 (鳥禽) Talons"
         },
         "Gore": {
           "name": "Gore"
@@ -8385,7 +8385,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Radiant Sword": {
-          "name": "Radiant Sword"
+          "name": "光耀之劍 Radiant Sword"
         },
         "Holy Burst": {
           "name": "Holy Burst"
@@ -8829,7 +8829,7 @@
           "name": "Mimicry"
         },
         "Beak": {
-          "name": "Beak"
+          "name": "鳥嘴 Beak"
         }
       }
     },
@@ -8946,10 +8946,10 @@
           "name": "多重攻擊 Multiattack"
         },
         "Beak": {
-          "name": "Beak"
+          "name": "鳥嘴 Beak"
         },
         "Talons": {
-          "name": "Talons"
+          "name": "爪 (鳥禽) Talons"
         },
         "Swoop": {
           "name": "Swoop"
@@ -8970,7 +8970,7 @@
           "name": "啃咬 Bite"
         },
         "Tentacle": {
-          "name": "Tentacle"
+          "name": "觸手 Tentacle"
         },
         "Reel": {
           "name": "Reel"
@@ -9108,7 +9108,7 @@
           "name": "爪子 Claw"
         },
         "Aquatic Charge": {
-          "name": "Aquatic Charge"
+          "name": "水體衝擊 Aquatic Charge"
         }
       }
     },
@@ -9546,7 +9546,7 @@
           "name": "Blinding Gaze"
         },
         "Radiant Teleport": {
-          "name": "Radiant Teleport"
+          "name": "光輝傳送 Radiant Teleport"
         },
         "Divine Aid": {
           "name": "Divine Aid"
@@ -10038,7 +10038,7 @@
           "name": "Swarm"
         },
         "Bites": {
-          "name": "Bites"
+          "name": "咬 Bites"
         }
       }
     },
@@ -10083,7 +10083,7 @@
           "name": "Swarm"
         },
         "Bites": {
-          "name": "Bites"
+          "name": "咬 Bites"
         }
       }
     },
@@ -10095,7 +10095,7 @@
           "name": "Swarm"
         },
         "Bites": {
-          "name": "Bites"
+          "name": "咬 Bites"
         }
       }
     },
@@ -10128,7 +10128,7 @@
           "name": "Water Breathing"
         },
         "Bites": {
-          "name": "Bites"
+          "name": "咬 Bites"
         }
       }
     },
@@ -10140,7 +10140,7 @@
           "name": "Swarm"
         },
         "Bites": {
-          "name": "Bites"
+          "name": "咬 Bites"
         }
       }
     },
@@ -10152,7 +10152,7 @@
           "name": "Swarm"
         },
         "Beaks": {
-          "name": "Beaks"
+          "name": "鳥嘴 Beaks"
         },
         "Cacophony": {
           "name": "Cacophony"
@@ -10179,7 +10179,7 @@
           "name": "Swarm"
         },
         "Bites": {
-          "name": "Bites"
+          "name": "咬 Bites"
         }
       }
     },
@@ -10638,7 +10638,7 @@
           "name": "多重攻擊 Multiattack"
         },
         "Umbral Dagger": {
-          "name": "Umbral Dagger"
+          "name": "幽影匕首 Umbral Dagger"
         },
         "Deathless Agility": {
           "name": "Deathless Agility"
@@ -10815,7 +10815,7 @@
           "name": "群體戰術 Pack Tactics"
         },
         "Beak": {
-          "name": "Beak"
+          "name": "鳥嘴 Beak"
         }
       }
     },
@@ -10899,10 +10899,10 @@
       "tokenName": "Water Elemental",
       "items": {
         "Freeze": {
-          "name": "Freeze"
+          "name": "凍結 Freeze"
         },
         "Water Form": {
-          "name": "Water Form"
+          "name": "水體 Water Form"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -10920,7 +10920,7 @@
       "tokenName": "Water Weird",
       "items": {
         "Water Bound": {
-          "name": "Water Bound"
+          "name": "水束縛 Water Bound"
         },
         "Invisible in Water": {
           "name": "Invisible in Water"
@@ -11117,8 +11117,8 @@
       }
     },
     "Winged Kobold": {
-      "name": "Winged Kobold",
-      "tokenName": "Winged Kobold",
+      "name": "有翼狗頭人 Winged Kobold",
+      "tokenName": "有翼狗頭人 Winged Kobold",
       "items": {
         "Pack Tactics": {
           "name": "群體戰術 Pack Tactics"
@@ -11127,10 +11127,10 @@
           "name": "陽光敏感 Sunlight Sensitivity"
         },
         "Dragon-Tooth Blade": {
-          "name": "Dragon-Tooth Blade"
+          "name": "龍牙之刃 Dragon-Tooth Blade"
         },
         "Chromatic Spittle": {
-          "name": "Chromatic Spittle"
+          "name": "五色龍涎 Chromatic Spittle"
         }
       }
     },
