@@ -123,13 +123,13 @@
           "name": "多重攻擊 Multiattack"
         },
         "Chilling Gaze": {
-          "name": "Chilling Gaze"
+          "name": "寒冷凝視 Chilling Gaze"
         },
         "Claw": {
           "name": "爪子 Claw"
         },
         "Ice Throw": {
-          "name": "Ice Throw"
+          "name": "投擲冰球 Ice Throw"
         },
         "Cold Breath": {
           "name": "冰凍吐息 Cold Breath"
@@ -387,7 +387,7 @@
           "name": "猛撲 Pounce"
         },
         "Slowing Breath": {
-          "name": "Slowing Breath"
+          "name": "減速吐息 Slowing Breath"
         }
       }
     },
@@ -906,7 +906,7 @@
           "name": "猛撲 Pounce"
         },
         "Slowing Breath": {
-          "name": "Slowing Breath"
+          "name": "減速吐息 Slowing Breath"
         }
       }
     },
@@ -1578,7 +1578,7 @@
           "name": "Shortsword"
         },
         "Light Crossbow": {
-          "name": "Light Crossbow"
+          "name": "輕弩 Light Crossbow"
         },
         "Studded Leather Armor": {
           "name": "Studded Leather Armor"
@@ -1710,13 +1710,13 @@
           "name": "多重攻擊 Multiattack"
         },
         "Flame Whip": {
-          "name": "Flame Whip"
+          "name": "火焰之鞭 Flame Whip"
         },
         "Teleport": {
           "name": "Teleport"
         },
         "Lightning Blade": {
-          "name": "Lightning Blade"
+          "name": "雷電之刃 Lightning Blade"
         }
       }
     },
@@ -1725,10 +1725,10 @@
       "tokenName": "Bandit",
       "items": {
         "Scimitar": {
-          "name": "Scimitar"
+          "name": "彎刀 Scimitar"
         },
         "Light Crossbow": {
-          "name": "Light Crossbow"
+          "name": "輕弩 Light Crossbow"
         },
         "Leather Armor": {
           "name": "Leather Armor"
@@ -1740,7 +1740,7 @@
       "tokenName": "Bandit Captain",
       "items": {
         "Scimitar": {
-          "name": "Scimitar"
+          "name": "彎刀 Scimitar"
         },
         "Pistol": {
           "name": "Pistol"
@@ -1761,7 +1761,7 @@
       "tokenName": "Bandit Crime Lord",
       "items": {
         "Scimitar": {
-          "name": "Scimitar"
+          "name": "彎刀 Scimitar"
         },
         "Pistol": {
           "name": "Pistol"
@@ -1998,7 +1998,7 @@
       "tokenName": "Beholder Zombie",
       "items": {
         "Undead Fortitude": {
-          "name": "Undead Fortitude"
+          "name": "不死韌性 Undead Fortitude"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -2022,7 +2022,7 @@
           "name": "Hide Armor"
         },
         "Bloodied Frenzy": {
-          "name": "Bloodied Frenzy"
+          "name": "血殞狂亂 Bloodied Frenzy"
         }
       }
     },
@@ -2034,10 +2034,10 @@
           "name": "巨斧 Greataxe"
         },
         "Javelin": {
-          "name": "Javelin"
+          "name": "標槍 Javelin"
         },
         "Bloodied Frenzy": {
-          "name": "Bloodied Frenzy"
+          "name": "血殞狂亂 Bloodied Frenzy"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -2196,7 +2196,7 @@
       "tokenName": "Boar",
       "items": {
         "Bloodied Fury": {
-          "name": "Bloodied Fury"
+          "name": "血殞狂怒 Bloodied Fury"
         },
         "Gore": {
           "name": "Gore"
@@ -2334,7 +2334,7 @@
       "tokenName": "Bugbear Stalker",
       "items": {
         "Javelin": {
-          "name": "Javelin"
+          "name": "標槍 Javelin"
         },
         "Morningstar": {
           "name": "Morningstar"
@@ -2862,7 +2862,7 @@
           "name": "酸液吐息 Acid Breath"
         },
         "Slowing Breath": {
-          "name": "Slowing Breath"
+          "name": "減速吐息 Slowing Breath"
         }
       }
     },
@@ -3534,7 +3534,7 @@
           "name": "異界傳送 Plane Shift"
         },
         "Create Whirlwind": {
-          "name": "製造旋風 Create Whirlwind"
+          "name": "創造旋風 Create Whirlwind"
         },
         "Storm Blade": {
           "name": "Storm Blade"
@@ -4620,7 +4620,7 @@
       "tokenName": "Giant Boar",
       "items": {
         "Bloodied Fury": {
-          "name": "Bloodied Fury"
+          "name": "血殞狂怒 Bloodied Fury"
         },
         "Gore": {
           "name": "Gore"
@@ -4986,7 +4986,7 @@
           "name": "啃咬 Bite"
         },
         "Blinding Spittle": {
-          "name": "Blinding Spittle"
+          "name": "耀眼唾液 Blinding Spittle"
         }
       }
     },
@@ -5244,7 +5244,7 @@
       "tokenName": "Gladiator",
       "items": {
         "Spear": {
-          "name": "Spear"
+          "name": "矛 Spear"
         },
         "Shield": {
           "name": "盾牌 Shield"
@@ -5346,7 +5346,7 @@
       "tokenName": "Goblin Boss",
       "items": {
         "Scimitar": {
-          "name": "Scimitar"
+          "name": "彎刀 Scimitar"
         },
         "Shortbow": {
           "name": "Shortbow"
@@ -5415,7 +5415,7 @@
       "tokenName": "Goblin Warrior",
       "items": {
         "Scimitar": {
-          "name": "Scimitar"
+          "name": "彎刀 Scimitar"
         },
         "Shortbow": {
           "name": "Shortbow"
@@ -5520,7 +5520,7 @@
           "name": "無固定形狀的 Amorphous"
         },
         "Corrosive Form": {
-          "name": "腐蝕性 Corrosive Form"
+          "name": "腐蝕形態 Corrosive Form"
         },
         "Pseudopod": {
           "name": "Pseudopod"
@@ -5769,7 +5769,7 @@
       "tokenName": "Guard",
       "items": {
         "Spear": {
-          "name": "Spear"
+          "name": "矛 Spear"
         },
         "Chain Shirt": {
           "name": "Chain Shirt"
@@ -5784,7 +5784,7 @@
       "tokenName": "Guard Captain",
       "items": {
         "Javelin": {
-          "name": "Javelin"
+          "name": "標槍 Javelin"
         },
         "Longsword": {
           "name": "Longsword"
@@ -6057,7 +6057,7 @@
       "tokenName": "Hobgoblin Warlord",
       "items": {
         "Javelin": {
-          "name": "Javelin"
+          "name": "標槍 Javelin"
         },
         "Longsword": {
           "name": "Longsword"
@@ -6216,7 +6216,7 @@
           "name": "Wall of Ice"
         },
         "Ice Spear": {
-          "name": "Ice Spear"
+          "name": "冰矛 Ice Spear"
         }
       }
     },
@@ -6261,7 +6261,7 @@
       "tokenName": "Incubus",
       "items": {
         "Succubus Form": {
-          "name": "Succubus Form"
+          "name": "魅魔形態 Succubus Form"
         },
         "Restless Touch": {
           "name": "Restless Touch"
@@ -6273,7 +6273,7 @@
           "name": "施法 Spellcasting"
         },
         "Nightmare": {
-          "name": "Nightmare"
+          "name": "夢魘 Nightmare"
         },
         "Disguise Self": {
           "name": "Disguise Self"
@@ -6522,7 +6522,7 @@
       "tokenName": "Kuo-toa",
       "items": {
         "Spear": {
-          "name": "Spear"
+          "name": "矛 Spear"
         },
         "Amphibious": {
           "name": "水陸雙棲 Amphibious"
@@ -7737,7 +7737,7 @@
           "name": "Shape-Shift"
         },
         "Nightmare Haunting": {
-          "name": "Nightmare Haunting"
+          "name": "夢魘纏繞 Nightmare Haunting"
         },
         "Dream": {
           "name": "Dream"
@@ -7760,8 +7760,8 @@
       }
     },
     "Nightmare": {
-      "name": "Nightmare",
-      "tokenName": "Nightmare",
+      "name": "夢魘馬 Nightmare",
+      "tokenName": "夢魘馬 Nightmare",
       "items": {
         "Confer Fire Resistance": {
           "name": "Confer Fire Resistance"
@@ -7914,7 +7914,7 @@
           "name": "Greatclub"
         },
         "Javelin": {
-          "name": "Javelin"
+          "name": "標槍 Javelin"
         }
       }
     },
@@ -7923,7 +7923,7 @@
       "tokenName": "Ogre Zombie",
       "items": {
         "Undead Fortitude": {
-          "name": "Undead Fortitude"
+          "name": "不死韌性 Undead Fortitude"
         },
         "Slam": {
           "name": "猛擊 Slam"
@@ -7938,7 +7938,7 @@
           "name": "Battleaxe"
         },
         "Javelin": {
-          "name": "Javelin"
+          "name": "標槍 Javelin"
         }
       }
     },
@@ -7956,7 +7956,7 @@
           "name": "爪子 Claw"
         },
         "Nightmare Ray": {
-          "name": "Nightmare Ray"
+          "name": "夢魘射線 Nightmare Ray"
         },
         "Shape-Shift": {
           "name": "Shape-Shift"
@@ -8211,7 +8211,7 @@
       "tokenName": "Pirate Admiral",
       "items": {
         "Scimitar": {
-          "name": "Scimitar"
+          "name": "彎刀 Scimitar"
         },
         "Pistol": {
           "name": "Pistol"
@@ -8655,7 +8655,7 @@
       "tokenName": "Quaggoth",
       "items": {
         "Bloodied Fury": {
-          "name": "Bloodied Fury"
+          "name": "血殞狂怒 Bloodied Fury"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -8670,7 +8670,7 @@
       "tokenName": "Quaggoth Thonot",
       "items": {
         "Bloodied Fury": {
-          "name": "Bloodied Fury"
+          "name": "血殞狂怒 Bloodied Fury"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -9030,7 +9030,7 @@
           "name": "Breastplate"
         },
         "Blood Frenzy": {
-          "name": "Blood Frenzy"
+          "name": "嗜血狂亂 Blood Frenzy"
         },
         "Limited Amphibiousness": {
           "name": "Limited Amphibiousness"
@@ -9051,7 +9051,7 @@
       "tokenName": "Sahuagin Priest",
       "items": {
         "Blood Frenzy": {
-          "name": "Blood Frenzy"
+          "name": "嗜血狂亂 Blood Frenzy"
         },
         "Limited Amphibiousness": {
           "name": "Limited Amphibiousness"
@@ -9093,7 +9093,7 @@
       "tokenName": "Sahuagin Warrior",
       "items": {
         "Blood Frenzy": {
-          "name": "Blood Frenzy"
+          "name": "嗜血狂亂 Blood Frenzy"
         },
         "Limited Amphibiousness": {
           "name": "Limited Amphibiousness"
@@ -9543,7 +9543,7 @@
           "name": "Resurrection"
         },
         "Blinding Gaze": {
-          "name": "Blinding Gaze"
+          "name": "耀眼凝視 Blinding Gaze"
         },
         "Radiant Teleport": {
           "name": "光輝傳送 Radiant Teleport"
@@ -9581,8 +9581,8 @@
       }
     },
     "Specter": {
-      "name": "Specter",
-      "tokenName": "Specter",
+      "name": "幽靈 Specter",
+      "tokenName": "幽靈 Specter",
       "items": {
         "Incorporeal Movement": {
           "name": "Incorporeal Movement"
@@ -9906,7 +9906,7 @@
       "tokenName": "Steam Mephit",
       "items": {
         "Blurred Form": {
-          "name": "Blurred Form"
+          "name": "朦朧形態 Blurred Form"
         },
         "Death Burst": {
           "name": "Death Burst"
@@ -10866,7 +10866,7 @@
       "tokenName": "Warrior Infantry",
       "items": {
         "Spear": {
-          "name": "Spear"
+          "name": "矛 Spear"
         },
         "Pack Tactics": {
           "name": "Pack Tactics"
@@ -10902,7 +10902,7 @@
           "name": "凍結 Freeze"
         },
         "Water Form": {
-          "name": "水體 Water Form"
+          "name": "水形態 Water Form"
         },
         "Multiattack": {
           "name": "多重攻擊 Multiattack"
@@ -11184,7 +11184,7 @@
           "name": "生命汲取 Life Drain"
         },
         "Create Specter": {
-          "name": "Create Specter"
+          "name": "創造幽靈 Create Specter"
         }
       }
     },
@@ -11241,10 +11241,10 @@
           "name": "爪子 Claw"
         },
         "Ice Throw": {
-          "name": "Ice Throw"
+          "name": "投擲冰球 Ice Throw"
         },
         "Chilling Gaze": {
-          "name": "Chilling Gaze"
+          "name": "寒冷凝視 Chilling Gaze"
         }
       }
     },
@@ -11379,7 +11379,7 @@
           "name": "酸液吐息 Acid Breath"
         },
         "Slowing Breath": {
-          "name": "Slowing Breath"
+          "name": "減速吐息 Slowing Breath"
         }
       }
     },
@@ -11523,7 +11523,7 @@
       "tokenName": "Yuan-ti Infiltrator",
       "items": {
         "Scimitar": {
-          "name": "Scimitar"
+          "name": "彎刀 Scimitar"
         },
         "Magic Resistance": {
           "name": "魔法抗性 Magic Resistance"
@@ -11637,7 +11637,7 @@
       "tokenName": "Zombie",
       "items": {
         "Undead Fortitude": {
-          "name": "Undead Fortitude"
+          "name": "不死韌性 Undead Fortitude"
         },
         "Slam": {
           "name": "猛擊 Slam"

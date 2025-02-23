@@ -468,11 +468,11 @@
       "CR": {
         "FIELDS": {
           "value": {
-            "label": "CR"
+            "label": "挑戰等級 CR"
           }
         },
         "Hint": "Use this for representing creature challenge ratings for features like Wild Shape",
-        "Label": "Challenge Rating"
+        "Label": "挑戰等級 Challenge Rating"
       },
       "Dice": {
         "FIELDS": {
@@ -1050,7 +1050,7 @@
     "FastForwardHint": "<kbd>Shift</kbd> + <left-click> the item to skip this dialog"
   }
 },
-"DND5E.ChallengeRating": "Challenge Rating",
+"DND5E.ChallengeRating": "挑戰等級 Challenge Rating",
 "DND5E.Charged": "Charged",
 "DND5E.Charges": "Charges",
 "DND5E.ChatContextDamage": "Apply Damage",
@@ -1160,9 +1160,9 @@
 },
 
 "DND5E.CompendiumBrowser": {
-  "Title": "Compendium Browser",
+  "Title": "綱要瀏覽器",
   "Action": {
-    "Open": "Open Compendium Browser"
+    "Open": "開啟綱要瀏覽器"
   },
   "Column": {
     "Icon": "Icon",
@@ -2483,26 +2483,26 @@
 },
 "DND5E.Habitat": {
   "Categories": {
-    "Any": "Any",
-    "Arctic": "Arctic",
-    "Coastal": "Coastal",
-    "Desert": "Desert",
-    "Forest": "Forest",
-    "Grassland": "Grassland",
-    "Hill": "Hill",
-    "Mountain": "Mountain",
-    "Planar": "Planar",
-    "Swamp": "Swamp",
-    "Underdark": "Underdark",
-    "Underwater": "Underwater",
-    "Urban": "Urban"
+    "Any": "任何 Any",
+    "Arctic": "極地 Arctic",
+    "Coastal": "海岸 Coastal",
+    "Desert": "沙漠 Desert",
+    "Forest": "森林 Forest",
+    "Grassland": "草原 Grassland",
+    "Hill": "丘陵 Hill",
+    "Mountain": "山脈 Mountain",
+    "Planar": "位面 Planar",
+    "Swamp": "沼澤 Swamp",
+    "Underdark": "幽暗地域 Underdark",
+    "Underwater": "水下 Underwater",
+    "Urban": "城市 Urban"
   },
   "Configuration": {
     "Custom": "Custom",
-    "Label": "Habitat",
+    "Label": "棲息地 Habitat",
     "Legend": "Categories",
     "Subtype": "{type} Subtype",
-    "Title": "Configure Habitat"
+    "Title": "設定棲息地 Configure Habitat"
   },
   "Subtype": "{type} ({subtype})"
 },
@@ -2762,32 +2762,32 @@
     "Telepathy": "Telepathy"
   },
   "Language": {
-    "Aarakocra": "Aarakocra",
-    "Abyssal": "Abyssal",
-    "Aquan": "Aquan",
-    "Auran": "Auran",
-    "Celestial": "Celestial",
-    "Common": "通用 Common",
-    "CommonSign": "Common Sign Language",
-    "DeepSpeech": "Deep Speech",
-    "Draconic": "龍語 Draconic",
-    "Druidic": "德魯伊 Druidic",
-    "Dwarvish": "矮人 Dwarvish",
-    "Elvish": "精靈 Elvish",
-    "Giant": "巨人 Giant",
-    "Gith": "Gith",
-    "Gnoll": "Gnoll",
-    "Gnomish": "侏儒 Gnomish",
-    "Goblin": "哥布林 Goblin",
-    "Halfling": "半身人 Halfling",
-    "Ignan": "Ignan",
-    "Infernal": "Infernal",
-    "Orc": "獸人 Orc",
-    "Primordial": "Primordial",
-    "Sylvan": "Sylvan",
-    "Terran": "Terran",
-    "ThievesCant": "Thieves' Cant",
-    "Undercommon": "Undercommon"
+    "Aarakocra": "鳥人語",
+    "Abyssal": "深淵語",
+    "Aquan": "水族語",
+    "Auran": "風族語",
+    "Celestial": "天界語",
+    "Common": "通用語",
+    "CommonSign": "通用手語",
+    "DeepSpeech": "深語",
+    "Draconic": "龍語",
+    "Druidic": "德魯伊語",
+    "Dwarvish": "矮人語",
+    "Elvish": "精靈語",
+    "Giant": "巨人語",
+    "Gith": "吉斯語",
+    "Gnoll": "豺狼人語",
+    "Gnomish": "侏儒語",
+    "Goblin": "哥布林語",
+    "Halfling": "半身人語",
+    "Ignan": "火族語",
+    "Infernal": "煉獄語",
+    "Orc": "獸人語",
+    "Primordial": "原初語",
+    "Sylvan": "林語",
+    "Terran": "地族語",
+    "ThievesCant": "盜賊暗語",
+    "Undercommon": "幽暗語"
   }
 },
 "DND5E.Languages": "語言 Languages",
@@ -2827,7 +2827,7 @@
 "DND5E.LevelPl": "等級 Levels",
 "DND5E.LevelActionDecrease": "Level Down",
 "DND5E.LevelActionIncrease": "Level Up",
-"DND5E.LevelCount": "{ordinal} Level",
+"DND5E.LevelCount": "{ordinal} 等級 Level",
 "DND5E.LevelLimit": {
   "Label": "Level Limit",
   "Max": "Maximum Level",
@@ -3563,8 +3563,8 @@
           "label": "Count"
         },
         "cr": {
-          "label": "Challenge Rating",
-          "abbr": "CR",
+          "label": "挑戰等級 Challenge Rating",
+          "abbr": "挑戰等級 CR",
           "hint": "Maximum CR of the summoned creature."
         },
         "level": {
@@ -4004,17 +4004,17 @@
 "DND5E.TraitsChosen": "Chosen Traits",
 "DND5E.Treasure": {
   "Categories": {
-    "Any": "Any",
-    "Arcana": "Arcana",
-    "Armaments": "Armaments",
-    "Implements": "Implements",
-    "Individual": "Individual",
-    "None": "None",
-    "Relics": "Relics"
+    "Any": "任何 Any",
+    "Arcana": "奧秘 Arcana",
+    "Armaments": "武裝 Armaments",
+    "Implements": "器具 Implements",
+    "Individual": "個人 Individual",
+    "None": "無 None",
+    "Relics": "遺物 Relics"
   },
   "Configuration": {
-    "Label": "Treasure",
-    "Title": "Configure Treasure"
+    "Label": "寶藏 Treasure",
+    "Title": "設定寶藏 Configure Treasure"
   }
 },
 "DND5E.Trigger": "Trigger",

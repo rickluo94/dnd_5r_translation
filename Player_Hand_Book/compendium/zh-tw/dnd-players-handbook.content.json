@@ -680,7 +680,7 @@
           "text": "<p>Some magic items require a creature to form a bond—called Attunement—with them before the creature can use an item’s magical properties. A creature can have Attunement with no more than three magic items at a time. See also @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbMagicItems000]{Magic Items}.</p>"
         },
         "Bloodied": {
-          "name": "Bloodied",
+          "name": "血殞 Bloodied",
           "text": "<p>A creature is Bloodied while it has half its Hit Points or fewer remaining.</p>"
         },
         "Breaking Objects": {

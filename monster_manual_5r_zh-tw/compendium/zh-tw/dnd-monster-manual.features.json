@@ -170,22 +170,22 @@
       "name": "Blinding Flash"
     },
     "Blinding Gaze": {
-      "name": "Blinding Gaze"
+      "name": "耀眼凝視 Blinding Gaze"
     },
     "Blinding Spittle": {
-      "name": "Blinding Spittle"
+      "name": "耀眼唾液 Blinding Spittle"
     },
     "Blood Frenzy": {
-      "name": "Blood Frenzy"
+      "name": "嗜血狂亂 Blood Frenzy"
     },
     "Bloodied Frenzy": {
-      "name": "Bloodied Frenzy"
+      "name": "血殞狂亂 Bloodied Frenzy"
     },
     "Bloodied Fury": {
-      "name": "Bloodied Fury"
+      "name": "血殞狂怒 Bloodied Fury"
     },
     "Blurred Form": {
-      "name": "Blurred Form"
+      "name": "朦朧形態 Blurred Form"
     },
     "Bog Staff": {
       "name": "Bog Staff"
@@ -293,7 +293,7 @@
       "name": "Chill"
     },
     "Chilling Gaze": {
-      "name": "Chilling Gaze"
+      "name": "寒冷凝視 Chilling Gaze"
     },
     "Chomp": {
       "name": "Chomp"
@@ -368,7 +368,7 @@
       "name": "Control Weather"
     },
     "Corrosive Form": {
-      "name": "腐蝕性 Corrosive Form"
+      "name": "腐蝕形態 Corrosive Form"
     },
     "Corrupting Touch": {
       "name": "Corrupting Touch"
@@ -386,10 +386,10 @@
       "name": "Crackling Wave"
     },
     "Create Specter": {
-      "name": "Create Specter"
+      "name": "創造幽靈 Create Specter"
     },
     "Create Whirlwind": {
-      "name": "製造旋風 Create Whirlwind"
+      "name": "創造旋風 Create Whirlwind"
     },
     "Crush": {
       "name": "Crush"
@@ -722,7 +722,7 @@
       "name": "Flame Trident"
     },
     "Flame Whip": {
-      "name": "Flame Whip"
+      "name": "火焰之鞭 Flame Whip"
     },
     "Flash of Light": {
       "name": "Flash of Light"
@@ -929,10 +929,10 @@
       "name": "Hypnotic Gaze"
     },
     "Ice Spear": {
-      "name": "Ice Spear"
+      "name": "冰矛 Ice Spear"
     },
     "Ice Throw": {
-      "name": "Ice Throw"
+      "name": "投擲冰球 Ice Throw"
     },
     "Ice Walk": {
       "name": "Ice Walk"
@@ -1037,7 +1037,7 @@
       "name": "Lightning Absorption"
     },
     "Lightning Blade": {
-      "name": "Lightning Blade"
+      "name": "雷電之刃 Lightning Blade"
     },
     "Lightning Breath": {
       "name": "Lightning Breath"
@@ -1190,13 +1190,13 @@
       "name": "Negative Energy Cone"
     },
     "Nightmare": {
-      "name": "Nightmare"
+      "name": "夢魘 Nightmare"
     },
     "Nightmare Haunting": {
-      "name": "Nightmare Haunting"
+      "name": "夢魘纏繞 Nightmare Haunting"
     },
     "Nightmare Ray": {
-      "name": "Nightmare Ray"
+      "name": "夢魘射線 Nightmare Ray"
     },
     "Nimble Escape": {
       "name": "Nimble Escape"
@@ -1580,7 +1580,7 @@
       "name": "Slow"
     },
     "Slowing Breath": {
-      "name": "Slowing Breath"
+      "name": "減速吐息 Slowing Breath"
     },
     "Smelting Charge": {
       "name": "Smelting Charge"
@@ -1706,7 +1706,7 @@
       "name": "Stunning Screech"
     },
     "Succubus Form": {
-      "name": "Succubus Form"
+      "name": "魅魔形態 Succubus Form"
     },
     "Suffocate": {
       "name": "Suffocate"
@@ -1895,7 +1895,7 @@
       "name": "Uncanny Dodge"
     },
     "Undead Fortitude": {
-      "name": "Undead Fortitude"
+      "name": "不死韌性 Undead Fortitude"
     },
     "Undead Restoration": {
       "name": "Undead Restoration"
@@ -1964,7 +1964,7 @@
       "name": "Water Breathing"
     },
     "Water Form": {
-      "name": "水體 Water Form"
+      "name": "水形態 Water Form"
     },
     "Water Jet": {
       "name": "水柱噴射 Water Jet"
