@@ -559,7 +559,7 @@
           "name": "矮人剛毅 Dwarven Toughness"
         },
         "Stonecunning": {
-          "name": "岩石敏銳 Stonecunning"
+          "name": "石頭敏銳 Stonecunning"
         },
         "Spear": {
           "name": "矛 Spear"
@@ -885,7 +885,7 @@
           "name": "多功能 Versatile"
         },
         "Skilled": {
-          "name": "Skilled 技巧嫻熟"
+          "name": "技巧嫻熟 Skilled"
         },
         "Sickle": {
           "name": "鐮刀 Sickle"
@@ -1132,7 +1132,7 @@
           "name": "士兵 Soldier"
         },
         "Savage Attacker": {
-          "name": "Savage Attacker"
+          "name": "野蠻攻擊者 Savage Attacker"
         },
         "Dwarf": {
           "name": "Dwarf"
@@ -1144,7 +1144,7 @@
           "name": "Dwarven Toughness"
         },
         "Stonecunning": {
-          "name": "Stonecunning"
+          "name": "石頭敏銳 Stonecunning"
         },
         "Spear": {
           "name": "Spear"
@@ -1813,7 +1813,7 @@
           "name": "貴族 Noble"
         },
         "Skilled": {
-          "name": "Skilled 技巧嫻熟"
+          "name": "技巧嫻熟 Skilled"
         },
         "Orc": {
           "name": "獸人 Orc"
@@ -2332,7 +2332,7 @@
           "name": "詐欺師 Charlatan"
         },
         "Skilled": {
-          "name": "Skilled 技巧嫻熟"
+          "name": "技巧嫻熟 Skilled"
         },
         "Elf, Drow": {
           "name": "Elf, Drow"
@@ -2748,7 +2748,7 @@
           "name": "抄書吏 Scribe"
         },
         "Skilled": {
-          "name": "Skilled 技巧嫻熟"
+          "name": "技巧嫻熟 Skilled"
         },
         "Calligrapher’s Supplies": {
           "name": "Calligrapher’s Supplies"

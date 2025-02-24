@@ -2,19 +2,24 @@
   "label": "法術 Spells",
   "entries": {
     "Acid Splash": {
-      "name": "酸液噴濺 Acid Splash"
+      "name": "酸液噴濺 Acid Splash",
+      "description": "<ul><li>你朝目標（一個生物或最多兩個相距5英尺內的生物）投擲一團酸液泡。</li><li>目標必須進行一次敏捷豁免檢定（Dexterity Saving Throw），若失敗，受到1d6點酸傷害（Acid Damage）。</li><li>若目標成功豁免，則不受傷害。</li><li>隨著角色等級提升，傷害自動增加 5級：2d6傷害。 11級：3d6傷害。 17級：4d6傷害。</li></ul>"
     },
     "Aid": {
-      "name": "援助術 Aid"
+      "name": "援助術 Aid",
+      "description": "<ul><li>你選擇範圍內最多三個你能看見的生物（可以包括你自己）。</li><li>每個目標的當前生命值（Current Hit Points） 和 最大生命值（Maximum Hit Points） 增加5點。</li><li>這個提升效果持續8小時。</li><li>每提高一個法術位等級（3級或更高施展），每個目標的生命值增加額外5點。 3級施展：增加10點生命值。 4級施展：增加15點生命值。</li></ul>"
     },
     "Alarm": {
-      "name": "警報術 Alarm"
+      "name": "警報術 Alarm",
+      "description": "<ul><li>你在範圍內設定一個警報區域，範圍是一個20英尺立方（可以覆蓋門、窗戶或一個小房間）。</li><li>當一個小型（Tiny）或更大的生物進入該區域或觸碰它時，警報會觸發。</li><li>你可以選擇警報的方式：心靈警報：只有你在30英里內時會收到心靈警告（不發出聲音）。 聲音警報：警報區域內發出鈴聲，持續10秒，30英尺內可聽見。</li></ul>"
     },
     "Alter Self": {
-      "name": "變造自身 Alter Self"
+      "name": "變造自身 Alter Self",
+      "description": "<ul><li>你可以改變自己的外觀和身體形態，持續最多1小時。你可以選擇以下三種效果之一：</li><li>水棲適應（Aquatic Adaptation）：你獲得水下呼吸能力，並長出蹼足或鰭，游泳速度等同於你的步行速度。</li><li>改變外觀（Change Appearance）：你可以改變自己的外貌，模仿另一個同尺寸類型（通常是人形生物）的生物。你可以調整身高、體重、面部特徵、聲音、頭髮等，但不能改變基礎體型（例如從中型變成大型）。這是視覺偽裝，觸碰或魔法檢測可能暴露真相。</li><li>天然武器（Natural Weapons）：你長出爪子、尖牙或其他天然武器，成為熟練的非魔法武器，造成1d6點鈍擊（Bludgeoning）、穿刺（Piercing）或斬擊（Slashing）傷害（由你選擇），並視為魔法武器用於克服抗性。</li></ul>"
     },
     "Animal Friendship": {
-      "name": "化獸為友 Animal Friendship"
+      "name": "化獸為友 Animal Friendship",
+      "description": "<ul><li>你選擇範圍內一個你能看見的野獸（Beast），並試圖用魔法讓它對你產生友好情緒。</li><li>目標必須進行一次感知豁免檢定（Wisdom Saving Throw），如果失敗，它會被你魅惑（Charmed），持續24小時，或直到你或你的同伴傷害它。</li><li>每提高一個法術位等級（2級或更高施展），你可以多影響一個額外的野獸。</li><li>目標的智力（Intelligence）必須低於4（即典型的野獸智力），因此不適用於人類、魔獸或其他高智力生物。</li></ul>"
     },
     "Animal Messenger": {
       "name": "動物信使 Animal Messenger"
@@ -50,7 +55,8 @@
       "name": "祕法活力 Arcane Vigor"
     },
     "Armor of Agathys": {
-      "name": "艾嘉西斯之鎧 Armor of Agathys"
+      "name": "艾嘉西斯之鎧 Armor of Agathys",
+      "description": "<ul><li>你在自己身上召喚出一層寒冷的魔法護甲，提供5點臨時生命值</li><li>當你擁有這些臨時生命值時，如果有生物用近戰攻擊擊中你，該生物會受到**5點寒冷傷害（Cold Damage）**作為反擊。</li></ul>"
     },
     "Arms of Hadar": {
       "name": "哈達之臂 Arms of Hadar"
@@ -146,7 +152,8 @@
       "name": "寒顫之觸 Chill Touch"
     },
     "Chromatic Orb": {
-      "name": "幻色法球 Chromatic Orb"
+      "name": "幻色法球 Chromatic Orb",
+      "description": "<ul><li>你從手中發射一顆4英寸直徑的能量球，目標是你能看見的範圍內一個生物或物體。</li><li>你必須進行一次**遠程法術攻擊檢定（Ranged Spell Attack）**來命中目標。</li><li>命中時，造成3d8點傷害，傷害類型由你選擇：酸（Acid）、寒冷（Cold）、火焰（Fire）、閃電（Lightning）、毒（Poison） 或 雷鳴（Thunder）。</li><li>每提高一個法術位等級（2級或更高施展），傷害增加1d8。</li></ul>"
     },
     "Circle of Death": {
       "name": "死亡之環 Circle of Death"
@@ -167,7 +174,8 @@
       "name": "死雲術 Cloudkill"
     },
     "Color Spray": {
-      "name": "七彩噴射 Color Spray"
+      "name": "七彩噴射 Color Spray",
+      "description": "<ul><li>你從手中釋放出一道炫目的七彩光芒，影響一個15英尺錐形範圍內的生物。</li><li>法術影響總計6d10點生命值（HP）的生物，從HP最低的生物開始依次影響，直到耗盡這總量或範圍內無生物可影響。</li><li>被影響的生物會在下一回合結束前陷入目盲狀態（Blinded），無法看到任何東西。</li><li>每提高一個法術位等級（2級或更高施展），影響的HP總量增加2d10。</li></ul>"
     },
     "Command": {
       "name": "命令術 Command"
@@ -518,10 +526,12 @@
       "name": "指導術 Guidance"
     },
     "Guiding Bolt": {
-      "name": "光導箭 Guiding Bolt"
+      "name": "光導箭 Guiding Bolt",
+      "description": "<ul><li>你發射一道閃爍的光能箭，目標是你能看見的範圍內一個生物。</li><li>你必須進行一次**遠程法術攻擊檢定（Ranged Spell Attack）**來命中目標。</li><li>命中時，造成4d6點光能傷害（Radiant Damage）。</li><li>額外效果：下一個攻擊該目標的攻擊檢定獲得優勢（Advantage），因為目標被光輝籠罩，直到你的下一個回合開始前。</li><li>每提高一個法術位等級（2級或更高施展），傷害增加1d6。</li></ul>"
     },
     "Gust of Wind": {
-      "name": "造風術 Gust of Wind"
+      "name": "造風術 Gust of Wind",
+      "description": "<ul><li>你從自己身上釋放出一道強烈的風暴，沿著你選擇的方向形成一條60英尺長、10英尺寬的直線。</li><li>範圍內的每個生物必須進行一次力量豁免檢定（Strength Saving Throw），若失敗，將被推離你15英尺，並可能被擊倒（DM裁決）。</li><li>風會持續吹動，範圍內的地面成為困難地形（Difficult Terrain），移動速度減半。</li><li>額外效果：風能吹散氣體或蒸氣（如毒霧），並熄滅未受保護的火焰（如火把），保護火焰（如燈籠）有50%機率熄滅。</li></ul>"
     },
     "Hail of Thorns": {
       "name": "棘刺雹 Hail of Thorns"
@@ -647,7 +657,8 @@
       "name": "物品定位術 Locate Object"
     },
     "Longstrider": {
-      "name": "大步奔行 Longstrider"
+      "name": "大步奔行 Longstrider",
+      "description":"<ul><li>你觸碰一個生物（可以是你自己），使該生物的移動速度增加10英尺。</li><li>這個效果持續1小時，除非被提前解除（如透過“解除魔法，Dispel Magic”）。</li><li>每提高一個法術位等級（2級或更高施展），你可以多影響一個額外的目標。</li></ul>"
     },
     "Mage Armor": {
       "name": "法師護甲 Mage Armor"
