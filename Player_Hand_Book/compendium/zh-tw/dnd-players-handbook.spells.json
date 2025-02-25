@@ -106,183 +106,240 @@
       "description": "<ul><li>你使用一個附贈動作，為你的武器注入放逐能量，持續最多1分鐘。</li><li>下一次你用該武器命中一個生物時：</li><li>攻擊造成額外5d10點力場傷害（Force Damage）。</li><li>若目標的當前生命值（HP）在50點或更低，且不是原生於當前位面的生物（例如外位面生物如魔鬼、元素），它會被放逐回其原生位面。</li><li>若目標是原生生物或HP超過50點，則只受到額外傷害，不會被放逐。</li><li>放逐效果將目標送回原生位面，若法術持續時間結束（1分鐘），目標不會返回，除非它有自己的位面旅行能力。</li><li>結束條件：法術在武器命中後或專注結束時終止。</li></ul>"
     },
     "Banishment": {
-      "name": "放逐術 Banishment"
+      "name": "放逐術 Banishment",
+      "description": "<ul><li>你選擇範圍內一個你能看見的生物，試圖將其放逐。</li><li>目標必須進行一次魅力豁免檢定（Charisma Saving Throw）。</li><li>若失敗，目標被放逐到另一個位面：</li><li>非原生生物（如魔鬼、元素）：被送回其原生位面。若法術持續1分鐘（10回合），放逐永久生效，除非目標有自己的位面旅行能力返回。</li><li>原生生物（如人類）：被送往一個無害的半位面（類似靜止空間），法術結束後立即返回原位。</li><li>提升等級：每提高一個法術位等級（5級或更高施展），你可以多影響一個額外的目標。例如： 5級施展：影響2個目標。 6級施展：影響3個目標。</li></ul>"
     },
     "Barkskin": {
-      "name": "樹膚術 Barkskin"
+      "name": "樹膚術 Barkskin",
+      "description": "<ul><li>你觸碰一個自願生物，使其皮膚變得像樹皮般堅韌。</li><li>在法術持續期間，目標的護甲等級（Armor Class, AC） 至少為16，無論其原本的AC如何計算（例如不穿盔甲時，原本AC可能是10 + 敏捷加值，若低於16則提升至16）。</li><li>若目標原本的AC已高於16（例如穿著重甲），則無提升效果。</li><li>限制：不與其他AC提升效果疊加（例如“盾牌術，Shield”或魔法盔甲），僅提供最低16的保障。</li></ul>"
     },
     "Beacon of Hope": {
-      "name": "希望信標 Beacon of Hope"
+      "name": "希望信標 Beacon of Hope",
+      "description": "<ul><li>你散發出一股希望與堅韌的能量，影響範圍內你選擇的任意數量的生物（通常是友方）。</li><li>在法術持續期間，受影響的生物獲得以下好處：</li><li>在進行感知豁免檢定（Wisdom Saving Throws） 時獲得優勢（Advantage）。</li><li>在接受治療時（如治療術、藥水），恢復最大可能的生命值（例如“治療術，Cure Wounds” 的1d8+3變成8+3）。</li><li>若生物開始回合時生命值（HP）為0但尚未死亡（即瀕死狀態），自動穩定（無需擲死亡豁免）。</li><li>範圍限制：效果只在生物進入或停留於30英尺範圍內時生效，離開範圍則失去好處。</li></ul>"
     },
     "Beast Sense": {
-      "name": "野獸知覺 Beast Sense"
+      "name": "野獸知覺 Beast Sense",
+      "description": "<ul><li>你觸碰一個自願的野獸（Beast），並與其感官建立聯繫。</li><li>在法術持續期間，你可以透過野獸的感官感知周圍環境：</li><li>你能看見野獸所見（包括其特殊感官，如黑暗視覺或敏銳嗅覺）。</li><li>你能聽見野獸所聽。</li><li>在此期間，你自己的感官（視覺和聽覺）被屏蔽，變得目盲（Blinded） 和 聾病（Deafened），完全依賴野獸的感官。</li><li>控制方式：你可以用一個動作切換回自己的感官，或結束法術。</li><li>野獸的行為不受你控制，但你可以與其交流（若有其他方式，如“動物交談，Speak with Animals”）。</li></ul>"
     },
     "Befuddlement": {
-      "name": "摧心術 Befuddlement"
+      "name": "摧心術 Befuddlement",
+      "description": "<ul><li>你選擇範圍內一個你能看見的生物，對其心智施加迷惑。</li><li>目標必須進行一次智力豁免檢定（Intelligence Saving Throw）。</li><li>若失敗，目標在法術持續期間進入困惑狀態：每次行動前擲1d6，1-3表示它只能採取隨機行動（如移動到隨機方向或不行動），4-6表示它正常行動。</li><li>若成功，則不受影響。</li><li>提升等級：每提高一個法術位等級，可以多影響一個額外目標。</li></ul>"
     },
     "Bestow Curse": {
-      "name": "降咒 Bestow Curse"
+      "name": "降咒 Bestow Curse",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你觸碰一個生物，對其施加詛咒，目標必須進行一次<strong>感知豁免檢定（Wisdom Saving Throw）</strong>。</li>\n      <li>若失敗，目標在法術持續期間受到你選擇的以下一種詛咒效果：\n        <ol>\n          <li><strong>能力減弱</strong>：目標在你選擇的一項屬性（力量、敏捷等）的所有檢定和豁免上獲得<strong>劣勢（Disadvantage）</strong>。</li>\n          <li><strong>行動受限</strong>：目標每回合開始時擲1d20，若結果為10或以下，則浪費其<strong>動作（Action）</strong>。</li>\n          <li><strong>攻擊削弱</strong>：目標的所有<strong>攻擊檢定</strong>對你有<strong>劣勢</strong>。</li>\n          <li><strong>額外傷害</strong>：你每次攻擊目標時，造成額外<strong>1d8死靈傷害（Necrotic Damage）</strong>。</li>\n        </ol>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>使用更高法術位可以延長持續時間：\n        <ul>\n          <li>5級：10分鐘（仍需專注）。</li>\n          <li>7級：8小時（仍需專注）。</li>\n          <li>9級：直到被解除（無需專注，效果永久，除非被“移除詛咒，Remove Curse”解除）。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Bigby's Hand": {
-      "name": "畢格比之手 Bigby's Hand"
+      "name": "畢格比之手 Bigby's Hand",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你創造一個<strong>大型（Large）</strong>魔法手，出現在範圍內你選擇的一個點，持續直到法術結束。</li>\n      <li>手的屬性：護甲等級（AC）20，生命值（HP）等於你的最大HP，力量26（+8），敏捷10（+0）。</li>\n      <li>你可以用一個<strong>附贈動作（Bonus Action）</strong>控制手，每次施展後或每回合選擇以下一種效果：\n        <ol>\n          <li><strong>握拳（Clenched Fist）</strong>：\n            <ul>\n              <li>手攻擊一個你能看見的目標，進行遠程法術攻擊（+你的施法屬性加值 + 熟練加值），命中造成<strong>4d8點力場傷害（Force Damage）</strong>。</li>\n            </ul>\n          </li>\n          <li><strong>強力抓取（Forceful Hand）</strong>：\n            <ul>\n              <li>手試圖將一個生物推離，目標進行<strong>力量檢定</strong>對抗手的<strong>力量檢定（+8）</strong>，若失敗被推離最多60英尺。</li>\n            </ul>\n          </li>\n          <li><strong>緊握之掌（Grasping Hand）</strong>：\n            <ul>\n              <li>手試圖抓住一個<strong>大型或更小</strong>的生物，目標進行<strong>力量檢定</strong>對抗手的<strong>力量檢定（+8）</strong>，若失敗被<strong>擒抱（Grappled）</strong>，手每回合造成<strong>2d6點鈍擊傷害（Bludgeoning Damage）</strong>。</li>\n            </ul>\n          </li>\n          <li><strong>遮擋之掌（Interposing Hand）</strong>：\n            <ul>\n              <li>手移動到你和一個目標之間，提供對該目標的<strong>半掩護（Half Cover，+2 AC）</strong>，並阻礙其靠近。</li>\n            </ul>\n          </li>\n        </ol>\n      </li>\n      <li>手可以每次移動最多60英尺，且能承載最多500磅的重量。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（6級或更高施展），<strong>握拳</strong>的傷害增加<strong>2d8</strong>，<strong>緊握之掌</strong>的傷害增加<strong>2d6</strong>。例如：\n        <ul>\n          <li>6級施展：握拳造成6d8，緊握之掌造成4d6。</li>\n          <li>7級施展：握拳造成8d8，緊握之掌造成6d6。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Blade Barrier": {
-      "name": "劍刃護壁 Blade Barrier"
+      "name": "劍刃護壁 Blade Barrier",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你創造一道由旋轉刀刃組成的魔法牆，範圍為最多100英尺長、20英尺高、5英尺厚，可形成直線或環形（直徑最多30英尺）。</li>\n      <li>牆提供<strong>四分之三掩護（Three-Quarters Cover，+5 AC）</strong>，並在施法時對範圍內的生物造成傷害。</li>\n      <li>任何進入牆範圍的生物必須進行一次<strong>敏捷豁免檢定（Dexterity Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>6d10點斬擊傷害（Slashing Damage）</strong>。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n      <li>生物首次進入牆或在其中結束回合時，也需進行豁免並承受傷害。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（7級或更高施展），傷害增加<strong>1d10</strong>。例如：\n        <ul>\n          <li>7級施展：7d10斬擊傷害。</li>\n          <li>8級施展：8d10斬擊傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Blade Ward": {
-      "name": "劍刃防護 Blade Ward"
+      "name": "劍刃防護 Blade Ward",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你施展魔法保護自己，對來自武器的<strong>鈍擊（Bludgeoning）</strong>、<strong>穿刺（Piercing）</strong> 和 <strong>斬擊傷害（Slashing Damage）</strong>獲得<strong>抗性（Resistance）</strong>。</li>\n      <li>抗性效果持續到你的下一個回合結束。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術為戲法（Cantrip），無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Bless": {
-      "name": "祝福術 Bless"
+      "name": "祝福術 Bless",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你祝福範圍內最多<strong>三個你能看見的生物</strong>，賦予它們神聖的加護。</li>\n      <li>在法術持續期間，受影響的生物每次進行<strong>攻擊檢定（Attack Roll）</strong> 或 <strong>豁免檢定（Saving Throw）</strong> 時，可以額外擲一個<strong>1d4</strong>並加到結果上。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（2級或更高施展），你可以多祝福一個額外的目標。例如：\n        <ul>\n          <li>2級施展：影響4個目標。</li>\n          <li>3級施展：影響5個目標。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Blight": {
-      "name": "枯萎術 Blight"
+      "name": "枯萎術 Blight",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你選擇範圍內一個你能看見的生物，將其生命力抽乾。</li>\n      <li>目標必須進行一次<strong>體質豁免檢定（Constitution Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>8d8點死靈傷害（Necrotic Damage）</strong>。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n      <li>特殊效果：\n        <ul>\n          <li>對<strong>植物類型（Plant Creatures）</strong>或<strong>魔法植物</strong>，傷害骰變為<strong>8d10</strong>，且豁免檢定有<strong>劣勢（Disadvantage）</strong>。</li>\n          <li>對<strong>構造體（Constructs）</strong>和<strong>不死生物（Undead）</strong>無效。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（5級或更高施展），傷害增加<strong>1d8</strong>（對植物為<strong>1d10</strong>）。例如：\n        <ul>\n          <li>5級施展：9d8（或9d10對植物）。</li>\n          <li>6級施展：10d8（或10d10對植物）。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Blinding Smite": {
-      "name": "致盲斬 Blinding Smite"
+      "name": "致盲斬 Blinding Smite",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你使用一個<strong>附贈動作（Bonus Action）</strong>，為你的武器注入神聖光芒，持續最多1分鐘。</li>\n      <li>下一次你用該武器命中一個生物時：\n        <ul>\n          <li>攻擊造成額外<strong>3d8點光能傷害（Radiant Damage）</strong>。</li>\n          <li>目標必須進行一次<strong>體質豁免檢定（Constitution Saving Throw）</strong>：\n            <ul>\n              <li>若失敗，目標在法術結束前進入<strong>目盲狀態（Blinded）</strong>。</li>\n              <li>若成功，則不受目盲效果影響。</li>\n            </ul>\n          </li>\n        </ul>\n      </li>\n      <li>目盲的目標每回合結束時可重擲豁免，成功則結束目盲狀態。</li>\n      <li>法術在武器命中後或專注結束時終止。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Blindness/Deafness": {
-      "name": "目盲/耳聾術 Blindness/Deafness"
+      "name": "目盲/耳聾術 Blindness/Deafness",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你選擇範圍內一個你能看見的生物，對其施加感官剝奪效果。</li>\n      <li>目標必須進行一次<strong>體質豁免檢定（Constitution Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，你選擇讓目標進入<strong>目盲狀態（Blinded）</strong> 或 <strong>聾病狀態（Deafened）</strong>，持續直到法術結束。</li>\n          <li>若成功，則不受影響。</li>\n        </ul>\n      </li>\n      <li>受影響的目標每回合結束時可重擲豁免，成功則結束效果。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（3級或更高施展），你可以多影響一個額外的目標。例如：\n        <ul>\n          <li>3級施展：影響2個目標。</li>\n          <li>4級施展：影響3個目標。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Blink": {
-      "name": "閃現術 Blink"
+      "name": "閃現術 Blink",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你在法術持續期間隨機在<strong>物質位面（Material Plane）</strong> 和 <strong>乙太位面（Ethereal Plane）</strong>之間閃現。</li>\n      <li>每回合結束時，你擲一個<strong>d20</strong>：\n        <ul>\n          <li>若結果為<strong>11或更高</strong>，你消失進入乙太位面，直到下回合結束。</li>\n          <li>若結果為<strong>10或更低</strong>，你留在物質位面。</li>\n        </ul>\n      </li>\n      <li>在乙太位面時：\n        <ul>\n          <li>你能看見和聽見物質位面（範圍60英尺，呈灰色模糊景象），但無法影響或被物質位面的生物影響。</li>\n          <li>你能以正常速度移動，但無法與物質位面互動。</li>\n        </ul>\n      </li>\n      <li>當你從乙太位面返回時，出現在你消失時的空間，若該空間被佔據，則出現在最近的未佔據空間。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Blur": {
-      "name": "朦朧術 Blur"
+      "name": "朦朧術 Blur",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你的身體變得模糊，呈現出快速抖動和扭曲的輪廓，持續直到法術結束。</li>\n      <li>在法術持續期間，任何試圖攻擊或以你為目標的生物，若依賴視覺進行攻擊，必須進行攻擊檢定時有<strong>劣勢（Disadvantage）</strong>。</li>\n      <li>若攻擊者不需要視覺（例如使用盲視，Blindsight）或能無視幻象（例如使用真知術，True Seeing），則不受影響。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Burning Hands": {
-      "name": "燃燒之手 Burning Hands"
+      "name": "燃燒之手 Burning Hands",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你從雙手發射火焰，形成一個<strong>15英尺錐形範圍</strong>，影響範圍內的所有生物和可燃物。</li>\n      <li>範圍內的每個生物必須進行一次<strong>敏捷豁免檢定（Dexterity Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>3d6點火焰傷害（Fire Damage）</strong>。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n      <li>範圍內未被攜帶或穿戴的可燃物會被點燃。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（2級或更高施展），傷害增加<strong>1d6</strong>。例如：\n        <ul>\n          <li>2級施展：4d6火焰傷害。</li>\n          <li>3級施展：5d6火焰傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Call Lightning": {
-      "name": "召雷術 Call Lightning"
+      "name": "召雷術 Call Lightning",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你召喚一朵雷雲，出現在你能看見的空中100英尺處，範圍為<strong>直徑120英尺，高10英尺</strong>的圓柱形區域。</li>\n      <li>施法時，你可以立即選擇雷雲範圍內一點，讓雷電擊中該點，範圍內每個生物必須進行一次<strong>敏捷豁免檢定（Dexterity Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>3d10點閃電傷害（Lightning Damage）</strong>。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n      <li>在後續每回合，你可以用一個<strong>動作（Action）</strong>再次召喚雷電，選擇雷雲範圍內的新點，重複上述傷害效果。</li>\n      <li>若你在<strong>暴風雨天氣</strong>（如雨或雷暴）施展此法術，每次的傷害增加<strong>1d10</strong>（即4d10）。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（4級或更高施展），傷害增加<strong>1d10</strong>。例如：\n        <ul>\n          <li>4級施展：4d10閃電傷害（暴風雨下5d10）。</li>\n          <li>5級施展：5d10閃電傷害（暴風雨下6d10）。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Calm Emotions": {
-      "name": "安定心神 Calm Emotions"
+      "name": "安定心神 Calm Emotions",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你試圖平息範圍內生物的情緒，形成一個<strong>20英尺半徑球形區域</strong>，影響你選擇的效果之一：</li>\n      <li><strong>選項1：平靜情緒</strong>：\n        <ul>\n          <li>範圍內每個受影響的生物必須進行一次<strong>魅力豁免檢定（Charisma Saving Throw）</strong>：\n            <ul>\n              <li>若失敗，其<strong>魅惑（Charmed）</strong> 或 <strong>恐懼（Frightened）</strong> 狀態被壓制，持續直到法術結束。</li>\n              <li>若成功，則不受影響。</li>\n            </ul>\n          </li>\n          <li>法術結束後，若原始效果仍持續，則魅惑或恐懼恢復。</li>\n        </ul>\n      </li>\n      <li><strong>選項2：抑制敵意</strong>：\n        <ul>\n          <li>範圍內每個受影響的生物必須進行一次<strong>魅力豁免檢定</strong>：\n            <ul>\n              <li>若失敗，對其他生物的敵意被壓制，變得<strong>冷漠（Indifferent）</strong>，除非受到攻擊或目睹盟友被傷害。</li>\n              <li>若成功，則保持原有態度。</li>\n            </ul>\n          </li>\n          <li>敵意壓制持續直到法術結束或觸發條件打破。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Chain Lightning": {
-      "name": "連環閃電 Chain Lightning"
+      "name": "連環閃電 Chain Lightning",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你釋放一道閃電，擊中範圍內一個你能看見的主要目標，然後跳躍至最多三個次要目標。</li>\n      <li>主要目標和每個次要目標必須進行一次<strong>敏捷豁免檢定（Dexterity Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>10d8點閃電傷害（Lightning Damage）</strong>。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n      <li>次要目標必須在主要目標的<strong>30英尺範圍內</strong>，且每個目標只能被擊中一次。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（7級或更高施展），傷害增加<strong>1d8</strong>。例如：\n        <ul>\n          <li>7級施展：11d8閃電傷害。</li>\n          <li>8級施展：12d8閃電傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Charm Monster": {
-      "name": "魅惑怪物 Charm Monster"
+      "name": "魅惑怪物 Charm Monster",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你選擇範圍內一個你能看見的生物，試圖用魔法魅惑它。</li>\n      <li>目標必須進行一次<strong>感知豁免檢定（Wisdom Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，目標被你<strong>魅惑（Charmed）</strong>，持續直到法術結束。</li>\n          <li>若成功，則不受影響。</li>\n        </ul>\n      </li>\n      <li>被魅惑的目標視你為友善的熟人，對你和你的同伴不會採取敵對行動，除非受到傷害。</li>\n      <li>若目標或其盟友受到你或你的同伴傷害，法術對該目標立即結束。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（5級或更高施展），你可以多影響一個額外的目標。例如：\n        <ul>\n          <li>5級施展：影響2個目標。</li>\n          <li>6級施展：影響3個目標。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Charm Person": {
-      "name": "魅惑人類 Charm Person"
+      "name": "魅惑人類 Charm Person",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你選擇範圍內一個你能看見的<strong>人形生物（Humanoid）</strong>，試圖用魔法魅惑它。</li>\n      <li>目標必須進行一次<strong>感知豁免檢定（Wisdom Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，目標被你<strong>魅惑（Charmed）</strong>，持續直到法術結束。</li>\n          <li>若成功，則不受影響。</li>\n        </ul>\n      </li>\n      <li>被魅惑的目標視你為友善的熟人，對你和你的同伴不會採取敵對行動，除非受到傷害。</li>\n      <li>若目標或其盟友受到你或你的同伴傷害，法術對該目標立即結束。</li>\n      <li>法術結束後，目標會知道自己被魅惑。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（2級或更高施展），你可以多影響一個額外的目標。例如：\n        <ul>\n          <li>2級施展：影響2個目標。</li>\n          <li>3級施展：影響3個目標。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Chill Touch": {
-      "name": "寒顫之觸 Chill Touch"
+      "name": "寒顫之觸 Chill Touch",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你創造一隻幽靈手，攻擊範圍內一個你能看見的生物。</li>\n      <li>你必須進行一次<strong>遠程法術攻擊檢定（Ranged Spell Attack）</strong>：\n        <ul>\n          <li>若命中，目標受到<strong>1d8點死靈傷害（Necrotic Damage）</strong>，且在你的下一個回合結束前無法恢復生命值。</li>\n          <li>若未命中，則無效果。</li>\n        </ul>\n      </li>\n      <li>特殊效果：\n        <ul>\n          <li>若目標是<strong>不死生物（Undead）</strong>，它在你的下一個回合結束前對你的攻擊檢定有<strong>劣勢（Disadvantage）</strong>。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>隨著角色等級提升，傷害自動增加：\n        <ul>\n          <li>5級：2d8死靈傷害。</li>\n          <li>11級：3d8死靈傷害。</li>\n          <li>17級：4d8死靈傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Chromatic Orb": {
       "name": "幻色法球 Chromatic Orb",
       "description": "<ul><li>你從手中發射一顆4英寸直徑的能量球，目標是你能看見的範圍內一個生物或物體。</li><li>你必須進行一次**遠程法術攻擊檢定（Ranged Spell Attack）**來命中目標。</li><li>命中時，造成3d8點傷害，傷害類型由你選擇：酸（Acid）、寒冷（Cold）、火焰（Fire）、閃電（Lightning）、毒（Poison） 或 雷鳴（Thunder）。</li><li>每提高一個法術位等級（2級或更高施展），傷害增加1d8。</li></ul>"
     },
     "Circle of Death": {
-      "name": "死亡之環 Circle of Death"
+      "name": "死亡之環 Circle of Death",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你從範圍內你選擇的一點釋放一股死靈能量，形成一個<strong>60英尺半徑球形區域</strong>，影響範圍內的所有生物。</li>\n      <li>每個受影響的生物必須進行一次<strong>體質豁免檢定（Constitution Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>8d6點死靈傷害（Necrotic Damage）</strong>。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（7級或更高施展），傷害增加<strong>2d6</strong>。例如：\n        <ul>\n          <li>7級施展：10d6死靈傷害。</li>\n          <li>8級施展：12d6死靈傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Circle of Power": {
-      "name": "威能法環 Circle of Power"
+      "name": "威能法環 Circle of Power",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你散發出一股神聖能量，形成以你為中心的<strong>30英尺半徑靈光</strong>，持續直到法術結束。</li>\n      <li>範圍內的友方生物（包括你自己）獲得以下好處：\n        <ul>\n          <li>對所有<strong>魔法效果</strong>的<strong>豁免檢定（Saving Throws）</strong>獲得<strong>優勢（Advantage）</strong>。</li>\n          <li>若成功通過一個魔法效果的豁免檢定，且該效果正常情況下會造成減半傷害，則該生物完全不受傷害。</li>\n        </ul>\n      </li>\n      <li>靈光隨你移動，持續影響範圍內的生物。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Clairvoyance": {
-      "name": "銳眼術 Clairvoyance"
+      "name": "銳眼術 Clairvoyance",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你在範圍內你熟悉或明顯的地點（例如你身後的門、轉角處）創造一個<strong>隱形感官點</strong>，持續直到法術結束。</li>\n      <li>你選擇以下一種感官效果：\n        <ul>\n          <li><strong>視覺</strong>：你能看見感官點周圍的景象（如同你在該位置），具有<strong>普通視覺</strong>和<strong>黑暗視覺（Darkvision，範圍10英尺）</strong>。</li>\n          <li><strong>聽覺</strong>：你能聽見感官點周圍的聲音（如同你在該位置）。</li>\n        </ul>\n      </li>\n      <li>在法術持續期間，你可以用一個<strong>動作（Action）</strong>在視覺和聽覺之間切換。</li>\n      <li>使用感官時，你自己的視覺或聽覺被屏蔽，分別變為<strong>目盲（Blinded）</strong> 或 <strong>聾病（Deafened）</strong>。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Clone": {
-      "name": "克隆術 Clone"
+      "name": "克隆術 Clone",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你從一個<strong>中型或更小</strong>的活生物身上取下一塊至少<strong>1立方英寸的肉</strong>，並在實驗室中培育一個克隆體。</li>\n      <li>克隆體在<strong>120天</strong>內於容器中成長為該生物的完整複製品，但處於無意識狀態。</li>\n      <li>當原生物死亡後，若克隆體已成熟且容器未被破壞，其靈魂會轉移到克隆體中，喚醒並成為該生物的年輕版本：\n        <ul>\n          <li>克隆體擁有原生物的所有記憶和能力，但不包括裝備。</li>\n          <li>克隆體的物理狀態為健康且無傷害。</li>\n        </ul>\n      </li>\n      <li>克隆體只能容納一個靈魂，若多個克隆體存在，只有第一個生效。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Cloud of Daggers": {
-      "name": "匕首之雲 Cloud of Daggers"
+      "name": "匕首之雲 Cloud of Daggers",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你召喚一團旋轉的匕首，填滿範圍內一個<strong>5英尺立方</strong>的空間，持續直到法術結束。</li>\n      <li>任何首次進入該區域或在其中開始回合的生物，自動受到<strong>4d4點斬擊傷害（Slashing Damage）</strong>，無需豁免檢定。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（3級或更高施展），傷害增加<strong>2d4</strong>。例如：\n        <ul>\n          <li>3級施展：6d4斬擊傷害。</li>\n          <li>4級施展：8d4斬擊傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Cloudkill": {
-      "name": "死雲術 Cloudkill"
+      "name": "死雲術 Cloudkill",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你創造一團<strong>20英尺半徑球形</strong>的毒霧，出現在範圍內你指定的一點，持續直到法術結束。</li>\n      <li>毒霧每次施展或移動時，範圍內的每個生物必須進行一次<strong>體質豁免檢定（Constitution Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>5d8點毒性傷害（Poison Damage）</strong>。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n      <li>任何在毒霧中開始回合的生物也需進行豁免並承受傷害。</li>\n      <li>毒霧每回合在你的控制下自動移動<strong>10英尺</strong>，遠離你的方向，且會沿地面擴散，繞過障礙物，進入可到達的空間。</li>\n      <li>毒霧視為<strong>重度遮蔽（Heavily Obscured）</strong>，阻礙視線。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（6級或更高施展），傷害增加<strong>1d8</strong>。例如：\n        <ul>\n          <li>6級施展：6d8毒性傷害。</li>\n          <li>7級施展：7d8毒性傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Color Spray": {
       "name": "七彩噴射 Color Spray",
       "description": "<ul><li>你從手中釋放出一道炫目的七彩光芒，影響一個15英尺錐形範圍內的生物。</li><li>法術影響總計6d10點生命值（HP）的生物，從HP最低的生物開始依次影響，直到耗盡這總量或範圍內無生物可影響。</li><li>被影響的生物會在下一回合結束前陷入目盲狀態（Blinded），無法看到任何東西。</li><li>每提高一個法術位等級（2級或更高施展），影響的HP總量增加2d10。</li></ul>"
     },
     "Command": {
-      "name": "命令術 Command"
+      "name": "命令術 Command",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你對範圍內一個你能看見的生物說出一個單詞命令，該生物必須能聽懂你的語言並理解該詞。</li>\n      <li>目標必須進行一次<strong>感知豁免檢定（Wisdom Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，目標在下一回合遵循你的命令，盡其所能執行該行動。</li>\n          <li>若成功，則不受影響。</li>\n        </ul>\n      </li>\n      <li>常見命令選項（效果由DM裁定）：\n        <ul>\n          <li><strong>“靠近（Approach）”</strong>：目標向你移動至最近距離。</li>\n          <li><strong>“丟棄（Drop）”</strong>：目標丟下手中物品並結束回合。</li>\n          <li><strong>“逃跑（Flee）”</strong>：目標遠離你，使用其動作進行衝刺（Dash）。</li>\n          <li><strong>“趴下（Grovel）”</strong>：目標趴下進入俯臥狀態（Prone）並結束回合。</li>\n          <li><strong>“停止（Halt）”</strong>：目標不移動且不採取行動。</li>\n        </ul>\n      </li>\n      <li>若命令明顯有害（例如“跳崖”），目標不會執行，且法術失效。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（2級或更高施展），你可以多影響一個額外的目標。例如：\n        <ul>\n          <li>2級施展：影響2個目標。</li>\n          <li>3級施展：影響3個目標。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Commune": {
-      "name": "通神術 Commune"
+      "name": "通神術 Commune",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你與你的神祇或其代理者建立聯繫，進行一次短暫的溝通儀式。</li>\n      <li>你可以提出最多<strong>三個</strong>可以用“是”或“否”回答的問題，神祇會盡其知識範圍內真誠回答：\n        <ul>\n          <li>若問題超出神祇的知識範圍，可能得到“未知”或無回應。</li>\n          <li>若問題含糊或具有誤導性，DM可能提供模糊或不完整的答案。</li>\n        </ul>\n      </li>\n      <li>每次施展此法術後，若在接下來7天內再次施展，回答正確的機率累積降低<strong>25%</strong>（例如第二次75%，第三次50%）。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Commune with Nature": {
-      "name": "問道自然 Commune with Nature"
+      "name": "大自然交流 Commune with Nature",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你與周圍的自然之力建立聯繫，瞬間獲得對你所在環境的感知。</li>\n      <li>你得知以你為中心的<strong>3英里範圍</strong>內最多<strong>三個具體事物的資訊</strong>，這些事物可以是：\n        <ul>\n          <li>地形和水體的分佈。</li>\n          <li>主要生物類型（例如人形生物、野獸、不死生物）。</li>\n          <li>強大生物的影響或存在。</li>\n          <li>自然資源或異常現象。</li>\n        </ul>\n      </li>\n      <li>此法術無法探知精確位置或數量，但能提供大致分佈或存在感。</li>\n      <li>在建築物或地下環境中，感知範圍縮減至<strong>300英尺</strong>，且無法穿透厚重的結構屏障（如厚石牆）。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Compelled Duel": {
-      "name": "強迫決鬥 Compelled Duel"
+      "name": "強迫決鬥 Compelled Duel",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你強迫範圍內一個你能看見的生物與你進行一對一的決鬥。</li>\n      <li>目標必須進行一次<strong>感知豁免檢定（Wisdom Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，目標被強迫與你決鬥，持續直到法術結束，並受到以下效果：\n            <ul>\n              <li>目標對除你以外的生物進行攻擊檢定時有<strong>劣勢（Disadvantage）</strong>。</li>\n              <li>若目標試圖移動到離你超過30英尺的位置，必須進行一次<strong>感知豁免檢定</strong>，失敗則無法移動，成功則法術對其結束。</li>\n            </ul>\n          </li>\n          <li>若成功，則不受影響。</li>\n        </ul>\n      </li>\n      <li>法術在以下情況提前結束：\n        <ul>\n          <li>你攻擊其他生物。</li>\n          <li>你的盟友傷害目標。</li>\n          <li>你結束回合時離目標超過30英尺且目標無法看見你。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Comprehend Languages": {
-      "name": "通曉語言 Comprehend Languages"
+      "name": "通曉語言 Comprehend Languages",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你在法術持續期間能理解任何你聽到的<strong>口語</strong>或看到的<strong>書面語言</strong>的字面意思。</li>\n      <li>你必須觸碰書面文字的表面才能閱讀其內容。</li>\n      <li>此法術無法解讀密碼或隱秘訊息，只能理解語言的表面含義。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Compulsion": {
-      "name": "強迫術 Compulsion"
+      "name": "強迫術 Compulsion",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你選擇範圍內最多<strong>你能看見的生物</strong>，試圖強迫它們按照你的意願行動。</li>\n      <li>每個目標必須進行一次<strong>感知豁免檢定（Wisdom Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，目標被強迫移動，持續直到法術結束。</li>\n          <li>若成功，則不受影響。</li>\n        </ul>\n      </li>\n      <li>在法術持續期間，你可以用一個<strong>附贈動作（Bonus Action）</strong>，指定一個方向，所有受影響的目標必須在下一回合盡其所能朝該方向移動，使用其全部移動速度。</li>\n      <li>目標會避開明顯危險（如懸崖、熔岩），但若無安全路徑，則留在原地。</li>\n      <li>每回合結束時，目標可重擲感知豁免，成功則對其結束效果。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Cone of Cold": {
-      "name": "寒冰錐 Cone of Cold"
+      "name": "寒冰錐 Cone of Cold",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你從手中釋放一股極寒氣流，形成一個<strong>60英尺錐形範圍</strong>，影響範圍內的所有生物。</li>\n      <li>每個受影響的生物必須進行一次<strong>體質豁免檢定（Constitution Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>8d8點寒冷傷害（Cold Damage）</strong>。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n      <li>若生物因此次傷害生命值降至0，則立即死亡並被凍結成冰雕。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（6級或更高施展），傷害增加<strong>1d8</strong>。例如：\n        <ul>\n          <li>6級施展：9d8寒冷傷害。</li>\n          <li>7級施展：10d8寒冷傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Confusion": {
-      "name": "困惑術 Confusion"
+      "name": "困惑術 Confusion",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你釋放一股混亂的魔法能量，影響範圍內一點周圍的<strong>10英尺半徑球形區域</strong>，持續直到法術結束。</li>\n      <li>範圍內的每個生物必須進行一次<strong>感知豁免檢定（Wisdom Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，生物進入<strong>困惑狀態</strong>，持續直到法術結束。</li>\n          <li>若成功，則不受影響。</li>\n        </ul>\n      </li>\n      <li>困惑的生物每回合開始時擲一個<strong>d10</strong>，根據結果決定其行動：\n        <ul>\n          <li><strong>1-4</strong>：生物不移動也不採取行動。</li>\n          <li><strong>5-6</strong>：生物不移動，但隨機攻擊其能看見的最近生物（若無目標則無行動）。</li>\n          <li><strong>7-8</strong>：生物隨機移動至多其速度的距離。</li>\n          <li><strong>9-10</strong>：生物正常行動。</li>\n        </ul>\n      </li>\n      <li>每回合結束時，受影響的生物可重擲感知豁免，成功則結束其困惑狀態。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（5級或更高施展），範圍半徑增加<strong>5英尺</strong>。例如：\n        <ul>\n          <li>5級施展：15英尺半徑。</li>\n          <li>6級施展：20英尺半徑。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Conjure Animals": {
-      "name": "召喚動物 Conjure Animals"
+      "name": "召喚動物 Conjure Animals",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你召喚出<strong>精類野獸（Fey Beasts）</strong>，出現在範圍內你能看見的未被佔據空間，持續直到法術結束。</li>\n      <li>你選擇以下一種召喚選項：\n        <ul>\n          <li><strong>1隻挑戰等級（CR）2或更低的野獸</strong>（如棕熊）。</li>\n          <li><strong>2隻CR 1或更低的野獸</strong>（如狼）。</li>\n          <li><strong>4隻CR 1/2或更低的野獸</strong>（如野豬）。</li>\n          <li><strong>8隻CR 1/4或更低的野獸</strong>（如老鼠）。</li>\n        </ul>\n      </li>\n      <li>召喚的野獸對你和你的同伴友善，服從你的口頭命令（無需動作）。若無命令，它們會自我防衛或攻擊最近的敵人。</li>\n      <li>野獸在生命值降至0或法術結束時消失。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（5級或更高施展），你可以召喚更高CR或更多數量的野獸。例如：\n        <ul>\n          <li>5級施展：可選1隻CR 3、2隻CR 2、4隻CR 1、8隻CR 1/2。</li>\n          <li>7級施展：可選1隻CR 4、2隻CR 3、4隻CR 2、8隻CR 1。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Conjure Barrage": {
-      "name": "召喚箭幕 Conjure Barrage"
+      "name": "召喚箭幕 Conjure Barrage",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你投擲或射出一件<strong>非魔法武器或彈藥</strong>（如箭矢、飛刀），召喚出一陣魔法複製品，形成一個<strong>60英尺錐形範圍</strong>，影響範圍內的所有生物。</li>\n      <li>每個受影響的生物必須進行一次<strong>敏捷豁免檢定（Dexterity Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>3d8點傷害</strong>，傷害類型與使用的武器一致（例如箭矢為穿刺傷害，Piercing Damage）。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n      <li>投擲的武器或彈藥在施法後被消耗。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（4級或更高施展），傷害增加<strong>1d8</strong>。例如：\n        <ul>\n          <li>4級施展：4d8傷害。</li>\n          <li>5級施展：5d8傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Conjure Celestial": {
-      "name": "召喚天界生物 Conjure Celestial"
+      "name": "召喚天界生物 Conjure Celestial",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你召喚一個<strong>天界生物（Celestial）</strong>，出現在範圍內你能看見的未被佔據空間，持續直到法術結束。</li>\n      <li>召喚的生物必須是<strong>挑戰等級（CR）4或更低</strong>（如獨角獸、聖翼獅），具體種類由DM決定。</li>\n      <li>天界生物對你和你的同伴友善，服從你的口頭命令（無需動作）。若無命令，它會自我防衛或攻擊最近的敵人。</li>\n      <li>生物在生命值降至0或法術結束時消失，返回其原生位面。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>使用9級法術位施展時，可以召喚<strong>CR 5或更低</strong>的天界生物。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Conjure Elemental": {
-      "name": "召喚元素生物 Conjure Elemental"
+      "name": "召喚元素生物 Conjure Elemental",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你召喚一個<strong>元素生物（Elemental）</strong>，出現在範圍內你能看見的未被佔據空間，持續直到法術結束。</li>\n      <li>召喚的生物必須是<strong>挑戰等級（CR）5或更低</strong>（如火元素、風元素），你選擇其類型（空氣、土、火、水），具體種類由DM決定。</li>\n      <li>元素生物對你和你的同伴友善，服從你的口頭命令（無需動作）。若無命令，它會自我防衛或攻擊最近的敵人。</li>\n      <li>若你的專注被打破（例如受到傷害未通過體質豁免），元素生物不會消失，而是變為敵對，攻擊最近的生物，直到生命值降至0或被放逐。</li>\n      <li>生物在生命值降至0或法術正常結束時消失，返回其原生位面。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（6級或更高施展），可召喚的元素生物CR增加1。例如：\n        <ul>\n          <li>6級施展：CR 6或更低。</li>\n          <li>7級施展：CR 7或更低。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Conjure Fey": {
-      "name": "召喚妖精生物 Conjure Fey"
+      "name": "召喚妖精生物 Conjure Fey",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你召喚一個<strong>精類生物（Fey）</strong>或一個具有精類特性的野獸，出現在範圍內你能看見的未被佔據空間，持續直到法術結束。</li>\n      <li>召喚的生物必須是<strong>挑戰等級（CR）6或更低</strong>（如精靈女妖、妖犬），具體種類由DM決定。</li>\n      <li>精類生物對你和你的同伴友善，服從你的口頭命令（無需動作）。若無命令，它會自我防衛或攻擊最近的敵人。</li>\n      <li>若你的專注被打破（例如受到傷害未通過體質豁免），精類生物不會消失，而是變為敵對，攻擊最近的生物，直到生命值降至0或被放逐。</li>\n      <li>生物在生命值降至0或法術正常結束時消失，返回其原生位面。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（7級或更高施展），可召喚的精類生物CR增加1。例如：\n        <ul>\n          <li>7級施展：CR 7或更低。</li>\n          <li>8級施展：CR 8或更低。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Conjure Minor Elementals": {
-      "name": "召喚次級元素生物 Conjure Minor Elementals"
+      "name": "召喚次級元素生物 Conjure Minor Elementals",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你召喚出<strong>次級元素生物（Minor Elementals）</strong>，出現在範圍內你能看見的未被佔據空間，持續直到法術結束。</li>\n      <li>你選擇以下一種召喚選項：\n        <ul>\n          <li><strong>1隻挑戰等級（CR）2或更低的元素生物</strong>（如熔岩怪）。</li>\n          <li><strong>2隻CR 1或更低的元素生物</strong>（如蒸汽怪）。</li>\n          <li><strong>4隻CR 1/2或更低的元素生物</strong>（如泥怪）。</li>\n          <li><strong>8隻CR 1/4或更低的元素生物</strong>（如水怪）。</li>\n        </ul>\n      </li>\n      <li>召喚的元素生物對你和你的同伴友善，服從你的口頭命令（無需動作）。若無命令，它們會自我防衛或攻擊最近的敵人。</li>\n      <li>若你的專注被打破（例如受到傷害未通過體質豁免），元素生物不會消失，而是變為敵對，攻擊最近的生物，直到生命值降至0或被放逐。</li>\n      <li>生物在生命值降至0或法術正常結束時消失，返回其原生位面。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（5級或更高施展），你可以召喚更高CR或更多數量的元素生物。例如：\n        <ul>\n          <li>5級施展：可選1隻CR 3、2隻CR 2、4隻CR 1、8隻CR 1/2。</li>\n          <li>6級施展：可選1隻CR 4、2隻CR 3、4隻CR 2、8隻CR 1。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Conjure Volley": {
-      "name": "召喚箭雨 Conjure Volley"
+      "name": "召喚箭雨 Conjure Volley",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你投擲或射出一件<strong>非魔法武器或彈藥</strong>（如箭矢、飛刀），召喚出一陣魔法複製品，形成一個<strong>40英尺半徑、20英尺高的圓柱形範圍</strong>，以範圍內你指定的一點為中心，影響所有生物。</li>\n      <li>每個受影響的生物必須進行一次<strong>敏捷豁免檢定（Dexterity Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，受到<strong>8d8點傷害</strong>，傷害類型與使用的武器一致（例如箭矢為穿刺傷害，Piercing Damage）。</li>\n          <li>若成功，傷害減半。</li>\n        </ul>\n      </li>\n      <li>投擲的武器或彈藥在施法後被消耗。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（6級或更高施展），傷害增加<strong>1d8</strong>。例如：\n        <ul>\n          <li>6級施展：9d8傷害。</li>\n          <li>7級施展：10d8傷害。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Conjure Woodland Beings": {
-      "name": "召喚林地之精 Conjure Woodland Beings"
+      "name": "召喚林地之精 Conjure Woodland Beings",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你召喚出<strong>精類生物（Fey Creatures）</strong>，出現在範圍內你能看見的未被佔據空間，持續直到法術結束。</li>\n      <li>你選擇以下一種召喚選項：\n        <ul>\n          <li><strong>1隻挑戰等級（CR）2或更低的精類生物</strong>（如樹精）。</li>\n          <li><strong>2隻CR 1或更低的精類生物</strong>（如小妖精，Pixie）。</li>\n          <li><strong>4隻CR 1/2或更低的精類生物</strong>（如妖精，Sprite）。</li>\n          <li><strong>8隻CR 1/4或更低的精類生物</strong>（如微型妖精，Blink Dog）。</li>\n        </ul>\n      </li>\n      <li>召喚的精類生物對你和你的同伴友善，服從你的口頭命令（無需動作）。若無命令，它們會自我防衛或攻擊最近的敵人。</li>\n      <li>若你的專注被打破（例如受到傷害未通過體質豁免），精類生物不會消失，而是變為敵對，攻擊最近的生物，直到生命值降至0或被放逐。</li>\n      <li>生物在生命值降至0或法術正常結束時消失，返回其原生位面。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（5級或更高施展），你可以召喚更高CR或更多數量的精類生物。例如：\n        <ul>\n          <li>5級施展：可選1隻CR 3、2隻CR 2、4隻CR 1、8隻CR 1/2。</li>\n          <li>6級施展：可選1隻CR 4、2隻CR 3、4隻CR 2、8隻CR 1。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Contact Other Plane": {
-      "name": "異界探知 Contact Other Plane"
+      "name": "異界探知 Contact Other Plane",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你透過心靈聯繫一個<strong>異界實體</strong>（如神祇、外位面存在），提出最多<strong>五個</strong>可以用“是”或“否”回答的問題。</li>\n      <li>施法後，你必須進行一次<strong>智力豁免檢定（Intelligence Saving Throw，DC 15）</strong>：\n        <ul>\n          <li>若成功，你獲得實體的真誠回答（依其知識範圍），並保持清醒。</li>\n          <li>若失敗，你受到<strong>6d6點精神傷害（Psychic Damage）</strong>，並在法術結束前陷入<strong>瘋狂（Insanity）</strong>，無法採取行動、理解語言或交流，直到下次長休。</li>\n        </ul>\n      </li>\n      <li>若問題超出實體的知識範圍，可能得到“未知”或無回應。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Contagion": {
-      "name": "疫病術 Contagion"
+      "name": "疫病術 Contagion",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你觸碰一個生物，將其感染一種魔法疾病。</li>\n      <li>你必須進行一次<strong>近戰法術攻擊檢定（Melee Spell Attack）</strong>：\n        <ul>\n          <li>若命中，目標立即感染你選擇的一種疾病（見下文），並在你的下一個回合開始時生效。</li>\n          <li>若未命中，則無效果。</li>\n        </ul>\n      </li>\n      <li>目標每24小時進行一次<strong>體質豁免檢定（Constitution Saving Throw）</strong>，連續失敗三次則疾病持續生效直到法術結束，連續成功三次則疾病結束。</li>\n      <li>可選擇的疾病（任選其一）：\n        <ul>\n          <li><strong>疫病性痤瘡（Blinding Sickness）</strong>：目標進入<strong>目盲狀態（Blinded）</strong>，感知相關檢定和豁免有劣勢。</li>\n          <li><strong>污穢熱病（Filth Fever）</strong>：目標的力量相關檢定和豁免有<strong>劣勢（Disadvantage）</strong>。</li>\n          <li><strong>噬肉病（Flesh Rot）</strong>：目標對所有傷害的抗性失效，且魅力相關檢定有劣勢。</li>\n          <li><strong>心智狂熱（Mindfire）</strong>：目標進入困惑狀態，對智力相關檢定和豁免有劣勢。</li>\n          <li><strong>痙攣症（Seizure）</strong>：目標的敏捷相關檢定和豁免有劣勢。</li>\n          <li><strong>枯萎病（Slimy Doom）</strong>：目標每次受到傷害時進入<strong>震懾狀態（Stunned）</strong>直到下一回合開始，且體質相關檢定有劣勢。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Contingency": {
-      "name": "觸發術 Contingency"
+      "name": "觸發術 Contingency",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你指定一個觸發條件，並搭配一個你能施展的<strong>5級或更低等級的法術</strong>（必須以你為目標，施法時間為1個動作），該法術將儲存在觸發術中。</li>\n      <li>當觸發條件滿足時，儲存的法術立即對你生效，無需你採取動作或專注。</li>\n      <li>觸發條件必須是具體且可觀察的事件（例如“當我生命值降至10以下”或“當我被火焰攻擊”），不能過於模糊或複雜。</li>\n      <li>觸發術持續<strong>10天</strong>，或直到條件觸發並施展儲存的法術後結束。</li>\n      <li>若在10天內未觸發，你可以重新施展觸發術以更新條件和法術，但同一時間只能有一個觸發術生效。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Continual Flame": {
-      "name": "不滅明焰 Continual Flame"
+      "name": "不滅明焰 Continual Flame",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你觸碰一個物件，使其產生一個<strong>永久的魔法火焰</strong>，持續直到被解除。</li>\n      <li>火焰發出<strong>明亮光芒（Bright Light）</strong>，照亮以該物件為中心的<strong>20英尺半徑</strong>，並在額外的20英尺範圍內產生<strong>微弱光芒（Dim Light）</strong>。</li>\n      <li>火焰不會產生熱量，也不消耗氧氣，可以被覆蓋或隱藏，但無法被熄滅（除非被更高級的魔法壓制，如“黑暗術，Darkness”）。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Control Water": {
-      "name": "操控水體 Control Water"
+      "name": "操控水體 Control Water",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你操控範圍內你能看見的一片<strong>水體</strong>（最大100英尺立方），持續直到法術結束。</li>\n      <li>你選擇以下一種效果，每回合可以用一個<strong>動作（Action）</strong>重複相同效果或切換至另一效果：\n        <ul>\n          <li><strong>洪水（Flood）</strong>：\n            <ul>\n              <li>水位上升最多<strong>20英尺</strong>，若超出容器（如河流溢出），水會擴散並在法術結束後回落。</li>\n            </ul>\n          </li>\n          <li><strong>分水（Part Water）</strong>：\n            <ul>\n              <li>你在水體中創造一條<strong>寬度最多20英尺</strong>的通道，水壁保持分開，讓生物可通過。</li>\n            </ul>\n          </li>\n          <li><strong>轉向水流（Redirect Flow）</strong>：\n            <ul>\n              <li>你改變水流的流向（如逆流、橫流），範圍內的水流方向由你控制。</li>\n            </ul>\n          </li>\n          <li><strong>漩渦（Whirlpool）</strong>：\n            <ul>\n              <li>在至少50英尺寬、25英尺深的水體中創造一個<strong>直徑5至50英尺</strong>的漩渦，範圍內生物必須進行一次<strong>力量豁免檢定（Strength Saving Throw）</strong>：\n                <ul>\n                  <li>若失敗，被拉入漩渦中心並受到<strong>2d8點鈍擊傷害（Bludgeoning Damage）</strong>，進入<strong>束縛狀態（Restrained）</strong>。</li>\n                  <li>若成功，則不受影響。</li>\n                </ul>\n              </li>\n              <li>被束縛的生物每回合結束時可重擲力量豁免，成功則脫離。</li>\n            </ul>\n          </li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Control Weather": {
-      "name": "操控天氣 Control Weather"
+      "name": "操控天氣 Control Weather",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你在<strong>戶外</strong>操控以你為中心的<strong>5英里半徑範圍</strong>內的天氣，持續直到法術結束。</li>\n      <li>施法時，你得知當前的天氣條件，並可將其改變至你選擇的狀態，變化分為三個方面：\n        <ul>\n          <li><strong>降雨（Precipitation）</strong>：無雨、輕雨、暴雨。</li>\n          <li><strong>溫度（Temperature）</strong>：酷熱、正常、極寒。</li>\n          <li><strong>風力（Wind）</strong>：無風、強風、狂風。</li>\n        </ul>\n      </li>\n      <li>天氣變化需<strong>1d4 × 10分鐘</strong>逐步完成，每次變化只能調整一個等級（例如從無雨到輕雨，或從正常溫度到酷熱）。</li>\n      <li>每隔<strong>1d4 × 10分鐘</strong>，你可以用一個<strong>動作（Action）</strong>再次調整天氣條件。</li>\n      <li>法術結束後，天氣逐漸恢復自然狀態，耗時與變化時間相同。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Cordon of Arrows": {
-      "name": "警戒箭陣 Cordon of Arrows"
+      "name": "警戒箭陣 Cordon of Arrows",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你將<strong>四支非魔法箭矢或弩矢</strong>插入地面，圍繞一個點形成一個警戒區域，持續直到法術結束。</li>\n      <li>當一個生物首次進入或移動至以箭矢為中心的<strong>30英尺範圍</strong>內時，箭矢會自動射出攻擊：\n        <ul>\n          <li>目標必須進行一次<strong>敏捷豁免檢定（Dexterity Saving Throw）</strong>：\n            <ul>\n              <li>若失敗，受到<strong>1d6點穿刺傷害（Piercing Damage）</strong>，每支箭矢各觸發一次（最多4d6，若四支全中）。</li>\n              <li>若成功，傷害減半。</li>\n            </ul>\n          </li>\n          <li>每支箭矢射出後消耗，觸發一次即減少可用箭矢數量。</li>\n        </ul>\n      </li>\n      <li>你可以指定某些生物（如你和隊友）免疫此效果，不觸發箭矢。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（3級或更高施展），你可以多使用<strong>兩支箭矢</strong>。例如：\n        <ul>\n          <li>3級施展：6支箭矢（最多6d6傷害）。</li>\n          <li>4級施展：8支箭矢（最多8d6傷害）。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Counterspell": {
-      "name": "反制法術 Counterspell"
+      "name": "反制法術 Counterspell",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你試圖打斷範圍內一個你能看見的生物正在施展的法術。</li>\n      <li>若目標施展的法術等級為<strong>3級或更低</strong>，該法術自動失敗。</li>\n      <li>若目標施展的法術等級為<strong>4級或更高</strong>，你必須進行一次<strong>施法屬性檢定（Ability Check）</strong>（使用你的施法屬性，例如智力、感知或魅力）：\n        <ul>\n          <li>檢定難度（DC）等於<strong>10 + 目標法術等級</strong>。</li>\n          <li>若檢定成功，目標法術失敗並無效果。</li>\n          <li>若檢定失敗，反制無效，目標法術正常生效。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（4級或更高施展），你能自動反制的法術等級提高1。例如：\n        <ul>\n          <li>4級施展：自動反制4級或更低法術。</li>\n          <li>5級施展：自動反制5級或更低法術。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Create Food and Water": {
-      "name": "創造飲食 Create Food and Water"
+      "name": "創造飲食 Create Food and Water",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你在範圍內你能看見的一點創造出<strong>45磅的食物</strong>和<strong>30加侖的水</strong>，出現在地面或容器中。</li>\n      <li>食物為簡單的營養品（無特殊風味），足夠供<strong>15個中型生物</strong>或<strong>30個小型生物</strong>食用一天。</li>\n      <li>食物若未在24小時內食用會腐壞，水則保持純淨無限期。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（4級或更高施展），你額外創造<strong>15磅食物</strong>和<strong>10加侖水</strong>。例如：\n        <ul>\n          <li>4級施展：60磅食物和40加侖水。</li>\n          <li>5級施展：75磅食物和50加侖水。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Create or Destroy Water": {
-      "name": "造水/枯水術 Create or Destroy Water"
+      "name": "造水/枯水術 Create or Destroy Water",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你選擇以下一種效果，在範圍內執行：</li>\n      <li><strong>造水（Create Water）</strong>：\n        <ul>\n          <li>你在一個開放容器中創造最多<strong>10加侖的水</strong>。</li>\n          <li>或者，你在一個<strong>30英尺立方</strong>的開放區域內降下雨水，熄滅該範圍內的裸露火焰。</li>\n        </ul>\n      </li>\n      <li><strong>枯水（Destroy Water）</strong>：\n        <ul>\n          <li>你摧毀範圍內最多<strong>10加侖的水</strong>，必須是未被封閉的水體（如池塘而非密封容器）。</li>\n          <li>或者，你將一個<strong>30英尺立方</strong>範圍內的霧氣轉化為正常空氣。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（2級或更高施展），你額外創造或摧毀<strong>10加侖水</strong>，或範圍增加<strong>5英尺立方</strong>。例如：\n        <ul>\n          <li>2級施展：20加侖水或35英尺立方。</li>\n          <li>3級施展：30加侖水或40英尺立方。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Create Undead": {
-      "name": "創造不死生物 Create Undead"
+      "name": "創造不死生物 Create Undead",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你選擇範圍內最多<strong>三具中型或小型人形生物的屍體</strong>，將其轉化為不死生物，持續直到被摧毀或失去控制。</li>\n      <li>使用6級法術位時，每具屍體變成一個<strong>食屍鬼（Ghoul）</strong>。</li>\n      <li>不死生物在接下來的<strong>24小時</strong>內服從你的口頭命令（無需動作）。若無命令，它們會自我防衛或攻擊最近的活物。</li>\n      <li>每24小時，你必須再次施展此法術（不需新屍體）來重新控制這些不死生物，否則它們變為不受控制的敵對存在。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（7級或更高施展），你可以創造更高級的不死生物：\n        <ul>\n          <li>7級施展：最多三具屍體變成<strong>食屍鬼（Ghoul）</strong>或其中兩具變成<strong>屍鬼（Ghast）</strong>。</li>\n          <li>8級施展：最多三具屍體變成<strong>屍鬼（Ghast）</strong>或其中一具變成<strong>幽魂（Wight）</strong>。</li>\n          <li>9級施展：最多三具屍體變成<strong>幽魂（Wight）</strong>或其中一具變成<strong>木乃伊（Mummy）</strong>。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Creation": {
-      "name": "造物術 Creation"
+      "name": "造物術 Creation",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你從魔法能量中創造一個<strong>非魔法物件</strong>，出現在範圍內你能看見的地面上，持續時間取決於材質。</li>\n      <li>物件的最大尺寸為<strong>5英尺立方</strong>，必須是你見過的物品或其部件，且材質為以下之一：\n        <ul>\n          <li><strong>植物或礦物材質</strong>（如木頭、繩子、石頭、金屬）：持續<strong>1天</strong>。</li>\n          <li><strong>珍貴礦物材質</strong>（如寶石、銀、金）：持續<strong>1小時</strong>。</li>\n          <li><strong>稀有金屬材質</strong>（如精金、秘銀）：持續<strong>1分鐘</strong>。</li>\n        </ul>\n      </li>\n      <li>物件在持續時間結束後消失，若由多種材質組成，以最短持續時間為準。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>每提高一個法術位等級（6級或更高施展），物件的最大尺寸增加<strong>5英尺立方</strong>。例如：\n        <ul>\n          <li>6級施展：10英尺立方。</li>\n          <li>7級施展：15英尺立方。</li>\n        </ul>\n      </li>\n    </ul>\n  </li>\n</ul>"
     },
     "Crown of Madness": {
-      "name": "瘋狂冠冕 Crown of Madness"
+      "name": "瘋狂冠冕 Crown of Madness",
+      "description": "<ul>\n  <li><strong>基本效果</strong>:\n    <ul>\n      <li>你選擇範圍內一個你能看見的<strong>人形生物（Humanoid）</strong>，試圖以魔法瘋狂控制它。</li>\n      <li>目標必須進行一次<strong>感知豁免檢定（Wisdom Saving Throw）</strong>：\n        <ul>\n          <li>若失敗，目標被你<strong>魅惑（Charmed）</strong>，頭上出現一個扭曲的鐵冠，持續直到法術結束。</li>\n          <li>若成功，則不受影響。</li>\n        </ul>\n      </li>\n      <li>被魅惑的目標必須在你的每個回合結束前，用其<strong>動作（Action）</strong>對你指定的另一個生物進行一次近戰攻擊（若可行），否則浪費其動作。</li>\n      <li>你必須在你的每個回合用一個<strong>動作</strong>維持控制，否則法術提前結束。</li>\n      <li>目標每回合結束時可重擲感知豁免，成功則結束效果。</li>\n    </ul>\n  </li>\n  <li><strong>提升等級</strong>:\n    <ul>\n      <li>此法術無提升等級效果。</li>\n    </ul>\n  </li>\n</ul>"
     },
     "Crusader's Mantle": {
       "name": "十字軍斗篷 Crusader's Mantle"
