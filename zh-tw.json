@@ -651,20 +651,20 @@
 "DND5E.AdvancementSaveButton": "Save Advancement",
 "DND5E.AdvancementSelectionCreateButton": "Create Advancement",
 "DND5E.AdvancementSelectionTitle": "Select Advancement Type",
-"DND5E.AdvancementTitle": "Advancement",
+"DND5E.AdvancementTitle": "升級 Advancement",
 "DND5E.Advantage": "優勢 Advantage",
 "DND5E.AdvantageMode": "Advantage Mode",
-"DND5E.Age": "Age",
-"DND5E.Alignment": "Alignment",
-"DND5E.AlignmentCE": "Chaotic Evil",
-"DND5E.AlignmentCG": "Chaotic Good",
-"DND5E.AlignmentCN": "Chaotic Neutral",
-"DND5E.AlignmentLE": "Lawful Evil",
-"DND5E.AlignmentLG": "Lawful Good",
-"DND5E.AlignmentLN": "Lawful Neutral",
-"DND5E.AlignmentNE": "Neutral Evil",
-"DND5E.AlignmentNG": "Neutral Good",
-"DND5E.AlignmentTN": "True Neutral",
+"DND5E.Age": "年齡 Age",
+"DND5E.Alignment": "陣營 Alignment",
+"DND5E.AlignmentCE": "混亂邪惡 Chaotic Evil",
+"DND5E.AlignmentCG": "混亂善良 Chaotic Good",
+"DND5E.AlignmentCN": "混亂中立 Chaotic Neutral",
+"DND5E.AlignmentLE": "守序邪惡 Lawful Evil",
+"DND5E.AlignmentLG": "守序善良 Lawful Good",
+"DND5E.AlignmentLN": "守序中立 Lawful Neutral",
+"DND5E.AlignmentNE": "中立邪惡 Neutral Evil",
+"DND5E.AlignmentNG": "中立善良 Neutral Good",
+"DND5E.AlignmentTN": "絕對中立 True Neutral",
 "DND5E.Amount": "Amount",
 "DND5E.Appearance": "Appearance",
 "DND5E.Apply": "Apply",
@@ -689,7 +689,7 @@
 },
 "DND5E.Armor": "護甲 Armor",
 "DND5E.ArmorClass": "護甲等級 Armor Class",
-"DND5E.ArmorClassEquipment": "Equipped Armor",
+"DND5E.ArmorClassEquipment": "已裝備護甲 Equipped Armor",
 "DND5E.ArmorClassFlat": "Flat",
 "DND5E.ArmorClassUnarmored": "無甲 Unarmored",
 "DND5E.ArmorClassNatural": "自然護甲 Natural Armor",
@@ -963,7 +963,7 @@
       },
       "challenge": {
         "attack": {
-          "label": "Attack Bonus",
+          "label": "攻擊加值 Attack Bonus",
           "hint": "Flat to hit bonus in place of the spell's normal attack bonus."
         },
         "save": {
@@ -1073,12 +1073,12 @@
 },
 
 "DND5E.CHECK": {
-  "Title": "Check",
+  "Title": "檢定 Check",
   "FIELDS": {
     "check": {
       "label": "Check Details",
       "ability": {
-        "label": "Check Ability",
+        "label": "檢定屬性 Check Ability",
         "hint": "Ability to use when making the check."
       },
       "associated": {
@@ -1101,7 +1101,7 @@
   "ThisTool": "This Tool"
 },
 
-"DND5E.CheckBonus": "Check Bonus",
+"DND5E.CheckBonus": "檢定加值 Check Bonus",
 
 "DND5E.CLASS": {
   "Multiclass": {
@@ -1137,13 +1137,13 @@
 "DND5E.ClassAdd": "添加職業 Add Class",
 "DND5E.ClassIdentifier": "Class Identifier",
 "DND5E.ClassIdentifierHint": "This class's data will be accessible using <strong>@classes.{identifier}</strong> in roll formulas.",
-"DND5E.ClassLevels": "Class Levels",
-"DND5E.ClassMakeOriginal": "Original Class",
+"DND5E.ClassLevels": "職業等級 Class Levels",
+"DND5E.ClassMakeOriginal": "起始職業 Original Class",
 "DND5E.ClassMakeOriginalHint": "First class taken by character used to determine certain class traits when multiclassing.",
-"DND5E.ClassName": "Class Name",
-"DND5E.ClassOriginal": "Original Class",
+"DND5E.ClassName": "職業名稱 Class Name",
+"DND5E.ClassOriginal": "起始職業 Original Class",
 "DND5E.ClassSaves": "豁免檢定 Saving Throws",
-"DND5E.Confirm": "Confirm",
+"DND5E.Confirm": "確認 Confirm",
 
 "DND5E.COMBAT": {
   "Group": {
@@ -1218,26 +1218,26 @@
 "DND5E.ComponentSomaticAbbr": "S",
 "DND5E.ComponentVerbal": "Verbal",
 "DND5E.ComponentVerbalAbbr": "V",
-"DND5E.Components": "Components",
+"DND5E.Components": "要素 Components",
 "DND5E.Container": "Container",
 "DND5E.ContainerDeleteMessage": "This container will be permanently deleted and cannot be recovered and the {count} items contained within will be moved out.",
 "DND5E.ContainerDeleteContents": "Also delete all items within the container.",
 "DND5E.ContainerMaxDepth": "Containers cannot be nested more than {depth} levels deep.",
 "DND5E.ContainerRecursiveError": "Containers cannot contain themselves.",
-"DND5E.Contents": "Contents",
-"DND5E.ContextMenuActionEdit": "Edit",
-"DND5E.ContextMenuActionDuplicate": "Duplicate",
-"DND5E.ContextMenuActionDelete": "Delete",
+"DND5E.Contents": "內容 Contents",
+"DND5E.ContextMenuActionEdit": "編輯 Edit",
+"DND5E.ContextMenuActionDuplicate": "重複 Duplicate",
+"DND5E.ContextMenuActionDelete": "刪除 Delete",
 "DND5E.ContextMenuActionEquip": "Equip",
 "DND5E.ContextMenuActionUnequip": "Unequip",
-"DND5E.ContextMenuActionPrepare": "Prepare",
+"DND5E.ContextMenuActionPrepare": "準備 Prepare",
 "DND5E.ContextMenuActionExpendCharge": "Uncharge",
 "DND5E.ContextMenuActionCharge": "Charge",
 "DND5E.ContextMenuActionUnprepare": "Unprepare",
 "DND5E.ContextMenuActionAttune": "Attune",
 "DND5E.ContextMenuActionUnattune": "Unattune",
-"DND5E.ContextMenuActionEnable": "Enable",
-"DND5E.ContextMenuActionDisable": "Disable",
+"DND5E.ContextMenuActionEnable": "啟用 Enable",
+"DND5E.ContextMenuActionDisable": "停用 Disable",
 "DND5E.ContextMenuActionView": "View",
 "DND5E.Contiguous": "Contiguous",
 "DND5E.ConBlinded": "目盲 Blinded",
@@ -1778,7 +1778,7 @@
 "DND5E.DURATION": {
   "FIELDS": {
     "duration": {
-      "label": "Duration",
+      "label": "持續時間 Duration",
       "concentration": {
         "label": "Concentration",
         "hint": "Creature must maintain concentration while active."
@@ -1803,7 +1803,7 @@
   }
 },
 
-"DND5E.Duration": "Duration",
+"DND5E.Duration": "持續時間 Duration",
 "DND5E.DurationPermanent": "Permanent",
 "DND5E.DurationTime": "Time",
 "DND5E.DurationType": "Duration Type",
@@ -1989,7 +1989,7 @@
 "DND5E.EquipmentNatural": "Natural Armor",
 "DND5E.EquipmentShield": "盾牌 Shield",
 "DND5E.EquipmentShieldProficiency": "盾牌 Shields",
-"DND5E.Equipped": "Equipped",
+"DND5E.Equipped": "已裝備 Equipped",
 "DND5E.Exhaustion": "Exhaustion",
 "DND5E.ExhaustionLevel": "Exhaustion Level {n}",
 
@@ -2385,8 +2385,8 @@
 "DND5E.ItemRarityVeryRare": "very rare",
 "DND5E.ItemRarityLegendary": "legendary",
 "DND5E.ItemRarityArtifact": "artifact",
-"DND5E.Eyes": "Eyes",
-"DND5E.Faith": "Faith",
+"DND5E.Eyes": "眼色 Eyes",
+"DND5E.Faith": "信仰 Faith",
 "DND5E.FeatureActive": "Active Abilities",
 "DND5E.FeatureAdd": "Create Feature",
 "DND5E.FeatureAttack": "Feature Attack",
@@ -2453,7 +2453,7 @@
 "DND5E.FormulaMalformedError": "Problem preparing the {property} formula within {name}.",
 "DND5E.FormulaMissingReferenceWarn": "The {property} formula within {name} has references to missing data: {references}",
 "DND5E.Gear": "Gear",
-"DND5E.Gender": "Gender",
+"DND5E.Gender": "性別 Gender",
 "DND5E.GlobalBonus": "Global Bonus",
 "DND5E.GrantedAbilities": "Granted Abilities",
 "DND5E.GroupInventory": "背包 Inventory",
@@ -2462,7 +2462,7 @@
 "DND5E.GroupSummaryEmpty": "Empty group",
 "DND5E.GroupControls": "Controls",
 "DND5E.Group": {
-  "Challenge": "Challenge",
+  "Challenge": "挑戰 Challenge",
   "Member": {
     "one": "Member",
     "other": "Members"
@@ -2506,7 +2506,7 @@
   },
   "Subtype": "{type} ({subtype})"
 },
-"DND5E.Hair": "Hair",
+"DND5E.Hair": "頭髮 Hair",
 "DND5E.HalfProficient": "Half Proficient",
 
 "DND5E.HEAL": {
@@ -2563,7 +2563,7 @@
 "DND5E.Healing": "Healing",
 "DND5E.HealingRoll": "Healing Roll",
 "DND5E.HealingTemp": "臨時生命值 Temporary Hit Points",
-"DND5E.Height": "Height",
+"DND5E.Height": "身高 Height",
 
 "DND5E.HITPOINTS": {
   "Counted": {
@@ -3321,7 +3321,7 @@
 "DND5E.SkillPassiveSpecificHint": "Passive {ability} ({skill})",
 "DND5E.SkillPassiveScore": "Passive {skill} Score",
 "DND5E.SkillPassives": "Skill Passives",
-"DND5E.Skin": "Skin",
+"DND5E.Skin": "膚色 Skin",
 "DND5E.Skip": "Skip",
 
 "DND5E.SOURCE": {
@@ -3380,7 +3380,7 @@
 "DND5E.SpellCastConsume": "Consume Spell Slot?",
 "DND5E.SpellCastNoSlots": "You have no available {level} spell slots with which to cast {name}",
 "DND5E.SpellCastNoSlotsLeft": "You have no available spell slots with which to cast {name}!",
-"DND5E.SpellCastTime": "Casting Time",
+"DND5E.SpellCastTime": "施法時間 Casting Time",
 "DND5E.SpellCastUpcast": "Cast at Level",
 "DND5E.SpellcasterLevel": "Spellcaster Level",
 "DND5E.SpellCastingHeader": "Spell Casting",
@@ -3419,7 +3419,7 @@
 "DND5E.SpellMaterialsCost": "Material Cost",
 "DND5E.SpellMaterialsDescription": "Material Description",
 "DND5E.SpellMaterialsSupply": "Material Supply",
-"DND5E.SpellName": "Spell Name",
+"DND5E.SpellName": "法術名稱 Spell Name",
 "DND5E.SpellNone": "None",
 "DND5E.SpellPrepAtWill": "At-Will",
 "DND5E.SpellPrepInnate": "Innate Spellcasting",
@@ -3445,7 +3445,7 @@
 "DND5E.SpellsSearch": "搜尋法術 Search spells",
 "DND5E.SpellSchool": "法術學派 Spell School",
 "DND5E.SpellScroll": "法術卷軸 Spell Scroll",
-"DND5E.SpellSlotExpended": "Expended Spell Slot",
+"DND5E.SpellSlotExpended": "已消耗法術位 Expended Spell Slot",
 "DND5E.SpellSlotN.one": "{n}st spell slot",
 "DND5E.SpellSlotN.two": "{n}nd spell slot",
 "DND5E.SpellSlotN.few": "{n}rd spell slot",
@@ -3457,10 +3457,10 @@
 "DND5E.SpellSlotsN.other": "{n}th Level Slots",
 "DND5E.SpellSlotsPact": "Pact Slots",
 "DND5E.SpellSlotsConfig": "Configure Spell Slots",
-"DND5E.SpellTag": "Spell Tag",
-"DND5E.SpellTarget": "Spell Target",
-"DND5E.SpellUnprepared": "Unprepared",
-"DND5E.SpellUsage": "Spell Usage",
+"DND5E.SpellTag": "法術標籤 Spell Tag",
+"DND5E.SpellTarget": "法術目標 Spell Target",
+"DND5E.SpellUnprepared": "未準備 Unprepared",
+"DND5E.SpellUsage": "法術使用 Spell Usage",
 "DND5E.Spellbook": "法術書 Spellbook",
 "DND5E.Spent": "Spent",
 "DND5E.StartingEquipment": {
@@ -3880,8 +3880,8 @@
   }
 },
 
-"DND5E.Target": "Target",
-"DND5E.TargetPl": "Targets",
+"DND5E.Target": "目標 Target",
+"DND5E.TargetPl": "目標 Targets",
 "DND5E.TargetType": "Target Type",
 "DND5E.TargetTypeArea": "Area",
 "DND5E.TargetTypeIndividual": "Individual",
@@ -4020,7 +4020,7 @@
 "DND5E.Trigger": "Trigger",
 "DND5E.Type": "Type",
 "DND5E.Uncrewed": "Uncrewed",
-"DND5E.Unequipped": "Not Equipped",
+"DND5E.Unequipped": "未裝備 Not Equipped",
 "DND5E.Unidentified.DefaultName": "Unidentified {name}",
 "DND5E.Unidentified.Notice": "You must identify this item to learn its details.",
 "DND5E.Unidentified.Title": "Unidentified",
