@@ -1,5 +1,5 @@
 {
-  "label": "角色 Actors",
+  "label": "角色",
   "mapping": {
     "": ""
   },
@@ -96,8 +96,8 @@
       }
     },
     "Barbarian": {
-      "name": "野蠻人 Barbarian",
-      "tokenName": "野蠻人 Barbarian",
+      "name": "野蠻人",
+      "tokenName": "野蠻人",
       "items": {
         "Goliath": {
           "name": "巨人裔 Goliath"
@@ -160,7 +160,7 @@
           "name": "水 (升) Water (Pint)"
         },
         "Barbarian": {
-          "name": "野蠻人 Barbarian"
+          "name": "野蠻人"
         },
         "Rage": {
           "name": "狂暴 Rage"
@@ -177,8 +177,8 @@
       }
     },
     "Bard": {
-      "name": "吟遊詩人 Bard",
-      "tokenName": "吟遊詩人 Bard",
+      "name": "吟遊詩人",
+      "tokenName": "吟遊詩人",
       "items": {
         "Lute": {
           "name": "魯特琴 Lute"
@@ -540,8 +540,8 @@
       }
     },
     "Cleric": {
-      "name": "牧師 Cleric",
-      "tokenName": "牧師 Cleric",
+      "name": "牧師",
+      "tokenName": "牧師",
       "items": {
         "Guard": {
           "name": "守衛 Guard"
@@ -640,7 +640,7 @@
           "name": "打火匣 Tinderbox"
         },
         "Cleric": {
-          "name": "牧師 Cleric"
+          "name": "牧師"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -863,8 +863,8 @@
       }
     },
     "Druid": {
-      "name": "德魯伊 Druid",
-      "tokenName": "德魯伊 Druid",
+      "name": "德魯伊",
+      "tokenName": "德魯伊",
       "items": {
         "Farmer": {
           "name": "農夫 Farmer"
@@ -963,7 +963,7 @@
           "name": "水 (升) Water (Pint)"
         },
         "Druid": {
-          "name": "德魯伊 Druid"
+          "name": "德魯伊"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"
@@ -1125,8 +1125,8 @@
       }
     },
     "Fighter": {
-      "name": "戰士 Fighter",
-      "tokenName": "戰士 Fighter",
+      "name": "戰士",
+      "tokenName": "戰士",
       "items": {
         "Soldier": {
           "name": "士兵 Soldier"
@@ -1156,7 +1156,7 @@
           "name": "Arrows"
         },
         "Dice": {
-          "name": "Dice"
+          "name": "骰子 Dice"
         },
         "Healer’s Kit": {
           "name": "Healer’s Kit"
@@ -1210,7 +1210,7 @@
           "name": "水 (升) Water (Pint)"
         },
         "Fighter": {
-          "name": "戰士 Fighter"
+          "name": "戰士"
         },
         "Fighting Style": {
           "name": "Fighting Style"
@@ -1641,8 +1641,8 @@
       }
     },
     "Monk": {
-      "name": "武僧 Monk",
-      "tokenName": "武僧 Monk",
+      "name": "武僧",
+      "tokenName": "武僧",
       "items": {
         "Guide": {
           "name": "嚮導 Guide"
@@ -1720,7 +1720,7 @@
           "name": "水 (升) Water (Pint)"
         },
         "Monk": {
-          "name": "武僧 Monk"
+          "name": "武僧"
         },
         "Martial Arts": {
           "name": "武藝 Martial Arts"
@@ -1806,8 +1806,8 @@
       }
     },
     "Paladin": {
-      "name": "聖騎士 Paladin",
-      "tokenName": "聖騎士 Paladin",
+      "name": "聖騎士",
+      "tokenName": "聖騎士",
       "items": {
         "Noble": {
           "name": "貴族 Noble"
@@ -1876,7 +1876,7 @@
           "name": "打火匣 Tinderbox"
         },
         "Paladin": {
-          "name": "聖騎士 Paladin"
+          "name": "聖騎士"
         },
         "Lay on Hands": {
           "name": "Lay on Hands"
@@ -1977,8 +1977,8 @@
       }
     },
     "Ranger": {
-      "name": "遊俠 Ranger",
-      "tokenName": "遊俠 Ranger",
+      "name": "遊俠",
+      "tokenName": "遊俠",
       "items": {
         "Wayfarer": {
           "name": "流浪者 Wayfarer"
@@ -2139,8 +2139,8 @@
       }
     },
     "Rogue": {
-      "name": "盜賊 Rogue",
-      "tokenName": "盜賊 Rogue",
+      "name": "盜賊",
+      "tokenName": "盜賊",
       "items": {
         "Criminal": {
           "name": "罪犯 Criminal"
@@ -2325,8 +2325,8 @@
       }
     },
     "Sorcerer": {
-      "name": "術士 Sorcerer",
-      "tokenName": "術士 Sorcerer",
+      "name": "術士",
+      "tokenName": "術士",
       "items": {
         "Charlatan": {
           "name": "詐欺師 Charlatan"
@@ -2416,7 +2416,7 @@
           "name": "水 (升) Water (Pint)"
         },
         "Sorcerer": {
-          "name": "術士 Sorcerer"
+          "name": "術士"
         },
         "Dancing Lights": {
           "name": "Dancing Lights"
@@ -2587,8 +2587,8 @@
       }
     },
     "Warlock": {
-      "name": "契術師 Warlock",
-      "tokenName": "契術師 Warlock",
+      "name": "契術師",
+      "tokenName": "契術師",
       "items": {
         "Acolyte": {
           "name": "侍僧 Acolyte"
@@ -2597,7 +2597,7 @@
           "name": "Magic Initiate"
         },
         "Calligrapher’s Supplies": {
-          "name": "Calligrapher’s Supplies"
+          "name": "書法工具 Calligrapher’s Supplies"
         },
         "Book of Prayers": {
           "name": "Book of Prayers"
@@ -2699,7 +2699,7 @@
           "name": "墨水筆 Ink Pen"
         },
         "Warlock": {
-          "name": "契術師 Warlock"
+          "name": "契術師"
         },
         "Eldritch Invocations": {
           "name": "Eldritch Invocations"
@@ -2741,17 +2741,17 @@
       }
     },
     "Wizard": {
-      "name": "法師 Wizard",
-      "tokenName": "法師 Wizard",
+      "name": "法師",
+      "tokenName": "法師",
       "items": {
         "Scribe": {
-          "name": "抄書吏 Scribe"
+          "name": "抄書使 Scribe"
         },
         "Skilled": {
           "name": "技巧嫻熟 Skilled"
         },
         "Calligrapher’s Supplies": {
-          "name": "Calligrapher’s Supplies"
+          "name": "書法工具 Calligrapher’s Supplies"
         },
         "Fine Clothes": {
           "name": "高級服裝 Fine Clothes"
@@ -2832,7 +2832,7 @@
           "name": "打火匣 Tinderbox"
         },
         "Wizard": {
-          "name": "法師 Wizard"
+          "name": "法師"
         },
         "Spellcasting": {
           "name": "施法 Spellcasting"

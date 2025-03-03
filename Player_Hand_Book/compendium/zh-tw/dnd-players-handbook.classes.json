@@ -1,5 +1,5 @@
 {
-  "label": "角色職業 Character Classes",
+  "label": "職業",
   "entries": {
     "Aberrant Sorcery": {
       "name": "異變術法 Aberrant Sorcery"
@@ -107,10 +107,10 @@
       "name": "誘餌戰術 Bait and Switch"
     },
     "Barbarian": {
-      "name": "野蠻人 Barbarian"
+      "name": "野蠻人"
     },
     "Bard": {
-      "name": "吟遊詩人 Bard"
+      "name": "吟遊詩人"
     },
     "Bardic Inspiration": {
       "name": "吟遊激勵 Bardic Inspiration"
@@ -230,7 +230,7 @@
       "name": "靈視戰士 Clairvoyant Combatant"
     },
     "Cleric": {
-      "name": "牧師 Cleric"
+      "name": "牧師"
     },
     "Cloak of Shadows": {
       "name": "暗影斗篷 Cloak of Shadows"
@@ -389,7 +389,7 @@
       "name": "哀懼打擊 Dreadful Strikes"
     },
     "Druid": {
-      "name": "德魯伊 Druid"
+      "name": "德魯伊"
     },
     "Druidic": {
       "name": "德魯伊語 Druidic"
@@ -533,7 +533,7 @@
       "name": "邪魔活力 Fiendish Vigor"
     },
     "Fighter": {
-      "name": "戰士 Fighter"
+      "name": "戰士"
     },
     "Fighting Style": {
       "name": "戰鬥風格 Fighting Style"
@@ -824,7 +824,7 @@
       "name": "迷霧漫遊者 Misty Wanderer"
     },
     "Monk": {
-      "name": "武僧 Monk"
+      "name": "武僧"
     },
     "Monk's Focus": {
       "name": "武僧專注 Monk's Focus"
@@ -908,7 +908,7 @@
       "name": "書之魔契 Pact of the Tome"
     },
     "Paladin": {
-      "name": "聖騎士 Paladin"
+      "name": "聖騎士"
     },
     "Paladin's Smite": {
       "name": "騎士至聖斬 Paladin's Smite"
@@ -1043,7 +1043,7 @@
       "name": "鼓舞 Rally"
     },
     "Ranger": {
-      "name": "遊俠 Ranger"
+      "name": "遊俠"
     },
     "Reckless Attack": {
       "name": "魯莽攻擊 Reckless Attack"
@@ -1091,7 +1091,7 @@
       "name": "儀式專家 Ritual Adept"
     },
     "Rogue": {
-      "name": "盜賊 Rogue"
+      "name": "盜賊"
     },
     "Roving": {
       "name": "漫遊者 Roving"
@@ -1151,7 +1151,7 @@
       "name": "偷襲 Sneak Attack"
     },
     "Sorcerer": {
-      "name": "術士 Sorcerer"
+      "name": "術士"
     },
     "Sorcerous Restoration": {
       "name": "術法復原 Sorcerous Restoration"
@@ -1394,7 +1394,7 @@
       "name": "閃耀防護 Warding Flare"
     },
     "Warlock": {
-      "name": "契術師 Warlock"
+      "name": "契術師"
     },
     "Warping Implosion": {
       "name": "扭曲爆裂 Warping Implosion"
@@ -1442,7 +1442,7 @@
       "name": "巫者視界 Witch Sight"
     },
     "Wizard": {
-      "name": "法師 Wizard"
+      "name": "法師"
     },
     "Words of Creation": {
       "name": "創生之言 Words of Creation"
