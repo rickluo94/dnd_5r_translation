@@ -913,7 +913,7 @@
       "description": "你移除範圍內一點為中心的5英尺半徑球體內非魔法食物和飲料中的毒素與腐壞。"
     },
     "Raise Dead": {
-      "name": "喚醒死者 Raise Dead"
+      "name": "死者復活 Raise Dead"
     },
     "Rary's Telepathic Bond": {
       "name": "拉瑞心靈聯結 Rary's Telepathic Bond"
@@ -992,7 +992,7 @@
     },
     "Shield": {
       "name": "護盾術 Shield",
-      "description": "一道無形的魔法力屏障保護著你。直到你下回合開始前，你的護甲等級獲得+5加值，包括對觸發此次法術的攻擊，且你不會受到 @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMagicMissi]{魔法飛彈 Magic Missile} 的傷害。"
+      "description": "一道無形的魔法力屏障保護著你。直到你下回合開始前，你的護甲等級獲得+5加值，包括對觸發此次法術的攻擊，且你不會受到 @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMagicMissi]{魔法飛彈} 的傷害。"
     },
     "Shield of Faith": {
       "name": "虔誠護盾 Shield of Faith",
