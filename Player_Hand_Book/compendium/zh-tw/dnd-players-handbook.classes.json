@@ -2,7 +2,7 @@
   "label": "職業",
   "entries": {
     "Aberrant Sorcery": {
-      "name": "異變術法 Aberrant Sorcery"
+      "name": "靈能術士 Aberrant Sorcery"
     },
     "Abjuration Savant": {
       "name": "防護學者 Abjuration Savant"
@@ -11,7 +11,7 @@
       "name": "聖誓威懾 Abjure Foes"
     },
     "Abjurer": {
-      "name": "防護學家 Abjurer"
+      "name": "防護師 Abjurer"
     },
     "Acrobatic Movement": {
       "name": "特技移動 Acrobatic Movement"
@@ -53,7 +53,7 @@
       "name": "大德魯伊 Archdruid"
     },
     "Archfey Patron": {
-      "name": "至高妖精契主 Archfey Patron"
+      "name": "妖精至尊 Archfey Patron"
     },
     "Archfey Spells": {
       "name": "至高妖精法術 Archfey Spells"
@@ -128,7 +128,7 @@
       "name": "戰鬥大師 Battle Master"
     },
     "Beast Master": {
-      "name": "獸王 Beast Master"
+      "name": "野獸大師 Beast Master"
     },
     "Beast Spells": {
       "name": "野獸施法 Beast Spells"
@@ -188,7 +188,7 @@
       "name": "謹慎法術 Careful Spell"
     },
     "Celestial Patron": {
-      "name": "天界契主 Celestial Patron"
+      "name": "天界護法 Celestial Patron"
     },
     "Celestial Resilience": {
       "name": "天族韌性 Celestial Resilience"
@@ -197,7 +197,7 @@
       "name": "天界法術 Celestial Spells"
     },
     "Champion": {
-      "name": "勇士 Champion"
+      "name": "聖鬥士 Champion"
     },
     "Channel Divinity": {
       "name": "引導神力 Channel Divinity"
@@ -236,13 +236,13 @@
       "name": "暗影斗篷 Cloak of Shadows"
     },
     "Clockwork Cavalcade": {
-      "name": "時械兵團 Clockwork Cavalcade"
+      "name": "時空兵團 Clockwork Cavalcade"
     },
     "Clockwork Sorcery": {
-      "name": "時械術法 Clockwork Sorcery"
+      "name": "時空術士 Clockwork Sorcery"
     },
     "Clockwork Spells": {
-      "name": "時械法術 Clockwork Spells"
+      "name": "時空法術 Clockwork Spells"
     },
     "College of Dance": {
       "name": "舞蹈學院 College of Dance"
@@ -365,13 +365,13 @@
       "name": "神聖職責: 奇術士 Divine Order: Thaumaturge"
     },
     "Diviner": {
-      "name": "預言學家 Diviner"
+      "name": "預言師 Diviner"
     },
     "Draconic Resilience": {
       "name": "龍族韌性 Draconic Resilience"
     },
     "Draconic Sorcery": {
-      "name": "龍族術法 Draconic Sorcery"
+      "name": "龍族術士 Draconic Sorcery"
     },
     "Draconic Spells": {
       "name": "龍族法術 Draconic Spells"
@@ -401,7 +401,7 @@
       "name": "魔能詛咒 Eldritch Hex"
     },
     "Eldritch Invocations": {
-      "name": "魔能祈喚 Eldritch Invocations"
+      "name": "魔能咒術 Eldritch Invocations"
     },
     "Eldritch Knight": {
       "name": "魔能騎士 Eldritch Knight"
@@ -470,7 +470,7 @@
       "name": "塑能學者 Evocation Savant"
     },
     "Evoker": {
-      "name": "塑能學家 Evoker"
+      "name": "塑能師 Evoker"
     },
     "Exceptional Training": {
       "name": "卓越訓練 Exceptional Training"
@@ -521,7 +521,7 @@
       "name": "妖精漫遊者法術 Fey Wanderer Spells"
     },
     "Fiend Patron": {
-      "name": "邪魔契主 Fiend Patron"
+      "name": "魔鬼護法 Fiend Patron"
     },
     "Fiend Spells": {
       "name": "邪魔法術 Fiend Spells"
@@ -569,10 +569,10 @@
       "name": "守護饋贈 Gift of the Protectors"
     },
     "Gloom Stalker": {
-      "name": "幽域追蹤者 Gloom Stalker"
+      "name": "幽影獵手 Gloom Stalker"
     },
     "Gloom Stalker Spells": {
-      "name": "幽域追蹤者法術 Gloom Stalker Spells"
+      "name": "幽影獵手法術 Gloom Stalker Spells"
     },
     "Glorious Defense": {
       "name": "光榮防禦 Glorious Defense"
@@ -581,10 +581,10 @@
       "name": "挑釁攻擊 Goading Attack"
     },
     "Great Old One Patron": {
-      "name": "舊日支配者契主 Great Old One Patron"
+      "name": "上古大能 Great Old One Patron"
     },
     "Great Old One Spells": {
-      "name": "舊日支配者法術 Great Old One Spells"
+      "name": "上古大能法術 Great Old One Spells"
     },
     "Greater Divine Intervention": {
       "name": "高等神力干預 Greater Divine Intervention"
@@ -638,7 +638,7 @@
       "name": "幻術學者 Illusion Savant"
     },
     "Illusionist": {
-      "name": "幻術學家 Illusionist"
+      "name": "幻術師 Illusionist"
     },
     "Illusory Reality": {
       "name": "亦真亦幻 Illusory Reality"
@@ -647,7 +647,7 @@
       "name": "幻影分身 Illusory Self"
     },
     "Implements of Mercy": {
-      "name": "命流之器 Implements of Mercy"
+      "name": "慈悲之器 Implements of Mercy"
     },
     "Improved Blessed Strikes": {
       "name": "強化受祝打擊 Improved Blessed Strikes"
@@ -866,10 +866,10 @@
       "name": "榮耀之誓法術 Oath of Glory Spells"
     },
     "Oath of the Ancients": {
-      "name": "遠古之誓 Oath of the Ancients"
+      "name": "自然之誓 Oath of the Ancients"
     },
     "Oath of the Ancients Spells": {
-      "name": "遠古之誓法術 Oath of the Ancients Spells"
+      "name": "自然之誓法術 Oath of the Ancients Spells"
     },
     "Oath of Vengeance": {
       "name": "復仇之誓 Oath of Vengeance"
@@ -920,13 +920,13 @@
       "name": "狂戰士道途 Path of the Berserker"
     },
     "Path of the Wild Heart": {
-      "name": "荒野之心道途 Path of the Wild Heart"
+      "name": "野性之心道途 Path of the Wild Heart"
     },
     "Path of the World Tree": {
       "name": "世界樹道途 Path of the World Tree"
     },
     "Path of the Zealot": {
-      "name": "狂熱者道途 Path of the Zealot"
+      "name": "狂信者道途 Path of the Zealot"
     },
     "Peerless Athlete": {
       "name": "無敵健將 Peerless Athlete"
@@ -986,7 +986,7 @@
       "name": "結界投射 Projected Ward"
     },
     "Psi Warrior": {
-      "name": "靈能武士 Psi Warrior"
+      "name": "靈能戰士 Psi Warrior"
     },
     "Psionic Power": {
       "name": "靈能之力 Psionic Power"
@@ -1166,7 +1166,7 @@
       "name": "復仇之魂 Soul of Vengeance"
     },
     "Soulknife": {
-      "name": "魂刃 Soulknife"
+      "name": "靈刃者 Soulknife"
     },
     "Spell Breaker": {
       "name": "法術破除者 Spell Breaker"
@@ -1178,7 +1178,7 @@
       "name": "法術抗性 Spell Resistance"
     },
     "Spell Thief": {
-      "name": "法術竊賊 Spell Thief"
+      "name": "法術神偷 Spell Thief"
     },
     "Spellcasting": {
       "name": "施法 Spellcasting"
@@ -1277,10 +1277,10 @@
       "name": "第三隻眼 The Third Eye"
     },
     "Thief": {
-      "name": "竊賊 Thief"
+      "name": "神偷 Thief"
     },
     "Thief's Reflexes": {
-      "name": "竊賊反射 Thief's Reflexes"
+      "name": "神偷反射 Thief's Reflexes"
     },
     "Thieves' Cant": {
       "name": "盜賊黑話 Thieves' Cant"
@@ -1310,10 +1310,10 @@
       "name": "世界樹旅行 Travel Along the Tree"
     },
     "Trickery Domain": {
-      "name": "詭術領域 Trickery Domain"
+      "name": "詭計領域 Trickery Domain"
     },
     "Trickery Domain Spells": {
-      "name": "詭術領域法術 Trickery Domain Spells"
+      "name": "詭計領域法術 Trickery Domain Spells"
     },
     "Trickster's Transposition": {
       "name": "詭術換位 Trickster's Transposition"
@@ -1400,7 +1400,7 @@
       "name": "扭曲爆裂 Warping Implosion"
     },
     "Warrior of Mercy": {
-      "name": "命流武者 Warrior of Mercy"
+      "name": "慈悲武者 Warrior of Mercy"
     },
     "Warrior of Shadow": {
       "name": "暗影武者 Warrior of Shadow"
@@ -1427,7 +1427,7 @@
       "name": "荒野夥伴 Wild Companion"
     },
     "Wild Magic Sorcery": {
-      "name": "狂野術法 Wild Magic Sorcery"
+      "name": "狂野術士 Wild Magic Sorcery"
     },
     "Wild Magic Surge": {
       "name": "狂野魔法浪湧 Wild Magic Surge"
