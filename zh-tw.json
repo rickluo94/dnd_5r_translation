@@ -213,8 +213,8 @@
     "Delete": "刪除行動 Delete Activity"
   },
   "Title": {
-    "one": "行動 Activity",
-    "other": "行動 Activities"
+    "one": "行動",
+    "other": "行動"
   },
   "FIELDS": {
     "description": {
