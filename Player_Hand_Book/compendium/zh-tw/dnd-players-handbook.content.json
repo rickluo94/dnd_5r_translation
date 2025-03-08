@@ -552,8 +552,8 @@
           "text": "<p>If you have proficiency with something, you can add your Proficiency Bonus to any @UUID[.nxPH59t3iNtWJxnU]{D20 Test} you make using that thing. A creature might have proficiency in a skill or saving throw or with a weapon or tool.</p>"
         },
         "Resistance": {
-          "name": "Resistance",
-          "text": "<p>If you have Resistance to a damage type, damage of that type is halved against you (round down). Resistance is applied only once to an instance of damage. <em>See also</em> @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbDamageAndHeal]{Damage and Healing}.</p>"
+          "name": "抗性 Resistance",
+          "text": "<p>如果你對某種傷害類型具有抗性，該類型的傷害對你減半（向下取整）。抗性對每次傷害僅適用一次。<em>另見</em> @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbDamageAndHeal]{傷害與治療}。</p>"
         },
         "Ritual": {
           "name": "Ritual",
