@@ -168,7 +168,7 @@
       "name": "半身人靈巧 Halfling Nimbleness"
     },
     "Healing Hands": {
-      "name": "治癒之手 Healing Hands",
+      "name": "治癒之手",
       "description": "<p>作為一個魔法動作，你觸碰一個生物並擲等於你熟練加值的d4骰子數量。該生物恢復等於擲骰總和的生命值。一旦你使用此特質，需完成一次長休才能再次使用。</p>"
     },
     "Hermit": {
@@ -195,7 +195,7 @@
       "description": "<p>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLight00000]{光亮術}戲法。魅力是你的施法屬性。</p>"
     },
     "Luck": {
-      "name": "幸運 Luck",
+      "name": "幸運",
       "description": "<p>當你在D20檢定中擲出d20並得到1時，你可以重新擲該骰子，並必須使用新的擲骰結果。</p>"
     },
     "Merchant": {
