@@ -55,10 +55,12 @@
       "description": "<p>矮人在遠古時代由一位鍛造之神從大地中升起。在不同的世界中，這位神祇被稱為不同的名字——莫拉丁、瑞奧克斯等——祂賦予矮人對石頭和金屬的親和力，以及地下生活的適應性。祂還讓矮人如山脈般堅韌，壽命約350年。</p><p>矮人身材矮壯，常蓄鬍鬚，最初的矮人將城市和要塞雕刻在山坡和地下。他們最古老的傳說講述了與山頂和幽暗地域怪物的衝突，無論那些怪物是高聳的巨人還是地下的恐怖生物。受這些故事啟發，任何文化的矮人經常歌頌英勇事蹟——尤其是小人物戰勝強者的傳奇。</p><p>在多元宇宙的一些世界中，矮人的首批定居點建於丘陵或山脈，那些追溯其祖先至這些定居點的家族分別稱自己為丘陵矮人或山脈矮人。灰鷹和龍槍設定中就有這樣的社群。</p><h3 data-anchor=\"dwarf-traits\">矮人特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約4-5英尺高）</p><p><strong>速度：</strong>30英尺</p><p>作為矮人，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍120英尺的黑暗視覺。</p><p><strong>矮人韌性。</strong>你對毒素傷害具有抗性。你在避免或結束中毒狀態的豁免檢定中具有優勢。</p><p><strong>矮人堅韌。</strong>你的生命值上限增加1，並在你每次升級時再次增加1。</p><p><strong>石之感知。</strong>作為一個獎勵動作，你獲得範圍60英尺的震顫感知，持續10分鐘。你必須站在石頭表面或觸碰石頭表面才能使用此震顫感知。該石頭可以是天然的或加工過的。你可以使用此獎勵動作的次數等於你的熟練加值，並在完成一次長休後恢復所有已使用次數。</p>"
     },
     "Dwarven Resilience": {
-      "name": "矮人韌性 Dwarven Resilience"
+      "name": "矮人韌性",
+      "description": "<p>你對毒素傷害具有抗性。你在避免或結束中毒狀態的豁免檢定中也具有優勢。</p>\n<section class=\"secret\" id=\"secret-EDaMIgklKLK2il2D\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>你將自動獲得對毒素傷害的抗性，但不會自動獲得避免或結束中毒狀態的豁免檢定優勢。</p>\n</section>"
     },
     "Dwarven Toughness": {
-      "name": "矮人剛毅 Dwarven Toughness"
+      "name": "矮人剛毅",
+      "description": "<p>你的生命值上限增加1，並在你每次升級時再次增加1。</p>\n<section class=\"secret\" id=\"secret-FK9DFLudP5EzEss9\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>生命值上限的增加會在每次升級時自動處理。</p>\n</section>"
     },
     "Elf, Drow": {
       "name": "卓爾精靈",
@@ -73,16 +75,20 @@
       "description": "<p>木精靈由神祇柯瑞隆創造，最初的精靈能隨意改變形態。當柯瑞隆因他們與神祇羅絲的陰謀而詛咒他們時，這種能力喪失了——羅絲試圖篡奪柯瑞隆的統治權但失敗。當羅絲被驅逐至深淵時，大多數精靈放棄了她並獲得了柯瑞隆的寬恕，但柯瑞隆取走的東西卻永遠失去了。</p><p>無法再隨意變形的精靈退隱至妖精荒野，在那裡，該位面的影響加深了他們的悲傷。隨著時間推移，好奇心驅使許多精靈探索其他存在位面，包括物質位面的世界。</p><p>精靈擁有尖耳，無面部和身體毛髮。他們壽命約750年，不需睡眠，而是需要在休息時進入一種出神狀態。在此狀態下，他們保持對周圍環境的感知，同時沉浸於記憶與冥想中。</p><p>環境會在精靈居住千年或更久後微妙地改變他們，並賦予他們特定的魔法。卓爾、高等精靈和木精靈是這種轉化的例子。</p><h3 data-anchor=\"wood-elves\">木精靈</h3><p>木精靈內在承載著原始森林的魔法。他們有許多別名，包括野精靈、綠精靈和森林精靈。格魯加赫是灰鷹設定中隱居的木精靈，而卡貢內斯提和泰爾納達爾則分別是龍槍和艾伯倫設定中的木精靈。</p><h3 data-anchor=\"elf-traits\">精靈特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約5-6英尺高）</p><p><strong>速度：</strong>30英尺</p><p>作為精靈，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>精靈血統。</strong>你屬於一個賦予你超自然能力的血統。</p><p>當你的角色達到3級和5級時，你會學到更高級的法術，如表所示。你始終準備好該法術。你可以不消耗法術位使用它一次，並在完成一次長休後恢復此能力。你也可以使用適當等級的法術位來施展該法術。智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）。</p><table><caption>木精靈血統特性</caption><thead><tr><td>1級</td><td>3級</td><td>5級</td></tr></thead><tbody><tr><td>你的速度提升至35英尺。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDruidcraft]{德魯伊伎倆}戲法。</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLongstride]{大步奔行}法術</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPasswithou]{無跡通行}法術</td></tr></tbody></table><p><strong>妖精血統。</strong>你在避免或結束魅惑狀態的豁免檢定中具有優勢。</p><p><strong>敏銳感官。</strong>你擁有洞悉、察覺或生存技能的熟練度。</p><p><strong>出神。</strong>你不需要睡眠，魔法也無法使你入睡。如果你將這4小時花費在類似冥想的出神狀態中，你可以在4小時內完成一次長休，在此期間你保持意識。</p>"
     },
     "Elven Lineage": {
-      "name": "精靈血脈"
+      "name": "精靈血脈",
+      "description": "<p>你屬於一個賦予你超自然能力的血統。從精靈血脈表中選擇一個血統。你獲得該血統的1級效果。</p>\n<p>當你達到角色3級和5級時，你會學到更高級的法術，如表所示。你始終準備好該法術。你可以不消耗法術位使用它一次，並在完成一次長休後恢復此能力。你也可以使用你擁有的適當等級法術位來施展該法術。智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）。</p>\n<table>\n    <caption>精靈血脈</caption>\n    <thead>\n        <tr>\n            <td>\n                <p>血統</p>\n            </td>\n            <td>\n                <p>1級</p>\n            </td>\n            <td>\n                <p>3級</p>\n            </td>\n            <td>\n                <p>5級</p>\n            </td>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.origins.Item.phbsptDrowElfLin]{卓爾}</p>\n            </td>\n            <td>\n                <p>你的黑暗視覺範圍提升至120英尺。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDancingLig]{舞光術}戲法。</p>\n            </td>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFaerieFire]{妖火}法術</p>\n            </td>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDarkness00]{黑暗術}法術</p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.origins.Item.phbsptHighElfLin]{高等精靈}</p>\n            </td>\n            <td>\n                <p>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi]{魔法伎倆}戲法。每當你完成一次長休時，你可以將該戲法替換為法師法術列表中的另一個戲法。</p>\n            </td>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDetectMagi]{偵測魔法}法術</p>\n            </td>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMistyStep0]{迷蹤步}法術</p>\n            </td>\n        </tr>\n        <tr>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.origins.Item.phbsptWoodElfLin]{木精靈}</p>\n            </td>\n            <td>\n                <p>你的速度提升至35英尺。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDruidcraft]{德魯伊伎倆}戲法。</p>\n            </td>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLongstride]{長距步}法術</p>\n            </td>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPasswithou]{無跡通過}法術</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族並隨等級提升時，你將自動獲得相關特性和法術。</p>\n</section>"
     },
     "Elven Lineage, Drow": {
-      "name": "卓爾精靈, 血脈"
+      "name": "卓爾精靈, 血脈",
+      "description": "<p>你屬於一個賦予你超自然能力的血統。</p>\n<p>當你達到角色3級和5級時，你會學到更高級的法術，如表所示。你始終準備好該法術。你可以不消耗法術位使用它一次，並在完成一次長休後恢復此能力。你也可以使用你擁有的適當等級法術位來施展該法術。智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）。</p>\n<h3>卓爾血統特性</h3>\n<table>\n    <thead>\n        <tr>\n            <td>\n                <p>1級</p>\n            </td>\n            <td>\n                <p>3級</p>\n            </td>\n            <td>\n                <p>5級</p>\n            </td>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>\n                <p>你的黑暗視覺範圍提升至120英尺。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDancingLig]{舞光術}戲法。</p>\n            </td>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFaerieFire]{妖火}法術</p>\n            </td>\n            <td>\n                <p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDarkness00]{黑暗術}法術</p>\n            </td>\n        </tr>\n    </tbody>\n</table>\n<section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族並隨等級提升時，你將自動獲得相關特性和法術。</p>\n</section>"
     },
     "Elven Lineage, High Elf": {
-      "name": "高等精靈, 血脈"
+      "name": "高等精靈, 血脈",
+      "description": "<p>你屬於一個賦予你超自然能力的血統。</p>\n<p>當你達到角色3級和5級時，你會學到更高級的法術，如表所示。你始終準備好該法術。你可以不消耗法術位使用它一次，並在完成一次長休後恢復此能力。你也可以使用你擁有的適當等級法術位來施展該法術。智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）。</p>\n<table>\n    <caption>高等精靈血統特性</caption>\n    <thead>\n        <tr>\n            <td>1級</td>\n            <td>3級</td>\n            <td>5級</td>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi]{魔法伎倆}戲法。每當你完成一次長休時，你可以將該戲法替換為法師法術列表中的另一個戲法。</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDetectMagi]{偵測魔法}法術</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMistyStep0]{迷蹤步}法術</td>\n        </tr>\n    </tbody>\n</table>\n<section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族並隨等級提升時，你將自動獲得相關特性和法術。</p>\n</section>"
     },
     "Elven Lineage, Wood Elf": {
-      "name": "木精靈, 血脈"
+      "name": "木精靈, 血脈",
+      "description": "<p>你屬於一個賦予你超自然能力的血統。</p>\n<p>當你達到角色3級和5級時，你會學到更高級的法術，如表所示。你始終準備好該法術。你可以不消耗法術位使用它一次，並在完成一次長休後恢復此能力。你也可以使用你擁有的適當等級法術位來施展該法術。智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）。</p>\n<table>\n    <caption>木精靈血統特性</caption>\n    <thead>\n        <tr>\n            <td>1級</td>\n            <td>3級</td>\n            <td>5級</td>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>你的速度提升至35英尺。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDruidcraft]{德魯伊伎倆}戲法。</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLongstride]{長距步}法術</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPasswithou]{無跡通過}法術</td>\n        </tr>\n    </tbody>\n</table>\n<section class=\"secret\" id=\"secret-9CEnkbCgcLTJ03JL\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族並隨等級提升時，你將自動獲得相關特性和法術。</p>\n</section>"
     },
     "Entertainer": {
       "name": "表演者",
@@ -93,7 +99,8 @@
       "description": "<p><strong>能力值 Ability Scores:</strong> 力量 STR、體質 CON、感知 WIS</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftTough000000]{堅韌 Tough}</p><p><strong>技能熟練 Skill Proficiencies:</strong> 馴獸 Animal Handling 和 自然 Nature</p><p><strong>工具熟練 Tool Proficiency:</strong> 木工工具 Carpenter’s Tools</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepSickle0000]{鐮刀 Sickle}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulCarpenters]{木工工具 Carpenter’s Tools}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagHealersKit0]{醫療包 Healer’s Kit}、@UUID[Compendium.dnd5e.items.Item.M8xM8BLK4tpUayEE]{鐵鍋 Iron Pot}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagShovel00000]{鏟子 Shovel}、@UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{旅者服 Traveler's Clothes}、30金幣 GP；或 (B) 50金幣 GP</p><p>你在農村長大，與大地親近。多年的動物照料和土地耕作使你培養了耐心和健康的體魄。你對大自然的豐饒有著敏銳的欣賞，同時對其威力懷有深刻的敬意。</p>"
     },
     "Fey Ancestry": {
-      "name": "妖精血統 Fey Ancestry"
+      "name": "妖精血統",
+      "description": "<p>你在避免或結束&Reference[Charmed]狀態的豁免檢定中具有優勢。</p>"
     },
     "Fiendish Legacy": {
       "name": "魔裔血脈 Fiendish Legacy"
@@ -114,31 +121,36 @@
       "name": "霜巨人之寒 Frost's Chill"
     },
     "Giant Ancestry": {
-      "name": "巨人血統 Giant Ancestry"
+      "name": "巨人血統",
+      "description": "<p>你是巨人的後裔。從以下選項中選擇一項恩賜——來自你血統的超自然能力；你可以使用所選恩賜的次數等於你的熟練加值，完成一次長休後恢復所有已使用次數：</p>\n<p><strong>雲之躍（雲巨人）。</strong>作為一個獎勵動作，你魔法傳送至你可見的無人空間，最遠30英尺。</p>\n<p><strong>火之灼（火巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。</p>\n<p><strong>霜之寒（霜巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。</p>\n<p><strong>山丘巨人之摔（山丘巨人）。</strong>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得倒地狀態。</p>\n<p><strong>石之耐（石巨人）。</strong>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。</p>\n<p><strong>暴之雷（暴風巨人）。</strong>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。</p>"
     },
     "Gnome, Forest": {
       "name": "森林, 侏儒",
-      "description": "<p>侏儒是由發明、幻術和地下生活之神創造的魔法種族。最早的侏儒因其隱秘的天性和喜好居住在森林與地洞中，而很少被其他種族看見。他們身材雖小，卻以聰明才智彌補。他們用陷阱和迷宮般的隧道迷惑掠食者。他們還從偽裝造訪的神祇——如加爾·閃金、貝爾萬·野旅者和巴拉瓦·影篷——那裡學到了魔法。這些魔法最終形成了森林侏儒和岩石侏儒的血統。</p><p>侏儒是身材嬌小、大眼睛、尖耳的種族，壽命約425年。許多侏儒喜歡頭上有屋頂的感覺，即使那個「屋頂」只是一頂帽子。</p><h3 data-anchor=\"gnome-traits\">侏儒特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>小型（約3-4英尺高）</p><p><strong>速度：</strong>30英尺</p><p>作為侏儒，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>侏儒狡黠。</strong>你在智力、感知和魅力豁免檢定中具有優勢。</p><p><strong>侏儒血統。</strong>你屬於一個賦予你超自然能力的血統。無論你選擇哪個血統，智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）：</p><p><strong>森林侏儒。</strong>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMinorIllus]{次級幻影}戲法。你還始終準備好@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplSpeakwithA]{動物交談}法術。你可以不消耗法術位使用它的次數等於你的熟練加值，並在完成一次長休後恢復所有已使用次數。你也可以使用你擁有的任何法術位來施展該法術。</p>"
+      "description": "<p>侏儒是由發明、幻術和地下生活之神創造的魔法種族。最早的侏儒因其隱秘的天性和喜好居住在森林與地洞中，而很少被其他種族看見。他們身材雖小，卻以聰明才智彌補。他們用陷阱和迷宮般的隧道迷惑掠食者。他們還從偽裝造訪的神祇——如加爾·閃金、貝爾萬·野旅者和巴拉瓦·影篷——那裡學到了魔法。這些魔法最終形成了森林侏儒和岩石侏儒的血統。</p><p>侏儒是身材嬌小、大眼睛、尖耳的種族，壽命約425年。許多侏儒喜歡頭上有屋頂的感覺，即使那個「屋頂」只是一頂帽子。</p><h3 data-anchor=\"gnome-traits\">侏儒特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>小型（約3-4英尺高）</p><p><strong>速度：</strong>30英尺</p><p>作為侏儒，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>侏儒狡詐。</strong>你在智力、感知和魅力豁免檢定中具有優勢。</p><p><strong>侏儒血統。</strong>你屬於一個賦予你超自然能力的血統。無論你選擇哪個血統，智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）：</p><p><strong>森林侏儒。</strong>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMinorIllus]{次級幻影}戲法。你還始終準備好@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplSpeakwithA]{動物交談}法術。你可以不消耗法術位使用它的次數等於你的熟練加值，並在完成一次長休後恢復所有已使用次數。你也可以使用你擁有的任何法術位來施展該法術。</p>"
     },
     "Gnome, Rock": {
       "name": "岩石, 侏儒",
-      "description": "<p>侏儒是由發明、幻術和地下生活之神創造的魔法種族。最早的侏儒因其隱秘的天性和喜好居住在森林與地洞中，而很少被其他種族看見。他們身材雖小，卻以聰明才智彌補。他們用陷阱和迷宮般的隧道迷惑掠食者。他們還從偽裝造訪的神祇——如加爾·閃金、貝爾萬·野旅者和巴拉瓦·影篷——那裡學到了魔法。這些魔法最終形成了森林侏儒和岩石侏儒的血統。</p><p>侏儒是身材嬌小、大眼睛、尖耳的種族，壽命約425年。許多侏儒喜歡頭上有屋頂的感覺，即使那個「屋頂」只是一頂帽子。</p><h3 data-anchor=\"gnome-traits\">侏儒特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>小型（約3-4英尺高）</p><p><strong>速度：</strong>30英尺</p><p>作為侏儒，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>侏儒狡黠。</strong>你在智力、感知和魅力豁免檢定中具有優勢。</p><p><strong>侏儒血統。</strong>你屬於一個賦予你超自然能力的血統。無論你選擇哪個血統，智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）：</p><p><strong>岩石侏儒。</strong>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMending000]{修補術}和@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi]{魔法伎倆}兩個戲法。此外，你可以花費10分鐘施展<em>魔法伎倆</em>來創造一個微型發條裝置（護甲等級5，1生命值），如玩具、點火器或音樂盒。當你創造該裝置時，通過從<em>魔法伎倆</em>中選擇一個效果來決定其功能；只要你或另一個生物以獎勵動作觸碰啟動它，該裝置就會產生該效果。如果所選效果內有選項，你在創造裝置時為其選擇其中一個選項。例如，如果你選擇法術的點燃-熄滅效果，你決定該裝置是點燃還是熄滅火焰；該裝置不會同時具備兩者功能。你最多同時擁有三個這樣的裝置，每個裝置在創造後8小時或你以使用動作觸碰拆解它時解體。</p>"
+      "description": "<p>侏儒是由發明、幻術和地下生活之神創造的魔法種族。最早的侏儒因其隱秘的天性和喜好居住在森林與地洞中，而很少被其他種族看見。他們身材雖小，卻以聰明才智彌補。他們用陷阱和迷宮般的隧道迷惑掠食者。他們還從偽裝造訪的神祇——如加爾·閃金、貝爾萬·野旅者和巴拉瓦·影篷——那裡學到了魔法。這些魔法最終形成了森林侏儒和岩石侏儒的血統。</p><p>侏儒是身材嬌小、大眼睛、尖耳的種族，壽命約425年。許多侏儒喜歡頭上有屋頂的感覺，即使那個「屋頂」只是一頂帽子。</p><h3 data-anchor=\"gnome-traits\">侏儒特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>小型（約3-4英尺高）</p><p><strong>速度：</strong>30英尺</p><p>作為侏儒，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>侏儒狡詐。</strong>你在智力、感知和魅力豁免檢定中具有優勢。</p><p><strong>侏儒血統。</strong>你屬於一個賦予你超自然能力的血統。無論你選擇哪個血統，智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）：</p><p><strong>岩石侏儒。</strong>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMending000]{修補術}和@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi]{魔法伎倆}兩個戲法。此外，你可以花費10分鐘施展<em>魔法伎倆</em>來創造一個微型發條裝置（護甲等級5，1生命值），如玩具、點火器或音樂盒。當你創造該裝置時，通過從<em>魔法伎倆</em>中選擇一個效果來決定其功能；只要你或另一個生物以獎勵動作觸碰啟動它，該裝置就會產生該效果。如果所選效果內有選項，你在創造裝置時為其選擇其中一個選項。例如，如果你選擇法術的點燃-熄滅效果，你決定該裝置是點燃還是熄滅火焰；該裝置不會同時具備兩者功能。你最多同時擁有三個這樣的裝置，每個裝置在創造後8小時或你以使用動作觸碰拆解它時解體。</p>"
     },
     "Gnomish Cunning": {
-      "name": "侏儒狡黠 Gnomish Cunning"
+      "name": "侏儒狡詐",
+      "description": "<p>你在智力、感知和魅力豁免檢定中具有優勢。</p>"
     },
     "Gnomish Lineage": {
-      "name": "侏儒血脈 Gnomish Lineage"
+      "name": "侏儒血脈",
+      "description": "<p>你屬於一個賦予你超自然能力的血統。無論你選擇哪個血統，智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血統時決定該屬性）。</p>\n<p><strong>@UUID[Compendium.dnd-players-handbook.origins.Item.phbspForestGnome]{森林侏儒}</strong></p>\n<p>@Embed[Compendium.dnd-players-handbook.origins.Item.phbsptForestGnom secrets=false inline]{侏儒血脈，森林}</p>\n<p><strong>@UUID[Compendium.dnd-players-handbook.origins.Item.phbspRockGnome00]{岩石侏儒}</strong> @Embed[Compendium.dnd-players-handbook.origins.Item.phbsptRockGnomeL inline]{侏儒血脈，岩石}</p>"
     },
     "Gnomish Lineage, Forest": {
-      "name": "森林, 侏儒血脈"
+      "name": "森林, 侏儒血脈",
+      "description": "<p>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMending000]{修補術}和@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi]{魔法伎倆}戲法。此外，你可以花費10分鐘施展<em>魔法伎倆</em>來創造一個微型發條裝置（AC 5，1生命值），例如玩具、點火器或音樂盒。在創造該裝置時，你通過從<em>魔法伎倆</em>中選擇一個效果來決定其功能；每當你或其他生物以獎勵動作觸碰啟動它時，該裝置產生該效果。如果所選效果內含多個選項，你在創造裝置時為其選擇其中一個選項。例如，若你選擇法術的點火-熄滅效果，你決定該裝置是點火還是熄滅火焰；該裝置不會同時具備兩種功能。你同時最多可以擁有三個這樣的裝置，每個裝置在創造後8小時或當你以使用動作觸碰拆解它時會解體。</p>"
     },
     "Gnomish Lineage, Rock": {
-      "name": "岩石, 侏儒血脈"
+      "name": "岩石, 侏儒血脈",
+      "description": "<p>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMending000]{修補術}和@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPrestidigi]{魔法伎倆}戲法。此外，你可以花費10分鐘施展<em>魔法伎倆</em>來創造一個微型發條裝置（AC 5，1生命值），例如玩具、點火器或音樂盒。在創造該裝置時，你通過從<em>魔法伎倆</em>中選擇一個效果來決定其功能；每當你或其他生物以獎勵動作觸碰啟動它時，該裝置產生該效果。如果所選效果內含多個選項，你在創造裝置時為其選擇其中一個選項。例如，若你選擇法術的點火-熄滅效果，你決定該裝置是點火還是熄滅火焰；該裝置不會同時具備兩種功能。你同時最多可以擁有三個這樣的裝置，每個裝置在創造後8小時或當你以使用動作觸碰拆解它時會解體。</p>"
     },
     "Goliath": {
       "name": "巨人裔",
-      "description": "<p>巨人裔身形高大，超過大多數種族，是巨人的遠親。每個巨人裔都承載著最初巨人的恩賜——這些恩賜以各種超自然能力顯現，包括迅速成長並暫時接近巨人裔巨大親族的體型。</p><p>巨人裔擁有與其家族血脈中巨人相似的身體特徵。例如，一些巨人裔外貌似石巨人，而其他則像火巨人。無論他們視哪些巨人為親族，巨人裔在多元宇宙中開闢了自己的道路——不受困於數世紀以來摧殘巨人間的內戰——並追求超越其祖先所達高度的成就。</p><h3 data-anchor=\"goliath-traits\">巨人裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約7-8英尺高）</p><p><strong>速度：</strong>35英尺</p><p>作為巨人裔，你擁有以下特殊特質。</p><p><strong>巨人血統。</strong>你是巨人的後裔。從以下選項中選擇一項恩賜——來自你血統的超自然能力；你可以使用所選恩賜的次數等於你的熟練加值，完成一次長休後恢復所有已使用次數：</p><p><strong>雲之躍（雲巨人）。</strong>作為一個獎勵動作，你魔法傳送至你可見的無人空間，最遠30英尺。</p><p><strong>火之灼（火巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。</p><p><strong>霜之寒（霜巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。</p><p><strong>丘之摔（丘巨人）。</strong>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得&Reference[Prone]狀態。</p><p><strong>石之耐（石巨人）。</strong>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。</p><p><strong>暴之雷（暴風巨人）。</strong>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。</p><p><strong>巨型形態。</strong>從角色5級開始，如果空間足夠，你可以用一個獎勵動作將體型變為大型。此變形持續10分鐘，或直到你主動結束（無需動作）。在此期間，你在力量檢定中具有優勢，且你的速度增加10英尺。一旦你使用此特質，需完成一次長休才能再次使用。</p><p><strong>強健體格。</strong>你在結束抓取狀態的能力檢定中具有優勢。在確定你的攜帶能力時，你的體型視為比實際大一級。</p>"
+      "description": "<p>巨人裔身形高大，超過大多數種族，是巨人的遠親。每個巨人裔都承載著最初巨人的恩賜——這些恩賜以各種超自然能力顯現，包括迅速成長並暫時接近巨人裔巨大親族的體型。</p><p>巨人裔擁有與其家族血脈中巨人相似的身體特徵。例如，一些巨人裔外貌似石巨人，而其他則像火巨人。無論他們視哪些巨人為親族，巨人裔在多元宇宙中開闢了自己的道路——不受困於數世紀以來摧殘巨人間的內戰——並追求超越其祖先所達高度的成就。</p><h3 data-anchor=\"goliath-traits\">巨人裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約7-8英尺高）</p><p><strong>速度：</strong>35英尺</p><p>作為巨人裔，你擁有以下特殊特質。</p><p><strong>巨人血統。</strong>你是巨人的後裔。從以下選項中選擇一項恩賜——來自你血統的超自然能力；你可以使用所選恩賜的次數等於你的熟練加值，完成一次長休後恢復所有已使用次數：</p><p><strong>雲之躍（雲巨人）。</strong>作為一個獎勵動作，你魔法傳送至你可見的無人空間，最遠30英尺。</p><p><strong>火之灼（火巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。</p><p><strong>霜之寒（霜巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。</p><p><strong>山丘巨人之摔（山丘巨人）。</strong>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得&Reference[Prone]狀態。</p><p><strong>石之耐（石巨人）。</strong>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。</p><p><strong>暴之雷（暴風巨人）。</strong>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。</p><p><strong>巨型形態。</strong>從角色5級開始，如果空間足夠，你可以用一個獎勵動作將體型變為大型。此變形持續10分鐘，或直到你主動結束（無需動作）。在此期間，你在力量檢定中具有優勢，且你的速度增加10英尺。一旦你使用此特質，需完成一次長休才能再次使用。</p><p><strong>強健體格。</strong>你在結束抓取狀態的能力檢定中具有優勢。在確定你的攜帶能力時，你的體型視為比實際大一級。</p>"
     },
     "Guard": {
       "name": "守衛",
@@ -164,14 +176,16 @@
       "description": "<p><strong>能力值 Ability Scores:</strong> 體質 CON、感知 WIS、魅力 CHA</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftHealer00000]{醫者 Healer}</p><p><strong>技能熟練 Skill Proficiencies:</strong> 醫藥 Medicine 和 宗教 Religion</p><p><strong>工具熟練 Tool Proficiency:</strong> 草藥工具 Herbalism Kit</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepQuartersta]{長棍 Quarterstaff}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulHerbalismK]{草藥工具 Herbalism Kit}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBedroll0000]{睡袋 Bedroll}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBook0000000]{書籍 Book (哲學 philosophy)}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagLamp0000000]{燈 Lamp}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagOil00000000]{油 Oil (3瓶 flasks)}、@UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{旅者服 Traveler’s Clothes}、16金幣 GP；或 (B) 50金幣 GP</p><p>你早年隱居在遠離塵囂的茅屋或修道院中，距離最近的定居點甚遠。那時，森林中的生物和偶爾來訪、帶來外界消息與補給的人是你僅有的同伴。這種孤獨的生活使你得以花費許多時間沉思造物的奧秘。</p>"
     },
     "Hill's Tumble": {
-      "name": "山丘巨人之絆 Hill's Tumble"
+      "name": "山丘巨人之摔",
+      "description": "<p>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得&Reference[Prone]倒地狀態。</p>"
     },
     "Human": {
       "name": "人類",
       "description": "<p>人類遍布多元宇宙，其多樣性與數量相匹配，他們致力於在有限的年歲中盡可能實現目標。他們的野心與機智在許多世界中受到讚揚、尊敬與fear。</p><p>人類在外貌上如同地球上的人們一樣多樣，他們信奉眾多神祇。學者們對於人類起源爭論不休，但據說已知最早的人類聚集地之一位於印記城——這座位於多元宇宙中心的環形城市，也是通用語誕生的地方。從那裡，人類可能擴散到了多元宇宙的每個角落，帶著門之城的多元文化特色。</p><h3 data-anchor=\"human-traits\">人類特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約4-7英尺高）或小型（約2-4英尺高），在選擇此種族時決定</p><p><strong>速度：</strong>30英尺</p><p>作為人類，你擁有以下特殊特質。</p><p><strong>足智多謀。</strong>每當你完成一次長休，你獲得一次英雄激勵。</p><p><strong>熟練技能。</strong>你獲得一個你選擇的技能熟練度。</p><p><strong>多才多藝。</strong>你獲得一個你選擇的起源專長（見第5章）。推薦選擇「熟練」。</p>"
     },
     "Keen Senses": {
-      "name": "敏銳感官 Keen Senses"
+      "name": "敏銳感官",
+      "description": "<p>你對洞悉、感知或生存技能具有熟練。</p>\n<section class=\"secret\" id=\"secret-Tecxufp7EFDVqTEY\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>在選擇此種族後，你將被提示進行選擇。</p>\n</section>"
     },
     "Large Form": {
       "name": "巨大型態 Large Form"
@@ -234,7 +248,8 @@
       "name": "石巨人之耐 Stone's Endurance"
     },
     "Stonecunning": {
-      "name": "石頭敏銳 Stonecunning"
+      "name": "石頭敏銳",
+      "description": "<p>作為一個獎勵動作，你獲得範圍60英尺的&Reference[Tremorsense]，持續10分鐘。你必須站在石頭表面或觸碰石頭表面才能使用此震顫感知。石頭可以是天然的或加工過的。你可以使用此獎勵動作的次數等於你的熟練加值，並在完成一次長休後恢復所有已使用次數。</p>\n<section class=\"secret\" id=\"secret-7BtT80083mC3Eavg\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特質包含有限使用次數和一個賦予你60英尺震顫感知的主動效果。它不會自動更新你的角色標記的視野設置。</p>\n</section>"
     },
     "Storm's Thunder": {
       "name": "暴風雷霆 Storm's Thunder"
@@ -252,7 +267,8 @@
       "description": "<p>魔裔要麼出生於下層位面，要麼擁有源自那裡的惡魔祖先。魔裔（發音為 TEE-fling）通過血脈與魔鬼、惡魔或其他魔族相連。這種與下層位面的聯繫是魔裔的魔裔血脈，它帶來了力量的承諾，但對魔裔的道德觀點沒有影響。</p><p>魔裔可以選擇接受還是哀嘆他們的魔裔血脈。</p><h3 data-anchor=\"infernal\">煉獄</h3><p>煉獄血脈將魔裔不僅與格赫納聯繫起來，還與九層地獄和阿刻隆的激烈戰場相連。角、刺、尾巴、金色眼睛以及淡淡的硫磺或煙霧氣味是這類魔裔常見的身體特徵，他們大多數追溯其祖先至魔鬼。</p><h3 data-anchor=\"tiefling-traits\">魔裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約4-7英尺高）或小型（約3-4英尺高），在選擇此種族時決定</p><p><strong>速度：</strong>30英尺</p><p>作為魔裔，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>魔裔血脈。</strong>你是賦予你超自然能力的血脈的接受者。</p><p>當你的角色達到3級和5級時，你會學到更高級的法術，如表所示。你始終準備好該法術。你可以不消耗法術位使用它一次，並在完成一次長休後恢復此能力。你也可以使用適當等級的法術位來施展該法術。智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血脈時決定該屬性）。</p><p><strong>異界氣場。</strong>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplThaumaturg]{奇術}戲法。當你以此特質施展它時，該法術使用與你的魔裔血脈特質相同的施法屬性。</p><table><caption>魔裔血脈</caption><thead><tr><td>1級</td><td>3級</td><td>5級</td></tr></thead><tbody><tr><td>你對火焰傷害具有抗性。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFireBolt00]{火焰箭}戲法。</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHellishReb]{地獄斥責}法術</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDarkness00]{黑暗術}法術</td></tr></tbody></table>"
     },
     "Trance": {
-      "name": "冥想 Trance"
+      "name": "冥想",
+      "description": "<p>你無需睡眠，魔法也無法讓你入睡。如果你將4小時花在類似冥想的狀態中，你可以在4小時內完成一次長休，在此期間你保持意識。</p>"
     },
     "Versatile": {
       "name": "多才多藝 Versatile"
