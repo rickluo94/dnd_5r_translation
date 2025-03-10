@@ -107,7 +107,7 @@
       "name": "弩矢匣 Case, Crossbow Bolt"
     },
     "Case, Map or Scroll": {
-      "name": "地圖或卷軸匣 Case, Map or Scroll"
+      "name": "地圖或卷軸盒 Case, Map or Scroll"
     },
     "Chain": {
       "name": "鎖鏈 Chain"
@@ -287,7 +287,7 @@
       "name": "珠寶匠工具 Jeweler's Tools"
     },
     "Jug": {
-      "name": "壺 Jug"
+      "name": "水壺 Jug"
     },
     "Ladder": {
       "name": "梯子 Ladder"
@@ -344,7 +344,7 @@
       "name": "地圖 Map"
     },
     "Map or Scroll Case": {
-      "name": "地圖或卷軸匣 Map or Scroll Case"
+      "name": "地圖或卷軸盒 Map or Scroll Case"
     },
     "Mason's Tools": {
       "name": "石匠工具 Mason's Tools"
