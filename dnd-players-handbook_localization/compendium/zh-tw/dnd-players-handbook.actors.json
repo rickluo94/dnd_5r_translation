@@ -881,7 +881,7 @@
         },
         "Skillful": {
           "name": "熟練技能",
-          "description": "<p>你對一項由你選擇的技能獲得熟練。</p>\n<section class=\"secret\" id=\"secret-lvP62g2xTxkz2VN3\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族時，你將被提示進行此選擇。</p>\n</section>"
+          "description": "<p>選擇一項技能獲得熟練。</p>\n<section class=\"secret\" id=\"secret-lvP62g2xTxkz2VN3\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族時，你將被提示進行此選擇。</p>\n</section>"
         },
         "Versatile": {
           "name": "多才多藝",

@@ -186,7 +186,7 @@
     },
     "Human": {
       "name": "人類",
-      "description": "<p>人類遍布多元宇宙，其多樣性與數量相匹配，他們致力於在有限的年歲中盡可能實現目標。他們的野心與機智在許多世界中受到讚揚、尊敬與fear。</p><p>人類在外貌上如同地球上的人們一樣多樣，他們信奉眾多神祇。學者們對於人類起源爭論不休，但據說已知最早的人類聚集地之一位於印記城——這座位於多元宇宙中心的環形城市，也是通用語誕生的地方。從那裡，人類可能擴散到了多元宇宙的每個角落，帶著門之城的多元文化特色。</p><h3 data-anchor=\"human-traits\">人類特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約4-7英尺高）或小型（約2-4英尺高），在選擇此種族時決定</p><p><strong>速度：</strong>30英尺</p><p>作為人類，你擁有以下特殊特質。</p><p><strong>足智多謀。</strong>每當你完成一次長休，你獲得一次英雄激勵。</p><p><strong>熟練技能。</strong>你獲得一個你選擇的技能熟練度。</p><p><strong>多才多藝。</strong>你獲得一個你選擇的起源專長（見第5章）。推薦選擇「熟練」。</p>"
+      "description": "<p>人類遍布多元宇宙，其多樣性與數量相匹配，他們致力於在有限的年歲中盡可能實現目標。他們的野心與機智在許多世界中受到讚揚、尊敬與fear。</p><p>人類在外貌上如同地球上的人們一樣多樣，他們信奉眾多神祇。學者們對於人類起源爭論不休，但據說已知最早的人類聚集地之一位於印記城——這座位於多元宇宙中心的環形城市，也是通用語誕生的地方。從那裡，人類可能擴散到了多元宇宙的每個角落，帶著門之城的多元文化特色。</p><h3 data-anchor=\"human-traits\">人類特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約4-7英尺高）或小型（約2-4英尺高），在選擇此種族時決定</p><p><strong>速度：</strong>30英尺</p><p>作為人類，你擁有以下特殊特質。</p><p><strong>足智多謀。</strong>每當你完成一次長休，你獲得一次英雄激勵。</p><p><strong>熟練技能。</strong>選擇一項技能獲得熟練。</p><p><strong>多才多藝。</strong>你獲得一個你選擇的起源專長（見第5章）。推薦選擇「熟練」。</p>"
     },
     "Keen Senses": {
       "name": "敏銳感官",
@@ -231,7 +231,7 @@
       "name": "不屈耐力 Relentless Endurance"
     },
     "Resourceful": {
-      "name": "足智多謀 Resourceful",
+      "name": "足智多謀",
       "description": "<p>每當你完成一次長休時，你獲得英雄激勵。</p>"
     },
     "Sage": {
@@ -248,7 +248,7 @@
     },
     "Skillful": {
       "name": "熟練技能",
-      "description": "<p>你對一項由你選擇的技能獲得熟練。</p>\n<section class=\"secret\" id=\"secret-lvP62g2xTxkz2VN3\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族時，你將被提示進行此選擇。</p>\n</section>"
+      "description": "<p>選擇一項技能獲得熟練。</p>\n<section class=\"secret\" id=\"secret-lvP62g2xTxkz2VN3\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族時，你將被提示進行此選擇。</p>\n</section>"
     },
     "Soldier": {
       "name": "士兵",
