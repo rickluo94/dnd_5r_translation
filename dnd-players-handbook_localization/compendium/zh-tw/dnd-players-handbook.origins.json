@@ -10,7 +10,8 @@
       "description": "<p><strong>能力值 Ability Scores:</strong> 智力 INT、感知 WIS、魅力 CHA</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftMagicInitia]{魔法入門 Magic Initiate}（牧師）</p><p><strong>技能熟練 Skill Proficiencies:</strong> 洞悉 Insight 和 宗教 Religion</p><p><strong>工具熟練 Tool Proficiency:</strong> 書法工具 Calligrapher’s Supplies</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) @UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulCalligraph]{書法工具 Calligrapher’s Supplies}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBook0000000]{書籍 Book}（祈禱書）、聖符 Holy Symbol、@UUID[Compendium.dnd5e.items.Item.9c0CHs90xqPw81iP]{羊皮紙 Parchment}（10張）、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagRobe0000000]{長袍 Robe}、8金幣 GP；或 (B) 50金幣 GP</p><p>你投身於一座神殿的服務，無論是位於小鎮還是隱於聖林。在那裡，你執行儀式以榮耀某位神祇或神系。你在一位祭司下服務並學習宗教。感謝祭司的指導與你自身的虔誠，你還學會如何引導少量神聖力量，服務於你的崇拜場所及在那裡祈禱的人們。</p>"
     },
     "Adrenaline Rush": {
-      "name": "激昂衝鋒 Adrenaline Rush"
+      "name": "激昂衝鋒",
+      "description": "<p>你可以用一個獎勵動作採取衝刺動作。當你這樣做時，你獲得等於你熟練加值的臨時生命值。你可以使用此特質的次數等於你的熟練加值，並在完成一次短休或長休後恢復所有已使用次數。</p>"
     },
     "Artisan": {
       "name": "工匠",
@@ -105,16 +106,20 @@
       "description": "<p>你在避免或結束&Reference[Charmed]狀態的豁免檢定中具有優勢。</p>"
     },
     "Fiendish Legacy": {
-      "name": "魔裔血脈 Fiendish Legacy"
+      "name": "魔裔血脈",
+      "description": "<p><em><strong>魔裔血脈。</strong></em> 魔裔血脈賦予你超自然能力。從魔裔血脈表中選擇一個血脈，獲得該血脈的1級能力。</p>\n<p>當你達到角色等級3和5時，你學會表中所示的更高級法術。你始終準備該法術，可不消耗法術位施展一次，完成長休後恢復此能力。你也可用適當等級的法術位施展該法術。</p>\n<p>智力、感知或魅力是你使用此特質施展法術的能力（選擇血脈時決定）。</p>"
     },
     "Fiendish Legacy, Abyssal": {
-      "name": "深淵, 魔裔血脈 Fiendish Legacy, Abyssal"
+      "name": "深淵, 魔裔血脈",
+      "description": "<p>魔裔血脈賦予你超自然能力。</p>\n<p>當你達到角色等 худ碼碼等級3和5時，你學會表中所示的更高級法術。你始終準備該法術，可不消耗法術位施展一次，完成長休後恢復此能力。你也可用適當等級的法術位施展該法術。智力、感知或魅力是你使用此特質施展法術的能力（選擇血脈時決定）。</p>\n<h3 data-anchor=\"abyssal\">深淵血脈</h3>\n<p>深淵的混亂、潘德摩尼姆的瘋狂以及卡瑟利的絕望召喚著擁有深淵血脈的魔裔。角、毛皮、獠牙和奇特的氣味是這類魔裔的常見身體特徵，他們大多數有惡魔之血流淌於脈中。</p>\n<table>\n    <caption>深淵血脈特性</caption>\n    <thead>\n        <tr>\n            <td>1級</td>\n            <td>3級</td>\n            <td>5級</td>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>你對毒素傷害具有抗性。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPoisonSpra]{毒霧}戲法。</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplRayofSickn]{病痛射線}法術</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHoldPerson]{人類定身術}法術</td>\n        </tr>\n    </tbody>\n</table>\n<section class=\"secret\" id=\"secret-AZFLMUN7pgAxMG7Q\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>抗性和法術將自動授予你，並在進階過程中提示你選擇施法屬性。</p>\n</section>"
     },
     "Fiendish Legacy, Chthonic": {
-      "name": "幽冥, 魔裔血脈Fiendish Legacy, Chthonic"
+      "name": "幽冥, 魔裔血脈",
+      "description": "<p>魔裔血脈賦予你超自然能力。</p>\n<p>當你達到角色等級3和5時，你學會表中所示的更高級法術。你始終準備該法術，可不消耗法術位施展一次，完成長休後恢復此能力。你也可用適當等級的法術位施展該法術。智力、感知或魅力是你使用此特質施展法術的能力（選擇血脈時決定）。</p>\n<h3 data-anchor=\"chthonic\">幽冥血脈</h3>\n<p>擁有幽冥血脈的魔裔不僅感受到卡瑟利的牽引，還感受到格赫納的貪婪與哈迪斯的陰鬱。其中一些魔裔外貌似屍體般蒼白，其他則擁有魅魔般的超凡美感，或帶有夜巫、尤葛洛斯或其他中立邪惡魔鬼祖先的物理特徵。</p>\n<table>\n    <caption>幽冥血脈特性</caption>\n    <thead>\n        <tr>\n            <td>1級</td>\n            <td>3級</td>\n            <td>5級</td>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>你對死靈傷害具有抗性。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplChillTouch]{寒冷觸碰}戲法。</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFalseLife0]{虛假生命}法術</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplRayofEnfee]{虛弱射線}法術</td>\n        </tr>\n    </tbody>\n</table>\n<section class=\"secret\" id=\"secret-GmBAOZVbkBYItbCL\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>抗性和法術將自動授予你，並在進階過程中提示你選擇施法屬性。</p>\n</section>"
     },
     "Fiendish Legacy, Infernal": {
-      "name": "煉獄, 魔裔血脈 Fiendish Legacy, Infernal"
+      "name": "地獄, 魔裔血脈",
+      "description": "<p>魔裔血脈賦予你超自然能力。</p>\n<p>當你達到角色等級3和5時，你學會表中所示的更高級法術。你始終準備該法術，可不消耗法術位施展一次，完成長休後恢復此能力。你也可用適當等級的法術位施展該法術。智力、感知或魅力是你使用此特質施展法術的能力（選擇血脈時決定）。</p>\n<h3 data-anchor=\"infernal\">地獄血脈</h3>\n<p>地獄血脈將魔裔不僅與格赫納相連，還與九層地獄和阿刻隆的激烈戰場聯繫起來。角、刺、尾巴、金色眼睛以及淡淡的硫磺或煙霧氣味是這類魔裔的常見身體特徵，他們大多數追溯其血統至魔鬼。</p>\n<table>\n    <caption>地獄血脈特性</caption>\n    <thead>\n        <tr>\n            <td>1級</td>\n            <td>3級</td>\n            <td>5級</td>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>你對火焰傷害具有抗性。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFireBolt00]{火焰箭}戲法。</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHellishReb]{地獄斥責}法術</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDarkness00]{黑暗術}法術</td>\n        </tr>\n    </tbody>\n</table>\n<section class=\"secret\" id=\"secret-UpLnecebx3jeydEG\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>抗性和法術將自動授予你，並在進階過程中提示你選擇施法屬性。</p>\n</section>"
     },
     "Fire's Burn": {
       "name": "火巨人之灼",
@@ -221,14 +226,16 @@
       "description": "<p>獸人追溯其創造至格魯姆什，一位在物質位面廣闊空間漫遊的強大神祇。格魯姆什賦予他的子民禮物，幫助他們穿越廣大的平原、巨大的洞穴和洶湧的海洋，並面對潛伏其中的怪獸。即使他們轉而信奉其他神祇，獸人仍保留了格魯姆什的恩賜：耐力、決心和在黑暗中視物的能力。</p><p>獸人平均身材高大寬闊。他們有灰色皮膚，尖銳的耳朵，突出的下犬齒酷似小獠牙。在一些世界中，獸人青年聽聞祖先偉大的旅行與磨難故事。受這些故事啟發，許多獸人思索格魯姆什何時會召喚他們重現古老的英雄事蹟，以及他們是否能證明自己配得上他的青睞。其他獸人則樂於將古老故事留在過去，尋找自己的道路。</p><h3 data-anchor=\"orc-traits\">獸人特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約6-7英尺高）</p><p><strong>速度：</strong>30英尺</p><p>作為獸人，你擁有以下特殊特質。</p><p><strong>腎上腺素激發。</strong>你可以作為一個獎勵動作採取衝刺動作。當你這麼做時，你獲得等於你熟練加值的臨時生命值。你可以使用此特質的次數等於你的熟練加值，並在完成一次短休或長休後恢復所有已使用次數。</p><p><strong>黑暗視覺。</strong>你擁有範圍120英尺的黑暗視覺。</p><p><strong>不屈耐力。</strong>當你的生命值降至0但未被直接殺死時，你可以降至1生命值而非倒下。一旦你使用此特質，需完成一次長休才能再次使用。</p>"
     },
     "Otherworldly Presence": {
-      "name": "異界氣場 Otherworldly Presence"
+      "name": "異界氣場",
+      "description": "<p>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplThaumaturg]{奇術}戲法。當你以此特質施展該法術時，使用的施法屬性與你的魔裔血脈特質相同。</p>\n<section class=\"secret\" id=\"secret-i3PjM9HLuO2Xcae7\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你獲得此法術時，它將允許你選擇你的施法屬性。</p>\n</section>"
     },
     "Powerful Build": {
       "name": "強健體魄",
       "description": "<p>你在結束&Reference[Grappled]擒抱狀態的任何能力檢定中具有優勢。此外，在確定你的攜帶容量時，你的體型視為比實際大一級。</p>\n<section class=\"secret\" id=\"secret-7qaTRjmRe4PD41G3\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特質包含一個主動效果，會在確定攜帶容量時自動提升你的體型。</p>\n</section>"
     },
     "Relentless Endurance": {
-      "name": "不屈耐力 Relentless Endurance"
+      "name": "不屈耐力",
+      "description": "<p>當你的生命值降至0但未被直接擊殺時，你可以選擇降至1生命值。一旦你使用此特質，需完成一次長休才能再次使用。</p>"
     },
     "Resourceful": {
       "name": "足智多謀",
@@ -275,8 +282,8 @@
       "description": "<p>魔裔要麼出生於下層位面，要麼擁有源自那裡的惡魔祖先。魔裔（發音為 TEE-fling）通過血脈與魔鬼、惡魔或其他魔族相連。這種與下層位面的聯繫是魔裔的魔裔血脈，它帶來了力量的承諾，但對魔裔的道德觀點沒有影響。</p><p>魔裔可以選擇接受還是哀嘆他們的魔裔血脈。</p><h3 data-anchor=\"chthonic\">幽冥</h3><p>擁有幽冥血脈的魔裔不僅感受到卡瑟利的牽引，還感受到格赫納的貪婪和哈迪斯的陰鬱。其中一些魔裔外貌似屍體，另一些則擁有魅魔般的超凡美感，或者與夜巫婆、尤葛洛斯或其他中立邪惡魔族祖先有共同的身體特徵。</p><h3 data-anchor=\"tiefling-traits\">魔裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約4-7英尺高）或小型（約3-4英尺高），在選擇此種族時決定</p><p><strong>速度：</strong>30英尺</p><p>作為魔裔，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>魔裔血脈。</strong>你是賦予你超自然能力的血脈的接受者。</p><p>當你的角色達到3級和5級時，你會學到更高級的法術，如表所示。你始終準備好該法術。你可以不消耗法術位使用它一次，並在完成一次長休後恢復此能力。你也可以使用適當等級的法術位來施展該法術。智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血脈時決定該屬性）。</p><p><strong>異界氣場。</strong>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplThaumaturg]{奇術}戲法。當你以此特質施展它時，該法術使用與你的魔裔血脈特質相同的施法屬性。</p><table><caption>魔裔血脈</caption><thead><tr><td>1級</td><td>3級</td><td>5級</td></tr></thead><tbody><tr><td>你對死靈傷害具有抗性。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplChillTouch]{寒冰觸碰}戲法。</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFalseLife0]{虛假生命}法術</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplRayofEnfee]{虛弱射線}法術</td></tr></tbody></table>"
     },
     "Tiefling, Infernal": {
-      "name": "煉獄, 魔裔",
-      "description": "<p>魔裔要麼出生於下層位面，要麼擁有源自那裡的惡魔祖先。魔裔（發音為 TEE-fling）通過血脈與魔鬼、惡魔或其他魔族相連。這種與下層位面的聯繫是魔裔的魔裔血脈，它帶來了力量的承諾，但對魔裔的道德觀點沒有影響。</p><p>魔裔可以選擇接受還是哀嘆他們的魔裔血脈。</p><h3 data-anchor=\"infernal\">煉獄</h3><p>煉獄血脈將魔裔不僅與格赫納聯繫起來，還與九層地獄和阿刻隆的激烈戰場相連。角、刺、尾巴、金色眼睛以及淡淡的硫磺或煙霧氣味是這類魔裔常見的身體特徵，他們大多數追溯其祖先至魔鬼。</p><h3 data-anchor=\"tiefling-traits\">魔裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約4-7英尺高）或小型（約3-4英尺高），在選擇此種族時決定</p><p><strong>速度：</strong>30英尺</p><p>作為魔裔，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>魔裔血脈。</strong>你是賦予你超自然能力的血脈的接受者。</p><p>當你的角色達到3級和5級時，你會學到更高級的法術，如表所示。你始終準備好該法術。你可以不消耗法術位使用它一次，並在完成一次長休後恢復此能力。你也可以使用適當等級的法術位來施展該法術。智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血脈時決定該屬性）。</p><p><strong>異界氣場。</strong>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplThaumaturg]{奇術}戲法。當你以此特質施展它時，該法術使用與你的魔裔血脈特質相同的施法屬性。</p><table><caption>魔裔血脈</caption><thead><tr><td>1級</td><td>3級</td><td>5級</td></tr></thead><tbody><tr><td>你對火焰傷害具有抗性。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFireBolt00]{火焰箭}戲法。</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHellishReb]{地獄斥責}法術</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDarkness00]{黑暗術}法術</td></tr></tbody></table>"
+      "name": "地獄, 魔裔",
+      "description": "<p>魔裔要麼出生於下層位面，要麼擁有源自那裡的惡魔祖先。魔裔（發音為 TEE-fling）通過血脈與魔鬼、惡魔或其他魔族相連。這種與下層位面的聯繫是魔裔的魔裔血脈，它帶來了力量的承諾，但對魔裔的道德觀點沒有影響。</p><p>魔裔可以選擇接受還是哀嘆他們的魔裔血脈。</p><h3 data-anchor=\"infernal\">地獄</h3><p>地獄血脈將魔裔不僅與格赫納聯繫起來，還與九層地獄和阿刻隆的激烈戰場相連。角、刺、尾巴、金色眼睛以及淡淡的硫磺或煙霧氣味是這類魔裔常見的身體特徵，他們大多數追溯其祖先至魔鬼。</p><h3 data-anchor=\"tiefling-traits\">魔裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約4-7英尺高）或小型（約3-4英尺高），在選擇此種族時決定</p><p><strong>速度：</strong>30英尺</p><p>作為魔裔，你擁有以下特殊特質。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>魔裔血脈。</strong>你是賦予你超自然能力的血脈的接受者。</p><p>當你的角色達到3級和5級時，你會學到更高級的法術，如表所示。你始終準備好該法術。你可以不消耗法術位使用它一次，並在完成一次長休後恢復此能力。你也可以使用適當等級的法術位來施展該法術。智力、感知或魅力是你使用此特質施展法術的施法屬性（在選擇血脈時決定該屬性）。</p><p><strong>異界氣場。</strong>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplThaumaturg]{奇術}戲法。當你以此特質施展它時，該法術使用與你的魔裔血脈特質相同的施法屬性。</p><table><caption>魔裔血脈</caption><thead><tr><td>1級</td><td>3級</td><td>5級</td></tr></thead><tbody><tr><td>你對火焰傷害具有抗性。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFireBolt00]{火焰箭}戲法。</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHellishReb]{地獄斥責}法術</td><td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDarkness00]{黑暗術}法術</td></tr></tbody></table>"
     },
     "Trance": {
       "name": "冥想",
