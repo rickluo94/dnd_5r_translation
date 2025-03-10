@@ -11,7 +11,7 @@
     },
     "Alert": {
       "name": "警覺",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>先攻熟練。</strong> 當你進行先攻檢定時，可以將你的熟練加值加入擲骰中。</p>\n<p><strong>先攻交換。</strong> 在你進行先攻檢定後，你可以立即與同一戰鬥中一位自願盟友交換先攻值。如果你的盟友或你處於&Reference[無力狀態]，則無法進行此交換。</p>\n<section class=\"secret\" id=\"secret-yzfXk3D5M1jv9ixH\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能會自動將加值應用於你的先攻。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>先攻熟練。</strong> 當你進行先攻檢定時，可以將你的熟練加值加入擲骰中。</p>\n<p><strong>先攻交換。</strong> 在你進行先攻檢定後，你可以立即與同一戰鬥中一位自願盟友交換先攻值。如果你的盟友或你處於&Reference[Incapacitated]，則無法進行此交換。</p>\n<section class=\"secret\" id=\"secret-yzfXk3D5M1jv9ixH\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能會自動將加值應用於你的先攻。</p>\n</section>"
     },
     "Archery": {
       "name": "射術戰鬥",
@@ -19,11 +19,11 @@
     },
     "Athlete": {
       "name": "運動健將",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>攀爬速度。</strong> 你獲得等同於你移動速度的攀爬速度。</p>\n<p><strong>快速起身。</strong> 當你處於&Reference[俯臥]狀態時，只需5英尺的移動即可站起。</p>\n<p><strong>跳躍。</strong> 你只需移動5英尺即可進行助跑的&Reference[長跳]或&Reference[高跳]。</p>\n<section class=\"secret\" id=\"secret-HwMnjjLPfn97FUqL\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此專長不會自動應用效果。你可以在角色表的“編輯”模式下，點擊“步行”上方（生命值欄上方）的“齒輪”圖標來添加攀爬速度。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>攀爬速度。</strong> 你獲得等同於你移動速度的攀爬速度。</p>\n<p><strong>快速起身。</strong> 當你處於&Reference[俯臥]狀態時，只需5英尺的移動即可站起。</p>\n<p><strong>跳躍。</strong> 你只需移動5英尺即可進行助跑的&Reference[Long Jump]或&Reference[High Jump]。</p>\n<section class=\"secret\" id=\"secret-HwMnjjLPfn97FUqL\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此專長不會自動應用效果。你可以在角色表的“編輯”模式下，點擊“步行”上方（生命值欄上方）的“齒輪”圖標來添加攀爬速度。</p>\n</section>"
     },
     "Blessed Warrior": {
       "name": "受祝戰士",
-      "description": "<p>你學會兩個你選擇的@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj#cantrip]{牧師戲法}。推薦選擇<em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplGuidance00]{引導術}</em>和<em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplSacredFlam]{聖焰術}</em>。這些戲法對你來說視為聖武士法術，你的施法能力為魅力。每當你提升聖武士等級時，可以將其中一個戲法替換為另一個牧師戲法。</p>"
+      "description": "<p>你學會兩個你選擇的@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.SkHptN2PTzFGDaEj#cantrip]{牧師戲法}。推薦選擇<em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplGuidance00]{神導術}</em>和<em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplSacredFlam]{聖焰術}</em>。這些戲法對你來說視為聖武士法術，你的施法能力為魅力。每當你提升聖武士等級時，可以將其中一個戲法替換為另一個牧師戲法。</p>"
     },
     "Blind Fighting": {
       "name": "目盲戰鬥",
@@ -39,7 +39,7 @@
     },
     "Boon of Energy Resistance": {
       "name": "能量抗性恩賜",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你選擇的一項屬性值提升1點，最高至30。</p>\n<p><strong>能量抗性。</strong> 你對以下你選擇的兩種傷害類型獲得抗性：酸、寒冷、火焰、閃電、死靈、毒素、心靈、輝煌或雷鳴。每當你完成一次長休時，可以更改你的選擇。</p>\n<p><strong>能量轉向。</strong> 當你受到你選擇的能量抗性傷害類型之一時，你可以採取反應，將相同類型的傷害轉向你可見的、距離你60英尺內且不在&Reference[完全掩護]後的另一生物。如果這麼做，該生物必須通過一次敏捷豁免（DC 為 8 + 你的體質調整值 + 熟練加值），否則承受等於 2d12 + 你的體質調整值的傷害。</p>\n<section class=\"secret\" id=\"secret-YvvZOk14Rk8qwLgW\">\n    <p><strong>Foundry Note</strong></p>\n    <p><strong>選擇抗性</strong>活動包括每個抗性的主動效果，你可以將其應用於自己。選擇新抗性時，請確保在角色表的“效果”標籤中刪除或禁用之前選擇的主動效果。</p>\n    <p><strong>能量轉向</strong>反應活動包括豁免，你可以在傷害擲骰對話框中選擇傷害類型。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你選擇的一項屬性值提升1點，最高至30。</p>\n<p><strong>能量抗性。</strong> 你對以下你選擇的兩種傷害類型獲得抗性：酸、寒冷、火焰、閃電、死靈、毒素、心靈、輝煌或雷鳴。每當你完成一次長休時，可以更改你的選擇。</p>\n<p><strong>能量轉向。</strong> 當你受到你選擇的能量抗性傷害類型之一時，你可以採取反應，將相同類型的傷害轉向你可見的、距離你60英尺內且不在&Reference[Total Cover]後的另一生物。如果這麼做，該生物必須通過一次敏捷豁免（DC 為 8 + 你的體質調整值 + 熟練加值），否則承受等於 2d12 + 你的體質調整值的傷害。</p>\n<section class=\"secret\" id=\"secret-YvvZOk14Rk8qwLgW\">\n    <p><strong>Foundry Note</strong></p>\n    <p><strong>選擇抗性</strong>活動包括每個抗性的主動效果，你可以將其應用於自己。選擇新抗性時，請確保在角色表的“效果”標籤中刪除或禁用之前選擇的主動效果。</p>\n    <p><strong>能量轉向</strong>反應活動包括豁免，你可以在傷害擲骰對話框中選擇傷害類型。</p>\n</section>"
     },
     "Boon of Fate": {
       "name": "命運恩賜",
@@ -63,7 +63,7 @@
     },
     "Boon of Speed": {
       "name": "速度恩賜",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你選擇的一項屬性值提升1點，最高至30。</p>\n<p><strong>脫身術。</strong> 作為一個附贈動作，你可以採取&Reference[撤離]行動，同時結束你身上的抓取狀態。</p>\n<p><strong>迅捷。</strong> 你的移動速度增加30英尺。</p>\n<section class=\"secret\" id=\"secret-BTieKWSqXALMO8oH\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此專長包括一個主動效果，會自動增加你的移動速度。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你選擇的一項屬性值提升1點，最高至30。</p>\n<p><strong>脫身術。</strong> 作為一個附贈動作，你可以採取&Reference[Disengage]動作，同時結束你身上的抓取狀態。</p>\n<p><strong>迅捷。</strong> 你的移動速度增加30英尺。</p>\n<section class=\"secret\" id=\"secret-BTieKWSqXALMO8oH\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此專長包括一個主動效果，會自動增加你的移動速度。</p>\n</section>"
     },
     "Boon of Spell Recall": {
       "name": "法術回憶恩賜",
@@ -71,7 +71,7 @@
     },
     "Boon of the Night Spirit": {
       "name": "夜靈恩賜",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你選擇的一項屬性值提升1點，最高至30。</p>\n<p><strong>融入暗影。</strong> 在微光或黑暗中時，你可以作為一個附贈動作讓自己獲得&Reference[隱形]狀態。該狀態在你採取行動、附贈動作或反應後立即結束。</p>\n<p><strong>暗影形態。</strong> 在微光或黑暗中時，你對除心靈和輝煌傷害外的所有傷害具有抗性。</p>\n<section class=\"secret\" id=\"secret-fpWHPSTNYUeGtg0w\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能的<strong>夜靈恩賜</strong>主動效果包括抗性，但必須在角色表的“效果”標籤中手動開啟/關閉。</p>\n    <p><strong>融入暗影</strong>活動包括一個應用隱形狀態的主動效果。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你選擇的一項屬性值提升1點，最高至30。</p>\n<p><strong>融入暗影。</strong> 在微光或黑暗中時，你可以作為一個附贈動作讓自己獲得&Reference[Invisible]狀態。該狀態在你採取行動、附贈動作或反應後立即結束。</p>\n<p><strong>暗影形態。</strong> 在微光或黑暗中時，你對除心靈和輝煌傷害外的所有傷害具有抗性。</p>\n<section class=\"secret\" id=\"secret-fpWHPSTNYUeGtg0w\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能的<strong>夜靈恩賜</strong>主動效果包括抗性，但必須在角色表的“效果”標籤中手動開啟/關閉。</p>\n    <p><strong>融入暗影</strong>活動包括一個應用隱藏狀態的主動效果。</p>\n</section>"
     },
     "Boon of Truesight": {
       "name": "真視恩賜",
@@ -79,7 +79,7 @@
     },
     "Charger": {
       "name": "衝鋒者",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>改良衝刺。</strong> 當你採取&Reference[衝刺]行動時，你的移動速度在該行動中增加10英尺。</p>\n<p><strong>衝鋒攻擊。</strong> 如果你在攻擊動作中以直線移動至少10英尺靠近目標，並隨即以近戰攻擊命中該目標，選擇以下效果之一：在攻擊的傷害擲骰中獲得1d8加值，或將目標推開最多10英尺（如果目標尺寸不比你大一級以上）。你每回合只能使用此好處一次。</p>\n<section class=\"secret\" id=\"secret-OP6Qbxc6GyD1OFcH\">\n    <p><strong>Foundry Note</strong></p>\n    <p>你可以在攻擊的傷害擲骰對話框中將1d8添加為情況加值，或使用<strong>衝鋒攻擊</strong>活動並在擲骰對話框中選擇傷害類型。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>改良衝刺。</strong> 當你採取&Reference[Dash]動作時，你的移動速度在該行動中增加10英尺。</p>\n<p><strong>衝鋒攻擊。</strong> 如果你在攻擊動作中以直線移動至少10英尺靠近目標，並隨即以近戰攻擊命中該目標，選擇以下效果之一：在攻擊的傷害擲骰中獲得1d8加值，或將目標推開最多10英尺（如果目標尺寸不比你大一級以上）。你每回合只能使用此好處一次。</p>\n<section class=\"secret\" id=\"secret-OP6Qbxc6GyD1OFcH\">\n    <p><strong>Foundry Note</strong></p>\n    <p>你可以在攻擊的傷害擲骰對話框中將1d8添加為情況加值，或使用<strong>衝鋒攻擊</strong>活動並在擲骰對話框中選擇傷害類型。</p>\n</section>"
     },
     "Chef": {
       "name": "廚師",
@@ -107,7 +107,7 @@
     },
     "Druidic Warrior": {
       "name": "德魯伊戰士",
-      "description": "<p>你學會兩個你選擇的@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{德魯伊戲法}。推薦選擇@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplGuidance00]{引導術}和@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplStarryWisp]{星光飛焰}。這些戲法對你來說視為遊俠法術，你的施法能力為感知。每當你提升遊俠等級時，可以將其中一個戲法替換為另一個德魯伊戲法。</p>"
+      "description": "<p>你學會兩個你選擇的@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbSpells0000000.JournalEntryPage.LhvuDQEyrCdg5EfU]{德魯伊戲法}。推薦選擇@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplGuidance00]{神導術}和@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplStarryWisp]{星光飛焰}。這些戲法對你來說視為遊俠法術，你的施法能力為感知。每當你提升遊俠等級時，可以將其中一個戲法替換為另一個德魯伊戲法。</p>"
     },
     "Dual Wielder": {
       "name": "雙持武者",
@@ -131,7 +131,7 @@
     },
     "Grappler": {
       "name": "擒抱者",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>拳擊與抓取。</strong> 當你在你的回合以攻擊動作使用徒手打擊命中一個生物時，你可以同時使用傷害和抓取選項。每回合只能使用此好處一次。</p>\n<p><strong>攻擊優勢。</strong> 你對被你&Reference[抓取]的生物的攻擊擲骰具有優勢。</p>\n<p><strong>快速摔跤。</strong> 如果被你移動的生物與你尺寸相同或更小，你無需額外花費移動力。</p>\n<section class=\"secret\" id=\"secret-LAjjGo55LPacAy8v\">\n    <p><strong>Foundry Note</strong></p>\n    <p>優勢不會自動應用。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>拳擊與抓取。</strong> 當你在你的回合以攻擊動作使用徒手打擊命中一個生物時，你可以同時使用傷害和抓取選項。每回合只能使用此好處一次。</p>\n<p><strong>攻擊優勢。</strong> 你對被你&Reference[Grappling]的生物的攻擊擲骰具有優勢。</p>\n<p><strong>快速摔跤。</strong> 如果被你移動的生物與你尺寸相同或更小，你無需額外花費移動力。</p>\n<section class=\"secret\" id=\"secret-LAjjGo55LPacAy8v\">\n    <p><strong>Foundry Note</strong></p>\n    <p>優勢不會自動應用。</p>\n</section>"
     },
     "Great Weapon Fighting": {
       "name": "巨武戰鬥",
@@ -143,7 +143,7 @@
     },
     "Healer": {
       "name": "治療者",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>戰地醫護。</strong> 如果你擁有@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagHealersKit0]{治療包}，你可以以利用行動消耗其一次使用，為距離你5英尺內的一個生物提供治療。該生物可以消耗其一個生命骰，然後你擲該骰子。該生物恢復等於擲骰結果加上你的熟練加值的生命值。</p>\n<p><strong>治療重擲。</strong> 每當你擲骰決定使用法術或此專長的戰地醫護好處恢復的生命值數量時，如果骰子擲出1，你可以重擲該骰子，並必須使用新結果。</p>\n<section class=\"secret\" id=\"secret-srSK4HzKeG6v6Fzn\">\n    <p><strong>Foundry Note</strong></p>\n    <p>消耗生命骰的角色可以在其角色表上減少生命骰並告知你生命骰的大小。然後你可以使用<strong>治療d6、d8、d10或d12</strong>活動為其治療。這些活動會自動重擲1。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>戰地醫護。</strong> 如果你擁有@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagHealersKit0]{治療包}，你可以以利用動作消耗其一次使用，為距離你5英尺內的一個生物提供治療。該生物可以消耗其一個生命骰，然後你擲該骰子。該生物恢復等於擲骰結果加上你的熟練加值的生命值。</p>\n<p><strong>治療重擲。</strong> 每當你擲骰決定使用法術或此專長的戰地醫護好處恢復的生命值數量時，如果骰子擲出1，你可以重擲該骰子，並必須使用新結果。</p>\n<section class=\"secret\" id=\"secret-srSK4HzKeG6v6Fzn\">\n    <p><strong>Foundry Note</strong></p>\n    <p>消耗生命骰的角色可以在其角色表上減少生命骰並告知你生命骰的大小。然後你可以使用<strong>治療d6、d8、d10或d12</strong>活動為其治療。這些活動會自動重擲1。</p>\n</section>"
     },
     "Heavily Armored": {
       "name": "重甲熟練",
@@ -163,7 +163,7 @@
     },
     "Keen Mind": {
       "name": "敏銳心智",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的智力值提升1點，最高至20。</p>\n<p><strong>知識傳承。</strong> 選擇以下技能之一：奧秘、歷史、調查、自然或宗教。如果你尚未擁有該技能的熟練，你獲得其熟練；如果你已有其熟練，你獲得其專精。</p>\n<p><strong>快速學習。</strong> 你可以以附贈動作採取研究行動。</p>\n<section class=\"secret\" id=\"secret-aYFftTTqUBTDay7m\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予熟練/專精。你可以在角色表的“編輯”模式下，點擊技能旁的圓圈按需應用熟練或專精。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的智力值提升1點，最高至20。</p>\n<p><strong>知識傳承。</strong> 選擇以下技能之一：奧秘、歷史、調查、自然或宗教。如果你尚未擁有該技能的熟練，你獲得其熟練；如果你已有其熟練，你獲得其專精。</p>\n<p><strong>快速學習。</strong> 你可以以附贈動作採取研究動作。</p>\n<section class=\"secret\" id=\"secret-aYFftTTqUBTDay7m\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予熟練/專精。你可以在角色表的“編輯”模式下，點擊技能旁的圓圈按需應用熟練或專精。</p>\n</section>"
     },
     "Lightly Armored": {
       "name": "輕甲熟練",
@@ -195,7 +195,7 @@
     },
     "Mounted Combatant": {
       "name": "騎乘戰鬥",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量、敏捷或感知值提升1點，最高至20。</p>\n<p><strong>騎乘打擊。</strong> 在騎乘時，你對距離你的坐騎5英尺內、未騎乘且比坐騎小至少一級的生物的攻擊擲骰具有優勢。</p>\n<p><strong>閃避。</strong> 如果你的坐騎受到允許其進行敏捷豁免以只受一半傷害的效果影響，若豁免成功則不受到傷害，若失敗則只受一半傷害。你的坐騎需被你騎乘，且你和坐騎均不可處於&Reference[無力狀態]才能獲得此好處。</p>\n<p><strong>轉向。</strong> 在騎乘時，如果你的坐騎被攻擊命中且你未處於無力狀態，你可以強制該攻擊轉而命中你。</p>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量、敏捷或感知值提升1點，最高至20。</p>\n<p><strong>騎乘打擊。</strong> 在騎乘時，你對距離你的坐騎5英尺內、未騎乘且比坐騎小至少一級的生物的攻擊擲骰具有優勢。</p>\n<p><strong>閃避。</strong> 如果你的坐騎受到允許其進行敏捷豁免以只受一半傷害的效果影響，若豁免成功則不受到傷害，若失敗則只受一半傷害。你的坐騎需被你騎乘，且你和坐騎均不可處於&Reference[Incapacitated]才能獲得此好處。</p>\n<p><strong>轉向。</strong> 在騎乘時，如果你的坐騎被攻擊命中且你未處於失能狀態，你可以強制該攻擊轉而命中你。</p>"
     },
     "Musician": {
       "name": "音樂家",
@@ -203,7 +203,7 @@
     },
     "Observant": {
       "name": "敏銳觀察",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的智力或感知值提升1點，最高至20。</p>\n<p><strong>敏銳觀察者。</strong> 選擇以下技能之一：洞悉、調查或感知。如果你尚未擁有該技能的熟練，你獲得其熟練；如果你已有其熟練，你獲得其專精。</p>\n<p><strong>快速搜查。</strong> 你可以以附贈動作採取搜查行動。</p>\n<section class=\"secret\" id=\"secret-K0jqzqvXGTUKgd4V\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予熟練/專精。你可以在角色表的“編輯”模式下，點擊技能旁的圓圈按需應用熟練或專精。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的智力或感知值提升1點，最高至20。</p>\n<p><strong>敏銳觀察者。</strong> 選擇以下技能之一：洞悉、調查或感知。如果你尚未擁有該技能的熟練，你獲得其熟練；如果你已有其熟練，你獲得其專精。</p>\n<p><strong>快速搜查。</strong> 你可以以附贈動作採取搜索動作。</p>\n<section class=\"secret\" id=\"secret-K0jqzqvXGTUKgd4V\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予熟練/專精。你可以在角色表的“編輯”模式下，點擊技能旁的圓圈按需應用熟練或專精。</p>\n</section>"
     },
     "Piercer": {
       "name": "穿刺者",
@@ -235,7 +235,7 @@
     },
     "Sentinel": {
       "name": "哨兵",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>守護者。</strong> 當距離你5英尺內的一個生物採取撤離行動或以攻擊命中除你之外的目標後，你可以立即對該生物進行一次機會攻擊。</p>\n<p><strong>停止。</strong> 當你以機會攻擊命中一個生物時，該生物在本回合剩餘時間內的移動速度變為0。</p>\n<section class=\"secret\" id=\"secret-KBMBiIjYcMO6SlX6\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能包括一個主動效果，可用於將生物的移動速度減少至0。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>守護者。</strong> 當距離你5英尺內的一個生物採取撤離動作或以攻擊命中除你之外的目標後，你可以立即對該生物進行一次機會攻擊。</p>\n<p><strong>停止。</strong> 當你以機會攻擊命中一個生物時，該生物在本回合剩餘時間內的移動速度變為0。</p>\n<section class=\"secret\" id=\"secret-KBMBiIjYcMO6SlX6\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能包括一個主動效果，可用於將生物的移動速度減少至0。</p>\n</section>"
     },
     "Shadow-Touched": {
       "name": "幽影之觸",
@@ -243,11 +243,11 @@
     },
     "Sharpshooter": {
       "name": "神射手",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的敏捷值提升1點，最高至20。</p>\n<p><strong>繞過掩護。</strong> 你使用武器的遠程攻擊無視&Reference[半掩護]和&Reference[四分之三掩護]。</p>\n<p><strong>近戰射擊。</strong> 在距離敵人5英尺內使用遠程武器的攻擊擲骰不會受到劣勢。</p>\n<p><strong>遠程射擊。</strong> 在遠程攻擊時，你的遠程武器攻擊擲骰不會受到劣勢。</p>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的敏捷值提升1點，最高至20。</p>\n<p><strong>繞過掩護。</strong> 你使用武器的遠程攻擊無視&Reference[Half Cover]和&Reference[Three-Quarters Cover]。</p>\n<p><strong>近戰射擊。</strong> 在距離敵人5英尺內使用遠程武器的攻擊擲骰不會受到劣勢。</p>\n<p><strong>遠程射擊。</strong> 在遠程攻擊時，你的遠程武器攻擊擲骰不會受到劣勢。</p>"
     },
     "Shield Master": {
       "name": "盾牌大師",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量值提升1點，最高至20。</p>\n<p><strong>盾牌猛擊。</strong> 如果你在攻擊動作中以近戰武器攻擊距離你5英尺內的生物並命中，且你裝備了盾牌，你可以立即以盾牌猛擊目標，迫使目標進行一次力量豁免（DC 為 8 + 你的力量調整值 + 熟練加值）。若豁免失敗，你可以選擇將目標推離你5英尺或使其獲得&Reference[俯臥]狀態。每回合只能使用此好處一次。</p>\n<p><strong>插入盾牌。</strong> 如果你受到允許你進行敏捷豁免以只受一半傷害的效果影響，你可以採取反應，若豁免成功且你持有盾牌，則不受到傷害。</p>\n<section class=\"secret\" id=\"secret-u778KRzbKiVH0Qos\">\n    <p><strong>Foundry Note</strong></p>\n    <p><strong>盾牌猛擊</strong>活動包括豁免和一個可應用俯臥狀態的主動效果。</p>\n    <p><strong>插入盾牌</strong>活動可用於追蹤反應使用。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量值提升1點，最高至20。</p>\n<p><strong>盾牌猛擊。</strong> 如果你在攻擊動作中以近戰武器攻擊距離你5英尺內的生物並命中，且你裝備了盾牌，你可以立即以盾牌猛擊目標，迫使目標進行一次力量豁免（DC 為 8 + 你的力量調整值 + 熟練加值）。若豁免失敗，你可以選擇將目標推離你5英尺或使其獲得&Reference[Dropping Prone]狀態。每回合只能使用此好處一次。</p>\n<p><strong>插入盾牌。</strong> 如果你受到允許你進行敏捷豁免以只受一半傷害的效果影響，你可以採取反應，若豁免成功且你持有盾牌，則不受到傷害。</p>\n<section class=\"secret\" id=\"secret-u778KRzbKiVH0Qos\">\n    <p><strong>Foundry Note</strong></p>\n    <p><strong>盾牌猛擊</strong>活動包括豁免和一個可應用俯臥狀態的主動效果。</p>\n    <p><strong>插入盾牌</strong>活動可用於追蹤反應使用。</p>\n</section>"
     },
     "Skill Expert": {
       "name": "技能專家",
@@ -259,7 +259,7 @@
     },
     "Skulker": {
       "name": "潛行者",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的敏捷值提升1點，最高至20。</p>\n<p><strong>盲視。</strong> 你擁有範圍10英尺的盲視。</p>\n<p><strong>戰爭迷霧。</strong> 你利用戰鬥中的分心，在戰鬥中作為隱藏行動的一部分進行的敏捷（隱匿）檢定具有優勢。</p>\n<p><strong>狙擊手。</strong> 如果你在隱藏時進行攻擊擲骰並未命中，該攻擊擲骰不會暴露你的位置。</p>\n<section class=\"secret\" id=\"secret-uYEwLh81hYSCN3nb\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能自動授予盲視範圍。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的敏捷值提升1點，最高至20。</p>\n<p><strong>盲視。</strong> 你擁有範圍10英尺的盲視。</p>\n<p><strong>戰爭迷霧。</strong> 你利用戰鬥中的分心，在戰鬥中作為隱藏動作的一部分進行的敏捷（隱匿）檢定具有優勢。</p>\n<p><strong>狙擊手。</strong> 如果你在隱藏時進行攻擊擲骰並未命中，該攻擊擲骰不會暴露你的位置。</p>\n<section class=\"secret\" id=\"secret-uYEwLh81hYSCN3nb\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能自動授予盲視範圍。</p>\n</section>"
     },
     "Slasher": {
       "name": "劈砍者",

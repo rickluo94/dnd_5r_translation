@@ -1063,7 +1063,7 @@
       "name": "驚震斬 Staggering Smite"
     },
     "Starry Wisp": {
-      "name": "流光閃靈 Starry Wisp",
+      "name": "星光飛焰 Starry Wisp",
       "description": "你向範圍內的一個生物或物體發射一團光芒。對目標進行一次遠程法術攻擊。若命中，目標受到1d8光耀傷害，且在你下回合結束前，它在10英尺半徑內散發微弱光芒，且無法受益於 &Reference[Invisible] 狀態。戲法升級。當你達到5級（2d8）、11級（3d8）和17級（4d8）時，傷害增加1d8。"
     },
     "Steel Wind Strike": {
