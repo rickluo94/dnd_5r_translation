@@ -1,4 +1,4 @@
-const MODULE_ID = 'rick_5r_mod'; // Change this ID!
+const MODULE_ID = 'dnd-players-handbook_localization'; // Change this ID!
 
 // No need to change the code below this line, but it’s your module so do it if you want!
 

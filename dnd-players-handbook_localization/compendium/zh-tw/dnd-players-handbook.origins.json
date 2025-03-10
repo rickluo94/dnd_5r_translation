@@ -17,7 +17,8 @@
       "description": "<p><strong>能力值 Ability Scores:</strong> 力量 STR、敏捷 DEX、智力 INT</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftCrafter0000]{製作者 Crafter}</p><p><strong>技能熟練 Skill Proficiencies:</strong> 調查 Investigation 和 說服 Persuasion</p><p><strong>工具熟練 Tool Proficiency:</strong> <em>選擇一種</em> <em>工匠工具 Artisan’s Tools</em>（見第六章）</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) 工匠工具 Artisan’s Tools（同上）、2 @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagPouch000000]{小袋 Pouches}、@UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{旅者服 Traveler's Clothes}、32金幣 GP；或 (B) 50金幣 GP</p><p>你一有力氣提桶便開始在工匠作坊拖地擦檯，每天賺幾枚銅幣。年紀夠大當學徒時，你學會製作自己的基礎工藝品，並懂得如何甜言蜜語應付偶爾挑剔的顧客。你的手藝也賦予你敏銳的細節觀察力。</p>"
     },
     "Brave": {
-      "name": "勇敢 Brave"
+      "name": "勇敢",
+      "description": "<p>你在避免或結束&Reference[Frightened]恐懼狀態的豁免檢定中具有優勢。</p>"
     },
     "Breath Weapon": {
       "name": "吐息武器",
@@ -36,7 +37,8 @@
       "description": "<p><strong>能力值 Ability Scores:</strong> 敏捷 DEX、體質 CON、魅力 CHA</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftSkilled0000]{熟練 Skilled}</p><p><strong>技能熟練 Skill Proficiencies:</strong> 欺騙 Deception 和 巧手 Sleight of Hand</p><p><strong>工具熟練 Tool Proficiency:</strong> 偽造工具 Forgery Kit</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) @UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulForgeryKit]{偽造工具 Forgery Kit}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagCostume0000]{戲服 Costume}、@UUID[Compendium.dnd5e.items.Item.FqFmdzIBUSxFKKfi]{華服 Fine Clothes}、15金幣 GP；或 (B) 50金幣 GP</p><p>你一旦長大到可以點一杯麥酒，很快就在出生地十英里內的每家酒館都有了常坐的凳子。當你巡迴於酒館和酒吧之間時，你學會了利用那些尋求慰藉的謊言的人——也許是一瓶假藥水或偽造的家譜記錄。</p>"
     },
     "Cloud's Jaunt": {
-      "name": "雲巨人之躍 Cloud's Jaunt"
+      "name": "雲巨人之躍",
+      "description": "<p>作為一個獎勵動作，你可以用魔法瞬移至你可見的無人空間，最遠30英尺。並在完成一次長休後恢復此能力。</p>"
     },
     "Criminal": {
       "name": "罪犯",
@@ -115,14 +117,16 @@
       "name": "煉獄, 魔裔血脈 Fiendish Legacy, Infernal"
     },
     "Fire's Burn": {
-      "name": "火巨人之燃 Fire's Burn"
+      "name": "火巨人之灼",
+      "description": "<p>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。並在完成一次長休後恢復此能力。</p>"
     },
     "Frost's Chill": {
-      "name": "霜巨人之寒 Frost's Chill"
+      "name": "霜巨人之寒",
+      "description": "<p>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。並在完成一次長休後恢復此能力。</p>\n<section class=\"secret\" id=\"secret-jxuUuY0r33aiP0zL\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特質包含一個主動效果，可用於追蹤並將目標速度降低10英尺。</p>\n</section>"
     },
     "Giant Ancestry": {
       "name": "巨人血統",
-      "description": "<p>你是巨人的後裔。從以下選項中選擇一項恩賜——來自你血統的超自然能力；你可以使用所選恩賜的次數等於你的熟練加值，完成一次長休後恢復所有已使用次數：</p>\n<p><strong>雲之躍（雲巨人）。</strong>作為一個獎勵動作，你魔法傳送至你可見的無人空間，最遠30英尺。</p>\n<p><strong>火之灼（火巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。</p>\n<p><strong>霜之寒（霜巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。</p>\n<p><strong>山丘巨人之摔（山丘巨人）。</strong>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得倒地狀態。</p>\n<p><strong>石之耐（石巨人）。</strong>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。</p>\n<p><strong>暴之雷（暴風巨人）。</strong>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。</p>"
+      "description": "<p>你是巨人的後裔。從以下選項中選擇一項恩賜——來自你血統的超自然能力；你可以使用所選恩賜的次數等於你的熟練加值，完成一次長休後恢復所有已使用次數：</p>\n<p><strong>雲巨人之躍（雲巨人）。</strong>作為一個獎勵動作，你魔法傳送至你可見的無人空間，最遠30英尺。</p>\n<p><strong>火巨人之灼（火巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。</p>\n<p><strong>霜巨人之寒（霜巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。</p>\n<p><strong>山丘巨人之摔（山丘巨人）。</strong>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得倒地狀態。</p>\n<p><strong>石巨人之耐（石巨人）。</strong>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。</p>\n<p><strong>暴風巨人之鳴（暴風巨人）。</strong>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。</p>"
     },
     "Gnome, Forest": {
       "name": "森林, 侏儒",
@@ -150,7 +154,7 @@
     },
     "Goliath": {
       "name": "巨人裔",
-      "description": "<p>巨人裔身形高大，超過大多數種族，是巨人的遠親。每個巨人裔都承載著最初巨人的恩賜——這些恩賜以各種超自然能力顯現，包括迅速成長並暫時接近巨人裔巨大親族的體型。</p><p>巨人裔擁有與其家族血脈中巨人相似的身體特徵。例如，一些巨人裔外貌似石巨人，而其他則像火巨人。無論他們視哪些巨人為親族，巨人裔在多元宇宙中開闢了自己的道路——不受困於數世紀以來摧殘巨人間的內戰——並追求超越其祖先所達高度的成就。</p><h3 data-anchor=\"goliath-traits\">巨人裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約7-8英尺高）</p><p><strong>速度：</strong>35英尺</p><p>作為巨人裔，你擁有以下特殊特質。</p><p><strong>巨人血統。</strong>你是巨人的後裔。從以下選項中選擇一項恩賜——來自你血統的超自然能力；你可以使用所選恩賜的次數等於你的熟練加值，完成一次長休後恢復所有已使用次數：</p><p><strong>雲之躍（雲巨人）。</strong>作為一個獎勵動作，你魔法傳送至你可見的無人空間，最遠30英尺。</p><p><strong>火之灼（火巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。</p><p><strong>霜之寒（霜巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。</p><p><strong>山丘巨人之摔（山丘巨人）。</strong>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得&Reference[Prone]狀態。</p><p><strong>石之耐（石巨人）。</strong>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。</p><p><strong>暴之雷（暴風巨人）。</strong>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。</p><p><strong>巨型形態。</strong>從角色5級開始，如果空間足夠，你可以用一個獎勵動作將體型變為大型。此變形持續10分鐘，或直到你主動結束（無需動作）。在此期間，你在力量檢定中具有優勢，且你的速度增加10英尺。一旦你使用此特質，需完成一次長休才能再次使用。</p><p><strong>強健體格。</strong>你在結束抓取狀態的能力檢定中具有優勢。在確定你的攜帶能力時，你的體型視為比實際大一級。</p>"
+      "description": "<p>巨人裔身形高大，超過大多數種族，是巨人的遠親。每個巨人裔都承載著最初巨人的恩賜——這些恩賜以各種超自然能力顯現，包括迅速成長並暫時接近巨人裔巨大親族的體型。</p><p>巨人裔擁有與其家族血脈中巨人相似的身體特徵。例如，一些巨人裔外貌似石巨人，而其他則像火巨人。無論他們視哪些巨人為親族，巨人裔在多元宇宙中開闢了自己的道路——不受困於數世紀以來摧殘巨人間的內戰——並追求超越其祖先所達高度的成就。</p><h3 data-anchor=\"goliath-traits\">巨人裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約7-8英尺高）</p><p><strong>速度：</strong>35英尺</p><p>作為巨人裔，你擁有以下特殊特質。</p><p><strong>巨人血統。</strong>你是巨人的後裔。從以下選項中選擇一項恩賜——來自你血統的超自然能力；你可以使用所選恩賜的次數等於你的熟練加值，完成一次長休後恢復所有已使用次數：</p><p><strong>雲巨人之躍（雲巨人）。</strong>作為一個獎勵動作，你魔法傳送至你可見的無人空間，最遠30英尺。</p><p><strong>火巨人之灼（火巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。</p><p><strong>霜巨人之寒（霜巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。</p><p><strong>山丘巨人之摔（山丘巨人）。</strong>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得&Reference[Prone]狀態。</p><p><strong>石巨人之耐（石巨人）。</strong>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。</p><p><strong>暴風巨人之鳴（暴風巨人）。</strong>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。</p><p><strong>巨型形態。</strong>從角色5級開始，如果空間足夠，你可以用一個獎勵動作將體型變為大型。此變形持續10分鐘，或直到你主動結束（無需動作）。在此期間，你在力量檢定中具有優勢，且你的速度增加10英尺。一旦你使用此特質，需完成一次長休才能再次使用。</p><p><strong>強健體格。</strong>你在結束抓取狀態的能力檢定中具有優勢。在確定你的攜帶能力時，你的體型視為比實際大一級。</p>"
     },
     "Guard": {
       "name": "守衛",
@@ -165,7 +169,8 @@
       "description": "<p>半身人受到珍視生命、家庭和爐火的神祇庇護與引導，他們傾向於前往田園般的避風港，在那裡家庭和社群塑造他們的生活。儘管如此，許多半身人擁有勇敢而愛冒險的精神，帶領他們踏上探索之旅，讓他們有機會探索更廣闊的世界並沿途結交新朋友。他們的身材——類似人類孩童——幫助他們在人群中不被注意地穿行，並從狹窄的空間中溜過。</p><p>任何與半身人共處過的人，尤其是半身人冒險者，很可能見證過傳說中的「半身人幸運」在行動中的表現。當半身人身處致命危險時，似乎有一股無形的力量介入幫助他們。許多半身人相信幸運的力量，並將這異常的天賦歸功於一位或多位仁慈的神祇，包括揚達拉、布蘭多巴利斯和夏瑪萊恩。同樣的天賦可能也促成了他們長壽的生命（約150年）。</p><p>半身人社群種類繁多。對於每一個隱藏在世界未受破壞角落的偏遠小郡，就有一個像艾伯倫設定中的博羅馬爾氏族這樣的犯罪集團，或像黑暗之日設定中那樣的領地半身人暴民。</p><p>喜歡住在地下的半身人有時被稱為強心半身人或矮胖半身人。遊牧的半身人，以及與人類和其他高大種族共存的半身人，有時被稱為輕足半身人或高友半身人。</p><h3 data-anchor=\"halfling-traits\">半身人特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>小型（約2-3英尺高）</p><p><strong>速度：</strong>30英尺</p><p>作為半身人，你擁有以下特殊特質。</p><p><strong>勇敢。</strong>你在避免或結束恐懼狀態的豁免檢定中具有優勢。</p><p><strong>半身人靈巧。</strong>你可以穿過比你大一號的生物的空間，但不能停在同一空間內。</p><p><strong>幸運。</strong>當你在D20檢定的d20上擲出1時，你可以重新擲骰，且必須使用新結果。</p><p><strong>天生潛行。</strong>即使你僅被比你大至少一號的生物遮蔽，你也可以採取隱藏動作。</p>"
     },
     "Halfling Nimbleness": {
-      "name": "半身人靈巧 Halfling Nimbleness"
+      "name": "半身人靈巧",
+      "description": "<p>你可以穿過比你大一級體型的任何生物的空間，但你不能停留在同一空間內。</p>"
     },
     "Healing Hands": {
       "name": "治癒之手",
@@ -177,7 +182,7 @@
     },
     "Hill's Tumble": {
       "name": "山丘巨人之摔",
-      "description": "<p>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得&Reference[Prone]倒地狀態。</p>"
+      "description": "<p>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得&Reference[Prone]倒地狀態。並在完成一次長休後恢復此能力。</p>"
     },
     "Human": {
       "name": "人類",
@@ -188,7 +193,8 @@
       "description": "<p>你對洞悉、感知或生存技能具有熟練。</p>\n<section class=\"secret\" id=\"secret-Tecxufp7EFDVqTEY\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>在選擇此種族後，你將被提示進行選擇。</p>\n</section>"
     },
     "Large Form": {
-      "name": "巨大型態 Large Form"
+      "name": "巨大型態",
+      "description": "<p>從角色5級開始，如果你身處足夠大的空間，你可以用一個獎勵動作將你的體型變為大型。此變形持續10分鐘，或直到你主動結束（無需動作）。在此期間，你在力量檢定中具有優勢，且你的速度增加10英尺。一旦你使用此特質，需完成一次長休才能再次使用。</p>\n<section class=\"secret\" id=\"secret-MnS2QCGjgh6nXxEa\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特質包含一個主動效果，會自動增加你的步行速度，但不會自動應用優勢。</p>\n</section>"
     },
     "Light Bearer": {
       "name": "擁光者",
@@ -203,7 +209,8 @@
       "description": "<p><strong>能力值 Ability Scores:</strong> 體質 CON、智力 INT、魅力 CHA</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftLucky000000]{幸運 Lucky}</p><p><strong>技能熟練 Skill Proficiencies:</strong> 馴獸 Animal Handling 和 說服 Persuasion</p><p><strong>工具熟練 Tool Proficiency:</strong> 導航工具 Navigator’s Tools</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) @UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulNavigators]{導航工具 Navigator’s Tools}、2 @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagPouch000000]{小袋 Pouches}、@UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{旅者服 Traveler’s Clothes}、22金幣 GP；或 (B) 50金幣 GP</p><p>你曾師從一位商人、商隊領隊或店主，學習商業基礎。你廣泛旅行，通過買賣工匠所需的原材料或其成品維生。你可能運送貨物（船運、馬車或商隊），或從旅行的商人處購買貨物並在自家店鋪出售。</p>"
     },
     "Naturally Stealthy": {
-      "name": "天生善匿 Naturally Stealthy"
+      "name": "天生潛行",
+      "description": "<p>即使你僅被一個比你大至少一級體型的生物遮蔽，你也可以採取&Reference[Hide]隱藏動作。</p>"
     },
     "Noble": {
       "name": "貴族",
@@ -217,13 +224,15 @@
       "name": "異界氣場 Otherworldly Presence"
     },
     "Powerful Build": {
-      "name": "強健體魄 Powerful Build"
+      "name": "強健體魄",
+      "description": "<p>你在結束&Reference[Grappled]擒抱狀態的任何能力檢定中具有優勢。此外，在確定你的攜帶容量時，你的體型視為比實際大一級。</p>\n<section class=\"secret\" id=\"secret-7qaTRjmRe4PD41G3\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特質包含一個主動效果，會在確定攜帶容量時自動提升你的體型。</p>\n</section>"
     },
     "Relentless Endurance": {
       "name": "不屈耐力 Relentless Endurance"
     },
     "Resourceful": {
-      "name": "足智多謀 Resourceful"
+      "name": "足智多謀 Resourceful",
+      "description": "<p>每當你完成一次長休時，你獲得英雄激勵。</p>"
     },
     "Sage": {
       "name": "學者",
@@ -238,21 +247,24 @@
       "description": "<p><strong>能力值 Ability Scores:</strong> 敏捷 DEX、智力 INT、感知 WIS</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftSkilled0000]{熟練 Skilled}</p><p><strong>技能熟練 Skill Proficiencies:</strong> 調查 Investigation 和 察覺 Perception</p><p><strong>工具熟練 Tool Proficiency:</strong> 書法工具 Calligrapher’s Supplies</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) @UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulCalligraph]{書法工具 Calligrapher’s Supplies}、@UUID[Compendium.dnd5e.items.Item.FqFmdzIBUSxFKKfi]{精緻服裝 Fine Clothes}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagLamp0000000]{燈 Lamp}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagOil00000000]{油 Oil}（3瓶）、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagParchment00]{羊皮紙 Parchment}（12張）、23金幣 GP；或 (B) 50金幣 GP</p><p>你在抄寫室、致力於知識保存的修道院或政府機構度過成長歲月，在那裡學會以清晰筆跡書寫並製作精美文本。你或許抄寫政府文件或複製文學巨著。你可能擅長詩歌、敘事或學術研究的寫作。尤為重要的是，你擁有細緻入微的注意力，幫助你避免在抄寫與創作的文件中引入錯誤。</p>"
     },
     "Skillful": {
-      "name": "熟練技能 Skillful"
+      "name": "熟練技能",
+      "description": "<p>你對一項由你選擇的技能獲得熟練。</p>\n<section class=\"secret\" id=\"secret-lvP62g2xTxkz2VN3\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族時，你將被提示進行此選擇。</p>\n</section>"
     },
     "Soldier": {
       "name": "士兵",
       "description": "<p><strong>能力值 Ability Scores:</strong> 力量 STR、敏捷 DEX、體質 CON</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftSavageAttac]{野蠻攻擊者 Savage Attacker}</p><p><strong>技能熟練 Skill Proficiencies:</strong> 運動 Athletics 和 威嚇 Intimidation</p><p><strong>工具熟練 Tool Proficiency:</strong> <em>選擇一種</em> <em>遊戲套裝 Gaming Set</em>（見 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000.JournalEntryPage.GCvg8n7Q7ltSPRxe#gaming-set-(varies)]{第六章 chapter 6}）</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepSpear00000]{長矛 Spear}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepShortbow00]{短弓 Shortbow}、20 @UUID[Compendium.dnd-players-handbook.equipment.Item.phbamoArrows0000]{箭 Arrows}、遊戲套裝 Gaming Set（同上）、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagHealersKit0]{治療包 Healer’s Kit}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagQuiver00000]{箭袋 Quiver}、@UUID[Compendium.dnd5e.items.Item.SsAmWV6YBqeOFihT]{旅者服 Traveler’s Clothes}、14金幣 GP；或 (B) 50金幣 GP</p><p>你一成年便開始戰爭訓練，對拿起武器前的生活記憶寥寥無幾。戰鬥已融入你的血液。有時你會不自覺地重複最初學的基本戰鬥練習。最終，你將訓練用於戰場，通過戰爭保護領域。</p>"
     },
     "Stone's Endurance": {
-      "name": "石巨人之耐 Stone's Endurance"
+      "name": "石巨人之耐",
+      "description": "<p>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。並在完成一次長休後恢復此能力。</p>"
     },
     "Stonecunning": {
       "name": "石頭敏銳",
       "description": "<p>作為一個獎勵動作，你獲得範圍60英尺的&Reference[Tremorsense]，持續10分鐘。你必須站在石頭表面或觸碰石頭表面才能使用此震顫感知。石頭可以是天然的或加工過的。你可以使用此獎勵動作的次數等於你的熟練加值，並在完成一次長休後恢復所有已使用次數。</p>\n<section class=\"secret\" id=\"secret-7BtT80083mC3Eavg\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特質包含有限使用次數和一個賦予你60英尺震顫感知的主動效果。它不會自動更新你的角色標記的視野設置。</p>\n</section>"
     },
     "Storm's Thunder": {
-      "name": "暴風雷霆 Storm's Thunder"
+      "name": "暴風巨人之鳴",
+      "description": "<p>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。並在完成一次長休後恢復此能力。</p>"
     },
     "Tiefling, Abyssal": {
       "name": "深淵, 魔裔",
@@ -271,7 +283,8 @@
       "description": "<p>你無需睡眠，魔法也無法讓你入睡。如果你將4小時花在類似冥想的狀態中，你可以在4小時內完成一次長休，在此期間你保持意識。</p>"
     },
     "Versatile": {
-      "name": "多才多藝 Versatile"
+      "name": "多才多藝",
+      "description": "<p>你獲得一個由你選擇的@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.otAeQs0TLHYIBNuj]{起源專長}。建議選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbftSkilled0000]{熟練}。</p>\n<section class=\"secret\" id=\"secret-9E1yve6WHohyBage\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你選擇此種族時，你將被提示進行選擇。</p>\n</section>"
     },
     "Wayfarer": {
       "name": "流浪者",

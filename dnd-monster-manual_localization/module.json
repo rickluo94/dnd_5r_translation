@@ -1,10 +1,11 @@
 {
-  "id": "rick_5r_mod",
-  "title": "5r 中文翻譯模組",
-  "description": "5r AI翻譯版本",
+  "id": "dnd-monster-manual_localization",
+  "title": "怪物手冊翻譯",
+  "description": "2024版 怪物手冊 AI翻譯人工校對版",
   "authors": [
     {
-      "name": "Rick Luo",
+      "name": "Rick",
+      "email": "edcrfvlily5@gmail.com",
       "url": "https://github.com/rickluo94",
       "flags": {}
     }

@@ -1,4 +1,4 @@
-const MODULE_ID = 'monster_manual_5r_zh-tw'; // Change this ID!
+const MODULE_ID = 'dnd-monster-manual_localization'; // Change this ID!
 
 // No need to change the code below this line, but it’s your module so do it if you want!
 

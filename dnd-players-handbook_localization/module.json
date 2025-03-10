@@ -1,11 +1,10 @@
 {
-  "id": "monster_manual_5r_zh-tw",
-  "title": "monster_manual_5r_zh-tw",
-  "description": "怪物翻譯",
+  "id": "dnd-players-handbook_localization",
+  "title": "玩家手冊翻譯",
+  "description": "2024版玩家手冊 AI輔助翻譯人工校對",
   "authors": [
     {
-      "name": "Rick",
-      "email": "edcrfvlily5@gmail.com",
+      "name": "Rick Luo",
       "url": "https://github.com/rickluo94",
       "flags": {}
     }
