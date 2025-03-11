@@ -19,7 +19,7 @@
     },
     "Athlete": {
       "name": "運動健將",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>攀爬速度。</strong> 你獲得等同於你移動速度的攀爬速度。</p>\n<p><strong>快速起身。</strong> 當你處於&Reference[俯臥]狀態時，只需5英尺的移動即可站起。</p>\n<p><strong>跳躍。</strong> 你只需移動5英尺即可進行助跑的&Reference[Long Jump]或&Reference[High Jump]。</p>\n<section class=\"secret\" id=\"secret-HwMnjjLPfn97FUqL\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此專長不會自動應用效果。你可以在角色表的“編輯”模式下，點擊“步行”上方（生命值欄上方）的“齒輪”圖標來添加攀爬速度。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>攀爬速度。</strong> 你獲得等同於你移動速度的攀爬速度。</p>\n<p><strong>快速起身。</strong> 當你處於&Reference[Prone]狀態時，只需5英尺的移動即可站起。</p>\n<p><strong>跳躍。</strong> 你只需移動5英尺即可進行助跑的&Reference[Long Jump]或&Reference[High Jump]。</p>\n<section class=\"secret\" id=\"secret-HwMnjjLPfn97FUqL\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此專長不會自動應用效果。你可以在角色表的“編輯”模式下，點擊“步行”上方（生命值欄上方）的“齒輪”圖標來添加攀爬速度。</p>\n</section>"
     },
     "Blessed Warrior": {
       "name": "受祝戰士",
@@ -247,7 +247,7 @@
     },
     "Shield Master": {
       "name": "盾牌大師",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量值提升1點，最高至20。</p>\n<p><strong>盾牌猛擊。</strong> 如果你在攻擊動作中以近戰武器攻擊距離你5英尺內的生物並命中，且你裝備了盾牌，你可以立即以盾牌猛擊目標，迫使目標進行一次力量豁免（DC 為 8 + 你的力量調整值 + 熟練加值）。若豁免失敗，你可以選擇將目標推離你5英尺或使其獲得&Reference[Dropping Prone]狀態。每回合只能使用此好處一次。</p>\n<p><strong>插入盾牌。</strong> 如果你受到允許你進行敏捷豁免以只受一半傷害的效果影響，你可以採取反應，若豁免成功且你持有盾牌，則不受到傷害。</p>\n<section class=\"secret\" id=\"secret-u778KRzbKiVH0Qos\">\n    <p><strong>Foundry Note</strong></p>\n    <p><strong>盾牌猛擊</strong>活動包括豁免和一個可應用俯臥狀態的主動效果。</p>\n    <p><strong>插入盾牌</strong>活動可用於追蹤反應使用。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量值提升1點，最高至20。</p>\n<p><strong>盾牌猛擊。</strong> 如果你在攻擊動作中以近戰武器攻擊距離你5英尺內的生物並命中，且你裝備了盾牌，你可以立即以盾牌猛擊目標，迫使目標進行一次力量豁免（DC 為 8 + 你的力量調整值 + 熟練加值）。若豁免失敗，你可以選擇將目標推離你5英尺或使其獲得&Reference[Dropping Prone]狀態。每回合只能使用此好處一次。</p>\n<p><strong>插入盾牌。</strong> 如果你受到允許你進行敏捷豁免以只受一半傷害的效果影響，你可以採取反應，若豁免成功且你持有盾牌，則不受到傷害。</p>\n<section class=\"secret\" id=\"secret-u778KRzbKiVH0Qos\">\n    <p><strong>Foundry Note</strong></p>\n    <p><strong>盾牌猛擊</strong>活動包括豁免和一個可應用倒地狀態的主動效果。</p>\n    <p><strong>插入盾牌</strong>活動可用於追蹤反應使用。</p>\n</section>"
     },
     "Skill Expert": {
       "name": "技能專家",
@@ -267,47 +267,47 @@
     },
     "Speedy": {
       "name": "迅捷 Speedy",
-      "description": "<p>You gain the following benefits.</p>\n<p><strong>Ability Score Increase.</strong> Increase your Dexterity or Constitution score by 1, to a maximum of 20.</p>\n<p><strong>Speed Increase.</strong> Your &Reference[Speed] increases by 10 feet.</p>\n<p><strong>Dash over Difficult Terrain.</strong> When you take the Dash action on your turn, Difficult Terrain doesn’t cost you extra movement for the rest of that turn.</p>\n<p><strong>Agile Movement.</strong> Opportunity Attacks have Disadvantage against you.</p>\n<section class=\"secret\" id=\"secret-mmDZHieZYuvYT5LG\">\n    <p><strong>Foundry Note</strong></p>\n    <p>This feature automatically increases your walk movement Speed by 10 feet. If you have other movement types you will need to update them manually.</p>\n</section>"
+      "description": "<p>你獲得以下效果。</p>\n<p><strong>屬性值提升。</strong> 將你的敏捷或體質值提升1點，最高20。</p>\n<p><strong>速度提升。</strong> 你的&Reference[Speed]速度增加10英尺。</p>\n<p><strong>跨越困難地形衝刺。</strong> 當你在你的回合採取衝刺動作時，困難地形在本回合剩餘時間內不會為你增加額外移動消耗。</p>\n<p><strong>靈活移動。</strong> 對你的機會攻擊具有劣勢。</p>\n<section class=\"secret\" id=\"secret-mmDZHieZYuvYT5LG\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特性會自動將你的步行移動速度增加10英尺。若你有其他移動類型，你需要手動更新它們。</p>\n</section>"
     },
     "Spell Sniper": {
-      "name": "法術射手 Spell Sniper",
-      "description": "<p>You gain the following benefits.</p>\n<p><strong>Ability Score Increase.</strong> Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.</p>\n<p><strong>Bypass Cover.</strong> Your attack rolls for spells ignore &Reference[Half Cover] and &Reference[Three-Quarters Cover].</p>\n<p><strong>Casting in Melee.</strong> Being within 5 feet of an enemy doesn’t impose Disadvantage on your attack rolls with spells.</p>\n<p><strong>Increased Range.</strong> When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell’s range by 60 feet.</p>"
+      "name": "法術射手",
+      "description": "<p>你獲得以下效果。</p>\n<p><strong>屬性值提升。</strong> 將你的智力、感知或魅力值提升1點，最高20。</p>\n<p><strong>無視掩護。</strong> 你的法術攻擊擲骰無視&Reference[Half Cover]半掩護和&Reference[Three-Quarters Cover]四分之三掩護。</p>\n<p><strong>近戰施法。</strong> 在5英尺內的敵人不會使你的法術攻擊擲骰具有劣勢。</p>\n<p><strong>增加範圍。</strong> 當你施展範圍至少10英尺且需攻擊擲骰的法術時，你可將該法術的範圍增加60英尺。</p>"
     },
     "Tavern Brawler": {
-      "name": "酒館拳王 Tavern Brawler",
-      "description": "<p>You gain the following benefits.</p>\n<p><strong>Enhanced Unarmed Strike.</strong> When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.</p>\n<p><strong>Damage Rerolls.</strong> Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.</p>\n<p><strong>Improvised Weaponry.</strong> You have proficiency with improvised weapons.</p>\n<p><strong>Push.</strong> When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn<strong>.</strong></p>\n<section class=\"secret\" id=\"secret-XllUmSpInybNueav\">\n    <p><strong>Foundry Note</strong></p>\n    <p>The proficiency is automatically granted by this feature.</p>\n    <p>The <strong>Enhanced Unarmed Strike</strong> activity includes the damage change.</p>\n</section>"
+      "name": "酒館拳王",
+      "description": "<p>你獲得以下效果。</p>\n<p><strong>強化徒手打擊。</strong> 當你用徒手打擊命中並造成傷害時，你可以造成等於1d4加上你的力量調整值的鈍擊傷害，而非徒手打擊的正常傷害。</p>\n<p><strong>傷害重擲。</strong> 每當你為徒手打擊擲傷害骰時，若骰子擲出1，你可以重擲該骰，並必須使用新的擲骰結果。</p>\n<p><strong>即興武器。</strong> 你對即興武器具有熟練。</p>\n<p><strong>推擊。</strong> 當你在你的回合中作為攻擊動作的一部分用徒手打擊命中一個生物時，你可以對目標造成傷害並將其推離你5英尺。你每回合只能使用此效果一次。</p>\n<section class=\"secret\" id=\"secret-XllUmSpInybNueav\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>熟練會由本特性自動授予。</p>\n    <p><strong>強化徒手打擊</strong>活動已包含傷害變更。</p>\n</section>"
     },
     "Telekinetic": {
-      "name": "心靈致動者 Telekinetic",
-      "description": "<p></p>\n<p>You gain the following benefits.</p>\n<p><strong>Ability Score Increase.</strong> Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.</p>\n<p><strong>Minor Telekinesis.</strong> You learn the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMageHand00]{Mage Hand} spell. You can cast it without Verbal or Somatic components, you can make the spectral hand Invisible, and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell’s spellcasting ability is the ability increased by this feat.</p>\n<p><strong>Telekinetic Shove.</strong> As a Bonus Action, you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (DC 8 plus the ability modifier of the score increased by this feat and your Proficiency Bonus) or be moved 5 feet toward or away from you.</p>\n<section class=\"secret\" id=\"secret-FXWRcCRBdJVUHls9\">\n    <p><strong>Foundry Note</strong></p>\n    <p>The spell will have to be added to your sheet manually with the changes.</p>\n    <p>The <strong>Telekinetic Shove</strong> activities can be used for the saving throw with the relevant Ability score.</p>\n</section>"
+      "name": "心靈致動者",
+      "description": "<p>你獲得以下效果。</p>\n<p><strong>屬性值提升。</strong> 將你的智力、感知或魅力值提升1點，最高20。</p>\n<p><strong>微型念動力。</strong> 你學會@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMageHand00]{法師之手}法術。你可不需語言或動作成分施展它，你可使幽靈手隱形，且施展時其範圍和與你的距離均增加30英尺。該法術的施法屬性為此專長提升的屬性。</p>\n<p><strong>念力推擊。</strong> 你可用獎勵動作念力推擊你可見的30英尺內一個生物。如此時，目標必須成功通過一次力量豁免檢定（DC等於8加上此專長提升的能力調整值和你的熟練加值），否則被推向或遠離你5英尺。</p>\n<section class=\"secret\" id=\"secret-FXWRcCRBdJVUHls9\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>你需要手動將法術加入你的角色表並進行相應修改。</p>\n    <p><strong>念力推擊</strong>活動可用於進行豁免檢定，使用相應的屬性值。</p>\n</section>"
     },
     "Telepathic": {
-      "name": "心靈感應者 Telepathic",
-      "description": "<p>You gain the following benefits.</p>\n<p><strong>Ability Score Increase.</strong> Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.</p>\n<p><strong>Telepathic Utterance.</strong> You can speak telepathically to any creature you can see within 60 feet of yourself. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn’t give the creature the ability to respond to you telepathically.</p>\n<p><strong>Detect Thoughts.</strong> You always have the @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDetectThou]{Detect Thoughts} spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.</p>\n<section class=\"secret\" id=\"secret-unoZ1rgJPaBmd1Dn\">\n    <p><strong>Foundry Note</strong></p>\n    <p>The <strong>Detect Thoughts</strong> activity can be used for tracking your free use per Long Rest. The spell will have to be added to your sheet manually though.</p>\n</section>"
+      "name": "心靈感應者",
+      "description": "<p>你獲得以下效果。</p>\n<p><strong>屬性值提升。</strong> 將你的智力、感知或魅力值提升1點，最高20。</p>\n<p><strong>心靈言語。</strong> 你可對你可見的60英尺內任何生物進行心靈言語。你使用你知道的語言進行心靈言語，該生物僅在知道該語言時才能理解你。你的溝通不會賦予該生物心靈回應你的能力。</p>\n<p><strong>偵測思想。</strong> 你始終準備@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDetectThou]{偵測思想}法術。你可不消耗法術位或成分施展它，需完成一次長休後才能再次如此施展。你也可用適當等級的法術位施展它。該法術的施法屬性為此專長提升的屬性。</p>\n<section class=\"secret\" id=\"secret-unoZ1rgJPaBmd1Dn\">\n    <p><strong>Foundry筆記</strong></p>\n    <p><strong>偵測思想</strong>活動可用於追蹤你每長休一次的免費使用次數。但你需要手動將法術加入你的角色表。</p>\n</section>"
     },
     "Thrown Weapon Fighting": {
-      "name": "投擲戰鬥 Thrown Weapon Fighting",
-      "description": "<p><em>(Prerequisite: Fighting Style Feature)</em></p>\n<p>When you hit with a ranged attack roll using a weapon that has the Thrown property, you gain a +2 bonus to the damage roll.</p>\n<section class=\"secret\" id=\"secret-bEw60cBL96wx9JH4\">\n    <p><strong>Foundry Note</strong></p>\n    <p>This feature is not automated. You can add +2 in the Situational Bonus field of the damage roll.</p>\n</section>"
+      "name": "投擲戰鬥",
+      "description": "<p><em>（先決條件：戰鬥風格特性）</em></p>\n<p>當你以具有投擲屬性的武器進行遠程攻擊擲骰並命中時，你的傷害擲骰獲得+2加值。</p>\n<section class=\"secret\" id=\"secret-bEw60cBL96wx9JH4\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特性未自動化。你可在傷害擲骰的「情境加值」欄位中手動加入+2。</p>\n</section>"
     },
     "Tough": {
-      "name": "堅韌體魄 Tough",
-      "description": "<p>Your Hit Point maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Point maximum increases by an additional 2 Hit Points.</p>\n<section class=\"secret\" id=\"secret-DNpQNBPOozLkTF8R\">\n    <p><strong>Foundry Note</strong></p>\n    <p>The Hit Point maximum increase is handled automatically when you get this feat and as you level up.</p>\n</section>"
+      "name": "堅韌體魄",
+      "description": "<p>當你獲得此專長時，你的生命值上限增加一個等於你角色等級兩倍的數值。此後每當你獲得一個角色等級，你的生命值上限額外增加2點生命值。</p>\n<section class=\"secret\" id=\"secret-DNpQNBPOozLkTF8R\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>生命值上限的增加會在你獲得此專長及升級時自動處理。</p>\n</section>"
     },
     "Two-Weapon Fighting": {
-      "name": "雙武戰鬥 Two-Weapon Fighting",
-      "description": "<p><em>(Prerequisite: Fighting Style Feature)</em></p>\n<p>When you make an extra attack as a result of using a weapon that has the Light property, you can add your ability modifier to the damage of that attack if you aren’t already adding it to the damage.</p>\n<section class=\"secret\" id=\"secret-hYptyfGCa0gLDQRT\">\n    <p><strong>Foundry Note</strong></p>\n    <p>This feature is not automated. You can add your modifier in the Situational Bonus field of the damage roll.</p>\n</section>"
+      "name": "雙武戰鬥",
+      "description": "<p><em>（先決條件：戰鬥風格特性）</em></p>\n<p>當你因使用具有輕型屬性的武器而進行額外攻擊時，若你尚未將能力調整值加到該攻擊的傷害上，你可將該調整值加到傷害中。</p>\n<section class=\"secret\" id=\"secret-hYptyfGCa0gLDQRT\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特性未自動化。你可在傷害擲骰的「情境加值」欄位中手動加入你的調整值。</p>\n</section>"
     },
     "Unarmed Fighting": {
-      "name": "徒手戰鬥 Unarmed Fighting",
-      "description": "<p><em>(Prerequisite: Fighting Style Feature)</em></p>\n<p>When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren’t holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.</p>\n<p>At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature &Reference[Grappled] by you.</p>\n<section class=\"secret\" id=\"secret-Nv8dMOvrI9GVk4P5\">\n    <p><strong>Foundry Note</strong></p>\n    <p>The <strong>Unarmed Strike (Weapon in Hand)</strong> activity can be used in place of your normal Unarmed Strike.</p>\n    <p>The <strong>Unarmed Strike (Empty Hand)</strong> activity includes the increased damage.</p>\n    <p>The <strong>Grappled Damage</strong> activity includes the damage roll.</p>\n</section>"
+      "name": "徒手戰鬥",
+      "description": "<p><em>（先決條件：戰鬥風格特性）</em></p>\n<p>當你用徒手打擊命中並造成傷害時，你可造成等於1d6加上你的力量調整值的鈍擊傷害，而非徒手打擊的正常傷害。若你在進行攻擊擲骰時未持有任何武器或盾牌，該d6變為d8。</p>\n<p>在你的每回合開始時，你可對一個被你&Reference[Grappled]擒抱的生物造成1d4鈍擊傷害。</p>\n<section class=\"secret\" id=\"secret-Nv8dMOvrI9GVk4P5\">\n    <p><strong>Foundry筆記</strong></p>\n    <p><strong>徒手打擊（手持武器）</strong>活動可用於替代你的正常徒手打擊。</p>\n    <p><strong>徒手打擊（空手）</strong>活動已包含增加的傷害。</p>\n    <p><strong>擒抱傷害</strong>活動已包含傷害擲骰。</p>\n</section>"
     },
     "War Caster": {
-      "name": "戰鬥施法者 War Caster",
-      "description": "<p>You gain the following benefits.</p>\n<p><strong>Ability Score Increase.</strong> Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 20.</p>\n<p><strong>Concentration.</strong> You have Advantage on Constitution saving throws that you make to maintain Concentration.</p>\n<p><strong>Reactive Spell.</strong> When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.</p>\n<p><strong>Somatic Components.</strong> You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.</p>\n<section class=\"secret\" id=\"secret-jGAKlXdMPlzHFjTa\">\n    <p><strong>Foundry Note</strong></p>\n    <p>This feat will automate the advantage on Concentration checks.</p>\n</section>"
+      "name": "戰鬥施法者",
+      "description": "<p>你獲得以下效果。</p>\n<p><strong>屬性值提升。</strong> 將你的智力、感知或魅力值提升1點，最高20。</p>\n<p><strong>專注。</strong> 你在為維持專注進行的體質豁免檢定中具有優勢。</p>\n<p><strong>反應法術。</strong> 當一個生物因離開你的觸及範圍而觸發你的機會攻擊時，你可用反應動作對該生物施展一個法術，而非進行機會攻擊。該法術的施法時間必須為一個動作，且只能針對該生物。</p>\n<p><strong>動作成分。</strong> 即使你單手或雙手持有武器或盾牌，你也能執行法術的動作成分。</p>\n<section class=\"secret\" id=\"secret-jGAKlXdMPlzHFjTa\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此專長會自動化專注檢定的優勢。</p>\n</section>"
     },
     "Weapon Master": {
-      "name": "武器大師 Weapon Master",
-      "description": "<p>You gain the following benefits.</p>\n<p><strong>Ability Score Increase.</strong> Increase your Strength or Dexterity score by 1, to a maximum of 20.</p>\n<p><strong>Mastery Property.</strong> Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.</p>\n<section class=\"secret\" id=\"secret-pSA9c83D3LNb1BDD\">\n    <p><strong>Foundry Note</strong></p>\n    <p>To change your masteries toggle on the \"Edit\" mode of your sheet. On the \"Details\" tab click on the cog icon next to \"Weapons\" in the bottom right. You can place a check in the mastery column of your chosen weapons.</p>\n</section>"
+      "name": "武器大師",
+      "description": "<p>你獲得以下效果。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高20。</p>\n<p><strong>掌控屬性。</strong> 你對武器的訓練使你能使用你選擇的一種簡單或武技武器的掌控屬性，前提是你對其具有熟練。每當你完成一次長休時，你可將該武器種類更改為另一種符合條件的種類。</p>\n<section class=\"secret\" id=\"secret-pSA9c83D3LNb1BDD\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>要更改你的掌控屬性，請在你的角色表中切換到「編輯」模式。在「細節」標籤中，點擊右下角「武器」旁邊的齒輪圖示。你可在所選武器的掌控欄位中打勾。</p>\n</section>"
     }
   }
 }
