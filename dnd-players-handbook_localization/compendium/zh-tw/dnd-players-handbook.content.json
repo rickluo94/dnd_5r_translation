@@ -2580,7 +2580,7 @@
         },
         "Adventuring Equipment": {
           "name": "冒險裝備",
-          "text": "<p>冒險者在探索時，裝備能以多種方式幫助他們。例如，他們能用梯子抵達難以到達的地點，用火把或其他光源察覺原本不會注意的事物，用竊賊工具繞過上鎖的門與容器，用蒺藜為追兵製造障礙。</p><p>參見 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000]{第六章 chapter 6} 以了解許多冒險中有用的物品規則。該章的 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000.JournalEntryPage.MK3tMrY7pZgPQZo8]{工具 Tools} 和 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000.JournalEntryPage.fWDbFyRcjabZV9lW]{冒險裝備 Adventuring Gear} 部分特別有用。該章的武器也能用於戰鬥以外；例如，你能用 @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepQuartersta]{長棍 Quarterstaff} 按下你不願觸碰的詭異按鈕。</p>"
+          "text": "<p>冒險者在探索時，裝備能以多種方式幫助他們。例如，他們能用梯子抵達難以到達的地點，用火把或其他光源察覺原本不會注意的事物，用盜賊工具繞過上鎖的門與容器，用蒺藜為追兵製造障礙。</p><p>參見 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000]{第六章 chapter 6} 以了解許多冒險中有用的物品規則。該章的 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000.JournalEntryPage.MK3tMrY7pZgPQZo8]{工具 Tools} 和 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbEquipment0000.JournalEntryPage.fWDbFyRcjabZV9lW]{冒險裝備 Adventuring Gear} 部分特別有用。該章的武器也能用於戰鬥以外；例如，你能用 @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepQuartersta]{長棍 Quarterstaff} 按下你不願觸碰的詭異按鈕。</p>"
         },
         "Vision and Light": {
           "name": "視覺與光照",
