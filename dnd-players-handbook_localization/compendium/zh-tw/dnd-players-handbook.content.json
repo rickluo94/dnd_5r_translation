@@ -2916,7 +2916,7 @@
       "pages": {
         "Overview": {
           "name": "總覽",
-          "text": "<p>本節按字母順序介紹了十個種族：@UUID[.vN6Ugk7UOj38fpdv]{Aasimar}（天使裔）、@UUID[.Duq9xnLywFNK3gv1]{Dragonborn}（龍裔）、@UUID[.4zCNgk0JSKVzv9Y9]{Dwarf}（矮人）、@UUID[.h9oGyt2Wh9mp0xbg]{Elf}（精靈）、@UUID[.BKZ4ViHHUMxaqPz4]{Gnome}（侏儒）、@UUID[.l4PycBAExkT2g62X]{Goliath}（巨人裔）、@UUID[.I5mX89tfojsyQmdA]{Halfling}（半身人）、@UUID[.8t4u8CWYbxubXflR]{Human}（人類）、@UUID[.qUxclCvBClnEafEY]{Orc}（獸人）、@UUID[.xiCNZr3S4OmJezyv]{Tiefling}（魔裔）。</p>"
+          "text": "<p>本節按字母順序介紹了十個種族：<ul><li>@UUID[.vN6Ugk7UOj38fpdv]{天使裔}</li><li>@UUID[.Duq9xnLywFNK3gv1]{龍裔}</li><li>@UUID[.4zCNgk0JSKVzv9Y9]{矮人}</li><li>@UUID[.h9oGyt2Wh9mp0xbg]{精靈}</li><li>@UUID[.BKZ4ViHHUMxaqPz4]{侏儒}</li><li>@UUID[.l4PycBAExkT2g62X]{巨人裔}</li><li>@UUID[.I5mX89tfojsyQmdA]{半身人}</li><li>@UUID[.8t4u8CWYbxubXflR]{人類}</li><li>@UUID[.qUxclCvBClnEafEY]{獸人}</li><li>@UUID[.xiCNZr3S4OmJezyv]{魔裔}</li></ul></p>"
         },
         "Aasimar": {
           "name": "天使裔 Aasimar",
