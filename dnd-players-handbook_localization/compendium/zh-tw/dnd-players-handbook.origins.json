@@ -159,7 +159,7 @@
     },
     "Goliath": {
       "name": "巨人裔",
-      "description": "<p>巨人裔身形高大，超過大多數種族，是巨人的遠親。每個巨人裔都承載著最初巨人的恩賜——這些恩賜以各種超自然能力顯現，包括迅速成長並暫時接近巨人裔巨大親族的體型。</p><p>巨人裔擁有與其家族血脈中巨人相似的身體特徵。例如，一些巨人裔外貌似石巨人，而其他則像火巨人。無論他們視哪些巨人為親族，巨人裔在多元宇宙中開闢了自己的道路——不受困於數世紀以來摧殘巨人間的內戰——並追求超越其祖先所達高度的成就。</p><h3 data-anchor=\"goliath-traits\">巨人裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約7-8英尺高）</p><p><strong>速度：</strong>35英尺</p><p>作為巨人裔，你擁有以下特殊特質。</p><p><strong>巨人血統。</strong>你是巨人的後裔。從以下選項中選擇一項恩賜——來自你血統的超自然能力；你可以使用所選恩賜的次數等於你的熟練加值，完成一次長休後恢復所有已使用次數：</p><p><strong>雲巨人之躍（雲巨人）。</strong>作為一個獎勵動作，你魔法傳送至你可見的無人空間，最遠30英尺。</p><p><strong>火巨人之灼（火巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。</p><p><strong>霜巨人之寒（霜巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。</p><p><strong>山丘巨人之摔（山丘巨人）。</strong>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得&Reference[Prone]狀態。</p><p><strong>石巨人之耐（石巨人）。</strong>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。</p><p><strong>暴風巨人之鳴（暴風巨人）。</strong>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。</p><p><strong>巨型形態。</strong>從角色5級開始，如果空間足夠，你可以用一個獎勵動作將體型變為大型。此變形持續10分鐘，或直到你主動結束（無需動作）。在此期間，你在力量檢定中具有優勢，且你的速度增加10英尺。一旦你使用此特質，需完成一次長休才能再次使用。</p><p><strong>強健體格。</strong>你在結束抓取狀態的能力檢定中具有優勢。在確定你的攜帶能力時，你的體型視為比實際大一級。</p>"
+      "description": "<p>巨人裔身形高大，超過大多數種族，是巨人的遠親。每個巨人裔都承載著最初巨人的恩賜——這些恩賜以各種超自然能力顯現，包括迅速成長並暫時接近巨人裔巨大親族的體型。</p><p>巨人裔擁有與其家族血脈中巨人相似的身體特徵。例如，一些巨人裔外貌似石巨人，而其他則像火巨人。無論他們視哪些巨人為親族，巨人裔在多元宇宙中開闢了自己的道路——不受困於數世紀以來摧殘巨人間的內戰——並追求超越其祖先所達高度的成就。</p><h3 data-anchor=\"goliath-traits\">巨人裔特質</h3><p><strong>生物類型：</strong>類人生物</p><p><strong>體型：</strong>中型（約7-8英尺高）</p><p><strong>速度：</strong>35英尺</p><p>作為巨人裔，你擁有以下特殊特質。</p><p><strong>巨人血統。</strong>你是巨人的後裔。從以下選項中選擇一項恩賜——來自你血統的超自然能力；你可以使用所選恩賜的次數等於你的熟練加值，完成一次長休後恢復所有已使用次數：</p><p><strong>雲巨人之躍（雲巨人）。</strong>作為一個獎勵動作，你魔法傳送至你可見的無人空間，最遠30英尺。</p><p><strong>火巨人之灼（火巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d10火焰傷害。</p><p><strong>霜巨人之寒（霜巨人）。</strong>當你以攻擊擲骰命中目標並對其造成傷害時，你還可以對該目標造成1d6寒冷傷害，並將其速度降低10英尺，直到你的下回合開始。</p><p><strong>山丘巨人之摔（山丘巨人）。</strong>當你以攻擊擲骰命中大型或更小的生物並對其造成傷害時，你可以使該目標獲得&Reference[Prone]狀態。</p><p><strong>石巨人之耐（石巨人）。</strong>當你受到傷害時，你可以採取一個反應動作擲1d12。將你的體質調整值加到擲骰結果上，並減少等於該總和的傷害。</p><p><strong>暴風巨人之鳴（暴風巨人）。</strong>當你受到60英尺內生物的傷害時，你可以採取一個反應動作對該生物造成1d8雷鳴傷害。</p><p><strong>巨型形態。</strong>從角色5級開始，如果空間足夠，你可以用一個獎勵動作將體型變為大型。此變形持續10分鐘，或直到你主動結束（無需動作）。在此期間，你在力量檢定中具有優勢，且你的速度增加10英尺。一旦你使用此特質，需完成一次長休才能再次使用。</p><p><strong>強健體格。</strong>你在結束抓取狀態的屬性檢定中具有優勢。在確定你的攜帶能力時，你的體型視為比實際大一級。</p>"
     },
     "Guard": {
       "name": "守衛",
@@ -231,7 +231,7 @@
     },
     "Powerful Build": {
       "name": "強健體魄",
-      "description": "<p>你在結束&Reference[Grappled]擒抱狀態的任何能力檢定中具有優勢。此外，在確定你的攜帶容量時，你的體型視為比實際大一級。</p>\n<section class=\"secret\" id=\"secret-7qaTRjmRe4PD41G3\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特質包含一個主動效果，會在確定攜帶容量時自動提升你的體型。</p>\n</section>"
+      "description": "<p>你在結束&Reference[Grappled]擒抱狀態的任何屬性檢定中具有優勢。此外，在確定你的攜帶容量時，你的體型視為比實際大一級。</p>\n<section class=\"secret\" id=\"secret-7qaTRjmRe4PD41G3\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>此特質包含一個主動效果，會在確定攜帶容量時自動提升你的體型。</p>\n</section>"
     },
     "Relentless Endurance": {
       "name": "不屈耐力",
@@ -243,7 +243,7 @@
     },
     "Sage": {
       "name": "學者",
-      "description": "<p><strong>能力值 Ability Scores:</strong> 體質 CON、智力 INT、感知 WIS</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftMagicInitia]{魔法學徒 Magic Initiate} (法師 Wizard)</p><p><strong>熟練技能 Skill Proficiencies:</strong> 奧秘 Arcana 和 歷史 History</p><p><strong>熟練工具 Tool Proficiency:</strong> 書法工具 Calligrapher’s Supplies</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepQuartersta]{長棍 Quarterstaff}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulCalligraph]{書法工具 Calligrapher’s Supplies}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBook0000000]{書籍 Book (歷史 history)}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagParchment00]{羊皮紙 Parchment (8張 sheets)}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagRobe0000000]{長袍 Robe}、8金幣 GP；或 (B) 50金幣 GP</p><p>你在成長的歲月中穿梭於莊園與修道院之間，為了進入它們的圖書館而做著各種雜活和服務。你在漫長的夜晚裡研讀書籍和卷軸，學習多元宇宙的傳說——甚至是魔法的基礎——而你的心靈渴望更多。</p>"
+      "description": "<p><strong>能力值 Ability Scores:</strong> 體質 CON、智力 INT、感知 WIS</p><p><strong>專長 Feat:</strong> @UUID[Compendium.dnd-players-handbook.feats.Item.phbftMagicInitia]{魔法學徒 Magic Initiate} (法師 Wizard)</p><p><strong>熟練技能 Skill Proficiencies:</strong> 祕法 Arcana 和 歷史 History</p><p><strong>熟練工具 Tool Proficiency:</strong> 書法工具 Calligrapher’s Supplies</p><p><strong>裝備 Equipment:</strong> <em>選擇A或B:</em> (A) @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepQuartersta]{長棍 Quarterstaff}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbtulCalligraph]{書法工具 Calligrapher’s Supplies}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagBook0000000]{書籍 Book (歷史 history)}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagParchment00]{羊皮紙 Parchment (8張 sheets)}、@UUID[Compendium.dnd-players-handbook.equipment.Item.phbagRobe0000000]{長袍 Robe}、8金幣 GP；或 (B) 50金幣 GP</p><p>你在成長的歲月中穿梭於莊園與修道院之間，為了進入它們的圖書館而做著各種雜活和服務。你在漫長的夜晚裡研讀書籍和卷軸，學習多元宇宙的傳說——甚至是魔法的基礎——而你的心靈渴望更多。</p>"
     },
     "Sailor": {
       "name": "水手",

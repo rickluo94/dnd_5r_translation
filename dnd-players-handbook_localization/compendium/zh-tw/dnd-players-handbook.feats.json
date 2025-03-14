@@ -163,7 +163,7 @@
     },
     "Keen Mind": {
       "name": "敏銳心智",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的智力值提升1點，最高至20。</p>\n<p><strong>知識傳承。</strong> 選擇以下技能之一：奧秘、歷史、調查、自然或宗教。如果你尚未擁有該技能的熟練，你獲得其熟練；如果你已有其熟練，你獲得其專精。</p>\n<p><strong>快速學習。</strong> 你可以以附贈動作採取研究動作。</p>\n<section class=\"secret\" id=\"secret-aYFftTTqUBTDay7m\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予熟練/專精。你可以在角色表的“編輯”模式下，點擊技能旁的圓圈按需應用熟練或專精。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的智力值提升1點，最高至20。</p>\n<p><strong>知識傳承。</strong> 選擇以下技能之一：祕法、歷史、調查、自然或宗教。如果你尚未擁有該技能的熟練，你獲得其熟練；如果你已有其熟練，你獲得其專精。</p>\n<p><strong>快速學習。</strong> 你可以以附贈動作採取研究動作。</p>\n<section class=\"secret\" id=\"secret-aYFftTTqUBTDay7m\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予熟練/專精。你可以在角色表的“編輯”模式下，點擊技能旁的圓圈按需應用熟練或專精。</p>\n</section>"
     },
     "Lightly Armored": {
       "name": "輕甲熟練",
@@ -223,7 +223,7 @@
     },
     "Resilient": {
       "name": "適應力",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 選擇一項你尚未擁有豁免熟練的能力，將該能力值提升1點，最高至20。</p>\n<p><strong>豁免熟練。</strong> 你獲得所選能力的豁免熟練。</p>\n<section class=\"secret\" id=\"secret-dYKo82Z8YvKLGBKt\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予豁免熟練。你可以在角色表的“編輯”模式下，點擊能力值旁的齒輪圖標啟用豁免熟練。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 選擇一項你尚未擁有熟練豁免的能力，將該能力值提升1點，最高至20。</p>\n<p><strong>熟練豁免。</strong> 你獲得所選能力的熟練豁免。</p>\n<section class=\"secret\" id=\"secret-dYKo82Z8YvKLGBKt\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予熟練豁免。你可以在角色表的“編輯”模式下，點擊能力值旁的齒輪圖標啟用熟練豁免。</p>\n</section>"
     },
     "Ritual Caster": {
       "name": "儀式施法者",
