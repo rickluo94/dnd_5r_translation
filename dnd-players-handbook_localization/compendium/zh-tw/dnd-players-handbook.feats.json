@@ -307,7 +307,7 @@
     },
     "Weapon Master": {
       "name": "武器大師",
-      "description": "<p>你獲得以下效果。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高20。</p>\n<p><strong>掌控屬性。</strong> 你對武器的訓練使你能使用你選擇的一種簡單或武技武器的掌控屬性，前提是你對其具有熟練。每當你完成一次長休時，你可將該武器種類更改為另一種符合條件的種類。</p>\n<section class=\"secret\" id=\"secret-pSA9c83D3LNb1BDD\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>要更改你的掌控屬性，請在你的角色表中切換到「編輯」模式。在「細節」標籤中，點擊右下角「武器」旁邊的齒輪圖示。你可在所選武器的掌控欄位中打勾。</p>\n</section>"
+      "description": "<p>你獲得以下效果。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高20。</p>\n<p><strong>掌控屬性。</strong> 你對武器的訓練使你能使用你選擇的一種簡單或軍用武器的掌控屬性，前提是你對其具有熟練。每當你完成一次長休時，你可將該武器種類更改為另一種符合條件的種類。</p>\n<section class=\"secret\" id=\"secret-pSA9c83D3LNb1BDD\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>要更改你的掌控屬性，請在你的角色表中切換到「編輯」模式。在「細節」標籤中，點擊右下角「武器」旁邊的齒輪圖示。你可在所選武器的掌控欄位中打勾。</p>\n</section>"
     }
   }
 }
