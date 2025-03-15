@@ -1,5 +1,11 @@
 {
   "label": "專長",
+  "folders": {
+    "Epic Boon Feats": "史詩恩賜專長 Epic Boon Feats",
+    "Fighting Style Feats": "戰鬥風格專長 Fighting Style Feats",
+    "Origin Feats": "起源專長 Origin Feats",
+    "General Feats": "通用專長 General Feats"
+  },
   "entries": {
     "Ability Score Improvement": {
       "name": "屬性值提升",

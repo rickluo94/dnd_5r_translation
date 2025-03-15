@@ -1,5 +1,20 @@
 {
   "label": "角色起源",
+  "folders": {
+    "Dragonborn": "龍裔 Dragonborn",
+    "Elf": "精靈 Elf",
+    "Goliath": "巨人裔 Goliath",
+    "Traits": "特殊特性 Traits",
+    "Orc": "獸人 Orc",
+    "Dwarf": "矮人 Dwarf",
+    "Species": "種族 Species",
+    "Tiefling": "魔裔 Tiefling",
+    "Gnome": "侏儒 Gnome",
+    "Human": "人類 Human",
+    "Aasimar": "天使裔 Aasimar",
+    "Backgrounds": "背景 Backgrounds",
+    "Halfling": "半身人 Halfling"
+  },
   "entries": {
     "Aasimar": {
       "name": "天使裔",
