@@ -167,7 +167,7 @@
     },
     "Lightly Armored": {
       "name": "輕甲熟練",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>熟練護甲。</strong> 你獲得輕甲和盾牌的訓練。</p>\n<section class=\"secret\" id=\"secret-NpiwUDsdtqRVqwYX\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能自動提供輕甲和盾牌訓練。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的力量或敏捷值提升1點，最高至20。</p>\n<p><strong>熟練護甲。</strong> 你獲得輕甲和盾牌的熟練。</p>\n<section class=\"secret\" id=\"secret-NpiwUDsdtqRVqwYX\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能自動提供輕甲和盾牌訓練。</p>\n</section>"
     },
     "Lucky": {
       "name": "幸運",
