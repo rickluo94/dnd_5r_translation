@@ -336,8 +336,8 @@
     }
   },
   "ItemChoice": {
-    "Choose": "choose {count}",
-    "Chosen": "Chosen: {current} of {max}",
+    "Choose": "已選擇 {count}",
+    "Chosen": "已選擇: {current} of {max}",
     "Details": "Choice Details",
     "DropHint": "Drop Items here to add them to the list that can be chosen with this advancement.",
     "FIELDS": {
@@ -576,7 +576,7 @@
             "label": "Count"
           },
           "pool": {
-            "label": "Traits"
+            "label": "特殊特性"
           }
         }
       },
@@ -612,7 +612,7 @@
       }
     },
     "TraitType": "Trait Type",
-    "Title": "Traits"
+    "Title": "特殊特性"
   }
 },
 
@@ -1987,8 +1987,8 @@
 "DND5E.EquipmentLight": "輕甲 Light Armor",
 "DND5E.EquipmentMedium": "中甲 Medium Armor",
 "DND5E.EquipmentNatural": "Natural Armor",
-"DND5E.EquipmentShield": "盾牌 Shield",
-"DND5E.EquipmentShieldProficiency": "盾牌 Shields",
+"DND5E.EquipmentShield": "盾牌",
+"DND5E.EquipmentShieldProficiency": "盾牌",
 "DND5E.Equipped": "已裝備 Equipped",
 "DND5E.Exhaustion": "Exhaustion",
 "DND5E.ExhaustionLevel": "Exhaustion Level {n}",
@@ -3122,7 +3122,7 @@
   "Rolls": "Rolls"
 },
 "DND5E.RollExample": "e.g. 1d4",
-"DND5E.RollMode": "Roll Mode",
+"DND5E.RollMode": "投擲模式",
 "DND5E.RollSituationalBonus": "Situational Bonus?",
 "DND5E.Rule": {
   "Tooltip": "Tooltip",
@@ -3985,7 +3985,7 @@
 "DND5E.TraitDVPlural.one": "Damage Vulnerability",
 "DND5E.TraitDVPlural.other": "Damage Vulnerabilities",
 "DND5E.TraitGenericPlural.one": "Trait",
-"DND5E.TraitGenericPlural.other": "Traits",
+"DND5E.TraitGenericPlural.other": "特殊特性",
 "DND5E.TraitLanguagesPlural.one": "語言",
 "DND5E.TraitLanguagesPlural.other": "語言",
 "DND5E.TraitSave": "更新",
@@ -4000,8 +4000,8 @@
 "DND5E.TraitWeaponPlural.one": "熟練武器 Weapon Proficiency",
 "DND5E.TraitWeaponPlural.other": "熟練武器 Weapon Proficiencies",
 "DND5E.TraitWeaponProf": "熟練武器 Weapon Proficiencies",
-"DND5E.Traits": "Traits",
-"DND5E.TraitsChosen": "Chosen Traits",
+"DND5E.Traits": "特殊特性",
+"DND5E.TraitsChosen": "已選擇 特殊特性",
 "DND5E.Treasure": {
   "Categories": {
     "Any": "任何 Any",
@@ -4406,16 +4406,16 @@
   }
 },
 
-"DND5E.WeaponCategory": "{category} 武器 Weapon",
+"DND5E.WeaponCategory": "{category} 武器",
 "DND5E.WeaponImprov": "Improvised",
-"DND5E.WeaponMartialM": "軍用武器 Martial Melee",
-"DND5E.WeaponMartialProficiency": "軍用 Martial",
-"DND5E.WeaponMartialR": "軍用遠程武器 Martial Ranged",
-"DND5E.WeaponNatural": "自然 Natural",
+"DND5E.WeaponMartialM": "軍用武器",
+"DND5E.WeaponMartialProficiency": "軍用",
+"DND5E.WeaponMartialR": "軍用遠程武器",
+"DND5E.WeaponNatural": "自然",
 "DND5E.WeaponSiege": "Siege Weapon",
-"DND5E.WeaponSimpleM": "簡易武器 Simple Melee",
-"DND5E.WeaponSimpleProficiency": "簡易 Simple",
-"DND5E.WeaponSimpleR": "簡易遠程武器 Simple Ranged",
+"DND5E.WeaponSimpleM": "簡易武器",
+"DND5E.WeaponSimpleProficiency": "簡易",
+"DND5E.WeaponSimpleR": "簡易遠程武器",
 "DND5E.Weight": "重量 Weight",
 "DND5E.WhisperedTo": "Whispered to",
 "DND5E.Wiki": "Wiki",
@@ -4561,7 +4561,7 @@
     "TableCaption": "The {class}",
     "TableOptionalCaption": "Optional {class} Features",
     "Traits": {
-      "Caption": "Core {class} Traits",
+      "Caption": "主要 {class} 特殊特性",
       "Header": "Proficiencies"
     }
   },
