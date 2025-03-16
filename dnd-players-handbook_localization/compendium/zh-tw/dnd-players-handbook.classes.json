@@ -70,7 +70,7 @@
   "entries": {
     "Aberrant Sorcery": {
       "name": "靈能術士 Aberrant Sorcery",
-      "description": "<blockquote>\n    <p>Wield Unnatural Psionic Power</p>\n</blockquote>\n<p>An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?</p>\n<p>Perhaps a psychic wind from the Astral Plane carried psionic energy to you, or you were exposed to the Far Realm’s warping influence. Alternatively, you were implanted with a mind flayer tadpole, but your transformation into a mind flayer never occurred; now the tadpole’s psionic power is yours. However you acquired this power, your mind is aflame with it.</p>"
+      "description": "<blockquote>\n    <p>運用不自然的靈能</p>\n</blockquote>\n<p>一種外來的影響力將其觸手纏繞在你的心智上，賦予你靈能。你現在可以用這種力量觸及其他心智，並改變周圍的世界。這種力量會從你身上閃耀，成為他人的希望燈塔嗎？還是你會成為那些感受到你心智刺痛的人的恐懼之源？</p>\n<p>也許是來自星界位面的靈能之風將靈能能量帶給了你，或者你暴露在遙遠界域的扭曲影響下。或者，你被植入了奪心魔蝌蚪，但你從未轉化為奪心魔；現在，蝌蚪的靈能力量屬於你。無論你如何獲得這種力量，你的心智都因它而燃燒。</p>"
     },
     "Abjuration Savant": {
       "name": "防護學者 Abjuration Savant"
@@ -114,7 +114,7 @@
     },
     "Arcane Trickster": {
       "name": "祕法詭術師 Arcane Trickster",
-      "description": "<blockquote>\n    <p>Enhance Stealth with Arcane Spells</p>\n</blockquote>\n<p>Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.</p>"
+      "description": "<blockquote>\n    <p>用祕法強化潛行</p>\n</blockquote>\n<p>有些遊蕩者利用法術來強化他們精湛的潛行和敏捷技能，學習魔法技巧來輔助他們的職業。一些祕法詭術師將他們的才能用於扒竊和盜竊，而另一些則是惡作劇者。</p>"
     },
     "Arcane Ward": {
       "name": "祕法結界 Arcane Ward"
@@ -124,7 +124,7 @@
     },
     "Archfey Patron": {
       "name": "妖精至尊 Archfey Patron",
-      "description": "<blockquote>\n    <p>Bargain with Whimsical Fey</p>\n</blockquote>\n<p>Your pact draws on the power of the Feywild. When you choose this subclass, you might make a deal with an archfey, such as the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.</p>"
+      "description": "<blockquote>\n    <p>與異想天開的妖精討價還價</p>\n</blockquote>\n<p>你的契約汲取了妖精荒野的力量。當你選擇這個子類時，你可能會與一位妖精至尊達成協議，例如霜之王子、空氣與黑暗女王（幽暗法庭的統治者）、夏日庭院的泰坦尼亞，或者一位古老的女巫。或者，你可能會呼喚一系列的妖精，編織一張恩惠與債務的網絡。無論他們是誰，你的守護者往往深不可測且異想天開。</p>"
     },
     "Archfey Spells": {
       "name": "至高妖精法術 Archfey Spells"
@@ -143,7 +143,7 @@
     },
     "Assassin": {
       "name": "刺客 Assassin",
-      "description": "<blockquote>\n    <p>Practice the Grim Art of Death</p>\n</blockquote>\n<p>An Assassin’s training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.</p>"
+      "description": "<blockquote>\n    <p>修習死亡的殘酷技藝</p>\n</blockquote>\n<p>刺客的訓練專注於使用潛行、毒藥和偽裝，以致命的效率消滅敵人。雖然一些遵循這條道路的遊蕩者是雇傭殺手、間諜或賞金獵人，但這個子類的能力對於面對各種怪物敵人的冒險者同樣有用。</p>"
     },
     "Assassin's Tools": {
       "name": "刺客工具 Assassin's Tools"
@@ -200,11 +200,11 @@
     },
     "Battle Master": {
       "name": "戰鬥大師 Battle Master",
-      "description": "<blockquote>\n    <p>Master Sophisticated Battle Maneuvers</p>\n</blockquote>\n<p>Battle Masters are students of the art of battle, learning martial techniques passed down through generations. The most accomplished Battle Masters are well-rounded figures who combine their carefully honed combat skills with academic study in the fields of history, theory, and the arts.</p>"
+      "description": "<blockquote>\n    <p>精通高超的戰鬥技巧</p>\n</blockquote>\n<p>戰鬥大師是戰鬥藝術的學者，學習世代相傳的武術技巧。最傑出的戰鬥大師是全面發展的人物，他們將精心磨練的戰鬥技能與歷史、理論和藝術領域的學術研究相結合。</p>"
     },
     "Beast Master": {
       "name": "野獸大師 Beast Master",
-      "description": "<blockquote>\n    <p>Bond with a Primal Beast</p>\n</blockquote>\n<p>A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.</p>"
+      "description": "<blockquote>\n    <p>與原始野獸建立連結</p>\n</blockquote>\n<p>野獸大師憑藉原始魔法和與自然世界的深厚連結，與一個特殊的動物建立起神秘的連結。</p>"
     },
     "Beast Spells": {
       "name": "野獸施法 Beast Spells"
@@ -265,7 +265,7 @@
     },
     "Celestial Patron": {
       "name": "天界護法 Celestial Patron",
-      "description": "<blockquote>\n    <p>Call on the Power of the Heavens</p>\n</blockquote>\n<p>Your pact draws on the Upper Planes, the realms of everlasting bliss. You might enter an agreement with an empyrean, a couatl, a sphinx, a unicorn, or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.</p>"
+      "description": "<blockquote>\n    <p>呼喚天界的力量</p>\n</blockquote>\n<p>你的契約汲取了上層位面——永恆幸福的領域——的力量。你可能會與一位天界巨人、一隻庫阿托、一隻獅身人面獸、一隻獨角獸或其他天界實體達成協議。或者，當你追求與他們一致的目標時，你可能會呼喚眾多此類存在。你的契約讓你體驗到一絲照亮多元宇宙的聖光。</p>"
     },
     "Celestial Resilience": {
       "name": "天族韌性 Celestial Resilience"
@@ -275,38 +275,38 @@
     },
     "Champion": {
       "name": "聖鬥士 Champion",
-      "description": "<blockquote>\n    <p>Pursue Physical Excellence in Combat</p>\n</blockquote>\n<p>A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.</p>"
+      "description": "<blockquote>\n    <p>在戰鬥中追求身體的完美</p>\n</blockquote>\n<p>聖鬥士專注於武藝的發展，不懈地追求勝利。他們將嚴格的訓練與體能的卓越相結合，以造成毀滅性的打擊，抵禦危險，並贏得榮耀。無論是在體育競賽還是血腥的戰鬥中，聖鬥士都力求成為勝者。</p>"
     },
     "Channel Divinity": {
       "name": "引導神力 Channel Divinity"
     },
     "Circle Forms": {
-      "name": "結社形態 Circle Forms"
+      "name": "之環形態 Circle Forms"
     },
     "Circle of the Land": {
-      "name": "大地結社 Circle of the Land",
-      "description": "<blockquote>\n    <p>Celebrate Connection to the Natural World</p>\n</blockquote>\n<p>The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.</p>"
+      "name": "大地之環 Circle of the Land",
+      "description": "<blockquote>\n    <p>頌揚與自然世界的連結</p>\n</blockquote>\n<p>大地之環由守護古老知識和儀式的神秘主義者和賢者組成。這些德魯伊在神聖的樹木或立石圈內相聚，用德魯伊語低語原始的秘密。之環中最睿智的成員擔任他們社群的首席祭司。</p>"
     },
     "Circle of the Land Spells": {
-      "name": "大地結社法術 Circle of the Land Spells"
+      "name": "大地之環法術 Circle of the Land Spells"
     },
     "Circle of the Moon": {
-      "name": "月亮結社 Circle of the Moon",
-      "description": "<blockquote>\n    <p>Adopt Animal Forms to Guard the Wilds</p>\n</blockquote>\n<p>Druids of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals.</p>\n<p>Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and then crash through undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid's blood.</p>"
+      "name": "月亮之環 Circle of the Moon",
+      "description": "<blockquote>\n    <p>化身為動物形態以守護荒野</p>\n</blockquote>\n<p>月亮之環的德魯伊汲取月之魔法來轉化自身。他們的組織在月下聚集，分享消息並舉行儀式。</p>\n<p>如月般多變，這個之環的德魯伊可能在某個夜晚如大貓般潛行，隔天如鷹般翱翔於樹梢，然後如熊般衝破灌木叢，驅逐入侵的怪物。荒野流淌在德魯伊的血液中。</p>"
     },
     "Circle of the Moon Spells": {
-      "name": "月亮結社法術 Circle of the Moon Spells"
+      "name": "月亮之環法術 Circle of the Moon Spells"
     },
     "Circle of the Sea": {
-      "name": "海洋結社 Circle of the Sea",
-      "description": "<blockquote>\n    <p>Become One with Tides and Storms</p>\n</blockquote>\n<p>Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.</p>"
+      "name": "海洋之環 Circle of the Sea",
+      "description": "<blockquote>\n    <p>與潮汐和風暴合而為一</p>\n</blockquote>\n<p>海洋之環的德魯伊汲取海洋和風暴的狂暴力量。一些人視自己為自然憤怒的化身，尋求對那些破壞自然的人進行復仇。其他人則通過與潮汐的漲落相協調，跟隨水流和波浪的湧動，並聆聽風中深不可測的低語和咆哮，來追求與自然的神秘合一。</p>"
     },
     "Circle of the Sea Spells": {
-      "name": "海洋結社法術 Circle of the Sea Spells"
+      "name": "海洋之環法術 Circle of the Sea Spells"
     },
     "Circle of the Stars": {
-      "name": "星辰結社 Circle of the Stars",
-      "description": "<blockquote>\n    <p>Harness Secrets Hidden in Constellations</p>\n</blockquote>\n<p>The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of this circle seek to harness the powers of the cosmos.</p>"
+      "name": "星辰之環 Circle of the Stars",
+      "description": "<blockquote>\n    <p>運用星座中隱藏的秘密</p>\n</blockquote>\n<p>星辰之環自遠古時代起便觀察星空的規律，從星座中揭開隱藏的奧秘。藉由領悟這些奧秘，之環中的德魯伊致力於掌握宇宙的力量。</p>"
     },
     "Clairvoyant Combatant": {
       "name": "靈視戰士 Clairvoyant Combatant"
@@ -323,7 +323,7 @@
     },
     "Clockwork Sorcery": {
       "name": "時空術士 Clockwork Sorcery",
-      "description": "<blockquote>\n    <p>Channel Cosmic Forces of Order</p>\n</blockquote>\n<p>The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it—a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it’s part of a vast and glorious system.</p>"
+      "description": "<blockquote>\n    <p>引導秩序的宇宙力量</p>\n</blockquote>\n<p>秩序的宇宙力量已將你浸潤於魔法之中。這種力量源自機械位面或類似的領域——一個完全由發條效率塑造的存在位面。你或你的血脈中的某人可能曾捲入機械位面的有序生物——魔頓——的陰謀中。或許你的祖先甚至參與了偉大的魔頓大遊行。無論其在你體內的起源如何，秩序的力量對他人來說可能顯得奇怪，但對你而言，它是一個龐大而輝煌系統的一部分。</p>"
     },
     "Clockwork Spells": {
       "name": "時空法術 Clockwork Spells"
@@ -461,7 +461,7 @@
     },
     "Draconic Sorcery": {
       "name": "龍族術士 Draconic Sorcery",
-      "description": "<blockquote>\n    <p>Breathe the Magic of Dragons</p>\n</blockquote>\n<p>Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons’ power. Or perhaps you handled a treasure taken from a dragon’s hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.</p>"
+      "description": "<blockquote>\n    <p>呼吸龍族的魔法</p>\n</blockquote>\n<p>你的天生魔法來自龍族的贈禮。或許是一位面臨死亡的古老龍將其部分魔法力量傳承給你或你的祖先。你可能從一個充滿龍族力量的場所吸收了魔法。或者，你可能曾經接觸過從龍族寶庫中取出的、浸透龍族力量的寶物。抑或，你可能有一位龍族祖先。</p>"
     },
     "Draconic Spells": {
       "name": "龍族法術 Draconic Spells"
@@ -496,7 +496,7 @@
     },
     "Eldritch Knight": {
       "name": "魔能騎士 Eldritch Knight",
-      "description": "<blockquote>\n    <p>Support Combat Skills with Arcane Magic</p>\n</blockquote>\n<p>Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armor and also allowing them to engage many foes at once with explosive magic.</p>"
+      "description": "<blockquote>\n    <p>以奧術魔法增強戰鬥技能</p>\n</blockquote>\n<p>魔能騎士將所有戰士共有的武術精通與對魔法的細心研究相結合。他們的法術既補充又擴展了他們的戰鬥技能，提供額外的保護以強化他們的盔甲，並使他們能夠使用爆炸性魔法同時對付多個敵人。</p>"
     },
     "Eldritch Master": {
       "name": "魔能大師 Eldritch Master"
@@ -609,14 +609,14 @@
     },
     "Fey Wanderer": {
       "name": "妖精漫遊者 Fey Wanderer",
-      "description": "<blockquote>\n    <p>Wield Fey Mirth and Fury</p>\n</blockquote>\n<p>A fey mystique surrounds you, thanks to the boon of an archfey or a location in the Feywild that transformed you. However you gained fey magic, you are now a Fey Wanderer. Your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.</p>"
+      "description": "<blockquote>\n    <p>運用妖精的歡笑與憤怒</p>\n</blockquote>\n<p>一種妖精的神秘氣質環繞著你，這得益於一位妖精至尊的恩賜或妖精荒野中某個地點的轉化。無論你如何獲得妖精魔法，你現在是一位妖精漫遊者。你歡快的笑聲照亮了受苦之人的心靈，而你的武藝令敵人膽寒，因為妖精的歡笑極其強大，他們的憤怒也極其可怕。</p>"
     },
     "Fey Wanderer Spells": {
       "name": "妖精漫遊者法術 Fey Wanderer Spells"
     },
     "Fiend Patron": {
       "name": "魔鬼護法 Fiend Patron",
-      "description": "<blockquote>\n    <p>Make a Deal with the Lower Planes</p>\n</blockquote>\n<p>Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron’s aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.</p>"
+      "description": "<blockquote>\n    <p>與下層位面達成協議</p>\n</blockquote>\n<p>你的契約汲取了下層位面——墮落之域——的力量。你可能會與一位惡魔領主（如德摩高根或奧庫斯）、一位大魔鬼（如阿斯摩蒂斯）或一位極其強大的深淵魔鬼、炎魔、尤格羅斯或夜巫婆達成交易。你的守護者的目標是邪惡的——腐化或摧毀一切事物，最終也包括你——而你的道路則取決於你反抗這些目標的程度。</p>"
     },
     "Fiend Spells": {
       "name": "邪魔法術 Fiend Spells"
@@ -666,7 +666,7 @@
     },
     "Gloom Stalker": {
       "name": "幽影獵手 Gloom Stalker",
-      "description": "<blockquote>\n    <p>Draw on Shadow Magic to Fight Your Foes</p>\n</blockquote>\n<p>Gloom Stalkers are at home in the darkest places, wielding magic drawn from the Shadowfell to combat enemies that lurk in darkness.</p>"
+      "description": "<blockquote>\n    <p>運用暗影魔法對抗敵人</p>\n</blockquote>\n<p>幽影獵手在最黑暗的地方感到自在，運用來自影界的魔法對抗潛伏在黑暗中的敵人。</p>"
     },
     "Gloom Stalker Spells": {
       "name": "幽影獵手法術 Gloom Stalker Spells"
@@ -679,7 +679,7 @@
     },
     "Great Old One Patron": {
       "name": "上古大能 Great Old One Patron",
-      "description": "<blockquote>\n    <p>Unearth Forbidden Lore of Ineffable Beings</p>\n</blockquote>\n<p>When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god—a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you’ve learned nevertheless allow you to draw strange magic from it.</p>"
+      "description": "<blockquote>\n    <p>挖掘不可言說存在的禁忌知識</p>\n</blockquote>\n<p>當你選擇這個子類時，你可能會將自己束縛於一個來自遙遠界域或上古神祇的不可言說存在——例如鎖鏈之神薩里茲頓、重返者扎爾貢、黑暗飢渴者哈達爾，或偉大的克蘇魯。或者，你可能在不將自己束縛於一個實體的情況下，呼喚多個實體。這些存在的動機是不可理解的，上古大能可能對你的存在漠不關心。但你所學到的秘密仍然讓你能夠從中汲取奇異的魔法。</p>"
     },
     "Great Old One Spells": {
       "name": "上古大能法術 Great Old One Spells"
@@ -722,7 +722,7 @@
     },
     "Hunter": {
       "name": "獵人 Hunter",
-      "description": "<blockquote>\n    <p>Protect Nature and People from Destruction</p>\n</blockquote>\n<p>You stalk prey in the wilds and elsewhere, using your abilities as a Hunter to protect nature and people everywhere from forces that would destroy them.</p>"
+      "description": "<blockquote>\n    <p>保護自然和人類免受毀滅</p>\n</blockquote>\n<p>你在荒野和其他地方追蹤獵物，運用你作為獵人的能力，保護自然和各地的人類免受那些意圖摧毀他們的力量侵害。</p>"
     },
     "Hunter's Lore": {
       "name": "獵人知識 Hunter's Lore"
@@ -759,7 +759,7 @@
       "name": "Improved Brutal Strike (2)"
     },
     "Improved Circle Forms": {
-      "name": "強化結社形態 Improved Circle Forms"
+      "name": "強化之環形態 Improved Circle Forms"
     },
     "Improved Combat Superiority": {
       "name": "強化戰鬥卓越 Improved Combat Superiority"
@@ -851,7 +851,7 @@
     },
     "Light Domain": {
       "name": "光明領域 Light Domain",
-      "description": "<blockquote>\n    <p>Bring Light to Banish Darkness</p>\n</blockquote>\n<p>The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.</p>\n<p>The Light Domain is associated with gods of truth, vigilance, beauty, insight, and renewal. Some of these gods are identified with the sun or as charioteers who guide the sun across the sky. Others are sentinels who pierce deception. Some are deities of beauty and artistry who teach that art is a vehicle for the soul's improvement.</p>"
+      "description": "<blockquote>\n    <p>帶來光明，驅散黑暗</p>\n</blockquote>\n<p>光明領域強調神聖力量，能引發熾熱的火焰和啟示。運用這一力量的牧師是開悟的靈魂，充滿光輝和神祇洞察視野的力量，肩負著驅散謊言、燒毀黑暗的使命。</p>\n<p>光明領域與真理、警惕、美麗、洞察和更新的神祇相關。這些神祇中，有些被視為太陽或引導太陽穿越天空的戰車手；有些是穿透欺騙的哨兵；還有一些是美麗和藝術的神祇，教導藝術是靈魂提升的工具。</p>"
     },
     "Light Domain Spells": {
       "name": "光明領域法術 Light Domain Spells"
@@ -1099,7 +1099,7 @@
     },
     "Psi Warrior": {
       "name": "靈能戰士 Psi Warrior",
-      "description": "<blockquote>\n    <p>Augment Physical Might with Psionic Power</p>\n</blockquote>\n<p>Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.</p>"
+      "description": "<blockquote>\n    <p>以靈能增強體能</p>\n</blockquote>\n<p>靈能戰士喚醒他們心智的力量以增強他們的體能。他們運用這種靈能注入他們的武器攻擊，以念力能量猛擊，並創造精神力量的屏障。</p>"
     },
     "Psionic Power": {
       "name": "靈能之力 Psionic Power"
@@ -1283,7 +1283,7 @@
     },
     "Soulknife": {
       "name": "靈刃者 Soulknife",
-      "description": "<blockquote>\n    <p>Strike Foes with Psionic Blades</p>\n</blockquote>\n<p>A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.</p>"
+      "description": "<blockquote>\n    <p>以靈能刃攻擊敵人</p>\n</blockquote>\n<p>靈刃者以心智進行攻擊，切穿物質與精神的屏障。這些遊蕩者在自身內發現靈能，並將其引導用於他們的遊蕩技藝。作為一名靈刃者，你的靈能可能從童年起就困擾著你，只有在經歷冒險的壓力時才完全展現其潛力。或者，你可能曾尋找過一群靈能修士，並花費數年學習如何顯現你的力量。</p>"
     },
     "Spell Breaker": {
       "name": "法術破除者 Spell Breaker"
@@ -1428,7 +1428,7 @@
     },
     "Thief": {
       "name": "神偷 Thief",
-      "description": "<blockquote>\n    <p>Hunt for Treasure as a Classic Adventurer</p>\n</blockquote>\n<p>A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.</p>"
+      "description": "<blockquote>\n    <p>以經典冒險者的風格尋找寶藏</p>\n</blockquote>\n<p>竊賊、尋寶者和探險家的混合體，你是冒險者的典範。除了提升你的敏捷和潛行能力外，你還獲得了有助於探索遺跡並從那裡的魔法物品中獲得最大利益的能力。</p>"
     },
     "Thief's Reflexes": {
       "name": "神偷反射 Thief's Reflexes"
@@ -1462,7 +1462,7 @@
     },
     "Trickery Domain": {
       "name": "詭計領域 Trickery Domain",
-      "description": "<blockquote>\n    <p>Make Mischief and Challenge Authority</p>\n</blockquote>\n<p>The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.</p>\n<p>Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.</p>"
+      "description": "<blockquote>\n    <p>製造惡作劇並挑戰權威</p>\n</blockquote>\n<p>詭計領域提供欺騙、幻覺和潛行的魔法。運用這種魔法的牧師是世界上的顛覆力量，刺破驕傲，嘲笑暴君，解放俘虜，並蔑視空洞的傳統。他們更喜歡使用詭計和惡作劇，而不是直接對抗。</p>\n<p>詭計之神是惡作劇者和煽動者，他們對神和凡人中的既定秩序構成持續的挑戰。他們象徵著變革和社會動盪的力量，是小偷、惡棍、賭徒、叛逆者和解放者的守護神。那些秘密運作的宗教團體，特別是那些試圖顛覆壓迫性政府或階級制度的團體，也會利用詭計領域的力量。</p>"
     },
     "Trickery Domain Spells": {
       "name": "詭計領域法術 Trickery Domain Spells"
@@ -1529,7 +1529,7 @@
     },
     "War Domain": {
       "name": "戰爭領域 War Domain",
-      "description": "<blockquote>\n    <p>Inspire Valor and Smite Foes</p>\n</blockquote>\n<p>War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.</p>\n<p>Gods of the War Domain watch over warriors and reward them for their great deeds. They include champions of honor and chivalry as well as gods of destruction and pillage. Other war gods take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.</p>"
+      "description": "<blockquote>\n    <p>激勵勇氣並擊敗敵人</p>\n</blockquote>\n<p>戰爭有多種表現形式。它可以讓普通人成為英雄。它可以是絕望和可怕的，殘忍和懦弱的行為遮蔽了卓越和勇氣的時刻。運用戰爭領域魔法的牧師在戰鬥中表現出色，激勵他人為正義而戰，或將暴力行為作為祈禱。</p>\n<p>戰爭領域的神祇守護著戰士，並因其偉大的事蹟而獎勵他們。他們包括榮譽和騎士精神的捍衛者，以及破壞和掠奪的神祇。其他戰爭神祇則採取更中立的立場，推崇戰爭的所有表現形式，並在任何情況下支持戰士。</p>"
     },
     "War Domain Spells": {
       "name": "戰爭領域法術 War Domain Spells"
@@ -1586,7 +1586,7 @@
     },
     "Wild Magic Sorcery": {
       "name": "狂野術士 Wild Magic Sorcery",
-      "description": "<blockquote>\n    <p>Unleash Chaotic Magic</p>\n</blockquote>\n<p>Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.</p>"
+      "description": "<blockquote>\n    <p>釋放混沌魔法</p>\n</blockquote>\n<p>你的天生魔法源於支撐創造秩序的混沌力量。你或你的祖先可能曾經歷過原始魔法的暴露，也許是通過通往混沌海或元素位面的位面入口。或許你曾受到妖精的祝福或被惡魔標記。抑或你的魔法是個無明顯原因的偶然事件。無論其來源為何，這種魔法在你體內翻騰，等待著任何釋放的機會。</p>"
     },
     "Wild Magic Surge": {
       "name": "狂野魔法浪湧 Wild Magic Surge"
