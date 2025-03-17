@@ -1,5 +1,15 @@
 {
   "label": "玩家手冊",
+  "folders": {
+    "Chapter 1": "Chapter 1",
+    "Chapter 2": "Chapter 2",
+    "Chapter 3": "Chapter 3",
+    "Chapter 4": "Chapter 4",
+    "Chapter 5": "Chapter 5",
+    "Chapter 6": "Chapter 6",
+    "Chapter 7": "Chapter 7",
+    "Appendices": "Appendices"
+  },
   "entries": {
     "Actions": {
       "name": "動作",
@@ -436,8 +446,8 @@
           "text": "<p>As they overcome challenges and complete adventures, characters earn Experience Points (XP), which are awarded by the Dungeon Master. When a character’s XP total crosses certain thresholds, the character’s level increases. The Dungeon Master’s Guide provides guidance on awarding XP.</p><p><em>See also</em> @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbCreatingAChar.JournalEntryPage.Vz5QcYKA74tWkDqy]{Level Advancement}.</p>"
         },
         "Expertise": {
-          "name": "Expertise",
-          "text": "<p>Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your Proficiency Bonus is doubled for that check unless the bonus is doubled by another feature.</p><p>If you gain Expertise, you gain it in one skill in which you have proficiency. You can’t have Expertise in the same skill proficiency more than once.</p><p><em>See also</em> chapter 1 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbPlayingTheGam]{熟練項 Proficiency}.</p>"
+          "name": "專精 Expertise",
+          "text": "<p>專精是一個特徵，能增強你對特定熟練技能的使用。當你進行一個屬性檢定，並且該檢定使用了一個你擁有專精的熟練技能時，你的熟練加值在該檢定中會加倍，除非另一個特性已經使該加值加倍。</p><p>當你獲得專精時，你會在一個你擁有熟練的技能上獲得它。你不能在同一個技能上獲得多次專精。</p><p><em>參見</em> 第一章 @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbPlayingTheGam]{熟練項 Proficiency}。</p>"
         },
         "Fly Speed": {
           "name": "飛行速度 Fly Speed",
