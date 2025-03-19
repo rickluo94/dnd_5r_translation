@@ -552,41 +552,52 @@
       "name": "淬毒武器 Envenom Weapons"
     },
     "phbbrdEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon",
-      "description": "<p>You gain an @UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{Epic Boon} feat or another feat of your choice for which you qualify. Boon of Spell Recall is recommended.</p>"
+      "name": "史詩恩賜",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇「@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofSpellRe]{法術回憶恩賜}」。</p>"
     },
     "phbmnkEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC#boon-of-irresistible-offense]{勢不可擋恩賜}。</p>\n<section class=\"secret\" id=\"secret-jF1SP5ddqgocevbp\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>你將在升級時被提示做出選擇。</p>\n</section>"
     },
     "phbwzdEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofSpellRe]{法術回憶恩賜}。</p>\n<section class=\"secret\" id=\"secret-L2SpZgJc0oDT7wWU\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>你將在升級時被提示做出選擇。</p>\n</section>"
     },
     "phbclcEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofFate000]{命運恩賜}。</p>"
     },
     "phbwlkEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofFate000]{命運恩賜}。</p>\n<section class=\"secret\" id=\"secret-3jLCwJ5kXU8LAeU2\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>你將在升級時被提示做出選擇。</p>\n</section>"
     },
     "phbscrEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜}專長或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofDimensi]{次元旅行恩賜}。</p>\n<section class=\"secret\" id=\"secret-CmWMt903bQgV5LwE\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>你將在升級時被提示做出選擇。</p>\n</section>"
     },
     "phbbrbEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofIrresis]{勢不可擋恩賜}。</p>"
     },
     "phbrgeEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonoftheNigh]{夜靈恩賜}。</p>\n<section class=\"secret\" id=\"secret-Wpt1OtuMYQJ7BwK8\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>你將在升級時被提示做出選擇。</p>\n</section>"
     },
     "phbpdnEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofTruesig]{真視恩賜}。</p>\n<section class=\"secret\" id=\"secret-KoLcW2QoxzD8LnAY\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>你將在升級時被提示做出選擇。</p>\n</section>"
     },
     "phbrgrEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofDimensi]{次元旅行恩賜}。</p>\n<section class=\"secret\" id=\"secret-YoYODjOrhZ9UwOVg\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>你將在升級時被提示做出選擇。</p>\n</section>"
     },
     "phbdrdEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofDimensi]{次元旅行恩賜}。</p>"
     },
     "phbftrEpicBoon00": {
-      "name": "史詩恩賜 Epic Boon"
+      "name": "史詩恩賜 Epic Boon",
+      "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofCombatP]{戰鬥英勇恩賜}。</p>"
     },
     "Evasion": {
       "name": "反射閃避 Evasion"
