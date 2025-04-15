@@ -599,8 +599,13 @@
       "name": "史詩恩賜 Epic Boon",
       "description": "<p>你獲得一個@UUID[Compendium.dnd-players-handbook.content.JournalEntry.phbFeats00000000.JournalEntryPage.GxfrwkJbrIvn7reC]{史詩恩賜專長}或你符合資格的其他專長。推薦選擇@UUID[Compendium.dnd-players-handbook.feats.Item.phbBoonofCombatP]{戰鬥英勇恩賜}。</p>"
     },
-    "Evasion": {
-      "name": "反射閃避 Evasion"
+    "phbmnkEvasion000": {
+      "name": "反射閃避 Evasion",
+      "description": "<p>當你受到一個允許你進行敏捷豁免檢定以僅承受一半傷害的效果時，若你豁免成功，則不承受任何傷害；若豁免失敗，則僅承受一半傷害。</p>\n<p>若你處於喪失行動能力狀態，則無法從此特性中獲益。</p>"
+    },
+    "phbrgeEvasion000": {
+      "name": "反射閃避 Evasion",
+      "description": "<p>你能靈巧地躲避某些危險。當你受到一個允許你進行敏捷豁免檢定以僅承受一半傷害的效果時，若你豁免成功，則不承受任何傷害；若豁免失敗，則僅承受一半傷害。若你處於喪失行動能力狀態，則無法使用此特性。</p>\n<section class=\"secret\" id=\"secret-mJSoikZHwVq6UUDf\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>選中你的角色標記後，你可以右鍵點擊傷害擲骰的聊天卡片，選擇<span class=\"reference\"><em class=\"fas fa-user-shield\"> </em>施加一半傷害</span>，或點擊「1/2」按鈕，然後點擊<span class=\"reference\"><em class=\"fa-solid fa-reply-all\"> </em>施加</span>按鈕。</p>\n</section>"
     },
     "Evasive Footwork": {
       "name": "靈巧步法 Evasive Footwork"
@@ -1295,7 +1300,8 @@
       "name": "追蹤法術 Seeking Spell"
     },
     "Self-Restoration": {
-      "name": "自我恢復 Self-Restoration"
+      "name": "自我恢復 Self-Restoration",
+      "description": "<p>憑藉純粹的意志力，你可以在每回合結束時從自身移除以下一種狀態：&Reference[Charmed apply=false]{魅惑}、&Reference[Frightened apply=false]{恐懼} 或 &Reference[Poisoned apply=false]{中毒}。</p>\n<p>此外，不進食或飲水不會使你獲得 &Reference[Exhaustion apply=false]{疲憊} 等級。</p>"
     },
     "Shadow Arts": {
       "name": "影之技藝 Shadow Arts"
