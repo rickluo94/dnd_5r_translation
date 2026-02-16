@@ -1,24 +1,27 @@
 {
   "label": "角色起源",
   "folders": {
-    "Dragonborn": "龍裔 Dragonborn",
-    "Elf": "精靈 Elf",
-    "Goliath": "巨人裔 Goliath",
-    "Traits": "特殊特性 Traits",
-    "Orc": "獸人 Orc",
-    "Dwarf": "矮人 Dwarf",
-    "Species": "種族 Species",
-    "Tiefling": "魔裔 Tiefling",
-    "Gnome": "侏儒 Gnome",
-    "Human": "人類 Human",
     "Aasimar": "天使裔 Aasimar",
     "Backgrounds": "背景 Backgrounds",
-    "Halfling": "半身人 Halfling"
+    "Dragonborn": "龍裔 Dragonborn",
+    "Dwarf": "矮人 Dwarf",
+    "Elf": "精靈 Elf",
+    "Gnome": "侏儒 Gnome",
+    "Goliath": "巨人裔 Goliath",
+    "Halfling": "半身人 Halfling",
+    "Human": "人類 Human",
+    "Orc": "獸人 Orc",
+    "Species": "種族 Species",
+    "Tiefling": "魔裔 Tiefling",
+    "Traits": "特殊特性 Traits"
   },
   "entries": {
     "Aasimar": {
       "name": "天使裔",
       "description": "<p>天使裔（發音為 AH-sih-mar）是靈魂中帶有上層位面火花的凡人。無論是天使後裔還是被天界力量灌注，他們都能點燃這火花，帶來光芒、治癒和天堂之怒。</p><p>天使裔可能出現在任何凡人族群中。他們外貌與父母相似，但壽命可達160年，並帶有暗示其天界血統的特徵，如金屬色雀斑、發光眼睛、光環，或天使的膚色（銀色、乳綠色或銅紅色）。這些特徵起初不明顯，當天使裔學會展現其完整天界本質時才變得顯著。</p><h3 data-anchor=\"aasimar-traits\">天使裔特質</h3><p class=\"phb-meta\"><strong>生物類型：</strong>類人生物</p><p class=\"phb-meta\"><strong>體型：</strong>中型（約4-7英尺高）或小型（約2-4英尺高），在選擇此種族時決定</p><p class=\"phb-meta\"><strong>速度：</strong>30英尺</p><p>作為天使裔，你擁有以下特殊特質。</p><p><strong>天界抗性。</strong>你對死靈傷害和光耀傷害具有抗性。</p><p><strong>黑暗視覺。</strong>你擁有範圍60英尺的黑暗視覺。</p><p><strong>治癒之手。</strong>作為一個魔法動作，你觸碰一個生物並擲等同於你熟練加值的d4骰數。該生物恢復等於擲骰總和的生命值。一旦你使用此特質，需完成一次長休才能再次使用。</p><p><strong>光之使者。</strong>你知曉<em>光亮術</em>戲法。魅力是你的施法屬性。</p><p><strong>天界啟示。</strong>當你的角色達到3級時，你可以用一個獎勵動作進行變形，選擇以下選項之一（每次變形時選擇）。變形持續1分鐘，或直到你主動結束（無需動作）。一旦你進行變形，需完成一次長休才能再次使用。</p><p>在變形結束前的每回合一次，當你以攻擊或法術對一個目標造成傷害時，你可以對該目標造成額外傷害。額外傷害等於你的熟練加值，傷害類型為「死靈帷幕」的死靈傷害，或「天堂之翼」和「內在光芒」的光耀傷害。</p><p>以下是變形選項：</p><p><strong>天堂之翼。</strong>兩隻虛幻翅膀從你的背部暫時長出。在變形結束前，你的飛行速度等於你的移動速度。</p><p><strong>內在光芒。</strong>熾熱光芒從你的眼睛和嘴巴暫時放射出來。在此期間，你在10英尺範圍內散發明亮光芒，並在額外10英尺範圍內散發微弱光芒，且在你的每回合結束時，你10英尺範圍內的每個生物受到等於你熟練加值的光耀傷害。</p><p><strong>死靈帷幕。</strong>你的眼睛短暫變成黑暗之池，無飛行能力的翅膀從你的背部暫時長出。你10英尺範圍內除盟友外的生物必須進行一次魅力豁免檢定（DC等於8加上你的魅力調整值和熟練加值），否則直到你的下回合結束前處於恐懼狀態。</p>"
+    },
+    "Acid Breath Weapon": {
+      "name": "Acid Breath Weapon"
     },
     "Acolyte": {
       "name": "侍僧",
@@ -55,6 +58,9 @@
     "Cloud's Jaunt": {
       "name": "雲巨人之躍",
       "description": "<p>作為一個獎勵動作，你可以用魔法瞬移至你可見的無人空間，最遠30英尺。並在完成一次長休後恢復此能力。</p>"
+    },
+    "Cold Breath Weapon": {
+      "name": "Cold Breath Weapon"
     },
     "Criminal": {
       "name": "罪犯",
@@ -135,6 +141,9 @@
     "Fiendish Legacy, Infernal": {
       "name": "地獄, 魔裔血脈",
       "description": "<p>魔裔血脈賦予你超自然能力。</p>\n<p>當你達到角色等級3和5時，你學會表中所示的更高級法術。你始終準備該法術，可不消耗法術位施展一次，完成長休後恢復此能力。你也可用適當等級的法術位施展該法術。智力、感知或魅力是你使用此特質施展法術的能力（選擇血脈時決定）。</p>\n<h3 data-anchor=\"infernal\">地獄血脈</h3>\n<p>地獄血脈將魔裔不僅與格赫納相連，還與九層地獄和阿刻隆的激烈戰場聯繫起來。角、刺、尾巴、金色眼睛以及淡淡的硫磺或煙霧氣味是這類魔裔的常見身體特徵，他們大多數追溯其血統至魔鬼。</p>\n<table>\n    <caption>地獄血脈特性</caption>\n    <thead>\n        <tr>\n            <td>1級</td>\n            <td>3級</td>\n            <td>5級</td>\n        </tr>\n    </thead>\n    <tbody>\n        <tr>\n            <td>你對火焰傷害具有抗性。你還知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFireBolt00]{火焰箭}戲法。</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHellishReb]{地獄斥責}法術</td>\n            <td>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDarkness00]{黑暗術}法術</td>\n        </tr>\n    </tbody>\n</table>\n<section class=\"secret\" id=\"secret-UpLnecebx3jeydEG\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>抗性和法術將自動授予你，並在進階過程中提示你選擇施法屬性。</p>\n</section>"
+    },
+    "Fire Breath Weapon": {
+      "name": "Fire Breath Weapon"
     },
     "Fire's Burn": {
       "name": "火巨人之灼",
@@ -220,6 +229,9 @@
       "name": "擁光者",
       "description": "<p>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLight00000]{光亮術}戲法。魅力是你的施法屬性。</p>"
     },
+    "Lightning Breath Weapon": {
+      "name": "Lightning Breath Weapon"
+    },
     "Luck": {
       "name": "幸運",
       "description": "<p>當你在D20檢定中擲出d20並得到1時，你可以重新擲該骰子，並必須使用新的擲骰結果。</p>"
@@ -243,6 +255,9 @@
     "Otherworldly Presence": {
       "name": "異界氣場",
       "description": "<p>你知曉@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplThaumaturg]{奇術}戲法。當你以此特質施展該法術時，使用的施法屬性與你的魔裔血脈特質相同。</p>\n<section class=\"secret\" id=\"secret-i3PjM9HLuO2Xcae7\">\n    <p><strong>Foundry筆記</strong></p>\n    <p>當你獲得此法術時，它將允許你選擇你的施法屬性。</p>\n</section>"
+    },
+    "Poison Breath Weapon": {
+      "name": "Poison Breath Weapon"
     },
     "Powerful Build": {
       "name": "強健體魄",
