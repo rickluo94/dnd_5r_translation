@@ -111,7 +111,7 @@
         },
         "Blindsight": {
           "name": "盲視 Blindsight",
-          "text": "<p>@Embed[Compendium.dnd5e.content24.JournalEntry.phbAppendixDRule.JournalEntryPage.sacjsfm9ZXnw4Tqc inline]</p>"
+          "text": "<p>如果你擁有盲視（Blindsight），你可以在特定距離內不依賴實際視覺而看見目標。在該範圍內，只要目標沒有處於**完全掩護（Total Cover）之後，即使你處於失明（Blinded）狀態或身處黑暗（Darkness）之中，仍然可以看見它。此外，在該範圍內，你也能看見具有隱形（Invisible）**狀態的生物或物體。</p>"
         },
         "Darkvision": {
           "name": "黑暗視覺 Darkvision",
