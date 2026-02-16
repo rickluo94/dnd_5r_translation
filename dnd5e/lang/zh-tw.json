@@ -9,8 +9,8 @@
 
 "TYPES.Actor.character": "玩家角色",
 "TYPES.Actor.characterPl": "玩家角色",
-"TYPES.Actor.encounter": "Encounter",
-"TYPES.Actor.encounterPl": "Encounters",
+"TYPES.Actor.encounter": "遭遇",
+"TYPES.Actor.encounterPl": "遭遇",
 "TYPES.Actor.group": "組",
 "TYPES.Actor.groupPl": "組",
 "TYPES.Actor.npc": "非玩家角色",
