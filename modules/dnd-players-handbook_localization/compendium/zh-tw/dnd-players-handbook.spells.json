@@ -1,5 +1,18 @@
 {
   "label": "法術",
+  "folders": {
+    "1st Level": "1st Level",
+    "2nd Level": "2nd Level",
+    "3rd Level": "3rd Level",
+    "4th Level": "4th Level",
+    "5th Level": "5th Level",
+    "6th Level": "6th Level",
+    "7th Level": "7th Level",
+    "8th Level": "8th Level",
+    "9th Level": "9th Level",
+    "Cantrips": "Cantrips",
+    "Supplemental Items": "Supplemental Items"
+  },
   "entries": {
     "Acid Splash": {
       "name": "酸液噴濺 Acid Splash",
@@ -260,12 +273,12 @@
     "Create Food and Water": {
       "name": "創造飲食 Create Food and Water"
     },
+    "Create Undead": {
+      "name": "創造不死生物 Create Undead"
+    },
     "Create or Destroy Water": {
       "name": "造水/枯水術 Create or Destroy Water",
       "description": "你執行以下之一：造水。你在範圍內的一個開放容器中創造最多10加侖的乾淨水。或者，水作為雨水落在範圍內一個30英尺立方內，熄滅那裡的暴露火焰。枯水。你摧毀範圍內一個開放容器中最多10加侖的水。或者，你摧毀範圍內一個30英尺立方內的霧氣。使用更高環法術位。每超過1環的法術位等級，你創造或摧毀額外10加侖的水，或立方體的尺寸增加5英尺。"
-    },
-    "Create Undead": {
-      "name": "創造不死生物 Create Undead"
     },
     "Creation": {
       "name": "造物術 Creation"
@@ -448,11 +461,11 @@
     "Find Steed": {
       "name": "尋獲坐騎 Find Steed"
     },
-    "Find the Path": {
-      "name": "尋找捷徑 Find the Path"
-    },
     "Find Traps": {
       "name": "尋找陷阱 Find Traps"
+    },
+    "Find the Path": {
+      "name": "尋找捷徑 Find the Path"
     },
     "Finger of Death": {
       "name": "死亡一指 Finger of Death"
