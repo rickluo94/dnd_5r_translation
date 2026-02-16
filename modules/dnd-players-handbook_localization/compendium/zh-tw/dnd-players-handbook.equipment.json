@@ -1,5 +1,28 @@
 {
   "label": "裝備",
+  "folders": {
+    "Adventuring Gear": "冒險裝備",
+    "Ammunition": "彈藥",
+    "Arcane Focus": "奧術法器",
+    "Armor": "護甲",
+    "Artisan": "工匠工具",
+    "Druidic Focus": "德魯伊法器",
+    "Gaming Set": "遊戲工具組",
+    "Heavy": "重型",
+    "Holy Symbol": "聖徽",
+    "Light": "輕型",
+    "Martial Melee": "軍用近戰武器",
+    "Martial Ranged": "軍用遠程武器",
+    "Medium": "中型",
+    "Musical Instrument": "樂器",
+    "Other": "其他",
+    "Simple Melee": "簡易近戰武器",
+    "Simple Ranged": "簡易遠程武器",
+    "Spellcasting Focuses": "施法法器",
+    "Star Maps": "星圖",
+    "Tools": "工具",
+    "Weapons": "武器"
+  },
   "entries": {
     "Acid": {
       "name": "酸液 Acid"
@@ -273,6 +296,9 @@
     },
     "Hunting Trap": {
       "name": "捕獵陷阱 Hunting Trap"
+    },
+    "Improvised Weapon": {
+      "name": "臨時武器 Improvised Weapon"
     },
     "Ink": {
       "name": "墨水 Ink"
