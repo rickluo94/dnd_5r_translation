@@ -1,0 +1,625 @@
+{
+  "label": "Equipment",
+  "folders": {
+    "Adventuring Gear": "Adventuring Gear",
+    "Ammunition": "Ammunition",
+    "Arcane Focus": "Arcane Focus",
+    "Armor": "Armor",
+    "Artisan": "Artisan",
+    "Druidic Focus": "Druidic Focus",
+    "Gaming Set": "Gaming Set",
+    "Heavy": "Heavy",
+    "Holy Symbol": "Holy Symbol",
+    "Light": "Light",
+    "Martial Melee": "Martial Melee",
+    "Martial Ranged": "Martial Ranged",
+    "Medium": "Medium",
+    "Musical Instrument": "Musical Instrument",
+    "Other": "Other",
+    "Simple Melee": "Simple Melee",
+    "Simple Ranged": "Simple Ranged",
+    "Spellcasting Focuses": "Spellcasting Focuses",
+    "Star Maps": "Star Maps",
+    "Tools": "Tools",
+    "Weapons": "Weapons"
+  },
+  "entries": {
+    "Acid": {
+      "name": "Acid"
+    },
+    "Alchemist's Fire": {
+      "name": "Alchemist's Fire"
+    },
+    "Alchemist's Supplies": {
+      "name": "Alchemist's Supplies"
+    },
+    "Ammunition (Varies)": {
+      "name": "Ammunition (Varies)"
+    },
+    "Amulet": {
+      "name": "Amulet"
+    },
+    "Antitoxin": {
+      "name": "Antitoxin"
+    },
+    "Arcane Focus (Varies)": {
+      "name": "Arcane Focus (Varies)"
+    },
+    "Arrows": {
+      "name": "Arrows"
+    },
+    "Backpack": {
+      "name": "Backpack"
+    },
+    "Bagpipes": {
+      "name": "Bagpipes"
+    },
+    "Ball Bearings": {
+      "name": "Ball Bearings"
+    },
+    "Barrel": {
+      "name": "Barrel"
+    },
+    "Basket": {
+      "name": "Basket"
+    },
+    "Battleaxe": {
+      "name": "Battleaxe"
+    },
+    "Bedroll": {
+      "name": "Bedroll"
+    },
+    "Bell": {
+      "name": "Bell"
+    },
+    "Blanket": {
+      "name": "Blanket"
+    },
+    "Block and Tackle": {
+      "name": "Block and Tackle"
+    },
+    "Blowgun": {
+      "name": "Blowgun"
+    },
+    "Bolts": {
+      "name": "Bolts"
+    },
+    "Book": {
+      "name": "Book"
+    },
+    "Bottle, Glass": {
+      "name": "Bottle, Glass"
+    },
+    "Breastplate": {
+      "name": "Breastplate"
+    },
+    "Brewer's Supplies": {
+      "name": "Brewer's Supplies"
+    },
+    "Bucket": {
+      "name": "Bucket"
+    },
+    "Bullets, Firearm": {
+      "name": "Bullets, Firearm"
+    },
+    "Bullets, Sling": {
+      "name": "Bullets, Sling"
+    },
+    "Bullseye Lantern": {
+      "name": "Bullseye Lantern"
+    },
+    "Burglar's Pack": {
+      "name": "Burglar's Pack"
+    },
+    "Calligrapher's Supplies": {
+      "name": "Calligrapher's Supplies"
+    },
+    "Caltrops": {
+      "name": "Caltrops"
+    },
+    "Candle": {
+      "name": "Candle"
+    },
+    "Carpenter's Tools": {
+      "name": "Carpenter's Tools"
+    },
+    "Cartographer's Tools": {
+      "name": "Cartographer's Tools"
+    },
+    "Case, Crossbow Bolt": {
+      "name": "Case, Crossbow Bolt"
+    },
+    "Case, Map or Scroll": {
+      "name": "Case, Map or Scroll"
+    },
+    "Chain": {
+      "name": "Chain"
+    },
+    "Chain Mail": {
+      "name": "Chain Mail"
+    },
+    "Chain Shirt": {
+      "name": "Chain Shirt"
+    },
+    "Chest": {
+      "name": "Chest"
+    },
+    "Climber's Kit": {
+      "name": "Climber's Kit"
+    },
+    "Clothes, Fine": {
+      "name": "Clothes, Fine"
+    },
+    "Clothes, Traveler's": {
+      "name": "Clothes, Traveler's"
+    },
+    "Club": {
+      "name": "Club"
+    },
+    "Cobbler's Tools": {
+      "name": "Cobbler's Tools"
+    },
+    "Component Pouch": {
+      "name": "Component Pouch"
+    },
+    "Constellations Scroll": {
+      "name": "Constellations Scroll"
+    },
+    "Cook's Utensils": {
+      "name": "Cook's Utensils"
+    },
+    "Costume": {
+      "name": "Costume"
+    },
+    "Crowbar": {
+      "name": "Crowbar"
+    },
+    "Crystal": {
+      "name": "Crystal"
+    },
+    "Dagger": {
+      "name": "Dagger"
+    },
+    "Dart": {
+      "name": "Dart"
+    },
+    "Dice": {
+      "name": "Dice"
+    },
+    "Diplomat's Pack": {
+      "name": "Diplomat's Pack"
+    },
+    "Disguise Kit": {
+      "name": "Disguise Kit"
+    },
+    "Dragonchess": {
+      "name": "Dragonchess"
+    },
+    "Druidic Focus (Varies)": {
+      "name": "Druidic Focus (Varies)"
+    },
+    "Drum": {
+      "name": "Drum"
+    },
+    "Dulcimer": {
+      "name": "Dulcimer"
+    },
+    "Dungeoneer's Pack": {
+      "name": "Dungeoneer's Pack"
+    },
+    "Ebony-bound Atlas": {
+      "name": "Ebony-bound Atlas"
+    },
+    "Emblem": {
+      "name": "Emblem"
+    },
+    "Engraved Crystal": {
+      "name": "Engraved Crystal"
+    },
+    "Entertainer's Pack": {
+      "name": "Entertainer's Pack"
+    },
+    "Etched Glass Disk": {
+      "name": "Etched Glass Disk"
+    },
+    "Explorer's Pack": {
+      "name": "Explorer's Pack"
+    },
+    "Fine Clothes": {
+      "name": "Fine Clothes"
+    },
+    "Flail": {
+      "name": "Flail"
+    },
+    "Flask": {
+      "name": "Flask"
+    },
+    "Flute": {
+      "name": "Flute"
+    },
+    "Forgery Kit": {
+      "name": "Forgery Kit"
+    },
+    "Glaive": {
+      "name": "Glaive"
+    },
+    "Glassblower's Tools": {
+      "name": "Glassblower's Tools"
+    },
+    "Grappling Hook": {
+      "name": "Grappling Hook"
+    },
+    "Greataxe": {
+      "name": "Greataxe"
+    },
+    "Greatclub": {
+      "name": "Greatclub"
+    },
+    "Greatsword": {
+      "name": "Greatsword"
+    },
+    "Halberd": {
+      "name": "Halberd"
+    },
+    "Half Plate Armor": {
+      "name": "Half Plate Armor"
+    },
+    "Hand Crossbow": {
+      "name": "Hand Crossbow"
+    },
+    "Handaxe": {
+      "name": "Handaxe"
+    },
+    "Healer's Kit": {
+      "name": "Healer's Kit"
+    },
+    "Heavy Crossbow": {
+      "name": "Heavy Crossbow"
+    },
+    "Herbalism Kit": {
+      "name": "Herbalism Kit"
+    },
+    "Hide Armor": {
+      "name": "Hide Armor"
+    },
+    "Holy Symbol (Varies)": {
+      "name": "Holy Symbol (Varies)"
+    },
+    "Holy Water": {
+      "name": "Holy Water"
+    },
+    "Hooded Lantern": {
+      "name": "Hooded Lantern"
+    },
+    "Horn": {
+      "name": "Horn"
+    },
+    "Hunting Trap": {
+      "name": "Hunting Trap"
+    },
+    "Improvised Weapon": {
+      "name": "Improvised Weapon"
+    },
+    "Ink": {
+      "name": "Ink"
+    },
+    "Ink Pen": {
+      "name": "Ink Pen"
+    },
+    "Javelin": {
+      "name": "Javelin"
+    },
+    "Jeweler's Tools": {
+      "name": "Jeweler's Tools"
+    },
+    "Jug": {
+      "name": "Jug"
+    },
+    "Ladder": {
+      "name": "Ladder"
+    },
+    "Lamp": {
+      "name": "Lamp"
+    },
+    "Lance": {
+      "name": "Lance"
+    },
+    "Lantern, Bullseye": {
+      "name": "Lantern, Bullseye"
+    },
+    "Lantern, Hooded": {
+      "name": "Lantern, Hooded"
+    },
+    "Leather Armor": {
+      "name": "Leather Armor"
+    },
+    "Leatherworker's Tools": {
+      "name": "Leatherworker's Tools"
+    },
+    "Light Crossbow": {
+      "name": "Light Crossbow"
+    },
+    "Light Hammer": {
+      "name": "Light Hammer"
+    },
+    "Lock": {
+      "name": "Lock"
+    },
+    "Longbow": {
+      "name": "Longbow"
+    },
+    "Longsword": {
+      "name": "Longsword"
+    },
+    "Lute": {
+      "name": "Lute"
+    },
+    "Lyre": {
+      "name": "Lyre"
+    },
+    "Mace": {
+      "name": "Mace"
+    },
+    "Magnifying Glass": {
+      "name": "Magnifying Glass"
+    },
+    "Manacles": {
+      "name": "Manacles"
+    },
+    "Map": {
+      "name": "Map"
+    },
+    "Map or Scroll Case": {
+      "name": "Map or Scroll Case"
+    },
+    "Mason's Tools": {
+      "name": "Mason's Tools"
+    },
+    "Maul": {
+      "name": "Maul"
+    },
+    "Mirror": {
+      "name": "Mirror"
+    },
+    "Morningstar": {
+      "name": "Morningstar"
+    },
+    "Musket": {
+      "name": "Musket"
+    },
+    "Navigator's Tools": {
+      "name": "Navigator's Tools"
+    },
+    "Needles": {
+      "name": "Needles"
+    },
+    "Net": {
+      "name": "Net"
+    },
+    "Oil": {
+      "name": "Oil"
+    },
+    "Orb": {
+      "name": "Orb"
+    },
+    "Padded Armor": {
+      "name": "Padded Armor"
+    },
+    "Painter's Supplies": {
+      "name": "Painter's Supplies"
+    },
+    "Pan Flute": {
+      "name": "Pan Flute"
+    },
+    "Paper": {
+      "name": "Paper"
+    },
+    "Parchment": {
+      "name": "Parchment"
+    },
+    "Perfume": {
+      "name": "Perfume"
+    },
+    "Pike": {
+      "name": "Pike"
+    },
+    "Pistol": {
+      "name": "Pistol"
+    },
+    "Plate Armor": {
+      "name": "Plate Armor"
+    },
+    "Playing Cards": {
+      "name": "Playing Cards"
+    },
+    "Poison, Basic": {
+      "name": "Poison, Basic"
+    },
+    "Poisoner's Kit": {
+      "name": "Poisoner's Kit"
+    },
+    "Pole": {
+      "name": "Pole"
+    },
+    "Pot, Iron": {
+      "name": "Pot, Iron"
+    },
+    "Potion of Healing": {
+      "name": "Potion of Healing"
+    },
+    "Potter's Tools": {
+      "name": "Potter's Tools"
+    },
+    "Pouch": {
+      "name": "Pouch"
+    },
+    "Priest's Pack": {
+      "name": "Priest's Pack"
+    },
+    "Quarterstaff": {
+      "name": "Quarterstaff"
+    },
+    "Quiver": {
+      "name": "Quiver"
+    },
+    "Ram, Portable": {
+      "name": "Ram, Portable"
+    },
+    "Rapier": {
+      "name": "Rapier"
+    },
+    "Rations": {
+      "name": "Rations"
+    },
+    "Reliquary": {
+      "name": "Reliquary"
+    },
+    "Ring Mail": {
+      "name": "Ring Mail"
+    },
+    "Robe": {
+      "name": "Robe"
+    },
+    "Rod": {
+      "name": "Rod"
+    },
+    "Rope": {
+      "name": "Rope"
+    },
+    "Sack": {
+      "name": "Sack"
+    },
+    "Scale Mail": {
+      "name": "Scale Mail"
+    },
+    "Scholar's Pack": {
+      "name": "Scholar's Pack"
+    },
+    "Scimitar": {
+      "name": "Scimitar"
+    },
+    "Shawm": {
+      "name": "Shawm"
+    },
+    "Shield": {
+      "name": "Shield"
+    },
+    "Shortbow": {
+      "name": "Shortbow"
+    },
+    "Shortsword": {
+      "name": "Shortsword"
+    },
+    "Shovel": {
+      "name": "Shovel"
+    },
+    "Sickle": {
+      "name": "Sickle"
+    },
+    "Signal Whistle": {
+      "name": "Signal Whistle"
+    },
+    "Sling": {
+      "name": "Sling"
+    },
+    "Smith's Tools": {
+      "name": "Smith's Tools"
+    },
+    "Spear": {
+      "name": "Spear"
+    },
+    "Spell Scroll, Cantrip": {
+      "name": "Spell Scroll, Cantrip"
+    },
+    "Spell Scroll, Level 1": {
+      "name": "Spell Scroll, Level 1"
+    },
+    "Spikes, Iron": {
+      "name": "Spikes, Iron"
+    },
+    "Splint Armor": {
+      "name": "Splint Armor"
+    },
+    "Sprig of mistletoe": {
+      "name": "Sprig of mistletoe"
+    },
+    "Spyglass": {
+      "name": "Spyglass"
+    },
+    "Staff": {
+      "name": "Staff"
+    },
+    "Stone Tablet": {
+      "name": "Stone Tablet"
+    },
+    "String": {
+      "name": "String"
+    },
+    "Studded Leather Armor": {
+      "name": "Studded Leather Armor"
+    },
+    "Tent": {
+      "name": "Tent"
+    },
+    "Thieves' Tools": {
+      "name": "Thieves' Tools"
+    },
+    "Three-dragon ante": {
+      "name": "Three-dragon ante"
+    },
+    "Tinderbox": {
+      "name": "Tinderbox"
+    },
+    "Tinker's Tools": {
+      "name": "Tinker's Tools"
+    },
+    "Tooled Owlbear Hide": {
+      "name": "Tooled Owlbear Hide"
+    },
+    "Torch": {
+      "name": "Torch"
+    },
+    "Trident": {
+      "name": "Trident"
+    },
+    "Unarmed Strike": {
+      "name": "Unarmed Strike"
+    },
+    "Vial": {
+      "name": "Vial"
+    },
+    "Viol": {
+      "name": "Viol"
+    },
+    "Wand": {
+      "name": "Wand"
+    },
+    "War Pick": {
+      "name": "War Pick"
+    },
+    "Warhammer": {
+      "name": "Warhammer"
+    },
+    "Water (Pint)": {
+      "name": "Water (Pint)"
+    },
+    "Waterskin": {
+      "name": "Waterskin"
+    },
+    "Weaver's Tools": {
+      "name": "Weaver's Tools"
+    },
+    "Whip": {
+      "name": "Whip"
+    },
+    "Woodcarver's Tools": {
+      "name": "Woodcarver's Tools"
+    },
+    "Wooden staff": {
+      "name": "Wooden staff"
+    },
+    "Yew wand": {
+      "name": "Yew wand"
+    }
+  }
+}

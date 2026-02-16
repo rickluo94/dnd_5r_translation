@@ -1,0 +1,1524 @@
+{
+  "label": "Character Classes",
+  "folders": {
+    "Aberrant Sorcery": "Aberrant Sorcery",
+    "Abjurer": "Abjurer",
+    "Arcane Trickster": "Arcane Trickster",
+    "Archfey Patron": "Archfey Patron",
+    "Assassin": "Assassin",
+    "Barbarian": "Barbarian",
+    "Bard": "Bard",
+    "Battle Master": "Battle Master",
+    "Beast Master": "Beast Master",
+    "Celestial Patron": "Celestial Patron",
+    "Champion": "Champion",
+    "Circle of Land": "Circle of Land",
+    "Circle of Moon": "Circle of Moon",
+    "Circle of Sea": "Circle of Sea",
+    "Circle of Stars": "Circle of Stars",
+    "Class Features": "Class Features",
+    "Cleric": "Cleric",
+    "Clockwork Sorcery": "Clockwork Sorcery",
+    "Dance": "Dance",
+    "Diviner": "Diviner",
+    "Draconic Sorcery": "Draconic Sorcery",
+    "Druid": "Druid",
+    "Eldritch Invocation Options": "Eldritch Invocation Options",
+    "Eldritch Knight": "Eldritch Knight",
+    "Evoker": "Evoker",
+    "Fey Wanderer": "Fey Wanderer",
+    "Fiend Patron": "Fiend Patron",
+    "Fighter": "Fighter",
+    "Glamour": "Glamour",
+    "Gloom Stalker": "Gloom Stalker",
+    "Great Old One Patron": "Great Old One Patron",
+    "Hunter": "Hunter",
+    "Illusionist": "Illusionist",
+    "Life Domain": "Life Domain",
+    "Light Domain": "Light Domain",
+    "Lore": "Lore",
+    "Maneuver Options": "Maneuver Options",
+    "Metamagic Options": "Metamagic Options",
+    "Monk": "Monk",
+    "Oath of Devotion": "Oath of Devotion",
+    "Oath of Glory": "Oath of Glory",
+    "Oath of Vengeance": "Oath of Vengeance",
+    "Oath of the Ancients": "Oath of the Ancients",
+    "Paladin": "Paladin",
+    "Path of the Berserker": "Path of the Berserker",
+    "Path of the Wild Heart": "Path of the Wild Heart",
+    "Path of the World Tree": "Path of the World Tree",
+    "Path of the Zealot": "Path of the Zealot",
+    "Psi Warrior": "Psi Warrior",
+    "Ranger": "Ranger",
+    "Rogue": "Rogue",
+    "Sorcerer": "Sorcerer",
+    "Soulknife": "Soulknife",
+    "Subclass Features": "Subclass Features",
+    "Thief": "Thief",
+    "Trickery Domain": "Trickery Domain",
+    "Valor": "Valor",
+    "War Domain": "War Domain",
+    "Warlock": "Warlock",
+    "Warrior of Mercy": "Warrior of Mercy",
+    "Warrior of Shadow": "Warrior of Shadow",
+    "Warrior of the Elements": "Warrior of the Elements",
+    "Warrior of the Open Hand": "Warrior of the Open Hand",
+    "Wild Magic Sorcery": "Wild Magic Sorcery",
+    "Wizard": "Wizard"
+  },
+  "entries": {
+    "Aberrant Sorcery": {
+      "name": "Aberrant Sorcery"
+    },
+    "Abjuration Savant": {
+      "name": "Abjuration Savant"
+    },
+    "Abjure Foes": {
+      "name": "Abjure Foes"
+    },
+    "Abjurer": {
+      "name": "Abjurer"
+    },
+    "Acrobatic Movement": {
+      "name": "Acrobatic Movement"
+    },
+    "Action Surge": {
+      "name": "Action Surge"
+    },
+    "Additional Fighting Style": {
+      "name": "Additional Fighting Style"
+    },
+    "Agonizing Blast": {
+      "name": "Agonizing Blast"
+    },
+    "Ambush": {
+      "name": "Ambush"
+    },
+    "Animal Speaker": {
+      "name": "Animal Speaker"
+    },
+    "Aquatic Affinity": {
+      "name": "Aquatic Affinity"
+    },
+    "Arcane Apotheosis": {
+      "name": "Arcane Apotheosis"
+    },
+    "Arcane Charge": {
+      "name": "Arcane Charge"
+    },
+    "Arcane Recovery": {
+      "name": "Arcane Recovery"
+    },
+    "Arcane Trickster": {
+      "name": "Arcane Trickster"
+    },
+    "Arcane Ward": {
+      "name": "Arcane Ward"
+    },
+    "Archdruid": {
+      "name": "Archdruid"
+    },
+    "Archfey Patron": {
+      "name": "Archfey Patron"
+    },
+    "Archfey Spells": {
+      "name": "Archfey Spells"
+    },
+    "Armor of Shadows": {
+      "name": "Armor of Shadows"
+    },
+    "Ascendant Step": {
+      "name": "Ascendant Step"
+    },
+    "Aspect of the Wilds": {
+      "name": "Aspect of the Wilds"
+    },
+    "Assasinate": {
+      "name": "Assasinate"
+    },
+    "Assassin": {
+      "name": "Assassin"
+    },
+    "Assassin's Tools": {
+      "name": "Assassin's Tools"
+    },
+    "Aura Expansion": {
+      "name": "Aura Expansion"
+    },
+    "Aura of Alacrity": {
+      "name": "Aura of Alacrity"
+    },
+    "Aura of Courage": {
+      "name": "Aura of Courage"
+    },
+    "Aura of Devotion": {
+      "name": "Aura of Devotion"
+    },
+    "Aura of Protection": {
+      "name": "Aura of Protection"
+    },
+    "Aura of Warding": {
+      "name": "Aura of Warding"
+    },
+    "Avatar of Battle": {
+      "name": "Avatar of Battle"
+    },
+    "Avenging Angel": {
+      "name": "Avenging Angel"
+    },
+    "Awakened Mind": {
+      "name": "Awakened Mind"
+    },
+    "Bait and Switch": {
+      "name": "Bait and Switch"
+    },
+    "Barbarian": {
+      "name": "Barbarian"
+    },
+    "Bard": {
+      "name": "Bard"
+    },
+    "Bardic Inspiration": {
+      "name": "Bardic Inspiration"
+    },
+    "Bastion of Law": {
+      "name": "Bastion of Law"
+    },
+    "Battering Roots": {
+      "name": "Battering Roots"
+    },
+    "Battle Magic": {
+      "name": "Battle Magic"
+    },
+    "Battle Master": {
+      "name": "Battle Master"
+    },
+    "Beast Master": {
+      "name": "Beast Master"
+    },
+    "Beast Spells": {
+      "name": "Beast Spells"
+    },
+    "Beguiling Defenses": {
+      "name": "Beguiling Defenses"
+    },
+    "Beguiling Magic": {
+      "name": "Beguiling Magic"
+    },
+    "Beguiling Twist": {
+      "name": "Beguiling Twist"
+    },
+    "Bend Luck": {
+      "name": "Bend Luck"
+    },
+    "Bestial Fury": {
+      "name": "Bestial Fury"
+    },
+    "Bewitching Magic": {
+      "name": "Bewitching Magic"
+    },
+    "Blessed Healer": {
+      "name": "Blessed Healer"
+    },
+    "Blessed Strikes": {
+      "name": "Blessed Strikes"
+    },
+    "Blessed Strikes: Divine Strike": {
+      "name": "Blessed Strikes: Divine Strike"
+    },
+    "Blessed Strikes: Potent Spellcasting": {
+      "name": "Blessed Strikes: Potent Spellcasting"
+    },
+    "Blessing of the Trickster": {
+      "name": "Blessing of the Trickster"
+    },
+    "Body and Mind": {
+      "name": "Body and Mind"
+    },
+    "Bonus Proficiencies": {
+      "name": "Bonus Proficiencies"
+    },
+    "Book of Shadows": {
+      "name": "Book of Shadows"
+    },
+    "Branches of the Tree": {
+      "name": "Branches of the Tree"
+    },
+    "Brutal Strike": {
+      "name": "Brutal Strike"
+    },
+    "Bulwark of Force": {
+      "name": "Bulwark of Force"
+    },
+    "Careful Spell": {
+      "name": "Careful Spell"
+    },
+    "Celestial Patron": {
+      "name": "Celestial Patron"
+    },
+    "Celestial Resilience": {
+      "name": "Celestial Resilience"
+    },
+    "Celestial Spells": {
+      "name": "Celestial Spells"
+    },
+    "Champion": {
+      "name": "Champion"
+    },
+    "Channel Divinity": {
+      "name": "Channel Divinity"
+    },
+    "Circle Forms": {
+      "name": "Circle Forms"
+    },
+    "Circle of the Land": {
+      "name": "Circle of the Land"
+    },
+    "Circle of the Land Spells": {
+      "name": "Circle of the Land Spells"
+    },
+    "Circle of the Moon": {
+      "name": "Circle of the Moon"
+    },
+    "Circle of the Moon Spells": {
+      "name": "Circle of the Moon Spells"
+    },
+    "Circle of the Sea": {
+      "name": "Circle of the Sea"
+    },
+    "Circle of the Sea Spells": {
+      "name": "Circle of the Sea Spells"
+    },
+    "Circle of the Stars": {
+      "name": "Circle of the Stars"
+    },
+    "Clairvoyant Combatant": {
+      "name": "Clairvoyant Combatant"
+    },
+    "Cleric": {
+      "name": "Cleric"
+    },
+    "Cloak of Shadows": {
+      "name": "Cloak of Shadows"
+    },
+    "Clockwork Cavalcade": {
+      "name": "Clockwork Cavalcade"
+    },
+    "Clockwork Sorcery": {
+      "name": "Clockwork Sorcery"
+    },
+    "Clockwork Spells": {
+      "name": "Clockwork Spells"
+    },
+    "College of Dance": {
+      "name": "College of Dance"
+    },
+    "College of Glamour": {
+      "name": "College of Glamour"
+    },
+    "College of Lore": {
+      "name": "College of Lore"
+    },
+    "College of Valor": {
+      "name": "College of Valor"
+    },
+    "Combat Inspiration": {
+      "name": "Combat Inspiration"
+    },
+    "Combat Superiority": {
+      "name": "Combat Superiority"
+    },
+    "Commander's Strike": {
+      "name": "Commander's Strike"
+    },
+    "Commanding Presence": {
+      "name": "Commanding Presence"
+    },
+    "Contact Patron": {
+      "name": "Contact Patron"
+    },
+    "Controlled Chaos": {
+      "name": "Controlled Chaos"
+    },
+    "Corona of Light": {
+      "name": "Corona of Light"
+    },
+    "Cosmic Omen": {
+      "name": "Cosmic Omen"
+    },
+    "Countercharm": {
+      "name": "Countercharm"
+    },
+    "Create Thrall": {
+      "name": "Create Thrall"
+    },
+    "Cunning Action": {
+      "name": "Cunning Action"
+    },
+    "Cunning Strike": {
+      "name": "Cunning Strike"
+    },
+    "Cutting Words": {
+      "name": "Cutting Words"
+    },
+    "Danger Sense": {
+      "name": "Danger Sense"
+    },
+    "Dark One's Blessing": {
+      "name": "Dark One's Blessing"
+    },
+    "Dark One's Own Luck": {
+      "name": "Dark One's Own Luck"
+    },
+    "Dazzling Footwork": {
+      "name": "Dazzling Footwork"
+    },
+    "Death Strike": {
+      "name": "Death Strike"
+    },
+    "Defensive Tactics": {
+      "name": "Defensive Tactics"
+    },
+    "Deflect Attacks": {
+      "name": "Deflect Attacks"
+    },
+    "Deflect Energy": {
+      "name": "Deflect Energy"
+    },
+    "Deft Explorer": {
+      "name": "Deft Explorer"
+    },
+    "Devil's Sight": {
+      "name": "Devil's Sight"
+    },
+    "Devious Strikes": {
+      "name": "Devious Strikes"
+    },
+    "Devouring Blade": {
+      "name": "Devouring Blade"
+    },
+    "Disarming Attack": {
+      "name": "Disarming Attack"
+    },
+    "Disciple of Life": {
+      "name": "Disciple of Life"
+    },
+    "Disciplined Survivor": {
+      "name": "Disciplined Survivor"
+    },
+    "Distant Spell": {
+      "name": "Distant Spell"
+    },
+    "Distracting Strike": {
+      "name": "Distracting Strike"
+    },
+    "Divination Savant": {
+      "name": "Divination Savant"
+    },
+    "Divine Fury": {
+      "name": "Divine Fury"
+    },
+    "Divine Intervention": {
+      "name": "Divine Intervention"
+    },
+    "Divine Order": {
+      "name": "Divine Order"
+    },
+    "Divine Order: Protector": {
+      "name": "Divine Order: Protector"
+    },
+    "Divine Order: Thaumaturge": {
+      "name": "Divine Order: Thaumaturge"
+    },
+    "Diviner": {
+      "name": "Diviner"
+    },
+    "Draconic Resilience": {
+      "name": "Draconic Resilience"
+    },
+    "Draconic Sorcery": {
+      "name": "Draconic Sorcery"
+    },
+    "Draconic Spells": {
+      "name": "Draconic Spells"
+    },
+    "Dragon Companion": {
+      "name": "Dragon Companion"
+    },
+    "Dragon Wings": {
+      "name": "Dragon Wings"
+    },
+    "Dread Ambusher": {
+      "name": "Dread Ambusher"
+    },
+    "Dreadful Strikes": {
+      "name": "Dreadful Strikes"
+    },
+    "Druid": {
+      "name": "Druid"
+    },
+    "Druidic": {
+      "name": "Druidic"
+    },
+    "Elder Champion": {
+      "name": "Elder Champion"
+    },
+    "Eldritch Hex": {
+      "name": "Eldritch Hex"
+    },
+    "Eldritch Invocations": {
+      "name": "Eldritch Invocations"
+    },
+    "Eldritch Knight": {
+      "name": "Eldritch Knight"
+    },
+    "Eldritch Master": {
+      "name": "Eldritch Master"
+    },
+    "Eldritch Mind": {
+      "name": "Eldritch Mind"
+    },
+    "Eldritch Smite": {
+      "name": "Eldritch Smite"
+    },
+    "Eldritch Spear": {
+      "name": "Eldritch Spear"
+    },
+    "Eldritch Strike": {
+      "name": "Eldritch Strike"
+    },
+    "Elemental Affinity": {
+      "name": "Elemental Affinity"
+    },
+    "Elemental Attunement": {
+      "name": "Elemental Attunement"
+    },
+    "Elemental Burst": {
+      "name": "Elemental Burst"
+    },
+    "Elemental Epitome": {
+      "name": "Elemental Epitome"
+    },
+    "Elemental Fury": {
+      "name": "Elemental Fury"
+    },
+    "Elemental Fury: Potent Spellcasting": {
+      "name": "Elemental Fury: Potent Spellcasting"
+    },
+    "Elemental Fury: Primal Strike": {
+      "name": "Elemental Fury: Primal Strike"
+    },
+    "Elusive": {
+      "name": "Elusive"
+    },
+    "Empowered Evocation": {
+      "name": "Empowered Evocation"
+    },
+    "Empowered Spell": {
+      "name": "Empowered Spell"
+    },
+    "Empowered Strikes": {
+      "name": "Empowered Strikes"
+    },
+    "Envenom Weapons": {
+      "name": "Envenom Weapons"
+    },
+    "Epic Boon": {
+      "name": "Epic Boon"
+    },
+    "Evasion": {
+      "name": "Evasion"
+    },
+    "Evasive Footwork": {
+      "name": "Evasive Footwork"
+    },
+    "Evocation Savant": {
+      "name": "Evocation Savant"
+    },
+    "Evoker": {
+      "name": "Evoker"
+    },
+    "Exceptional Training": {
+      "name": "Exceptional Training"
+    },
+    "Expert Divination": {
+      "name": "Expert Divination"
+    },
+    "Expertise": {
+      "name": "Expertise"
+    },
+    "Extended Spell": {
+      "name": "Extended Spell"
+    },
+    "Extra Attack": {
+      "name": "Extra Attack"
+    },
+    "Faithful Steed": {
+      "name": "Faithful Steed"
+    },
+    "Fanatical Focus": {
+      "name": "Fanatical Focus"
+    },
+    "Fast Hands": {
+      "name": "Fast Hands"
+    },
+    "Fast Movement": {
+      "name": "Fast Movement"
+    },
+    "Favored Enemy": {
+      "name": "Favored Enemy"
+    },
+    "Feinting Attack": {
+      "name": "Feinting Attack"
+    },
+    "Feral Instinct": {
+      "name": "Feral Instinct"
+    },
+    "Feral Senses": {
+      "name": "Feral Senses"
+    },
+    "Fey Reinforcements": {
+      "name": "Fey Reinforcements"
+    },
+    "Fey Wanderer": {
+      "name": "Fey Wanderer"
+    },
+    "Fey Wanderer Spells": {
+      "name": "Fey Wanderer Spells"
+    },
+    "Fiend Patron": {
+      "name": "Fiend Patron"
+    },
+    "Fiend Spells": {
+      "name": "Fiend Spells"
+    },
+    "Fiendish Resilience": {
+      "name": "Fiendish Resilience"
+    },
+    "Fiendish Vigor": {
+      "name": "Fiendish Vigor"
+    },
+    "Fighter": {
+      "name": "Fighter"
+    },
+    "Fighting Style": {
+      "name": "Fighting Style"
+    },
+    "Fleet Step": {
+      "name": "Fleet Step"
+    },
+    "Flurry of Healing and Harm": {
+      "name": "Flurry of Healing and Harm"
+    },
+    "Foe Slayer": {
+      "name": "Foe Slayer"
+    },
+    "Font of Inspiration": {
+      "name": "Font of Inspiration"
+    },
+    "Font of Magic": {
+      "name": "Font of Magic"
+    },
+    "Frenzy": {
+      "name": "Frenzy"
+    },
+    "Full of Stars": {
+      "name": "Full of Stars"
+    },
+    "Gaze of Two Minds": {
+      "name": "Gaze of Two Minds"
+    },
+    "Gift of the Depths": {
+      "name": "Gift of the Depths"
+    },
+    "Gift of the Protectors": {
+      "name": "Gift of the Protectors"
+    },
+    "Gloom Stalker": {
+      "name": "Gloom Stalker"
+    },
+    "Gloom Stalker Spells": {
+      "name": "Gloom Stalker Spells"
+    },
+    "Glorious Defense": {
+      "name": "Glorious Defense"
+    },
+    "Goading Attack": {
+      "name": "Goading Attack"
+    },
+    "Great Old One Patron": {
+      "name": "Great Old One Patron"
+    },
+    "Great Old One Spells": {
+      "name": "Great Old One Spells"
+    },
+    "Greater Divine Intervention": {
+      "name": "Greater Divine Intervention"
+    },
+    "Greater Portent": {
+      "name": "Greater Portent"
+    },
+    "Guarded Mind": {
+      "name": "Guarded Mind"
+    },
+    "Guided Strike": {
+      "name": "Guided Strike"
+    },
+    "Hand of Harm": {
+      "name": "Hand of Harm"
+    },
+    "Hand of Healing": {
+      "name": "Hand of Healing"
+    },
+    "Hand of Ultimate Mercy": {
+      "name": "Hand of Ultimate Mercy"
+    },
+    "Healing Light": {
+      "name": "Healing Light"
+    },
+    "Heightened Focus": {
+      "name": "Heightened Focus"
+    },
+    "Heightened Spell": {
+      "name": "Heightened Spell"
+    },
+    "Heroic Warrior": {
+      "name": "Heroic Warrior"
+    },
+    "Holy Nimbus": {
+      "name": "Holy Nimbus"
+    },
+    "Hunter": {
+      "name": "Hunter"
+    },
+    "Hunter's Lore": {
+      "name": "Hunter's Lore"
+    },
+    "Hunter's Prey": {
+      "name": "Hunter's Prey"
+    },
+    "Hurl Through Hell": {
+      "name": "Hurl Through Hell"
+    },
+    "Illusion Savant": {
+      "name": "Illusion Savant"
+    },
+    "Illusionist": {
+      "name": "Illusionist"
+    },
+    "Illusory Reality": {
+      "name": "Illusory Reality"
+    },
+    "Illusory Self": {
+      "name": "Illusory Self"
+    },
+    "Implements of Mercy": {
+      "name": "Implements of Mercy"
+    },
+    "Improved Blessed Strikes": {
+      "name": "Improved Blessed Strikes"
+    },
+    "Improved Brutal Strike": {
+      "name": "Improved Brutal Strike"
+    },
+    "Improved Brutal Strike (2)": {
+      "name": "Improved Brutal Strike (2)"
+    },
+    "Improved Circle Forms": {
+      "name": "Improved Circle Forms"
+    },
+    "Improved Combat Superiority": {
+      "name": "Improved Combat Superiority"
+    },
+    "Improved Critical": {
+      "name": "Improved Critical"
+    },
+    "Improved Cunning Strike": {
+      "name": "Improved Cunning Strike"
+    },
+    "Improved Duplicity": {
+      "name": "Improved Duplicity"
+    },
+    "Improved Elemental Fury": {
+      "name": "Improved Elemental Fury"
+    },
+    "Improved Illusions": {
+      "name": "Improved Illusions"
+    },
+    "Improved Shadow Step": {
+      "name": "Improved Shadow Step"
+    },
+    "Improved War Magic": {
+      "name": "Improved War Magic"
+    },
+    "Improved Warding Flare": {
+      "name": "Improved Warding Flare"
+    },
+    "Indomitable": {
+      "name": "Indomitable"
+    },
+    "Indomitable Might": {
+      "name": "Indomitable Might"
+    },
+    "Infiltration Expertise": {
+      "name": "Infiltration Expertise"
+    },
+    "Innate Sorcery": {
+      "name": "Innate Sorcery"
+    },
+    "Inspiring Movement": {
+      "name": "Inspiring Movement"
+    },
+    "Inspiring Smite": {
+      "name": "Inspiring Smite"
+    },
+    "Instinctive Pounce": {
+      "name": "Instinctive Pounce"
+    },
+    "Intimidating Presence": {
+      "name": "Intimidating Presence"
+    },
+    "Investment of the Chain Master": {
+      "name": "Investment of the Chain Master"
+    },
+    "Invoke Duplicity": {
+      "name": "Invoke Duplicity"
+    },
+    "Iron Mind": {
+      "name": "Iron Mind"
+    },
+    "Jack of All Trades": {
+      "name": "Jack of All Trades"
+    },
+    "Know Your Enemy": {
+      "name": "Know Your Enemy"
+    },
+    "Land's Aid": {
+      "name": "Land's Aid"
+    },
+    "Lay on Hands": {
+      "name": "Lay on Hands"
+    },
+    "Leading Evasion": {
+      "name": "Leading Evasion"
+    },
+    "Lessons of the First Ones": {
+      "name": "Lessons of the First Ones"
+    },
+    "Life Domain": {
+      "name": "Life Domain"
+    },
+    "Life Domain Spells": {
+      "name": "Life Domain Spells"
+    },
+    "Lifedrinker": {
+      "name": "Lifedrinker"
+    },
+    "Light Domain": {
+      "name": "Light Domain"
+    },
+    "Light Domain Spells": {
+      "name": "Light Domain Spells"
+    },
+    "Living Legend": {
+      "name": "Living Legend"
+    },
+    "Lunar Form": {
+      "name": "Lunar Form"
+    },
+    "Lunging Attack": {
+      "name": "Lunging Attack"
+    },
+    "Mage Hand Legerdemain": {
+      "name": "Mage Hand Legerdemain"
+    },
+    "Magical Ambush": {
+      "name": "Magical Ambush"
+    },
+    "Magical Cunning": {
+      "name": "Magical Cunning"
+    },
+    "Magical Discoveries": {
+      "name": "Magical Discoveries"
+    },
+    "Magical Secrets": {
+      "name": "Magical Secrets"
+    },
+    "Maneuvering Attack": {
+      "name": "Maneuvering Attack"
+    },
+    "Manipulate Elements": {
+      "name": "Manipulate Elements"
+    },
+    "Mantle of Inspiration": {
+      "name": "Mantle of Inspiration"
+    },
+    "Mantle of Majesty": {
+      "name": "Mantle of Majesty"
+    },
+    "Martial Arts": {
+      "name": "Martial Arts"
+    },
+    "Martial Training": {
+      "name": "Martial Training"
+    },
+    "Mask of Many Faces": {
+      "name": "Mask of Many Faces"
+    },
+    "Master of Myriad Forms": {
+      "name": "Master of Myriad Forms"
+    },
+    "Memorize Spell": {
+      "name": "Memorize Spell"
+    },
+    "Menacing Attack": {
+      "name": "Menacing Attack"
+    },
+    "Metamagic": {
+      "name": "Metamagic"
+    },
+    "Mindless Rage": {
+      "name": "Mindless Rage"
+    },
+    "Misty Escape": {
+      "name": "Misty Escape"
+    },
+    "Misty Visions": {
+      "name": "Misty Visions"
+    },
+    "Misty Wanderer": {
+      "name": "Misty Wanderer"
+    },
+    "Monk": {
+      "name": "Monk"
+    },
+    "Monk's Focus": {
+      "name": "Monk's Focus"
+    },
+    "Moonlight Step": {
+      "name": "Moonlight Step"
+    },
+    "Mystic Arcanum": {
+      "name": "Mystic Arcanum"
+    },
+    "Natural Recovery": {
+      "name": "Natural Recovery"
+    },
+    "Nature Speaker": {
+      "name": "Nature Speaker"
+    },
+    "Nature's Sanctuary": {
+      "name": "Nature's Sanctuary"
+    },
+    "Nature's Veil": {
+      "name": "Nature's Veil"
+    },
+    "Nature's Ward": {
+      "name": "Nature's Ward"
+    },
+    "Nature's Wrath": {
+      "name": "Nature's Wrath"
+    },
+    "Oath of Devotion": {
+      "name": "Oath of Devotion"
+    },
+    "Oath of Devotion Spells": {
+      "name": "Oath of Devotion Spells"
+    },
+    "Oath of Glory": {
+      "name": "Oath of Glory"
+    },
+    "Oath of Glory Spells": {
+      "name": "Oath of Glory Spells"
+    },
+    "Oath of Vengeance": {
+      "name": "Oath of Vengeance"
+    },
+    "Oath of Vengeance Spells": {
+      "name": "Oath of Vengeance Spells"
+    },
+    "Oath of the Ancients": {
+      "name": "Oath of the Ancients"
+    },
+    "Oath of the Ancients Spells": {
+      "name": "Oath of the Ancients Spells"
+    },
+    "Oceanic Gift": {
+      "name": "Oceanic Gift"
+    },
+    "One with Shadows": {
+      "name": "One with Shadows"
+    },
+    "Open Hand Technique": {
+      "name": "Open Hand Technique"
+    },
+    "Otherworldly Glamour": {
+      "name": "Otherworldly Glamour"
+    },
+    "Otherworldly Leap": {
+      "name": "Otherworldly Leap"
+    },
+    "Overchannel": {
+      "name": "Overchannel"
+    },
+    "Pact Magic": {
+      "name": "Pact Magic"
+    },
+    "Pact of the Blade": {
+      "name": "Pact of the Blade"
+    },
+    "Pact of the Chain": {
+      "name": "Pact of the Chain"
+    },
+    "Pact of the Tome": {
+      "name": "Pact of the Tome"
+    },
+    "Paladin": {
+      "name": "Paladin"
+    },
+    "Paladin's Smite": {
+      "name": "Paladin's Smite"
+    },
+    "Parry": {
+      "name": "Parry"
+    },
+    "Path of the Berserker": {
+      "name": "Path of the Berserker"
+    },
+    "Path of the Wild Heart": {
+      "name": "Path of the Wild Heart"
+    },
+    "Path of the World Tree": {
+      "name": "Path of the World Tree"
+    },
+    "Path of the Zealot": {
+      "name": "Path of the Zealot"
+    },
+    "Peerless Athlete": {
+      "name": "Peerless Athlete"
+    },
+    "Peerless Skill": {
+      "name": "Peerless Skill"
+    },
+    "Perfect Focus": {
+      "name": "Perfect Focus"
+    },
+    "Persistent Rage": {
+      "name": "Persistent Rage"
+    },
+    "Phantasmal Creatures": {
+      "name": "Phantasmal Creatures"
+    },
+    "Physician's Touch": {
+      "name": "Physician's Touch"
+    },
+    "Portent": {
+      "name": "Portent"
+    },
+    "Potent Cantrip": {
+      "name": "Potent Cantrip"
+    },
+    "Power of the Wilds": {
+      "name": "Power of the Wilds"
+    },
+    "Precise Hunter": {
+      "name": "Precise Hunter"
+    },
+    "Precision Attack": {
+      "name": "Precision Attack"
+    },
+    "Preserve Life": {
+      "name": "Preserve Life"
+    },
+    "Primal Champion": {
+      "name": "Primal Champion"
+    },
+    "Primal Companion": {
+      "name": "Primal Companion"
+    },
+    "Primal Knowledge": {
+      "name": "Primal Knowledge"
+    },
+    "Primal Order": {
+      "name": "Primal Order"
+    },
+    "Primal Order: Magician": {
+      "name": "Primal Order: Magician"
+    },
+    "Primal Order: Warden": {
+      "name": "Primal Order: Warden"
+    },
+    "Projected Ward": {
+      "name": "Projected Ward"
+    },
+    "Psi Warrior": {
+      "name": "Psi Warrior"
+    },
+    "Psionic Power": {
+      "name": "Psionic Power"
+    },
+    "Psionic Sorcery": {
+      "name": "Psionic Sorcery"
+    },
+    "Psionic Spells": {
+      "name": "Psionic Spells"
+    },
+    "Psychic Blade": {
+      "name": "Psychic Blade"
+    },
+    "Psychic Blades": {
+      "name": "Psychic Blades"
+    },
+    "Psychic Defenses": {
+      "name": "Psychic Defenses"
+    },
+    "Psychic Spells": {
+      "name": "Psychic Spells"
+    },
+    "Psychic Veil": {
+      "name": "Psychic Veil"
+    },
+    "Pushing Attack": {
+      "name": "Pushing Attack"
+    },
+    "Quickened Spell": {
+      "name": "Quickened Spell"
+    },
+    "Quivering Palm": {
+      "name": "Quivering Palm"
+    },
+    "Radiance of the Dawn": {
+      "name": "Radiance of the Dawn"
+    },
+    "Radiant Soul": {
+      "name": "Radiant Soul"
+    },
+    "Radiant Strikes": {
+      "name": "Radiant Strikes"
+    },
+    "Rage": {
+      "name": "Rage"
+    },
+    "Rage of the Gods": {
+      "name": "Rage of the Gods"
+    },
+    "Rage of the Wilds": {
+      "name": "Rage of the Wilds"
+    },
+    "Rally": {
+      "name": "Rally"
+    },
+    "Ranger": {
+      "name": "Ranger"
+    },
+    "Reckless Attack": {
+      "name": "Reckless Attack"
+    },
+    "Relentless": {
+      "name": "Relentless"
+    },
+    "Relentless Avenger": {
+      "name": "Relentless Avenger"
+    },
+    "Relentless Hunter": {
+      "name": "Relentless Hunter"
+    },
+    "Relentless Rage": {
+      "name": "Relentless Rage"
+    },
+    "Reliable Talent": {
+      "name": "Reliable Talent"
+    },
+    "Remarkable Athlete": {
+      "name": "Remarkable Athlete"
+    },
+    "Rend Mind": {
+      "name": "Rend Mind"
+    },
+    "Repelling Blast": {
+      "name": "Repelling Blast"
+    },
+    "Restore Balance": {
+      "name": "Restore Balance"
+    },
+    "Restoring Touch": {
+      "name": "Restoring Touch"
+    },
+    "Retaliation": {
+      "name": "Retaliation"
+    },
+    "Revelation in Flesh": {
+      "name": "Revelation in Flesh"
+    },
+    "Riposte": {
+      "name": "Riposte"
+    },
+    "Ritual Adept": {
+      "name": "Ritual Adept"
+    },
+    "Rogue": {
+      "name": "Rogue"
+    },
+    "Roving": {
+      "name": "Roving"
+    },
+    "Sacred Weapon": {
+      "name": "Sacred Weapon"
+    },
+    "Scholar": {
+      "name": "Scholar"
+    },
+    "Sculpt Spells": {
+      "name": "Sculpt Spells"
+    },
+    "Sear Undead": {
+      "name": "Sear Undead"
+    },
+    "Searing Vengeance": {
+      "name": "Searing Vengeance"
+    },
+    "Second Wind": {
+      "name": "Second Wind"
+    },
+    "Second-Story Work": {
+      "name": "Second-Story Work"
+    },
+    "Seeking Spell": {
+      "name": "Seeking Spell"
+    },
+    "Self-Restoration": {
+      "name": "Self-Restoration"
+    },
+    "Shadow Arts": {
+      "name": "Shadow Arts"
+    },
+    "Shadow Step": {
+      "name": "Shadow Step"
+    },
+    "Shadowy Dodge": {
+      "name": "Shadowy Dodge"
+    },
+    "Share Spells": {
+      "name": "Share Spells"
+    },
+    "Signature Spells": {
+      "name": "Signature Spells"
+    },
+    "Slippery Mind": {
+      "name": "Slippery Mind"
+    },
+    "Slow Fall": {
+      "name": "Slow Fall"
+    },
+    "Smite of Protection": {
+      "name": "Smite of Protection"
+    },
+    "Sneak Attack": {
+      "name": "Sneak Attack"
+    },
+    "Sorcerer": {
+      "name": "Sorcerer"
+    },
+    "Sorcerous Restoration": {
+      "name": "Sorcerous Restoration"
+    },
+    "Sorcery Incarnate": {
+      "name": "Sorcery Incarnate"
+    },
+    "Soul Blades": {
+      "name": "Soul Blades"
+    },
+    "Soul of Vengeance": {
+      "name": "Soul of Vengeance"
+    },
+    "Soulknife": {
+      "name": "Soulknife"
+    },
+    "Spell Breaker": {
+      "name": "Spell Breaker"
+    },
+    "Spell Mastery": {
+      "name": "Spell Mastery"
+    },
+    "Spell Resistance": {
+      "name": "Spell Resistance"
+    },
+    "Spell Thief": {
+      "name": "Spell Thief"
+    },
+    "Spellcasting": {
+      "name": "Spellcasting"
+    },
+    "Stalker's Flurry": {
+      "name": "Stalker's Flurry"
+    },
+    "Star Map": {
+      "name": "Star Map"
+    },
+    "Starry Form": {
+      "name": "Starry Form"
+    },
+    "Steady Aim": {
+      "name": "Steady Aim"
+    },
+    "Steps of the Fey": {
+      "name": "Steps of the Fey"
+    },
+    "Stormborn": {
+      "name": "Stormborn"
+    },
+    "Stride of the Elements": {
+      "name": "Stride of the Elements"
+    },
+    "Stroke of Luck": {
+      "name": "Stroke of Luck"
+    },
+    "Student of War": {
+      "name": "Student of War"
+    },
+    "Studied Attacks": {
+      "name": "Studied Attacks"
+    },
+    "Stunning Strike": {
+      "name": "Stunning Strike"
+    },
+    "Subtle Spell": {
+      "name": "Subtle Spell"
+    },
+    "Superior Critical": {
+      "name": "Superior Critical"
+    },
+    "Superior Defense": {
+      "name": "Superior Defense"
+    },
+    "Superior Hunter's Defense": {
+      "name": "Superior Hunter's Defense"
+    },
+    "Superior Hunter's Prey": {
+      "name": "Superior Hunter's Prey"
+    },
+    "Superior Inspiration": {
+      "name": "Superior Inspiration"
+    },
+    "Supreme Healing": {
+      "name": "Supreme Healing"
+    },
+    "Supreme Sneak": {
+      "name": "Supreme Sneak"
+    },
+    "Survivor": {
+      "name": "Survivor"
+    },
+    "Sweeping Attack": {
+      "name": "Sweeping Attack"
+    },
+    "Tactical Assessment": {
+      "name": "Tactical Assessment"
+    },
+    "Tactical Master": {
+      "name": "Tactical Master"
+    },
+    "Tactical Mind": {
+      "name": "Tactical Mind"
+    },
+    "Tactical Shift": {
+      "name": "Tactical Shift"
+    },
+    "Tamed Surge": {
+      "name": "Tamed Surge"
+    },
+    "Tandem Footwork": {
+      "name": "Tandem Footwork"
+    },
+    "Telekinetic Adept": {
+      "name": "Telekinetic Adept"
+    },
+    "Telekinetic Master": {
+      "name": "Telekinetic Master"
+    },
+    "Telepathic Speech": {
+      "name": "Telepathic Speech"
+    },
+    "The Third Eye": {
+      "name": "The Third Eye"
+    },
+    "Thief": {
+      "name": "Thief"
+    },
+    "Thief's Reflexes": {
+      "name": "Thief's Reflexes"
+    },
+    "Thieves' Cant": {
+      "name": "Thieves' Cant"
+    },
+    "Thirsting Blade": {
+      "name": "Thirsting Blade"
+    },
+    "Thought Shield": {
+      "name": "Thought Shield"
+    },
+    "Three Extra Attacks": {
+      "name": "Three Extra Attacks"
+    },
+    "Tides of Chaos": {
+      "name": "Tides of Chaos"
+    },
+    "Tireless": {
+      "name": "Tireless"
+    },
+    "Trance of Order": {
+      "name": "Trance of Order"
+    },
+    "Transmuted Spell": {
+      "name": "Transmuted Spell"
+    },
+    "Travel Along the Tree": {
+      "name": "Travel Along the Tree"
+    },
+    "Trickery Domain": {
+      "name": "Trickery Domain"
+    },
+    "Trickery Domain Spells": {
+      "name": "Trickery Domain Spells"
+    },
+    "Trickster's Transposition": {
+      "name": "Trickster's Transposition"
+    },
+    "Trip Attack": {
+      "name": "Trip Attack"
+    },
+    "Twinkling Constellations": {
+      "name": "Twinkling Constellations"
+    },
+    "Twinned Spell": {
+      "name": "Twinned Spell"
+    },
+    "Two Extra Attacks": {
+      "name": "Two Extra Attacks"
+    },
+    "Ultimate Combat Superiority": {
+      "name": "Ultimate Combat Superiority"
+    },
+    "Umbral Sight": {
+      "name": "Umbral Sight"
+    },
+    "Unarmed Strike": {
+      "name": "Unarmed Strike"
+    },
+    "Unarmored Defense": {
+      "name": "Unarmored Defense"
+    },
+    "Unarmored Movement": {
+      "name": "Unarmored Movement"
+    },
+    "Unbreakable Majesty": {
+      "name": "Unbreakable Majesty"
+    },
+    "Uncanny Dodge": {
+      "name": "Uncanny Dodge"
+    },
+    "Uncanny Metabolism": {
+      "name": "Uncanny Metabolism"
+    },
+    "Undying Sentinel": {
+      "name": "Undying Sentinel"
+    },
+    "Use Magic Device": {
+      "name": "Use Magic Device"
+    },
+    "Versatile Trickster": {
+      "name": "Versatile Trickster"
+    },
+    "Visions of Distant Realms": {
+      "name": "Visions of Distant Realms"
+    },
+    "Vitality of the Tree": {
+      "name": "Vitality of the Tree"
+    },
+    "Vow of Enmity": {
+      "name": "Vow of Enmity"
+    },
+    "War Bond": {
+      "name": "War Bond"
+    },
+    "War Domain": {
+      "name": "War Domain"
+    },
+    "War Domain Spells": {
+      "name": "War Domain Spells"
+    },
+    "War God's Blessing": {
+      "name": "War God's Blessing"
+    },
+    "War Magic": {
+      "name": "War Magic"
+    },
+    "War Priest": {
+      "name": "War Priest"
+    },
+    "Warding Flare": {
+      "name": "Warding Flare"
+    },
+    "Warlock": {
+      "name": "Warlock"
+    },
+    "Warping Implosion": {
+      "name": "Warping Implosion"
+    },
+    "Warrior of Mercy": {
+      "name": "Warrior of Mercy"
+    },
+    "Warrior of Shadow": {
+      "name": "Warrior of Shadow"
+    },
+    "Warrior of the Elements": {
+      "name": "Warrior of the Elements"
+    },
+    "Warrior of the Gods": {
+      "name": "Warrior of the Gods"
+    },
+    "Warrior of the Open Hand": {
+      "name": "Warrior of the Open Hand"
+    },
+    "Weapon Mastery": {
+      "name": "Weapon Mastery"
+    },
+    "Whispers of the Grave": {
+      "name": "Whispers of the Grave"
+    },
+    "Wholeness of Body": {
+      "name": "Wholeness of Body"
+    },
+    "Wild Companion": {
+      "name": "Wild Companion"
+    },
+    "Wild Magic Sorcery": {
+      "name": "Wild Magic Sorcery"
+    },
+    "Wild Magic Surge": {
+      "name": "Wild Magic Surge"
+    },
+    "Wild Resurgence": {
+      "name": "Wild Resurgence"
+    },
+    "Wild Shape": {
+      "name": "Wild Shape"
+    },
+    "Witch Sight": {
+      "name": "Witch Sight"
+    },
+    "Wizard": {
+      "name": "Wizard"
+    },
+    "Words of Creation": {
+      "name": "Words of Creation"
+    },
+    "Wrath of the Sea": {
+      "name": "Wrath of the Sea"
+    },
+    "Zealous Presence": {
+      "name": "Zealous Presence"
+    }
+  }
+}

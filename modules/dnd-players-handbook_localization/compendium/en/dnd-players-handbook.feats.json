@@ -1,0 +1,242 @@
+{
+  "label": "Feats",
+  "folders": {
+    "Epic Boon Feats": "Epic Boon Feats",
+    "Fighting Style Feats": "Fighting Style Feats",
+    "General Feats": "General Feats",
+    "Origin Feats": "Origin Feats"
+  },
+  "entries": {
+    "Ability Score Improvement": {
+      "name": "Ability Score Improvement"
+    },
+    "Actor": {
+      "name": "Actor"
+    },
+    "Alert": {
+      "name": "Alert"
+    },
+    "Archery": {
+      "name": "Archery"
+    },
+    "Athlete": {
+      "name": "Athlete"
+    },
+    "Blessed Warrior": {
+      "name": "Blessed Warrior"
+    },
+    "Blind Fighting": {
+      "name": "Blind Fighting"
+    },
+    "Boon of Combat Prowess": {
+      "name": "Boon of Combat Prowess"
+    },
+    "Boon of Dimensional Travel": {
+      "name": "Boon of Dimensional Travel"
+    },
+    "Boon of Energy Resistance": {
+      "name": "Boon of Energy Resistance"
+    },
+    "Boon of Fate": {
+      "name": "Boon of Fate"
+    },
+    "Boon of Fortitude": {
+      "name": "Boon of Fortitude"
+    },
+    "Boon of Irresistible Offense": {
+      "name": "Boon of Irresistible Offense"
+    },
+    "Boon of Recovery": {
+      "name": "Boon of Recovery"
+    },
+    "Boon of Skill": {
+      "name": "Boon of Skill"
+    },
+    "Boon of Speed": {
+      "name": "Boon of Speed"
+    },
+    "Boon of Spell Recall": {
+      "name": "Boon of Spell Recall"
+    },
+    "Boon of Truesight": {
+      "name": "Boon of Truesight"
+    },
+    "Boon of the Night Spirit": {
+      "name": "Boon of the Night Spirit"
+    },
+    "Charger": {
+      "name": "Charger"
+    },
+    "Chef": {
+      "name": "Chef"
+    },
+    "Crafter": {
+      "name": "Crafter"
+    },
+    "Crossbow Expert": {
+      "name": "Crossbow Expert"
+    },
+    "Crusher": {
+      "name": "Crusher"
+    },
+    "Defense": {
+      "name": "Defense"
+    },
+    "Defensive Duelist": {
+      "name": "Defensive Duelist"
+    },
+    "Druidic Warrior": {
+      "name": "Druidic Warrior"
+    },
+    "Dual Wielder": {
+      "name": "Dual Wielder"
+    },
+    "Dueling": {
+      "name": "Dueling"
+    },
+    "Durable": {
+      "name": "Durable"
+    },
+    "Elemental Adept": {
+      "name": "Elemental Adept"
+    },
+    "Fey-Touched": {
+      "name": "Fey-Touched"
+    },
+    "Grappler": {
+      "name": "Grappler"
+    },
+    "Great Weapon Fighting": {
+      "name": "Great Weapon Fighting"
+    },
+    "Great Weapon Master": {
+      "name": "Great Weapon Master"
+    },
+    "Healer": {
+      "name": "Healer"
+    },
+    "Heavily Armored": {
+      "name": "Heavily Armored"
+    },
+    "Heavy Armor Master": {
+      "name": "Heavy Armor Master"
+    },
+    "Inspiring Leader": {
+      "name": "Inspiring Leader"
+    },
+    "Interception": {
+      "name": "Interception"
+    },
+    "Keen Mind": {
+      "name": "Keen Mind"
+    },
+    "Lightly Armored": {
+      "name": "Lightly Armored"
+    },
+    "Lucky": {
+      "name": "Lucky"
+    },
+    "Mage Slayer": {
+      "name": "Mage Slayer"
+    },
+    "Magic Initiate": {
+      "name": "Magic Initiate"
+    },
+    "Martial Weapon Training": {
+      "name": "Martial Weapon Training"
+    },
+    "Medium Armor Master": {
+      "name": "Medium Armor Master"
+    },
+    "Moderately Armored": {
+      "name": "Moderately Armored"
+    },
+    "Mounted Combatant": {
+      "name": "Mounted Combatant"
+    },
+    "Musician": {
+      "name": "Musician"
+    },
+    "Observant": {
+      "name": "Observant"
+    },
+    "Piercer": {
+      "name": "Piercer"
+    },
+    "Poisoner": {
+      "name": "Poisoner"
+    },
+    "Polearm Master": {
+      "name": "Polearm Master"
+    },
+    "Protection": {
+      "name": "Protection"
+    },
+    "Resilient": {
+      "name": "Resilient"
+    },
+    "Ritual Caster": {
+      "name": "Ritual Caster"
+    },
+    "Savage Attacker": {
+      "name": "Savage Attacker"
+    },
+    "Sentinel": {
+      "name": "Sentinel"
+    },
+    "Shadow-Touched": {
+      "name": "Shadow-Touched"
+    },
+    "Sharpshooter": {
+      "name": "Sharpshooter"
+    },
+    "Shield Master": {
+      "name": "Shield Master"
+    },
+    "Skill Expert": {
+      "name": "Skill Expert"
+    },
+    "Skilled": {
+      "name": "Skilled"
+    },
+    "Skulker": {
+      "name": "Skulker"
+    },
+    "Slasher": {
+      "name": "Slasher"
+    },
+    "Speedy": {
+      "name": "Speedy"
+    },
+    "Spell Sniper": {
+      "name": "Spell Sniper"
+    },
+    "Tavern Brawler": {
+      "name": "Tavern Brawler"
+    },
+    "Telekinetic": {
+      "name": "Telekinetic"
+    },
+    "Telepathic": {
+      "name": "Telepathic"
+    },
+    "Thrown Weapon Fighting": {
+      "name": "Thrown Weapon Fighting"
+    },
+    "Tough": {
+      "name": "Tough"
+    },
+    "Two-Weapon Fighting": {
+      "name": "Two-Weapon Fighting"
+    },
+    "Unarmed Fighting": {
+      "name": "Unarmed Fighting"
+    },
+    "War Caster": {
+      "name": "War Caster"
+    },
+    "Weapon Master": {
+      "name": "Weapon Master"
+    }
+  }
+}

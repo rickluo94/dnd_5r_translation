@@ -1,0 +1,257 @@
+{
+  "label": "Character Origins",
+  "folders": {
+    "Aasimar": "Aasimar",
+    "Backgrounds": "Backgrounds",
+    "Dragonborn": "Dragonborn",
+    "Dwarf": "Dwarf",
+    "Elf": "Elf",
+    "Gnome": "Gnome",
+    "Goliath": "Goliath",
+    "Halfling": "Halfling",
+    "Human": "Human",
+    "Orc": "Orc",
+    "Species": "Species",
+    "Tiefling": "Tiefling",
+    "Traits": "Traits"
+  },
+  "entries": {
+    "Aasimar": {
+      "name": "Aasimar"
+    },
+    "Acid Breath Weapon": {
+      "name": "Acid Breath Weapon"
+    },
+    "Acolyte": {
+      "name": "Acolyte"
+    },
+    "Adrenaline Rush": {
+      "name": "Adrenaline Rush"
+    },
+    "Artisan": {
+      "name": "Artisan"
+    },
+    "Brave": {
+      "name": "Brave"
+    },
+    "Breath Weapon": {
+      "name": "Breath Weapon"
+    },
+    "Celestial Resistance": {
+      "name": "Celestial Resistance"
+    },
+    "Celestial Revelation": {
+      "name": "Celestial Revelation"
+    },
+    "Charlatan": {
+      "name": "Charlatan"
+    },
+    "Cloud's Jaunt": {
+      "name": "Cloud's Jaunt"
+    },
+    "Cold Breath Weapon": {
+      "name": "Cold Breath Weapon"
+    },
+    "Criminal": {
+      "name": "Criminal"
+    },
+    "Draconic Flight": {
+      "name": "Draconic Flight"
+    },
+    "Dragonborn": {
+      "name": "Dragonborn"
+    },
+    "Dwarf": {
+      "name": "Dwarf"
+    },
+    "Dwarven Resilience": {
+      "name": "Dwarven Resilience"
+    },
+    "Dwarven Toughness": {
+      "name": "Dwarven Toughness"
+    },
+    "Elf, Drow": {
+      "name": "Elf, Drow"
+    },
+    "Elf, High": {
+      "name": "Elf, High"
+    },
+    "Elf, Wood": {
+      "name": "Elf, Wood"
+    },
+    "Elven Lineage": {
+      "name": "Elven Lineage"
+    },
+    "Elven Lineage, Drow": {
+      "name": "Elven Lineage, Drow"
+    },
+    "Elven Lineage, High Elf": {
+      "name": "Elven Lineage, High Elf"
+    },
+    "Elven Lineage, Wood Elf": {
+      "name": "Elven Lineage, Wood Elf"
+    },
+    "Entertainer": {
+      "name": "Entertainer"
+    },
+    "Farmer": {
+      "name": "Farmer"
+    },
+    "Fey Ancestry": {
+      "name": "Fey Ancestry"
+    },
+    "Fiendish Legacy": {
+      "name": "Fiendish Legacy"
+    },
+    "Fiendish Legacy, Abyssal": {
+      "name": "Fiendish Legacy, Abyssal"
+    },
+    "Fiendish Legacy, Chthonic": {
+      "name": "Fiendish Legacy, Chthonic"
+    },
+    "Fiendish Legacy, Infernal": {
+      "name": "Fiendish Legacy, Infernal"
+    },
+    "Fire Breath Weapon": {
+      "name": "Fire Breath Weapon"
+    },
+    "Fire's Burn": {
+      "name": "Fire's Burn"
+    },
+    "Frost's Chill": {
+      "name": "Frost's Chill"
+    },
+    "Giant Ancestry": {
+      "name": "Giant Ancestry"
+    },
+    "Gnome, Forest": {
+      "name": "Gnome, Forest"
+    },
+    "Gnome, Rock": {
+      "name": "Gnome, Rock"
+    },
+    "Gnomish Cunning": {
+      "name": "Gnomish Cunning"
+    },
+    "Gnomish Lineage": {
+      "name": "Gnomish Lineage"
+    },
+    "Gnomish Lineage, Forest": {
+      "name": "Gnomish Lineage, Forest"
+    },
+    "Gnomish Lineage, Rock": {
+      "name": "Gnomish Lineage, Rock"
+    },
+    "Goliath": {
+      "name": "Goliath"
+    },
+    "Guard": {
+      "name": "Guard"
+    },
+    "Guide": {
+      "name": "Guide"
+    },
+    "Halfling": {
+      "name": "Halfling"
+    },
+    "Halfling Nimbleness": {
+      "name": "Halfling Nimbleness"
+    },
+    "Healing Hands": {
+      "name": "Healing Hands"
+    },
+    "Hermit": {
+      "name": "Hermit"
+    },
+    "Hill's Tumble": {
+      "name": "Hill's Tumble"
+    },
+    "Human": {
+      "name": "Human"
+    },
+    "Keen Senses": {
+      "name": "Keen Senses"
+    },
+    "Large Form": {
+      "name": "Large Form"
+    },
+    "Light Bearer": {
+      "name": "Light Bearer"
+    },
+    "Lightning Breath Weapon": {
+      "name": "Lightning Breath Weapon"
+    },
+    "Luck": {
+      "name": "Luck"
+    },
+    "Merchant": {
+      "name": "Merchant"
+    },
+    "Naturally Stealthy": {
+      "name": "Naturally Stealthy"
+    },
+    "Noble": {
+      "name": "Noble"
+    },
+    "Orc": {
+      "name": "Orc"
+    },
+    "Otherworldly Presence": {
+      "name": "Otherworldly Presence"
+    },
+    "Poison Breath Weapon": {
+      "name": "Poison Breath Weapon"
+    },
+    "Powerful Build": {
+      "name": "Powerful Build"
+    },
+    "Relentless Endurance": {
+      "name": "Relentless Endurance"
+    },
+    "Resourceful": {
+      "name": "Resourceful"
+    },
+    "Sage": {
+      "name": "Sage"
+    },
+    "Sailor": {
+      "name": "Sailor"
+    },
+    "Scribe": {
+      "name": "Scribe"
+    },
+    "Skillful": {
+      "name": "Skillful"
+    },
+    "Soldier": {
+      "name": "Soldier"
+    },
+    "Stone's Endurance": {
+      "name": "Stone's Endurance"
+    },
+    "Stonecunning": {
+      "name": "Stonecunning"
+    },
+    "Storm's Thunder": {
+      "name": "Storm's Thunder"
+    },
+    "Tiefling, Abyssal": {
+      "name": "Tiefling, Abyssal"
+    },
+    "Tiefling, Chthonic": {
+      "name": "Tiefling, Chthonic"
+    },
+    "Tiefling, Infernal": {
+      "name": "Tiefling, Infernal"
+    },
+    "Trance": {
+      "name": "Trance"
+    },
+    "Versatile": {
+      "name": "Versatile"
+    },
+    "Wayfarer": {
+      "name": "Wayfarer"
+    }
+  }
+}
