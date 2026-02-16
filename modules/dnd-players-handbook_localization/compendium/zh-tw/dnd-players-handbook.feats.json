@@ -217,7 +217,7 @@
     },
     "Poisoner": {
       "name": "毒師",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的敏捷或智力值提升1點，最高至20。</p>\n<p><strong>強效毒藥。</strong> 當你進行造成毒素傷害的傷害擲骰時，它無視對毒素傷害的抗性。</p>\n<p><strong>釀製毒藥。</strong> 你獲得毒藥工具包的熟練。使用該工具包進行1小時工作並消耗價值50金幣的材料，你可以製造數量等於你熟練加值的毒藥劑量。作為一個附贈動作，你可以將一劑毒藥塗抹到武器或彈藥上。塗抹後，毒藥保持效力1分鐘，或直到你以塗毒物品造成傷害為止，以較短者為準。當一個生物因塗毒物品受到傷害時，該生物必須通過一次體質豁免（DC 為 8 + 此專長提升的能力調整值 + 你的熟練加值），否則承受2d8毒素傷害並在你下回合結束前具有中毒狀態。</p>\n<section class=\"secret\" id=\"secret-Z0hagCaxOGvVtkkm\">\n    <p><strong>Foundry Note</strong></p>\n    <p><strong>製造毒藥劑量</strong>活動會根據你的熟練加值恢復此物品的使用次數。</p>\n    <p><strong>塗抹毒藥</strong>附魔活動為目標物品提供敏捷或智力豁免活動選項，應根據選擇此專長時提升的能力值來選擇。</p>\n    <p>你可以刪除與此專長未選擇的能力值相關的<strong>毒藥豁免</strong>活動。</p>\n    <p>最後，附魔活動的豁免DC基於武器使用者的能力值，但應始終與此功能擁有者的豁免DC進行比較。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 將你的敏捷或智力值提升1點，最高至20。</p>\n<p><strong>強效毒藥。</strong> 當你進行造成毒素傷害的傷害擲骰時，它無視對毒素傷害的抗性。</p>\n<p><strong>釀製毒藥。</strong> 你獲得毒藥工具包的熟練。使用該工具包進行1小時工作並消耗價值50金幣的材料，你可以製造數量等於你熟練加值的毒藥劑量。作為一個附贈動作，你可以將一劑毒藥塗抹到武器或彈藥上。塗抹後，毒藥保持效力1分鐘，或直到你以塗毒物品造成傷害為止，以較短者為準。當一個生物因塗毒物品受到傷害時，該生物必須通過一次體質豁免（DC 為 8 + 此專長提升的能力調整值 + 你的熟練加值），否則承受2d8毒素傷害並在你下回合結束前具有中毒狀態。</p>\n<section class=\"secret\" id=\"secret-Z0hagCaxOGvVtkkm\">\n    <p><strong>Foundry Note</strong></p>\n    <p><strong>製造毒藥劑量</strong>活動會根據你的熟練加值恢復此物品的使用次數。</p>\n    <p><strong>塗抹毒藥</strong>附魔活動為目標物品提供敏捷或智力豁免活動選項，應根據選擇此專長時提升的屬性值來選擇。</p>\n    <p>你可以刪除與此專長未選擇的屬性值相關的<strong>毒藥豁免</strong>活動。</p>\n    <p>最後，附魔活動的豁免DC基於武器使用者的屬性值，但應始終與此功能擁有者的豁免DC進行比較。</p>\n</section>"
     },
     "Polearm Master": {
       "name": "長柄武器大師",
@@ -229,7 +229,7 @@
     },
     "Resilient": {
       "name": "適應力",
-      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 選擇一項你尚未擁有熟練豁免的能力，將該能力值提升1點，最高至20。</p>\n<p><strong>熟練豁免。</strong> 你獲得所選能力的熟練豁免。</p>\n<section class=\"secret\" id=\"secret-dYKo82Z8YvKLGBKt\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予熟練豁免。你可以在角色表的“編輯”模式下，點擊能力值旁的齒輪圖標啟用熟練豁免。</p>\n</section>"
+      "description": "<p>你獲得以下好處。</p>\n<p><strong>屬性值提升。</strong> 選擇一項你尚未擁有熟練豁免的能力，將該屬性值提升1點，最高至20。</p>\n<p><strong>熟練豁免。</strong> 你獲得所選能力的熟練豁免。</p>\n<section class=\"secret\" id=\"secret-dYKo82Z8YvKLGBKt\">\n    <p><strong>Foundry Note</strong></p>\n    <p>此功能不會自動授予熟練豁免。你可以在角色表的“編輯”模式下，點擊屬性值旁的齒輪圖標啟用熟練豁免。</p>\n</section>"
     },
     "Ritual Caster": {
       "name": "儀式施法者",

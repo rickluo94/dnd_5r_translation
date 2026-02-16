@@ -285,13 +285,13 @@
       "effects": {
         "element": {
           "level": {
-            "label": "Level Limit",
+            "label": "等級限制",
             "hint": "Range of levels required to apply this effect.",
             "max": {
-              "label": "Maximum Level"
+              "label": "最大等級"
             },
             "min": {
-              "label": "Minimum Level"
+              "label": "最小等級"
             }
           }
         },
@@ -311,12 +311,12 @@
         "label": "Visibility",
         "level": {
           "hint": "Range of levels required to use this activity.",
-          "label": "Level Limit",
+          "label": "等級限制",
           "max": {
-            "label": "Maximum Level"
+            "label": "最大等級"
           },
           "min": {
-            "label": "Minimum Level"
+            "label": "最小等級"
           }
         },
         "requireAttunement": {
@@ -372,7 +372,7 @@
       },
       "Details": "Improvement Details",
       "Feat": {
-        "ASIName": "Ability Score Improvement Feat",
+        "ASIName": "屬性值提升專長",
         "Hint": "Drop a feat here to choose one instead of an ability score improvement."
       },
       "FIELDS": {
@@ -411,28 +411,28 @@
         "DescriptionEpicRecommendation": "<p>You gain an Epic Boon feat or another feat of your choice for which you qualify. {recommendation} is recommended.</p>",
         "DescriptionLegacy": "<p>When you reach {firstLevelOrdinal} level, and again at {otherLevelsOrdinal} level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above {maxAbilityScore} using this feature.</p><p>Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.</p>",
         "DescriptionModern": "<p>You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at {class} levels {otherLevels}.</p>",
-        "Name": "Ability Score Improvement"
+        "Name": "屬性值提升"
       },
       "LockedHint": "Scores cannot be modified with a feat selected.",
       "PointsRemaining": {
         "one": "{points} Point Remaining",
         "other": "{points} Points Remaining"
       },
-      "Title": "Ability Score Improvement",
-      "TitleEpic": "Epic Boon",
+      "Title": "屬性值提升",
+      "TitleEpic": "史詩恩賜",
       "Warning": {
         "Type": "Only features with the \"feat\" type can be selected."
       }
     },
     "Action": {
-      "Create": "Create Advancement",
-      "Delete": "Delete Advancement",
-      "Duplicate": "Duplicate Advancement",
-      "Edit": "Edit Advancement",
-      "View": "View Advancement"
+      "Create": "建立 Improvement",
+      "Delete": "刪除 Improvement",
+      "Duplicate": "複製 Improvement",
+      "Edit": "編輯 Improvement",
+      "View": "檢視 Improvement"
     },
     "Config": {
-      "AnyLevel": "Any",
+      "AnyLevel": "任何",
       "Details": "Advancement Details"
     },
     "Defaults": {
@@ -781,8 +781,8 @@
   "DND5E.AdvancementHint": "Hint",
   "DND5E.AdvancementItemTypeInvalidWarning": "{type} items cannot be added with this advancement type.",
   "DND5E.AdvancementLevelHeader": "等級 {level}",
-  "DND5E.AdvancementLevelAnyHeader": "Any Level",
-  "DND5E.AdvancementLevelNoneHeader": "No Level",
+  "DND5E.AdvancementLevelAnyHeader": "任何等級",
+  "DND5E.AdvancementLevelNoneHeader": "無等級",
   "DND5E.AdvancementLevelDownConfirmationMessage": "Leveling this class down will also undo all advancement choices made for it. These changes will be removed from your character as long as the checkbox below is checked.",
   "DND5E.AdvancementLevelDownConfirmationTitle": "Confirm Leveling Down",
   "DND5E.AdvancementModifyChoices": "Modify Choices",
@@ -3024,19 +3024,19 @@
       "abbr": "DT"
     },
     "Other": {
-      "label": "Other Options"
+      "label": "其他選項"
     }
   },
 
   "DND5E.HitPoints": "生命值",
-  "DND5E.HitPointsBonusLevel": "Per Level Bonus",
-  "DND5E.HitPointsBonusOverall": "Overall Bonus",
-  "DND5E.HitPointsConfig": "Configure Hit Points",
-  "DND5E.HitPointsCurrent": "Current Hit Points",
-  "DND5E.HitPointsMax": "Maximum Hit Points",
-  "DND5E.HitPointsMin": "Minimum Hit Points",
-  "DND5E.HitPointsOverride": "Maximum Override",
-  "DND5E.HitPointsOverrideHint": "Override automatically calculated hit points, ignoring any HP from classes, bonuses, and ability modifier.",
+  "DND5E.HitPointsBonusLevel": "每級生命值加值",
+  "DND5E.HitPointsBonusOverall": "總生命值加值",
+  "DND5E.HitPointsConfig": "設定生命值",
+  "DND5E.HitPointsCurrent": "目前生命值",
+  "DND5E.HitPointsMax": "最大生命值",
+  "DND5E.HitPointsMin": "最低生命值",
+  "DND5E.HitPointsOverride": "最大值覆寫",
+  "DND5E.HitPointsOverrideHint": "覆寫自動計算的生命值，忽略來自職業、加值與能力修正值的生命值。",
   "DND5E.HitPointsTemp": "臨時生命值",
   "DND5E.HitPointsTempShort": "臨時生命值",
   "DND5E.HitPointsTempMax": "Temporary Maximum",
@@ -3312,7 +3312,7 @@
   },
 
   "DND5E.Level": "等級",
-  "DND5E.LevelAvg": "Avg. Level",
+  "DND5E.LevelAvg": "平均等級",
   "DND5E.LevelPl": "等級",
   "DND5E.LevelActionDecrease": "Level Down",
   "DND5E.LevelActionIncrease": "Level Up",
@@ -4056,7 +4056,7 @@
       }
     },
     "SLOTS": {
-      "spell0": "Cantrips",
+      "spell0": "戲法",
       "spell1": "1st Level",
       "spell2": "2nd Level",
       "spell3": "3rd Level",
@@ -4264,13 +4264,13 @@
             "hint": "Maximum CR of the summoned creature."
           },
           "level": {
-            "label": "Level Limit",
+            "label": "等級限制",
             "hint": "Range of levels required to use this profile.",
             "max": {
-              "label": "Maximum Level"
+              "label": "最大等級"
             },
             "min": {
-              "label": "Minimum Level"
+              "label": "最小等級"
             }
           },
           "name": {
@@ -4614,7 +4614,7 @@
 
   "DND5E.TOOL": {
     "SECTIONS": {
-      "Details": "{label} Details",
+      "Details": "{label} 內容",
       "Bonuses": {
         "Label": "{label} Bonuses",
         "Hint": "These bonuses apply to checks made with {label}."
@@ -4699,13 +4699,13 @@
             "hint": "Maximum CR of the source creature."
           },
           "level": {
-            "label": "Level Limit",
+            "label": "等級限制",
             "hint": "Range of levels required to use this profile.",
             "max": {
-              "label": "Maximum Level"
+              "label": "最大等級"
             },
             "min": {
-              "label": "Minimum Level"
+              "label": "最小等級"
             }
           },
           "movement": {
@@ -5600,8 +5600,8 @@
       },
       "HitPoints": {
         "Header": "生命值",
-        "HitDiceLegacy": "<strong>Hit Dice:</strong> {dice} per {class} level",
-        "HitDiceModern": "{dice} per {class} level",
+        "HitDiceLegacy": "<strong>Hit Dice:</strong> {dice} 每個 {class} 等級",
+        "HitDiceModern": "{dice} 每個 {class} 等級",
         "Level1": "<strong>Hit Points at 1st Level:</strong> {max} + your Constitution modifier",
         "LevelX": "<strong>Hit Points at Higher Levels:</strong> {dice} (or {average}) + your Constitution modifier per {class} level after 1st"
       },
@@ -5625,7 +5625,7 @@
         "Header": "Proficiencies"
       }
     },
-    "EditDescription": "Edit",
+    "EditDescription": "編輯",
     "TableTOC": "Table: {caption}",
     "SpellList": {
       "DropHint": "Drop spells or folders of spells here to add to the list",
@@ -5633,7 +5633,7 @@
         "Label": "Grouping Mode",
         "Hint": "Controls how the spells will be grouped by default in the spell list.",
         "Alphabetical": "By First Letter",
-        "Level": "By Level",
+        "Level": "依照等級",
         "None": "No Grouping",
         "School": "By School"
       },
